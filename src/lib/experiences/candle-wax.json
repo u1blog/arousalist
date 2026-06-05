@@ -1,0 +1,30 @@
+{
+  "id": "candle-wax",
+  "number": 6,
+  "title": "Candle Wax",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Temperature, light impact, and visual ritual combine in this multi-sensory experience.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A plain white household candle (not scented, not coloured — these burn hotter), lighter, something to protect the floor",
+  "safetyNote": "Plain white candles have the lowest burn temperature. Hold at least 45cm above skin — wax cools significantly as it falls. Never use near the face. Have cool water nearby. Test on your outer thigh first.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Light the candle, let a small pool form, and drip a few drops onto your outer thigh from 45–60cm up. You're checking whether the brief heat followed by cooling wax produces any response worth exploring."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver lies back, blindfolded. The giver controls the candle — varying the height (higher = cooler on landing), the pace, and the location across the body. The receiver doesn't know where the next drop will fall. That anticipation — the flicker of the flame, the sound of the wax, the not-knowing — is most of the experience. After one round, switch roles. The giver's experience — controlling the height and timing, watching the receiver's response, choosing where to go next — is a genuinely different thing from receiving."
+    }
+  ],
+  "explore": [
+    "Solo: is the sensation interesting or just uncomfortable?",
+    "As receiver: does not knowing where the next drop lands change things significantly?",
+    "Is there something about the ritual quality — candle, warmth, wax hardening on skin — that appeals?",
+    "As giver: does controlling the pace, height, and location — and watching the effect — produce its own interest?"
+  ],
+  "why": "Wax play sits at the intersection of temperature, light impact, and visual ritual. The experience is multi-sensory — the smell of the wax, the warmth, the brief sting, the hardening on skin. The partner version adds spatial unpredictability on top. Many people find it oddly grounding and meditative; others are more drawn to the aesthetics and theatre of it."
+}

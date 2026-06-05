@@ -1,0 +1,30 @@
+{
+  "id": "body-sensitivity-mapping",
+  "number": 7,
+  "title": "Body Sensitivity Mapping",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "A systematic tour of your body's actual sensitivity — the results are often genuinely surprising.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A soft brush, fingernails, ice, a textured cloth",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Work systematically across your body — feet (sole, arch, toes, top), calves, inner thighs, stomach, chest, back of neck, scalp, inner arms, behind the knees. Apply the same stimulus to each area and notice the response. You're building a map, not chasing sensation — the goal is to find out where you actually respond, which is often not where you'd predict."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver is blindfolded. Giver moves through areas and stimuli without pattern or announcement — the receiver loses track of where the giver is and where they'll go next. Touches arrive as surprises. Body parts you'd normally dismiss as unremarkable can suddenly produce strong responses when you're not bracing for them. After one round, switch roles. Methodically moving through the receiver's body — choosing where to go, watching where they respond and where they don't — produces its own kind of focused attention."
+    }
+  ],
+  "explore": [
+    "Solo: which areas are more sensitive than you expected? Which assumed erogenous zones matter less?",
+    "Do your feet produce a strong response — ticklish, pleasurable, uncomfortable, or interesting?",
+    "As receiver: does losing track of where the touch is coming from change how it feels?",
+    "As giver: does the systematic attention — mapping someone else's responses — feel interesting to you, or mechanical?"
+  ],
+  "why": "Most people have never done a systematic tour of their own body's sensitivity. The results are often surprising — areas assumed to be neutral turn out to be quite responsive; areas assumed to be erogenous zones matter less than expected. Feet in particular are interesting: densely nerve-mapped, culturally loaded, and producing responses from strong aversion to genuine pleasure. This experience gives you real self-knowledge, and it differs from Temperature Play and Texture Play in its goal: you're not exploring one type of sensation, you're mapping the whole terrain."
+}

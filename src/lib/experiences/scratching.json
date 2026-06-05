@@ -1,0 +1,25 @@
+{
+  "id": "scratching",
+  "number": 9,
+  "title": "Scratching",
+  "tier": "partner-only",
+  "category": "sensation",
+  "description": "There's a zone where pleasure and pain become genuinely hard to distinguish — fingernails navigate it well.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just fingernails.",
+  "safetyNote": "Keep nails reasonably clean. Avoid scratching over broken skin, rashes, or moles. Avoid the face. Build pressure gradually — it's easy to misjudge how a firm drag feels to someone else.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Start with very light dragging of fingernails across the back and shoulders. Build gradually to a firm drag that leaves a light pink line. Try long slow strokes vs. shorter repeated patterns. Try the back, shoulders, inner arms, and inner thighs. After one round, switch roles — applying scratches with deliberate attention is a different experience from receiving them, and many people find they have a clear preference."
+    }
+  ],
+  "explore": [
+    "As receiver: at what pressure does it shift from pleasant to uncomfortable?",
+    "Are there particular areas where it feels especially good?",
+    "Does the temporary marking (redness, lines) feel meaningful or neutral?",
+    "As giver: does the act of leaving a mark — even briefly — feel interesting, satisfying, or neutral to you?"
+  ],
+  "why": "Scratching sits in a zone between pleasure and pain where the nervous system seems genuinely uncertain how to categorise the signal. Many people find moderate scratching deeply satisfying in a way that's hard to articulate — somewhere between relief and stimulation. Some are also drawn to the temporary marks left behind, which carry their own psychological weight: visible evidence of intensity that fades in an hour."
+}

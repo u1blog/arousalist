@@ -1,0 +1,24 @@
+{
+  "id": "power-dynamics",
+  "number": 12,
+  "title": "Power Dynamics: Instructions and Compliance",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "No equipment needed — just two people and an agreed structure. Discover whether giving or following instructions produces something real.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing except an agreed setup.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree that for 10–15 minutes, one partner gives simple instructions and the other follows them. Keep it physical and simple: \"sit here,\" \"don't move,\" \"look at me,\" \"turn around,\" \"stay still.\" The giver should be calm and deliberate — this is about presence, not bossiness. The receiver's job is to notice what following instructions actually feels like. After the time is up, switch roles and run another round. Many people discover their preference is the opposite of what they expected."
+    }
+  ],
+  "explore": [
+    "As giver: does giving instructions feel natural, uncomfortable, or interesting? Is calm authority harder to sustain than expected?",
+    "As receiver: does following instructions feel frustrating, relaxing, or something else?",
+    "Is there a clear preference for which role you'd rather be in — or does it depend on who you're with?"
+  ],
+  "why": "No props, pure dynamic. Many people discover a strong role preference through this exercise that they hadn't consciously identified. Givers often find that genuine calm authority is harder to sustain than expected — and more satisfying when they manage it. Receivers often find that full compliance, even in small mundane things, produces an unexpected quieting of the mind. The responsibility is temporarily lifted. There's nothing to decide."
+}

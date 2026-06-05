@@ -1,0 +1,30 @@
+{
+  "id": "restraint",
+  "number": 5,
+  "title": "Restraint",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "Even symbolic restriction changes mental state — discover what letting go of movement does to your mind.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A scarf, soft tie, or belt — or just a partner's hands",
+  "safetyNote": "Never restrain around the neck. Use loose, quick-release knots — not slipknots that tighten under tension. Keep scissors nearby if using fabric or rope. Never leave a restrained person unattended. Agree on a clear signal to stop before you begin.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Loosely tie your own wrists together, just snug enough to feel. Lie back with them above your head for a few minutes. You can escape instantly — but notice what the restriction does to your mental state, even symbolically. Do you find it interesting or just pointless?"
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Having someone else hold your wrists down — even just with their hands, no equipment at all — is a completely different experience. You could break free but you're choosing not to. The restriction is real. The other person's attention is entirely on you. This is where the psychological dimension of restraint actually lives. If that's interesting, progress to a loosely tied scarf. Try different positions: wrists above head lying down, sitting with hands held behind you. After one round, switch roles — the giver's experience of holding someone still, carrying that responsibility, and staying attentive throughout is genuinely distinct from being on the receiving end."
+    }
+  ],
+  "explore": [
+    "Solo: does even symbolic restriction produce anything — calm, restlessness, curiosity?",
+    "As receiver: does being held still feel relaxing, exciting, or uncomfortable?",
+    "Is it the physical sensation or the psychological dynamic that's doing the work?",
+    "As giver: what does it feel like to be the person holding someone else in place — the focused responsibility of it?"
+  ],
+  "why": "Restraint removes the option to act, and for many people that removal is unexpectedly freeing. There's nothing to do but feel. The mind, usually planning ahead or managing the situation, has nowhere to go. For the person doing the restraining, there's a quality of total focused responsibility — you are entirely in charge of this person's experience right now — that many find deeply engaging."
+}
