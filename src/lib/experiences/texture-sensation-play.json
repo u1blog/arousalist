@@ -1,0 +1,30 @@
+{
+  "id": "texture-sensation-play",
+  "number": 2,
+  "title": "Texture and Sensation Play",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Map your responses to different materials and textures, from soft silk to rough burlap, across different areas of your body.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Soft fabric (silk, satin), rough fabric (burlap, denim), a feather or soft makeup brush, fingernails, a blindfold",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Drag each material across your inner arm, back of neck, stomach, feet, scalp. Vary pressure from barely-touching to firm. You're mapping your own responses — which textures produce something, which don't, which body parts are more sensitive than you expected."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver is blindfolded. Giver moves through textures and body areas without pattern or announcement — the receiver doesn't know what material is coming, which part of the body will be touched next, or how firmly. The brain, unable to predict, stays completely present. After one round, switch roles. Choosing which texture to apply where, reading the receiver's response, and deciding when to change — the giver's experience of orchestrating this is genuinely different from receiving it."
+    }
+  ],
+  "explore": [
+    "Solo: which textures feel good, irritating, or interesting?",
+    "As receiver: does unpredictability change how each texture feels?",
+    "Are there areas of your body that are more sensitive than you knew?",
+    "As giver: does choosing and applying textures across the receiver's body — watching where they respond and where they don't — produce any interest of its own?"
+  ],
+  "why": "Most of us spend our days in uniform clothing and rarely pay attention to what touch actually feels like. A rough texture dragged across skin can feel grounding and primal; something very soft can feel almost unbearably tender. People are consistently surprised by strong preferences they didn't know they had — and the partner version tends to surface them faster."
+}

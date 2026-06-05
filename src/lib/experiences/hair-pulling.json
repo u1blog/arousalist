@@ -1,0 +1,25 @@
+{
+  "id": "hair-pulling",
+  "number": 8,
+  "title": "Hair Pulling",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Positional and sensory at once — controlling someone's head position is often as significant as the scalp sensation itself.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just hands.",
+  "safetyNote": "Gather hair from close to the scalp — pulling from the ends yanks on individual strands and causes discomfort without the intended sensation. Apply steady tension rather than sharp jerks. Check in about pressure as you build.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Gather a good handful of hair close to the scalp — pulling from the ends is uncomfortable and damages hair; pulling from the root is the sensation. Apply slow, steady upward or backward tension — not a jerk. Vary the pressure from very light (just feeling the roots engage) to more assertive. Try combining with restraint — head pulled back, neck exposed. After one round, switch roles — the positional control and the sensation of being controlled are genuinely different experiences."
+    }
+  ],
+  "explore": [
+    "Does scalp tension feel pleasant, unpleasant, or interesting?",
+    "As receiver: is the vulnerability of having your head's position controlled part of the appeal?",
+    "Does slow, sustained tension feel different to a quick pull?",
+    "As giver: does directing where someone's head goes — having that kind of positional control — produce something for you?"
+  ],
+  "why": "Hair pulling is positional as much as sensory — whoever holds the hair guides where the head goes. That directional, controlling quality is what many people respond to, often more than the scalp sensation itself. It's a compact act of dominance and submission that requires no equipment and no planning. The neck, once exposed, also becomes suddenly accessible — which is rarely accidental."
+}

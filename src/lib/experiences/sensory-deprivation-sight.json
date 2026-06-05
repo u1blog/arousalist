@@ -1,0 +1,30 @@
+{
+  "id": "sensory-deprivation-sight",
+  "number": 3,
+  "title": "Sensory Deprivation — Sight",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Discover what sustained loss of sight does to your mental state — whether the darkness feels calming, disorienting, or something you want more of.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A sleep mask, scarf, or any light-blocking fabric",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Put on the blindfold and sit or lie still for a few minutes. Pay attention to what you can hear, smell, and feel without sight. Touch different surfaces and objects around you — notice how different they feel without visual context. Notice whether the absence of sight feels calming, anxiety-inducing, or something else. You're establishing your baseline response before adding another person to the equation."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (where it gets interesting)",
+      "content": "Receiver puts on the blindfold and keeps it on for the duration. The giver becomes the receiver's only point of reference. Lead them slowly to different positions — sitting, lying, standing — without explaining what's coming next. Let silences stretch. Introduce occasional light touch without warning, then withdraw. The point isn't to administer sensations; it's to manage someone's entire sensory environment. The receiver's job is to stay in the disorientation and notice what that sustained state produces. After one round, switch roles — being the one who holds someone else's orientation is a very different experience."
+    }
+  ],
+  "explore": [
+    "Solo: does removing sight feel relaxing or uncomfortable? Do your other senses feel heightened?",
+    "As receiver: does having someone else control your environment feel different from being blindfolded alone?",
+    "Is the appeal the loss of sight itself, or the not-knowing what comes next?",
+    "As giver: what does it feel like to be someone's only anchor — to hold their orientation entirely?"
+  ],
+  "why": "The blindfold is one of the gentlest entries into surrendering control. Without sight, the brain gives up one of its primary tools for predicting what's coming next. For some people this is immediately calming — almost meditative. For others, the heightened anticipation is what's exciting. The solo version tells you which camp you're in. The partner version is a different thing entirely: one person holds another's entire sensory environment, and that asymmetry is where the real dynamic lives."
+}

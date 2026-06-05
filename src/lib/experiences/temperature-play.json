@@ -1,0 +1,30 @@
+{
+  "id": "temperature-play",
+  "number": 1,
+  "title": "Temperature Play",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Explore how your body responds to warmth and cold — and how unpredictability transforms the experience with a partner.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Ice cubes, a glass of warm (not hot) water, a metal spoon, a blindfold",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Rest a warm spoon along your inner arm, then an ice cube on the same spot. Alternate. You're just checking whether you have a basic response to temperature contrast — whether it does anything for you at all."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Blindfold the receiver. The giver now chooses warm or cold without announcing which — moving unpredictably across the body, varying the pace. The receiver has no idea what's coming, or where, or when. The anticipation between touches, the small shock of not knowing — that's where the charge is. After one round, switch roles. Giving and receiving are different enough experiences that you should try both before drawing conclusions — the giver's attention, the decision-making, and watching the receiver respond all carry their own interest."
+    }
+  ],
+  "explore": [
+    "Solo: do you prefer warmth or cold? Does your body respond at all?",
+    "As receiver: does not knowing what's coming change the intensity?",
+    "Are there parts of the body where the surprise lands harder?",
+    "As giver: does controlling what the receiver feels — choosing the temperature, the location, the timing without telling them — produce its own interest?"
+  ],
+  "why": "Temperature bypasses mental filters instantly — the body responds before the brain does. Cold creates sharp alertness; warmth produces something more yielding. The contrast between the two, especially when unexpected, can feel almost disorienting in a pleasurable way. With a partner controlling it, you surrender the ability to predict, and that surrender is often where the real interest lies."
+}
