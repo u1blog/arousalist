@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500;600&display=swap');
+
+/* =========================================================
+   Variables
+   ========================================================= */
+
+:root {
+  --bg-page:      #F8F5F1;
+  --bg-surface:   #FFFFFF;
+  --bg-raised:    #FDFBF8;
+  --bg-dim:       #F2EDE7;
+
+  --border:       #E5DDD4;
+  --border-focus: #B0543C;
+
+  --text:         #261E1A;
+  --text-secondary: #6A6058;
+  --text-muted:   #9A9088;
+
+  --accent:       #B0543C;
+  --accent-hover: #963E2A;
+  --accent-light: #F2DDD8;
+  --accent-dim:   #F8EEEA;
+
+  --sage:         #4F8368;
+  --sage-light:   #D9EDE4;
+  --sage-dim:     #EDF5F0;
+
+  --amber:        #B07A28;
+  --amber-light:  #F2E5C0;
+  --amber-dim:    #FAF3E0;
+
+  --tier-solo-color:    var(--sage);
+  --tier-solo-bg:       var(--sage-dim);
+  --tier-better-color:  var(--amber);
+  --tier-better-bg:     var(--amber-dim);
+  --tier-partner-color: var(--accent);
+  --tier-partner-bg:    var(--accent-dim);
+
+  --rating-no-color:       #8A807A;
+  --rating-no-bg:          #F0EDEA;
+  --rating-no-active-bg:   #DDD8D4;
+  --rating-curious-color:  var(--amber);
+  --rating-curious-bg:     var(--amber-dim);
+  --rating-yes-color:      var(--sage);
+  --rating-yes-bg:         var(--sage-dim);
+  --rating-yes-plus-color: #3A7055;
+  --rating-yes-plus-bg:    #C8DFD5;
+
+  --font-heading: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body:    'Inter', system-ui, -apple-system, sans-serif;
+
+  --max-width:    1120px;
+  --content-max:  720px;
+  --radius:       10px;
+  --radius-sm:    6px;
+  --radius-lg:    18px;
+  --shadow:       0 2px 8px rgba(38, 30, 26, 0.08);
+  --shadow-md:    0 4px 16px rgba(38, 30, 26, 0.10);
+  --transition:   160ms ease;
+}
+
+/* =========================================================
+   Reset & Base
+   ========================================================= */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg-page);
+  color: var(--text);
+  line-height: 1.65;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body > div {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+a:hover { color: var(--accent-hover); }
+
+ul, ol { padding-left: 1.4em; }
+li + li { margin-top: 0.35em; }
+
+/* =========================================================
+   Typography
+   ========================================================= */
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  line-height: 1.25;
+  color: var(--text);
+}
+
+p { max-width: 68ch; }
+p + p { margin-top: 1em; }
+
+/* =========================================================
+   Layout
+   ========================================================= */
+
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* =========================================================
+   Shared Buttons
+   ========================================================= */
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  background: var(--accent);
+  color: var(--bg-surface);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 500;
+  padding: 0.85rem 2rem;
+  border-radius: 100px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background var(--transition), transform var(--transition);
+}
+.btn-primary:hover {
+  background: var(--accent-hover);
+  color: var(--bg-surface);
+  transform: translateY(-1px);
+}
+
+/* =========================================================
+   Shared Badges
+   ========================================================= */
+
+.tier-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.775rem;
+  font-weight: 500;
+  padding: 0.3em 0.75em;
+  border-radius: 100px;
+  white-space: nowrap;
+  font-family: var(--font-body);
+}
+.tier-badge--solo-start         { color: var(--tier-solo-color);    background: var(--tier-solo-bg); }
+.tier-badge--better-with-partner { color: var(--tier-better-color); background: var(--tier-better-bg); }
+.tier-badge--partner-only        { color: var(--tier-partner-color); background: var(--tier-partner-bg); }
+
+.cat-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.725rem;
+  font-weight: 500;
+  padding: 0.25em 0.7em;
+  border-radius: 100px;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  white-space: nowrap;
+  font-family: var(--font-body);
+}
+
+/* =========================================================
+   Mini rating chips (used in cards)
+   ========================================================= */
+
+.mini-rating {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  font-size: 0.775rem;
+  padding: 0.2em 0.6em;
+  border-radius: 100px;
+  font-family: var(--font-body);
+}
+.mini-rating--no        { background: var(--rating-no-bg);       color: var(--rating-no-color); }
+.mini-rating--curious   { background: var(--rating-curious-bg);  color: var(--rating-curious-color); }
+.mini-rating--yes       { background: var(--rating-yes-bg);      color: var(--rating-yes-color); }
+.mini-rating--yes-plus  { background: var(--rating-yes-plus-bg); color: var(--rating-yes-plus-color); }
+.mini-label { opacity: 0.75; }
+.mini-symbol { font-weight: 600; }
+
+/* =========================================================
+   Filter buttons
+   ========================================================= */
+
+.filter-btn {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  padding: 0.3rem 0.85rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--transition);
+}
+.filter-btn:hover {
+  border-color: var(--accent-light);
+  color: var(--accent);
+  background: var(--accent-dim);
+}
+.filter-btn.is-active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+/* =========================================================
+   Responsive helpers
+   ========================================================= */
+
+@media (max-width: 480px) {
+  :root { --content-max: 100%; }
+}
