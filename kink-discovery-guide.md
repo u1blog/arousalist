@@ -300,6 +300,110 @@ There are no right answers. The goal is honest self-knowledge. Go slowly, pay at
 
 ---
 
+### 13. Massage
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Just hands; optionally massage oil.
+
+**Solo first:** Run your fingertips along your inner arm from wrist to elbow, varying from barely-touching to firm pressure. Find the point where touch stops being background sensation and starts requiring your attention. You're calibrating the distinction between contact that feels good passively and contact that actively holds your focus — that distinction is what the full version is built on.
+
+**With a partner (the real version):** Receiver lies face down. Giver works through the body systematically — shoulders and back first, then legs, feet, arms. Vary from firm pressure with palms and knuckles to light fingertip contact across the same areas. Don't stay at one pressure level — the contrast between firm and light is the point. After covering the full body, transition to slower, lighter strokes that aren't working anything, just moving over skin. Watch where the receiver's breathing changes. After one round, switch roles. Giving sustained, attentive physical care — being entirely focused on another person's body and its responses — is its own distinct experience with its own quality of engagement.
+
+**Things to explore:**
+- Solo: can you find the pressure where touch demands attention rather than just registers?
+- As receiver: is there a moment when massage stops feeling like relaxation and starts feeling like something else?
+- As giver: does sustained focus on another person's body — reading where they respond — produce anything for you?
+- Does receiving this quality of attention feel comfortable, exposing, or both?
+
+**Why people love this:** Massage is often understood as a service — something done to produce relaxation. Attentive touch from someone genuinely tracking your responses is a different thing. The giver's full focus is on you: where your breath changes, where you tense, where something lands. That quality of being attended to, without agenda, is something many people rarely experience. For givers drawn to care, the act of reading and responding to a partner's body — without reciprocation — is often more engaging than expected.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 14. Slow Kissing
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** Agree beforehand that this is the whole experience — not a warm-up for anything else. Start with lips barely touching, less pressure than most kisses. Stay there longer than feels necessary. Let silences stretch. When tongue arrives, bring it slowly; when hands move, let them stay still for longer than feels natural. The rule is simple: nothing escalates to anything else. Stay in the kissing for the full time. If you notice the pull to move things forward — good. Notice it, and don't follow it. After ten minutes, stop and separately note what you observed. Then swap who is initiating and who is following; there's usually a meaningful difference between those roles.
+
+**Things to explore:**
+- Does removing the expectation of escalation change how kissing feels?
+- Is there a moment where the pull to rush forward is strong — and what happens if you stay?
+- As the person leading vs. the person following: does one position feel more natural to you?
+- Does deliberate, purposeless kissing feel connecting, frustrating, or surprisingly new?
+
+**Why people love this:** Most kissing happens as part of a sequence — it's a beginning, not the thing itself. Removing the forward motion forces full presence with exactly what's happening. Many people find that kissing with no destination is unexpectedly more intense than kissing that's going somewhere, because nothing is being deferred or anticipated. Some find themselves more aroused at the end of ten deliberate minutes than after activity that took a more direct route.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 15. Eye Contact
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** Sit facing your partner close enough to be comfortable, not touching. One person holds eye contact; the other meets it. Set a timer for two minutes. No talking, no touching — just looking. If either person looks away, note when and what prompted it. After two minutes, briefly compare what came up. Then repeat, this time with something simple added: holding hands, or kissing. Notice whether eye contact changes when it's combined with physical contact. After one round, swap who is initiating the gaze vs. meeting it — there's often a clear difference in how those two roles feel.
+
+**Things to explore:**
+- Does sustained eye contact feel connecting, exposed, or uncomfortable?
+- Is there a threshold where it becomes too much — and what does that moment feel like?
+- Does adding physical contact change what eye contact produces?
+- Is there a clear preference for initiating the gaze or meeting it?
+
+**Why people love this:** Eye contact creates the particular discomfort of being seen without words to manage it. Most people handle this during intimacy by looking away, looking at the body, or closing their eyes — all ways of reducing exposure. Sustained eye contact removes that option. For some people it unlocks a quality of presence that physical sensation alone doesn't always reach; for others it surfaces anxiety that tells them something real about what intimacy feels like for them. Either response is information.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 16. Praise
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** During physical activity, the giver offers brief verbal affirmations when the receiver does something they genuinely appreciate: "yes," "that's good," "exactly that," "you feel so good," "keep going." Not performance, not formulaic — say it when you mean it, say nothing when you don't. The receiver's job is to notice their immediate reaction to each phrase: arousal, embarrassment, wanting more, finding it hollow. The reaction is the data. After one round, switch roles. Giving consistent genuine praise requires close attention — you can only say something true if you're actually tracking the receiver — and receivers often feel that quality of attention directly.
+
+**Things to explore:**
+- As receiver: does praise produce any response — arousal, embarrassment, wanting more, finding it empty?
+- Does the specific language matter, or is it primarily the quality of attention behind it?
+- As giver: does sustaining genuine verbal affirmation feel natural, or does it require a different kind of effort?
+- Is there a clear sense of whether giving or receiving praise fits your register more naturally?
+
+**Why people love this:** Praise during intimacy works — when it works — because it combines physical and verbal confirmation simultaneously. To say something true and specific, the giver has to be paying close attention: you can't phrase it genuinely without genuinely noticing. That quality of close attention often reads as care in a way that touch alone doesn't always communicate. For receivers drawn to this, it can feel like being held in someone's full awareness. For those it doesn't reach, the disconnect is also informative — it often points to something about verbal versus physical modes of connection.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 17. Edging
+*🧍 Solo start*
+
+**What you need:** Just yourself; optionally a timer.
+
+**Solo:** Set aside 20–30 minutes with no other agenda. Begin stimulating yourself normally. When you feel yourself approaching orgasm, stop — not at the point of no return, but a step before you're certain you can't stop. Wait until arousal drops noticeably (30–60 seconds), then begin again. Repeat three to five times. On the final round, either allow orgasm or stop completely and observe what that incompletion feels like. You're learning the shape of your own arousal: where the edge actually is, what it feels like to approach it deliberately, and whether the accumulated build changes anything about the eventual experience.
+
+**With a partner:** The natural extension is having a partner control your stimulation — stopping and starting to manage your arousal for you. That version introduces the dynamic element (having someone else decide whether you get what you want) and belongs in Teasing and Denial. Do the solo version first: it's faster to learn your own arousal curve without having to communicate it to someone else in real time.
+
+**Things to explore:**
+- Can you identify the precise step before the point of no return?
+- Does repeated approach change the quality or intensity when orgasm finally happens?
+- How do you respond to deliberate incompletion — frustration, heightened arousal, something more complex?
+- Does paying this level of attention to your own arousal feel interesting, clinical, or strange?
+
+**Why people love this:** Edging interrupts something most people experience as automatic. Most orgasms happen on a trajectory that isn't examined — you follow the sensation to where it leads. Stopping deliberately forces attention onto the arc rather than the destination. Many people find the arousal that accumulates across several approaches produces a qualitatively different experience at the end. Others find the frustration itself is interesting. This is also the most direct route to understanding your own arousal pattern — information with obvious uses beyond this exercise.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -323,7 +427,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 
 ### Sensation & Physical
 
-- **Massage** — full body, varying pressure; distinguishing relaxation from arousal
+- ~~**Massage** — full body, varying pressure; distinguishing relaxation from arousal~~
 - **Tickling** — from light to intense; the edge between pleasure and overwhelm
 - **Pinching** — skin folds, nipples, inner thigh; sharp localised sensation
 - **Nipple play** — fingers, mouth, pinching, twisting, clamps (light pegs to start); sensitivity varies enormously between people
@@ -375,11 +479,11 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Teasing and denial** — prolonged anticipation, deliberate withholding of what the receiver wants
 - **Orgasm control** — partner controls if and when; the experience of having that surrendered
 - **Orgasm on command** — training the body to respond to a word or signal; requires practice and a receptive nervous system
-- **Praise** — verbal affirmation during sex; "good girl/boy/person"; how being told you're doing well lands in an intimate context
+- ~~**Praise** — verbal affirmation during sex; "good girl/boy/person"; how being told you're doing well lands in an intimate context~~
 - **Degradation (light)** — consensually charged language in the other direction; some people find this deeply activating, others find it a hard no
 - **Begging** — the receiver is required to ask for what they want; what that does to both people
 - **Humiliation (light)** — being made to feel exposed or silly in a consensual context; distinct from degradation; more about vulnerability than insult
-- **Eye contact** — sustained, deliberate eye contact during intimacy; how confronting or connecting it is
+- ~~**Eye contact** — sustained, deliberate eye contact during intimacy; how confronting or connecting it is~~
 - **Silence** — no talking, no sound allowed; how that changes awareness and intensity
 - **Being watched** — partner observes while you touch yourself; the exposure dynamic
 - **Watching** — observing a partner touch themselves; what it's like to witness rather than participate
@@ -416,7 +520,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 
 ### Oral & Breath
 
-- **Slow kissing** — deliberate, unhurried; different from functional kissing
+- ~~**Slow kissing** — deliberate, unhurried; different from functional kissing~~
 - **Kissing without hands** — lips only; how constraint changes the intensity
 - **Deep kissing / throat** — fingers or other objects at the back of the throat; the gag reflex and the psychological experience of that threshold
 - **Breath control (very light)** — a hand resting on the throat with no pressure; the psychological weight even without physical restriction. *Note: anything beyond this requires experience and belongs in Cat 3.*
@@ -465,7 +569,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Different locations** — the effect of context; floor vs. bed vs. outdoors vs. car
 - **Mirror** — watching yourselves; some find it connecting, others find it distracting or alienating
 - **Time constraints** — deliberate urgency vs. deliberate slowness; how time pressure changes the experience
-- **Edging (solo)** — bringing yourself to the edge repeatedly before allowing orgasm; training attention and body awareness
+- ~~**Edging (solo)** — bringing yourself to the edge repeatedly before allowing orgasm; training attention and body awareness~~
 - **Extended sessions** — deliberately long; how the experience shifts when there's no rush and no endpoint
 - **Scheduled sex** — deliberately planned and anticipated; whether anticipation enhances or deflates
 - **Aftercare exploration** — what each person actually needs after intensity; holding, space, food, silence; worth knowing before you need it
