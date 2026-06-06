@@ -1,0 +1,25 @@
+{
+  "id": "nudity-asymmetry",
+  "number": 30,
+  "title": "Nudity Asymmetry",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Clothing carries authority and protection in ordinary life — one person having both while the other has neither creates an imbalance that many people find immediately activating without any explicit negotiation.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing beyond clothing one person keeps on.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "One person is fully clothed; the other is naked. The clothed partner is not passive — they touch, direct, and engage fully while remaining dressed. The naked person's job is to notice what the asymmetry produces: the temperature difference, the visual contrast, and whatever the power imbalance does. Stay in this arrangement for twenty minutes, then switch. The experience of being the dressed person — with the particular agency clothing gives — is genuinely different from being the undressed one. Both are worth finding out about."
+    }
+  ],
+  "explore": [
+    "As the naked person: does the asymmetry feel exposing, exciting, uncomfortable, or some combination?",
+    "Does being touched by someone fully clothed feel different from being touched by someone equally undressed?",
+    "As the clothed person: does remaining dressed — keeping something held back — change how you engage?",
+    "Which role did you find more interesting — and did your prediction match what you actually felt?"
+  ],
+  "why": "Clothing carries authority and protection in ordinary life. One person having both while the other has neither creates an imbalance that many people find immediately activating — without explicit instruction, without props, without negotiation. The asymmetry does the work on its own. Some people find the naked role more interesting; others find that staying dressed produces an unexpected quality of presence they hadn't predicted. Predictions are often wrong here, which is exactly why the swap matters."
+}

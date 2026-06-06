@@ -1,0 +1,25 @@
+{
+  "id": "ear-play",
+  "number": 28,
+  "title": "Ear Play",
+  "tier": "partner-only",
+  "category": "sensation",
+  "description": "Whispering produces vibration and warm air simultaneously, and many people find this combination disproportionately activating relative to its apparent simplicity.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just yourselves.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Receiver sits or lies with one ear accessible. Giver begins with only proximity: lips close to the ear without touching — just warmth and faint breath. Stay there longer than feels natural. Then move to very light breath directed into the ear canal. Introduce lips next: outer ear, earlobe, the curve of the ear. Try very light tongue on the outer ear. Whisper something — not to communicate anything, just to produce the sensation of sound and breath at close range. Try a low hum or a single spoken word up close. The vibration registers differently from ordinary voice at this distance. Don't rush; the ear is a small area and attention there is unusually specific. After one round, switch."
+    }
+  ],
+  "explore": [
+    "As receiver: does warm breath directed into the ear produce a response — and is it pleasant, unsettling, or both?",
+    "Which produces more: the physical sensation of lips on the outer ear, or the sound and breath directed into it?",
+    "Is there a specific sound — breath, whisper, hum — that lands harder than others?",
+    "As giver: does this degree of closeness and specificity — attending to one small, specific area — require a different quality of focus?"
+  ],
+  "why": "The ear sits unusually close to the brain's threat and arousal systems — sound arriving from inches away, with warmth and breath, registers as a particular kind of intimate proximity. The outer ear and earlobe are also more sensitive than most people expect. Whispering produces vibration and warm air simultaneously, and many people find this combination disproportionately activating relative to its apparent simplicity. The sensation is hard to predict in advance, which makes it worth testing rather than assuming."
+}

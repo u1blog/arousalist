@@ -1,0 +1,30 @@
+{
+  "id": "sexting",
+  "number": 47,
+  "title": "Sexting",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "Writing desire requires specificity that thinking about it doesn't — and the asynchrony of text exchange creates a rhythm that real-time contact doesn't produce.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A phone or device.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Write out, in plain language, what you'd want to say to a partner in an explicit text exchange — not to send, just to write and notice what the act produces. Writing desire in words often surfaces specificity that staying inside your head doesn't: you discover what you actually want to say, which is frequently more precise and sometimes more surprising than what you assumed."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Begin an explicit text exchange while you're apart or in separate rooms. The rule is to say things you might not say out loud, specifically because you're writing them. Notice what the delay — the gap between sending and receiving — does: it's anticipation that real-time conversation doesn't produce. Notice also whether writing explicit things is easier or harder than speaking them, and what that difference tells you about how language and vulnerability interact for you. After one exchange, compare: does writing it change the experience of wanting it?"
+    }
+  ],
+  "explore": [
+    "Solo: does writing explicit language produce any charge — or does the act of writing feel clinical or flat?",
+    "Does specifying what you want in words — with detail — produce clarity or discomfort?",
+    "As receiver of texts: does receiving explicit written language feel different from hearing the same thing spoken?",
+    "Does the delay between sending and receiving produce anything — anticipation, anxiety, something else?"
+  ],
+  "why": "Writing desire requires specificity that thinking about it doesn't — you have to find actual words, which many people find both revealing and clarifying. Receiving explicit text from someone you're intimate with sits in a specific register: less ephemeral than speech (you can read it again), more deliberate than a passing comment. The asynchrony of text exchange creates a rhythm that real-time contact doesn't — send, then wait, then receive — and many people find that rhythm intensifying in itself. Some discover that writing is how they communicate desire most precisely; others find the medium creates a distance they don't want."
+}

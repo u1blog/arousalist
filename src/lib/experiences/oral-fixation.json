@@ -1,0 +1,30 @@
+{
+  "id": "oral-fixation",
+  "number": 55,
+  "title": "Oral Fixation",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "What the mouth does when something is placed in it — whether it holds, sucks, bites, or stays passive — often reflects something about orientation and desire that isn't consciously available through other routes.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Clean hands.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Place two fingers into your own mouth and notice what the mouth does: whether it closes around them, whether there's an instinct to suck, what the tongue does. Hold them there for a minute. You're not doing anything — you're noticing what the mouth does on its own when something is placed in it. That response (or its absence) is the baseline."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Giver places one or two clean fingers into the receiver's mouth and holds them there. The giver can move them slowly, press gently against the tongue, change depth — but without directing the receiver. The receiver's job is simply to notice what their mouth does with them: whether it holds, sucks, bites lightly, stays passive. After one round, switch — the experience of having your fingers held in someone's mouth, feeling what the receiver's mouth does, is a distinct experience from being the one whose mouth is occupied."
+    }
+  ],
+  "explore": [
+    "Solo: does your mouth have any particular instinctive response when something is placed in it?",
+    "As receiver: does having fingers in your mouth produce arousal, comfort, an urge to perform, or something that resists categorisation?",
+    "As giver: what does it feel like to have your fingers held in someone else's mouth — to feel what their mouth does with them?",
+    "Does any response here connect to anything else you've noticed about yourself in this guide?"
+  ],
+  "why": "The mouth is one of the most sensitive and psychologically loaded parts of the body. What it does when something is placed there — whether it holds, sucks, bites, or stays passive — often reflects something about orientation and desire that isn't consciously available through other routes. For some people, having their mouth occupied produces something they find difficult to categorise but immediately recognise as significant. For givers, feeling the receiver's mouth respond is a form of direct physical feedback that's unusually immediate."
+}

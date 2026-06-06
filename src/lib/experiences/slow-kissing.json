@@ -1,0 +1,25 @@
+{
+  "id": "slow-kissing",
+  "number": 14,
+  "title": "Slow Kissing",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Most kissing happens as part of a sequence — it's a beginning, not the thing itself. Removing the forward motion forces full presence with exactly what's happening.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just yourselves.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree beforehand that this is the whole experience — not a warm-up for anything else. Start with lips barely touching, less pressure than most kisses. Stay there longer than feels necessary. Let silences stretch. When tongue arrives, bring it slowly; when hands move, let them stay still for longer than feels natural. The rule is simple: nothing escalates to anything else. Stay in the kissing for the full time. If you notice the pull to move things forward — good. Notice it, and don't follow it. After ten minutes, stop and separately note what you observed. Then swap who is initiating and who is following; there's usually a meaningful difference between those roles."
+    }
+  ],
+  "explore": [
+    "Does removing the expectation of escalation change how kissing feels?",
+    "Is there a moment where the pull to rush forward is strong — and what happens if you stay?",
+    "As the person leading vs. the person following: does one position feel more natural to you?",
+    "Does deliberate, purposeless kissing feel connecting, frustrating, or surprisingly new?"
+  ],
+  "why": "Most kissing happens as part of a sequence — it's a beginning, not the thing itself. Removing the forward motion forces full presence with exactly what's happening. Many people find that kissing with no destination is unexpectedly more intense than kissing that's going somewhere, because nothing is being deferred or anticipated. Some find themselves more aroused at the end of ten deliberate minutes than after activity that took a more direct route."
+}

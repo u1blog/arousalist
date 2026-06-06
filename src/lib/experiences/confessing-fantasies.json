@@ -1,0 +1,25 @@
+{
+  "id": "confessing-fantasies",
+  "number": 26,
+  "title": "Confessing Fantasies",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "When someone says something they've only ever thought, and it's received without deflection, many people report something closer to relief than vulnerability.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "One person tells the other something they have never said out loud — a recurring fantasy, an image, a scenario they return to but have kept to themselves. Not a comfortable preference, but something that feels genuinely revealing. Keep it to one thing, described specifically. The listener's job is to receive it without immediately sharing their own or analysing what was said — just hear it and acknowledge it was heard. Then switch. After both people have gone, you can talk. The act of saying something aloud that you've only thought is distinct from the content of what you say, and often produces its own response regardless of how it's received."
+    }
+  ],
+  "explore": [
+    "What made choosing which thing to share difficult?",
+    "As the person sharing: did saying it out loud change how the fantasy feels, or how you feel about it?",
+    "As the listener: how did receiving something genuinely private feel — to be trusted with it specifically?",
+    "Does the other person's response match what you feared or expected?"
+  ],
+  "why": "Most people carry things they want but haven't said. The barrier is usually fear of judgment, embarrassment, or the intimacy of being known that precisely. When someone does say it — and it's received without deflection — many people report something closer to relief than vulnerability. The experience often turns out to be less dangerous than the anticipation. For the listener, receiving a genuine private disclosure changes something about how you see the person disclosing. The content is often less surprising than both people expected."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "humiliation-light",
+  "number": 50,
+  "title": "Humiliation (Light)",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Humiliation works through situation rather than language — the receiver is placed in a position of exposure and left there, without evaluation, and the gap between exposed and attacked is exactly where the experience lives.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree on a word to stop before starting. The giver creates a small situation where the receiver feels mildly exposed or slightly ridiculous — but without insult or cruelty. Options: the receiver is asked to stay in an exposed position while the giver simply looks without touching; the receiver is asked to say something they find embarrassing; the receiver is gently teased about something minor and physically present; the receiver is made to do something that feels slightly absurd in context. The giver's job is to hold the situation — without cruelty, without rushing to rescue, without making it worse. The exposure is the point. After one round, switch roles."
+    }
+  ],
+  "explore": [
+    "As receiver: what does mild exposure — being seen in a slightly ridiculous or vulnerable position — actually produce? Shame, laughter, arousal, some combination?",
+    "Is there a threshold between the kind of vulnerability that feels interesting and the kind that just feels bad — and where does it sit?",
+    "As giver: what does holding someone in a mild position of exposure, with neither cruelty nor rescue, feel like?",
+    "How does this compare to Degradation — is the difference between language and situation meaningful in how it lands for you?"
+  ],
+  "why": "Humiliation works through situation rather than language — it places the receiver in a position of exposure and leaves them there, without evaluating them negatively. For some people, the quality of being seen in a slightly vulnerable or absurd state within a context that is clearly safe produces a response that neither straight affirmation nor charged language quite reaches. The experience depends heavily on the giver holding the situation with care: the receiver is exposed but not attacked, and the gap between those two things is exactly where the experience lives."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nipple-play",
+  "number": 18,
+  "title": "Nipple Play",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Nipple sensitivity varies more between people than almost any other part of the body — the solo version tells you which camp you're in before you involve anyone else.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Just hands; optionally a small wooden peg or light clip for later.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Run a fingernail lightly across one nipple — barely touching. Then press with a fingertip, varying from very light to firm circular pressure. Try pinching: light, then moderate, then enough to notice clearly. Nipple sensitivity varies more between people than almost any other area — some find firm stimulation uncomfortable, others find very light touch produces more response than anything intense. Establish your own baseline before adding a partner."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver lies back. Giver works through types of stimulation in succession without announcement: fingertip pressure, light pinching, firmer pinching, tongue, suction, light teeth. Vary the pace — sustained pressure held, then sudden release, then a pause of nothing. The moment of release after sustained stimulation is often as interesting as the stimulation itself. If the receiver responds well, introduce a small wooden peg or light clip on one nipple while attention moves elsewhere — the constant mild pressure alongside other stimulation produces a distinct layered experience. After one round, switch roles."
+    }
+  ],
+  "explore": [
+    "Solo: are you in the \"barely registers\" camp or the \"highly sensitive\" camp — and were you surprised by which?",
+    "As receiver: which type of stimulation — pressure, pinching, suction, teeth — produces the clearest response?",
+    "Does release after sustained stimulation feel as significant as the stimulation itself?",
+    "As giver: does attending carefully to where the receiver responds — finding what works for this specific person — produce any engagement of its own?"
+  ],
+  "why": "Nipple sensitivity varies more between people than almost any other part of the body, which makes solo exploration here genuinely informative. In many people, stimulation here connects via direct neural pathways to responses elsewhere in the body — sensation that begins as localised can spread in ways that are often surprising. The partner version adds unpredictability to an area the nervous system pays close attention to, which tends to make every stimulus land more precisely."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tickling",
+  "number": 23,
+  "title": "Tickling",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "You can't tickle yourself because the brain predicts your own movements and cancels the response — a partner's touch on the same areas produces the full reaction precisely because it's unpredictable.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Just hands; optionally a soft brush or feather for the solo version.",
+  "safetyNote": "Agree on a clear word to stop before starting. Tickling escalates faster than most experiences — stop immediately when asked.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Drag a soft brush or feather across the areas most associated with ticklishness: sole of the foot, inner arm, sides, behind the knees. You can't properly tickle yourself — the brain predicts your own touch and suppresses the response before it fires — but you can test whether these areas register sensation and whether it's pleasant, irritating, or somewhere between. If a brush on the sole of your foot produces anything, the partner version will be stronger."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver lies back, not restrained. Giver starts with very light touch on less sensitive areas — inner arm, back of the knee — and moves gradually toward the more responsive zones. The aim is the edge between pleasure and mild overwhelm: light and slow enough that the receiver stays engaged, persistent enough that the sensation continues. That edge is the experience — hovering there rather than charging past it. After one round, switch roles."
+    }
+  ],
+  "explore": [
+    "Solo: which areas register sensation from a brush or feather, and is that sensation pleasant, irritating, or difficult to categorise?",
+    "As receiver: is there a pressure and pace where the sensation shifts from overwhelming to interesting?",
+    "Does not knowing where the next touch lands change how each one feels?",
+    "As giver: does staying at the edge — light enough to be bearable, persistent enough to be felt — require its own quality of attention?"
+  ],
+  "why": "You can't tickle yourself because the brain predicts your own movements and cancels the tickle response before it arrives. A partner's touch on the same areas produces the full reaction precisely because it's unpredictable — the same mechanism that makes unexpected touch sharper than touch you're braced for. The interesting version of this experience isn't the overwhelming kind; it's staying just this side of that, where the sensation demands full presence without shutting anything down."
+}

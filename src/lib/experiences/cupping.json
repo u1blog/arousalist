@@ -1,0 +1,30 @@
+{
+  "id": "cupping",
+  "number": 43,
+  "title": "Cupping",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Cupping creates sensation through pulling rather than pressing — a type of stimulation that most touch doesn't produce — and the visible marks are part of the experience for both people.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Just yourselves — hands and mouth.",
+  "safetyNote": "Keep suction away from the face. Very sustained, intense suction can cause bruising — start lighter than you think necessary and build gradually.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Press your lips firmly against your inner forearm, create a seal, and suck for three to five seconds before releasing. This is the sensation of cupping by mouth — pulling pressure, then a brief ache on release, then surface redness. You're establishing whether this type of sensation is interesting to you at all before involving a partner."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver lies back. Giver applies suction by mouth to various areas: outer thighs, buttocks, upper arms, shoulders, chest. Vary the duration and intensity — brief, moderate, and held long enough to leave a mark. The immediate sensation is pulling pressure; the after-sensation on release is a brief ache. The marks themselves — surface redness that fades over minutes to hours — are part of the experience for many people, not incidental to it. After one round, switch roles."
+    }
+  ],
+  "explore": [
+    "Solo: does the pulling sensation of suction produce any response, or does it feel like pressure with an odd aftermath?",
+    "As receiver: is the immediate suction, the ache on release, or the visible mark the primary draw?",
+    "Does location matter — are there areas where suction produces a stronger response than others?",
+    "As giver: does applying mouth to skin and holding there — the sustained deliberate closeness — produce any engagement of its own?"
+  ],
+  "why": "Cupping creates sensation through pulling rather than pressing — a type of stimulation that most touch doesn't produce. The immediate sensation is distinctive; what many people find equally interesting is the brief ache after release, where the pulled area registers its own response. The visible marks are part of the experience for both people: temporary evidence of intensity that both can see. For givers, the act of applying sustained mouth contact and holding has a quality of deliberate, claiming closeness that many find as interesting as the physical sensation it produces."
+}
