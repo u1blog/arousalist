@@ -86,7 +86,7 @@ Current state: 12 experiences, local ratings/notes stored in browser, no auth, n
 ## Content / Experience Layer
 
 **More experiences**
-- Currently 12 — the writing guide is ready, so adding more is a content task
+- Currently 62 — the writing guide is ready, so adding more is a content task
 - Could open a submission flow: users suggest experiences, maintainer reviews and publishes
 
 **Intensity / progression tagging**
