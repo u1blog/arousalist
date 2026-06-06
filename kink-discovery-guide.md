@@ -616,6 +616,109 @@ There are no right answers. The goal is honest self-knowledge. Go slowly, pay at
 
 ---
 
+### 28. Ear Play
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** Receiver sits or lies with one ear accessible. Giver begins with only proximity: lips close to the ear without touching — just warmth and faint breath. Stay there longer than feels natural. Then move to very light breath directed into the ear canal. Introduce lips next: outer ear, earlobe, the curve of the ear. Try very light tongue on the outer ear. Whisper something — not to communicate anything, just to produce the sensation of sound and breath at close range. Try a low hum or a single spoken word up close. The vibration registers differently from ordinary voice at this distance. Don't rush; the ear is a small area and attention there is unusually specific. After one round, switch.
+
+**Things to explore:**
+- As receiver: does warm breath directed into the ear produce a response — and is it pleasant, unsettling, or both?
+- Which produces more: the physical sensation of lips on the outer ear, or the sound and breath directed into it?
+- Is there a specific sound — breath, whisper, hum — that lands harder than others?
+- As giver: does this degree of closeness and specificity — attending to one small, specific area — require a different quality of focus?
+
+**Why people love this:** The ear sits unusually close to the brain's threat and arousal systems — sound arriving from inches away, with warmth and breath, registers as a particular kind of intimate proximity. The outer ear and earlobe are also more sensitive than most people expect. Whispering produces vibration and warm air simultaneously, and many people find this combination disproportionately activating relative to its apparent simplicity. The sensation is hard to predict in advance, which makes it worth testing rather than assuming.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 29. Vibration
+*🧍➡️👫 Better with a partner*
+
+**What you need:** A handheld electric massager or an electric toothbrush (flat end only, not modified).
+
+**Solo first:** Run the vibrating head across different areas, working through the same systematic territory as Body Sensitivity Mapping: forearms, back of neck, shoulders, soles of feet (through sock, then directly), behind the knees, scalp, stomach. Vary from light contact to pressed firmly against the skin. You're finding out which areas respond to vibration — and whether that response is interesting, neutral, or uncomfortable. Areas that produce nothing from regular touch sometimes produce a strong response to vibration, and vice versa.
+
+**With a partner (the real version):** Receiver is blindfolded. Partner runs the massager over the body without pattern or announcement, moving between areas. The constant sensation of vibration — present even while moving between spots — changes the baseline: areas arrive already partially activated. Try holding the device against one area for a sustained period, then switching suddenly to another. After one round, switch roles.
+
+**Things to explore:**
+- Solo: which areas respond most strongly to vibration — and were any genuinely surprising?
+- Is your response to vibration in a given area different from your response to other types of touch there?
+- As receiver with a partner: does the continuous vibration between applications change how each specific touch lands?
+- As giver: does working through a device feel different from hand contact — more or less connected to the receiver's responses?
+
+**Why people love this:** Vibration acts on the deeper nerve endings and fascia rather than just the surface pressure receptors that most touch engages. This is why areas that respond weakly to regular touch often produce unexpectedly strong responses to vibration — the stimulus reaches a different layer. Many people discover a strong response on the scalp, the soles of the feet, or the backs of the thighs from nothing more than an electric toothbrush. That's worth knowing before concluding this category isn't for you.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 30. Nudity Asymmetry
+*👫 Partner only*
+
+**What you need:** Nothing beyond clothing one person keeps on.
+
+**What to do:** One person is fully clothed; the other is naked. The clothed partner is not passive — they touch, direct, and engage fully while remaining dressed. The naked person's job is to notice what the asymmetry produces: the temperature difference, the visual contrast, and whatever the power imbalance does. Stay in this arrangement for twenty minutes, then switch. The experience of being the dressed person — with the particular agency clothing gives — is genuinely different from being the undressed one. Both are worth finding out about.
+
+**Things to explore:**
+- As the naked person: does the asymmetry feel exposing, exciting, uncomfortable, or some combination?
+- Does being touched by someone fully clothed feel different from being touched by someone equally undressed?
+- As the clothed person: does remaining dressed — keeping something held back — change how you engage?
+- Which role did you find more interesting — and did your prediction match what you actually felt?
+
+**Why people love this:** Clothing carries authority and protection in ordinary life. One person having both while the other has neither creates an imbalance that many people find immediately activating — without explicit instruction, without props, without negotiation. The asymmetry does the work on its own. Some people find the naked role more interesting; others find that staying dressed produces an unexpected quality of presence they hadn't predicted. Predictions are often wrong here, which is exactly why the swap matters.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 31. Begging
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** The receiver must ask explicitly — in specific words — before the giver acts. Not a hint, not a gesture, not an implication: a clear verbal request for the particular thing. The giver's job is to respond to explicit requests fully and to do nothing until one arrives. Run this for fifteen to twenty minutes. After one round, switch roles. Being the giver — fully available, attentive, doing nothing until asked — is often a more complex experience than expected, and quite different from the receiver's side.
+
+**Things to explore:**
+- As receiver: what is it like to have to name what you want before receiving it, rather than it being offered or implied?
+- Is it easier to ask for some things than others — and does the difference tell you anything?
+- As giver: what does it feel like to wait, fully ready, until asked — to hold that attentiveness without acting on it?
+- Does having to speak a want explicitly change the quality of receiving it when it arrives?
+
+**Why people love this:** Most physical intimacy runs on implicit communication — reading body language, following momentum, acting before anyone has named what they want. Begging inverts this by requiring everything to be said out loud. For receivers, voicing a want explicitly before it's been met is often surprising: some find it exposing, others find it unexpectedly freeing. For givers, the quality of full attentive waiting produces an unusual dynamic — power held in stillness until invited to act. Many people find this experience reveals something specific about their relationship to asking.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 32. Mutual Masturbation
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** Both partners touch themselves simultaneously, in the same space, in each other's full view. No touching of the other person. You're doing what you would do alone — but you're not alone, and neither is your partner. Fifteen to twenty minutes. Notice what changes about a normally solitary act when someone else is present doing the same thing. After the time is up, compare: which were you more focused on — your own experience, or watching your partner?
+
+**Things to explore:**
+- Does being watched while touching yourself feel different from the Being Watched experience, where there was only an audience?
+- Does watching someone while you're also doing the same thing change how either experience feels?
+- Is there a pull toward focusing on yourself or toward focusing on your partner — and does it shift?
+- Does performing something normally solitary in shared space feel exposing, connecting, or something harder to name?
+
+**Why people love this:** Mutual masturbation sits between solo and partnered experience in a specific way: both people are doing something individual, but in shared space and full view. The symmetry removes the giver-receiver structure entirely — no one is attending to the other, both are attending to themselves — while the presence of the other person changes the nature of the act. Some people find this the sharpest version of the Being Watched dynamic, because the watcher is visibly occupied rather than just observing. Others find the parallel self-focus makes the shared presence feel more intimate, not less.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -646,11 +749,11 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Cupping** — suction on skin using hands or mouth; the pulling sensation and marks left
 - **Body worship** — dedicated, unhurried attention to a specific body part (not feet)
 - ~~**Neck kissing and breathing** — breath on the neck, lips, tongue; how proximity and warmth register~~
-- **Ear play** — whispering, breathing, light tongue; how sound and sensation combine
+- ~~**Ear play** — whispering, breathing, light tongue; how sound and sensation combine~~
 - **Scalp massage** — firm pressure vs. light; distinct from hair pulling
 - **Full body skin contact** — sustained close physical contact; skin-to-skin over a large area
 - **Massage with oil** — how lubrication changes the quality of touch entirely
-- **Vibration** — household massager or electric toothbrush on non-genital areas; unexpected erogenous zones
+- ~~**Vibration** — household massager or electric toothbrush on non-genital areas; unexpected erogenous zones~~
 - ~~**Pressure and weight** — a partner's body weight on you; pinned vs. restrained~~
 - **Dry humping / clothed contact** — friction and pressure with clothes on; anticipation and frustration
 - **Food play** — temperature, texture, and taste brought onto the body; chocolate, honey, ice cream
@@ -693,13 +796,13 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Orgasm on command** — training the body to respond to a word or signal; requires practice and a receptive nervous system
 - ~~**Praise** — verbal affirmation during sex; "good girl/boy/person"; how being told you're doing well lands in an intimate context~~
 - **Degradation (light)** — consensually charged language in the other direction; some people find this deeply activating, others find it a hard no
-- **Begging** — the receiver is required to ask for what they want; what that does to both people
+- ~~**Begging** — the receiver is required to ask for what they want; what that does to both people~~
 - **Humiliation (light)** — being made to feel exposed or silly in a consensual context; distinct from degradation; more about vulnerability than insult
 - ~~**Eye contact** — sustained, deliberate eye contact during intimacy; how confronting or connecting it is~~
 - ~~**Silence** — no talking, no sound allowed; how that changes awareness and intensity~~
 - ~~**Being watched** — partner observes while you touch yourself; the exposure dynamic~~
 - ~~**Watching** — observing a partner touch themselves; what it's like to witness rather than participate~~
-- **Mutual masturbation** — both partners touching themselves simultaneously; shared but separate
+- ~~**Mutual masturbation** — both partners touching themselves simultaneously; shared but separate~~
 - **Talking about it** — explicit verbal description of what's happening or what will happen; how words intensify physical experience
 - ~~**Dirty talk** — narrating during sex; some find it transformative, others find it deflating or funny~~
 - ~~**Confessing fantasies** — telling a partner something you've never said out loud; the vulnerability and relief of that~~
@@ -722,7 +825,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Latex and leather** — sensory qualities: smell, sound, tightness, temperature retention
 - **Silk and satin** — the opposite end of the texture spectrum; how very soft fabric against skin feels during intimacy
 - **Cross-dressing** — wearing clothing associated with another gender; how that changes the experience of the body
-- **Nudity asymmetry** — one person clothed, one naked; what that imbalance produces in both people
+- ~~**Nudity asymmetry** — one person clothed, one naked; what that imbalance produces in both people~~
 - **Corsetry and compression** — being held tightly around the torso; how sustained compression feels over time
 - **Collars** — wearing or placing a collar; the symbolic and physical weight of it
 - **Masks** — wearing a mask (anonymity, persona) or having a partner masked (the effect of obscured identity)
