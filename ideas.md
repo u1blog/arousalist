@@ -1,6 +1,6 @@
 # Feature Brainstorm
 
-Current state: 12 experiences, local ratings/notes stored in browser, no auth, no backend.
+Current state: 62 experiences, local ratings/notes stored in browser, no auth, no backend.
 
 ---
 
