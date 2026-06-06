@@ -934,6 +934,116 @@ You can also run this as a standalone exercise — lie together after ordinary i
 
 ---
 
+### 43. Cupping
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Just yourselves — hands and mouth.
+
+**⚠ Safety first:** Keep suction away from the face. Very sustained, intense suction can cause bruising — start lighter than you think necessary and build gradually.
+
+**Solo first:** Press your lips firmly against your inner forearm, create a seal, and suck for three to five seconds before releasing. This is the sensation of cupping by mouth — pulling pressure, then a brief ache on release, then surface redness. You're establishing whether this type of sensation is interesting to you at all before involving a partner.
+
+**With a partner (the real version):** Receiver lies back. Giver applies suction by mouth to various areas: outer thighs, buttocks, upper arms, shoulders, chest. Vary the duration and intensity — brief, moderate, and held long enough to leave a mark. The immediate sensation is pulling pressure; the after-sensation on release is a brief ache. The marks themselves — surface redness that fades over minutes to hours — are part of the experience for many people, not incidental to it. After one round, switch roles.
+
+**Things to explore:**
+- Solo: does the pulling sensation of suction produce any response, or does it feel like pressure with an odd aftermath?
+- As receiver: is the immediate suction, the ache on release, or the visible mark the primary draw?
+- Does location matter — are there areas where suction produces a stronger response than others?
+- As giver: does applying mouth to skin and holding there — the sustained deliberate closeness — produce any engagement of its own?
+
+**Why people love this:** Cupping creates sensation through pulling rather than pressing — a type of stimulation that most touch doesn't produce. The immediate sensation is distinctive; what many people find equally interesting is the brief ache after release, where the pulled area registers its own response. The visible marks are part of the experience for both people: temporary evidence of intensity that both can see. For givers, the act of applying sustained mouth contact and holding has a quality of deliberate, claiming closeness that many find as interesting as the physical sensation it produces.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 44. Full Body Skin Contact
+*👫 Partner only*
+
+**What you need:** Just yourselves; no clothing.
+
+**What to do:** Both partners lie together, skin-to-skin, over as much surface area as possible — not for any particular activity, just for the contact itself. Stay still, or nearly still. Set a minimum of fifteen minutes and stay past whatever threshold appears. The point is sustained warmth, the texture and weight of another person's body against yours across a large area, and what that sustained state produces over time. Notice how the experience shifts: the first minutes may feel active or charged; something else usually arrives after a while.
+
+**Things to explore:**
+- Does sustained skin-to-skin contact feel calming, arousing, uncomfortable, or something that shifts over time?
+- Is there a threshold where the experience changes — and does it arrive at the same moment for both of you?
+- Are there specific areas of contact that register more strongly than others?
+- Does the quality of contact (pressure, warmth, texture) matter, or is it primarily the sustained presence?
+
+**Why people love this:** Skin-to-skin contact activates the C-tactile nerve fibres that respond specifically to slow, sustained touch — a distinct physiological pathway from the nerves that respond to pressure or pain. These fibres are thought to have a role in social bonding, and their response is often experienced as calming rather than arousing. Many people find that sustained full-body contact produces a quality of presence that more directed activity doesn't. It also serves as a useful diagnostic: some people find the intimacy of full-body skin contact more emotionally exposing than any specific sexual act, which tells them something real about where their threshold for vulnerability actually sits.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 45. Collars
+*👫 Partner only*
+
+**What you need:** A collar if you have one; otherwise a scarf, ribbon, or any fabric band that sits loosely around the neck.
+
+**⚠ Safety first:** Nothing tight around the neck. The collar should sit loosely — the point is the gesture and symbolic weight, not any pressure.
+
+**What to do:** One partner places the collar or fabric band on the other — not tightly, just present. The receiver wears it for an agreed period (fifteen to thirty minutes). The giver doesn't ignore it: they touch it occasionally, are aware of it, let their attention acknowledge it. The receiver's job is to notice what wearing it produces — the physical weight of the object, the gesture of having it placed, the symbolic dimension, or none of these. When the time is up, the giver removes it. Then switch, if both want to — this is one of the experiences where one side may be enough, and that preference is its own information.
+
+**Things to explore:**
+- As the person wearing it: what does the physical presence of the collar around your neck produce?
+- Is it the weight of the object, the act of having it placed, the symbolic meaning, or the giver's continued awareness of it that carries the most charge?
+- As the person who places it: what does placing a collar on someone feel like — and does their wearing it change how you engage?
+- Is there a clear preference for wearing or placing — and did that match what you expected?
+
+**Why people love this:** The collar carries one of the most concentrated symbolic loads of any object in this space — it has an immediately legible meaning in BDSM contexts that both people will read even if neither has used one before. That cultural weight does work before anything else happens. For the person wearing it, the physical sensation is often secondary to the psychological experience of the gesture and what it represents. For the person who places it, there's a quality of attentive ownership — this person is wearing something I put there — that many find more activating than they anticipated.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 46. Orgasm Control
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** Before starting, the receiver explicitly grants the partner full control over whether and when orgasm happens during this session. The receiver gives up the ability to decide — not just practically (that's what Teasing and Denial does), but in their own intention: they enter the experience with genuine uncertainty about the outcome. The giver decides based on their own reading of what they want to give, not on the receiver's requests or signals. Agree on a word to stop the session entirely if needed — separate from any signals during the experience itself. Run for a minimum of thirty minutes. After one round, switch roles.
+
+**Things to explore:**
+- As receiver: what is the experience of genuinely not having the final say — of not knowing whether orgasm will happen?
+- Is the uncertainty activating, anxiety-inducing, or something more complex than either?
+- As giver: what does carrying that decision feel like — does authority over the receiver's experience produce engagement, pressure, or both?
+- How does this compare to Teasing and Denial — is the difference in intention meaningful in practice?
+
+**Why people love this:** Orgasm control is distinct from teasing and denial in a specific way: the receiver surrenders the decision itself, rather than just being prevented from acting on it. Teasing and denial involves the receiver wanting something they're being kept from; orgasm control involves the receiver not knowing what the outcome will be, because it's no longer theirs to decide. For receivers drawn to surrender, this is often the deeper experience — the removal of expectation, not just access. For givers, carrying a consequential decision about someone else's experience is its own form of engagement, with its own weight.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 47. Sexting
+*🧍➡️👫 Better with a partner*
+
+**What you need:** A phone or device.
+
+**Solo first:** Write out, in plain language, what you'd want to say to a partner in an explicit text exchange — not to send, just to write and notice what the act produces. Writing desire in words often surfaces specificity that staying inside your head doesn't: you discover what you actually want to say, which is frequently more precise and sometimes more surprising than what you assumed.
+
+**With a partner (the real version):** Begin an explicit text exchange while you're apart or in separate rooms. The rule is to say things you might not say out loud, specifically because you're writing them. Notice what the delay — the gap between sending and receiving — does: it's anticipation that real-time conversation doesn't produce. Notice also whether writing explicit things is easier or harder than speaking them, and what that difference tells you about how language and vulnerability interact for you. After one exchange, compare: does writing it change the experience of wanting it?
+
+**Things to explore:**
+- Solo: does writing explicit language produce any charge — or does the act of writing feel clinical or flat?
+- Does specifying what you want in words — with detail — produce clarity or discomfort?
+- As receiver of texts: does receiving explicit written language feel different from hearing the same thing spoken?
+- Does the delay between sending and receiving produce anything — anticipation, anxiety, something else?
+
+**Why people love this:** Writing desire requires specificity that thinking about it doesn't — you have to find actual words, which many people find both revealing and clarifying. Receiving explicit text from someone you're intimate with sits in a specific register: less ephemeral than speech (you can read it again), more deliberate than a passing comment. The asynchrony of text exchange creates a rhythm that real-time contact doesn't — send, then wait, then receive — and many people find that rhythm intensifying in itself. Some discover that writing is how they communicate desire most precisely; others find the medium creates a distance they don't want.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -961,12 +1071,12 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Tickling** — from light to intense; the edge between pleasure and overwhelm~~
 - ~~**Pinching** — skin folds, nipples, inner thigh; sharp localised sensation~~
 - ~~**Nipple play** — fingers, mouth, pinching, twisting, clamps (light pegs to start); sensitivity varies enormously between people~~
-- **Cupping** — suction on skin using hands or mouth; the pulling sensation and marks left
+- ~~**Cupping** — suction on skin using hands or mouth; the pulling sensation and marks left~~
 - **Body worship** — dedicated, unhurried attention to a specific body part (not feet)
 - ~~**Neck kissing and breathing** — breath on the neck, lips, tongue; how proximity and warmth register~~
 - ~~**Ear play** — whispering, breathing, light tongue; how sound and sensation combine~~
 - **Scalp massage** — firm pressure vs. light; distinct from hair pulling
-- **Full body skin contact** — sustained close physical contact; skin-to-skin over a large area
+- ~~**Full body skin contact** — sustained close physical contact; skin-to-skin over a large area~~
 - **Massage with oil** — how lubrication changes the quality of touch entirely
 - ~~**Vibration** — household massager or electric toothbrush on non-genital areas; unexpected erogenous zones~~
 - ~~**Pressure and weight** — a partner's body weight on you; pinned vs. restrained~~
@@ -1007,7 +1117,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 ### Psychological & Dynamic
 
 - ~~**Teasing and denial** — prolonged anticipation, deliberate withholding of what the receiver wants~~
-- **Orgasm control** — partner controls if and when; the experience of having that surrendered
+- ~~**Orgasm control** — partner controls if and when; the experience of having that surrendered~~
 - **Orgasm on command** — training the body to respond to a word or signal; requires practice and a receptive nervous system
 - ~~**Praise** — verbal affirmation during sex; "good girl/boy/person"; how being told you're doing well lands in an intimate context~~
 - ~~**Degradation (light)** — consensually charged language in the other direction; some people find this deeply activating, others find it a hard no~~
@@ -1042,7 +1152,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Cross-dressing** — wearing clothing associated with another gender; how that changes the experience of the body
 - ~~**Nudity asymmetry** — one person clothed, one naked; what that imbalance produces in both people~~
 - **Corsetry and compression** — being held tightly around the torso; how sustained compression feels over time
-- **Collars** — wearing or placing a collar; the symbolic and physical weight of it
+- ~~**Collars** — wearing or placing a collar; the symbolic and physical weight of it~~
 - **Masks** — wearing a mask (anonymity, persona) or having a partner masked (the effect of obscured identity)
 - **Objectification** — being treated as a beautiful object rather than a person; some find this freeing, others find it alienating
 - **Body modification aesthetics** — piercings, tattoos, scars as erotic rather than just cosmetic; how permanent marks on a body are experienced intimately
@@ -1080,7 +1190,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **One-on-one video calls with strangers** — more intimate than streaming, less than in person; the particular dynamic of mutual anonymous viewing
 - **Being recorded by a partner** — someone else controlling the camera; the vulnerability and trust involved
 - **Watching yourself back** — reviewing photos or video of yourself; often a confronting or surprisingly positive experience
-- **Sexting** — explicit text conversation; how writing about it changes the experience of wanting it
+- ~~**Sexting** — explicit text conversation; how writing about it changes the experience of wanting it~~
 - **Sending unsolicited images** — *always requires consent; included here as an experience some find compelling to understand why*
 - **Receiving unsolicited images** — how you actually feel when explicit content arrives uninvited; worth knowing your own response
 - **Long-distance intimacy** — using digital tools as the primary medium with someone you can't be physically with; how presence and desire operate across distance
