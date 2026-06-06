@@ -1,0 +1,25 @@
+{
+  "id": "showering-together",
+  "number": 27,
+  "title": "Showering Together",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Washing someone gives the hands a specific, sequential job — and many people find being washed by someone fully attending to the task unexpectedly moving, in a way distinct from any other kind of touch.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Shower or bath; soap, shampoo.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "One partner washes the other completely — deliberately, not functionally. Start at the hair and scalp. Move to face, neck, shoulders, chest, arms, back, legs, feet. Soap, rinse, take time. One person is entirely on the receiving end; the other does the work. Don't mix the roles mid-way through. When the wash is complete, switch. The task structure is the point: washing someone gives the hands a specific, sequential job, which removes the ambiguity of undirected touch and makes sustained attention easier to maintain. Notice what it feels like to be tended to this completely. Notice what it feels like to be the one providing that care."
+    }
+  ],
+  "explore": [
+    "As receiver: does being physically cared for this way feel relaxing, intimate, exposing, or some combination?",
+    "Is the vulnerability of being washed — having someone clean you, attending to every part — different from other kinds of physical intimacy?",
+    "As giver: does the task focus — working through the body methodically — feel different from undirected touching?",
+    "Does the line between \"intimate\" and \"sexual\" get harder to locate during this?"
+  ],
+  "why": "Bathing someone is one of the most functional forms of physical care, and that functionality is part of what makes it interesting. The structure of the task removes self-consciousness from the giver and passivity from the receiver — you're doing something specific, not just touching. Many people find being washed by someone fully attending to the job unexpectedly moving, in a way distinct from any other kind of touch. The experience is often described as intimate without being overtly sexual, and many people find the boundary between those categories becomes genuinely hard to locate."
+}

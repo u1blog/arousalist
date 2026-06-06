@@ -1,0 +1,25 @@
+{
+  "id": "degradation-light",
+  "number": 38,
+  "title": "Degradation (Light)",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "A word that would be an insult in ordinary life becomes charged specifically because of the context — the gap between the word's everyday meaning and the intimacy of the moment produces a response that affirmation doesn't.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Before starting, the receiver specifies a small set of charged words or phrases that are acceptable — not a general permission for anything, but a specific short list they've explicitly approved. The giver uses those words during physical activity when they feel natural, and only those words. The receiver's job is to notice their immediate reaction: does the language produce any charge, or does it land flat? Agree on a word to stop before starting. After one round, switch roles — giving and receiving charged language are often very different experiences, and many people find they have a strong preference for one side."
+    }
+  ],
+  "explore": [
+    "As receiver: does the language produce any response — charge, embarrassment, nothing, or something unexpected?",
+    "Is there a specific word or phrase that lands harder than others — and is it the meaning, the sound, or the context?",
+    "As giver: does using charged language about someone you're intimate with feel natural, uncomfortable, or produce something you didn't predict?",
+    "How does this compare to Praise — does your reaction differ, and what does the difference tell you?"
+  ],
+  "why": "Degradation works, when it works, through contrast: a word that would be an insult in ordinary life becomes charged specifically because of the context that surrounds it. The gap between the word's everyday meaning and the intimacy of the moment produces a response that affirmation doesn't. For people to whom it lands, this tends to produce a specific intensity — not in spite of the language but because of it. For those it doesn't reach, the flatness is also informative: it points to something about how language and arousal connect for you, which comparing this experience against Praise often makes clearer."
+}

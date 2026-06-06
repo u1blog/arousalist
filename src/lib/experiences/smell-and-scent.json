@@ -1,0 +1,30 @@
+{
+  "id": "smell-and-scent",
+  "number": 36,
+  "title": "Smell and Scent",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Olfactory attraction operates largely beneath conscious awareness — most people have never checked whether it's doing anything, and the solo version makes it genuinely accessible to test.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A piece of worn clothing from a partner for the solo version; yourselves for the partner version.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Take a worn piece of clothing — a t-shirt, a pillowcase — and notice what your partner's scent produces. Not whether you like it in the abstract, but what it actually does: does it produce any pull toward them, feel neutral, feel like something? You're checking whether olfactory attraction is operating for you at all, which most people have never deliberately tested."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "During physical contact, give deliberate attention to your partner's natural scent — not product, not perfume, but the scent of their skin and hair. Spend time at the neck, inner wrist, scalp, and chest. Notice what the smell produces as distinct from what the touch produces. Take turns. Some people find their partner's natural scent is one of the most activating things about them; others find it largely neutral. Both are worth knowing."
+    }
+  ],
+  "explore": [
+    "Solo: does your partner's scent on worn clothing produce any response, or is smell essentially neutral for you?",
+    "With a partner: are there parts of the body where their scent is stronger or more activating?",
+    "Does the response to smell operate independently — i.e., does it produce something even when nothing else is happening?",
+    "Is there a difference between how you respond to natural scent and how you respond to worn fragrance?"
+  ],
+  "why": "Olfactory attraction operates largely beneath conscious awareness, which means most people have never checked whether it's doing anything. The nose has direct connections to the brain's limbic system — bypassing the cortex — which is why smell can produce an immediate emotional response before any analysis happens. Some people discover that their partner's natural scent is one of the most activating things about them; others find it's essentially neutral. Either is useful to know, and the solo version (worn clothing) makes this a genuinely accessible first check."
+}

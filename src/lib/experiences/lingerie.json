@@ -1,0 +1,30 @@
+{
+  "id": "lingerie",
+  "number": 51,
+  "title": "Lingerie",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "The solo version separates what the clothing does to you from what being seen in it does to you — those two things often turn out to be quite different.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Lingerie, or any clothing worn specifically to be seen in.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Put on the item alone, without a partner present. Look at yourself in a mirror. Notice what wearing it does to how you inhabit your body before adding someone else's response to the equation. Some people find it immediately changes posture and self-perception; others find it neutral. The solo version is the baseline — what it produces in you before it produces anything in anyone else."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Wear it in front of your partner and notice the additional layer: not just how you feel in it, but what being seen in it produces. The partner's job is to actually pay attention — not to perform enthusiasm, but to look. Notice whether being seen in something chosen deliberately feels different from being seen without it. After one round, swap if both want to — the experience of wearing it is genuinely different from observing it, and many people find they have a strong preference."
+    }
+  ],
+  "explore": [
+    "Solo: does wearing it change how you feel in your body — posture, self-perception, or something less tangible?",
+    "As the person wearing it with a partner: does being seen in it produce anything distinct from being seen without it?",
+    "As the observer: does particular clothing change how you see your partner — and is that change meaningful or does it fade quickly?",
+    "Is there a particular style or type that produces a stronger response, and what does that tell you?"
+  ],
+  "why": "Clothing communicates something about how the wearer wants to be seen, and that signal is read by both parties even without words. Lingerie specifically — worn deliberately, chosen with the viewer in mind — carries a particular kind of intentionality that ordinary undressing doesn't. For some people, being seen in something chosen for this purpose is more significant than what happens next. For others, the clothing is context that quickly dissolves. The solo version is worth doing first because it separates what the clothing does to you from what being seen in it does to you — those two things often turn out to be quite different."
+}

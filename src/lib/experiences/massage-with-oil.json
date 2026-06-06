@@ -1,0 +1,30 @@
+{
+  "id": "massage-with-oil",
+  "number": 58,
+  "title": "Massage with Oil",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Oil removes the micro-friction of dry skin contact and turns a normal stroke into something between a pull and a float — and many people find oiled touch produces responses in areas that dry touch doesn't activate.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Massage oil, coconut oil, or sweet almond oil. No undiluted essential oils directly on skin.",
+  "safetyNote": "Many oils degrade latex. If you use barrier contraception, check compatibility before oil goes anywhere near genitals.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Pour a small amount of oil onto your forearm and run your fingertips along it. The change is immediate: friction reduces almost completely, and a drag becomes a glide. This is a categorically different sensation type, not just a smoother version of the same thing. Try varying pressure while maintaining the oil. Notice whether the absence of friction heightens or flattens what the skin registers."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Giver oils their hands and works through the receiver's body systematically — back and shoulders first, then legs, arms. Move more slowly than feels natural: oil rewards slow strokes in a way dry touch doesn't, and rushing loses most of what it offers. Vary from barely-touching glides to firm sustained contact with the full palm. After a complete pass, return attention to areas where the receiver responded. After one round, switch — the giver's experience of working through oil, the particular warmth and slip of it building under the hands, is worth having."
+    }
+  ],
+  "explore": [
+    "Solo: does near-frictionless contact feel qualitatively different from the same pressure on dry skin — or just smoother?",
+    "Are there areas of the body where oiled touch produces a noticeably stronger response than dry touch does?",
+    "As giver: does working through oil change how you give — does the slip quality encourage a different pace or attention?",
+    "Does the experience of oiled touch feel closer to massage, to something more intimate, or does that distinction dissolve over time?"
+  ],
+  "why": "Oil removes the micro-friction of dry skin contact and turns a normal stroke into something between a pull and a float. Many people find oiled touch produces responses in areas that dry touch doesn't particularly activate — the sensation type is different enough that the body responds differently. It also changes the giver's experience: slow deliberate strokes become natural with oil, and the warmth that develops as oil heats against skin becomes part of the sensation itself. The quality of attention from both sides tends to slow down and deepen."
+}

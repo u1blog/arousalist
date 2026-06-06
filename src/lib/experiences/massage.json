@@ -1,0 +1,30 @@
+{
+  "id": "massage",
+  "number": 13,
+  "title": "Massage",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Attentive touch from someone genuinely tracking your responses is a different thing from relaxation — and many givers find sustained focus on another person's body more engaging than expected.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Just hands; optionally massage oil.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Run your fingertips along your inner arm from wrist to elbow, varying from barely-touching to firm pressure. Find the point where touch stops being background sensation and starts requiring your attention. You're calibrating the distinction between contact that feels good passively and contact that actively holds your focus — that distinction is what the full version is built on."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver lies face down. Giver works through the body systematically — shoulders and back first, then legs, feet, arms. Vary from firm pressure with palms and knuckles to light fingertip contact across the same areas. Don't stay at one pressure level — the contrast between firm and light is the point. After covering the full body, transition to slower, lighter strokes that aren't working anything, just moving over skin. Watch where the receiver's breathing changes. After one round, switch roles. Giving sustained, attentive physical care — being entirely focused on another person's body and its responses — is its own distinct experience with its own quality of engagement."
+    }
+  ],
+  "explore": [
+    "Solo: can you find the pressure where touch demands attention rather than just registers?",
+    "As receiver: is there a moment when massage stops feeling like relaxation and starts feeling like something else?",
+    "As giver: does sustained focus on another person's body — reading where they respond — produce anything for you?",
+    "Does receiving this quality of attention feel comfortable, exposing, or both?"
+  ],
+  "why": "Massage is often understood as a service — something done to produce relaxation. Attentive touch from someone genuinely tracking your responses is a different thing. The giver's full focus is on you: where your breath changes, where you tense, where something lands. That quality of being attended to, without agenda, is something many people rarely experience. For givers drawn to care, the act of reading and responding to a partner's body — without reciprocation — is often more engaging than expected."
+}

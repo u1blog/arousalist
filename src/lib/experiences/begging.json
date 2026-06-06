@@ -1,0 +1,25 @@
+{
+  "id": "begging",
+  "number": 31,
+  "title": "Begging",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Most physical intimacy runs on implicit communication — begging inverts this by requiring everything to be said out loud before anything is received.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "The receiver must ask explicitly — in specific words — before the giver acts. Not a hint, not a gesture, not an implication: a clear verbal request for the particular thing. The giver's job is to respond to explicit requests fully and to do nothing until one arrives. Run this for fifteen to twenty minutes. After one round, switch roles. Being the giver — fully available, attentive, doing nothing until asked — is often a more complex experience than expected, and quite different from the receiver's side."
+    }
+  ],
+  "explore": [
+    "As receiver: what is it like to have to name what you want before receiving it, rather than it being offered or implied?",
+    "Is it easier to ask for some things than others — and does the difference tell you anything?",
+    "As giver: what does it feel like to wait, fully ready, until asked — to hold that attentiveness without acting on it?",
+    "Does having to speak a want explicitly change the quality of receiving it when it arrives?"
+  ],
+  "why": "Most physical intimacy runs on implicit communication — reading body language, following momentum, acting before anyone has named what they want. Begging inverts this by requiring everything to be said out loud. For receivers, voicing a want explicitly before it's been met is often surprising: some find it exposing, others find it unexpectedly freeing. For givers, the quality of full attentive waiting produces an unusual dynamic — power held in stillness until invited to act. Many people find this experience reveals something specific about their relationship to asking."
+}

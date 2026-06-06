@@ -1,0 +1,25 @@
+{
+  "id": "mirror",
+  "number": 37,
+  "title": "Mirror",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "The mirror introduces a viewer's perspective into an experience that is normally entirely interior — and whether that self-witnessing is immediately arousing or distracting tells you something specific about how you experience desire.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "A mirror large enough to see yourselves together.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "During physical activity, position yourselves where you can see the two of you in the mirror — not catching a glimpse, but actually watching. The receiver's job is to notice how watching changes the experience. The giver's job is to watch both themselves and the receiver, and notice what seeing the act as well as doing it produces. Spend at least ten minutes with the mirror accessible before stopping to compare. There's often a strong reaction in one direction or the other — intensifying, or immediately alienating — and the direction itself is the data."
+    }
+  ],
+  "explore": [
+    "Does watching yourself change how you inhabit your body — more self-conscious, more present, or both?",
+    "Do you find yourself watching your own face, your partner's, or the two of you together — and does what you focus on shift?",
+    "Does the mirror feel connecting or distancing?",
+    "Is there a difference between accidentally catching a glimpse and deliberately holding the look?"
+  ],
+  "why": "The mirror introduces a viewer's perspective into an experience that is normally entirely interior. You're watching two people, one of whom is you — a position the brain doesn't entirely know what to do with. Some people find this self-witnessing immediately arousing: the visual confirmation of what's happening makes it more real. Others find the self-awareness it introduces distracting — they can't stop monitoring how they look. Both responses tell you something specific about how you experience desire: from the inside, or with part of you watching from outside."
+}

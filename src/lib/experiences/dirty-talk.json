@@ -1,0 +1,25 @@
+{
+  "id": "dirty-talk",
+  "number": 21,
+  "title": "Dirty Talk",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Language during physical intimacy adds a second simultaneous channel — and whether it adds or subtracts tells you something specific about how you experience desire.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just yourselves.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "During physical activity, one partner narrates — in plain, specific language — what is happening, what they want, or what they intend to do next. Not a performance, not a script: actual present-tense description of the immediate moment. \"I want you to...\" or \"you feel...\" or a direct statement of what comes next. Keep language specific; vague or ornate phrases tend to land badly. The other person's job is to notice their immediate reaction — whether language adds to the physical experience, distracts from it, or produces something complicated. After one round, switch. Many people find their response to receiving dirty talk is very different from their response to being required to produce it."
+    }
+  ],
+  "explore": [
+    "As receiver: do words during physical activity intensify the experience, distract from it, or fall flat?",
+    "Does the specific language matter — crude vs. direct vs. descriptive — or is it primarily the act of speaking at all?",
+    "As giver: does narrating what's happening change the quality of your own attention?",
+    "Is there a clear preference for speaking or hearing — or does comfort with both tell you something too?"
+  ],
+  "why": "Language during physical intimacy adds a second simultaneous channel. For people to whom it lands, the combination of described and felt experience produces a kind of double presence — body and mind occupied with the same thing at once. For those it doesn't reach, the disconnect is usually informative: it often marks whether verbal or physical modes carry more weight in how you experience desire. The discomfort of speaking explicitly out loud, before knowing how the listener receives it, is also its own small data point."
+}

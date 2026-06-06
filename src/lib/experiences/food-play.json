@@ -1,0 +1,30 @@
+{
+  "id": "food-play",
+  "number": 62,
+  "title": "Food Play",
+  "tier": "solo-start",
+  "category": "sensation",
+  "description": "Food play introduces taste and smell into an experience that normally operates on touch alone — and the response to whether it's inherently intimate or inherently silly tends to be strong and immediate.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Food that works on skin: honey, chocolate sauce, ice cream, or whipped cream. A towel.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Apply a small amount of honey or chocolate sauce to your inner arm. Run a finger slowly through it. Lick it off. Try ice cream on the same spot — colder, different texture, the quality of melting. You're checking whether the multi-sensory combination — temperature, texture, smell, and taste arriving together on skin rather than separately — produces anything that touch alone doesn't."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "One partner applies food to the other's body — stomach, chest, neck, shoulders — and attends to it with mouth and tongue. Vary between different foods (warm honey vs. cold ice cream), different areas, and different ways of applying and removing. The giver controls what goes where and how long before attending to it. After one round, switch. The aesthetic and visual dimension — food on skin, the smell, the particular intimacy of removing it with your mouth — is part of the experience for many people, not incidental to it."
+    }
+  ],
+  "explore": [
+    "Solo: does the multi-sensory combination (temperature, texture, smell, and taste together) produce anything that touch alone doesn't?",
+    "Are there specific foods or temperatures that produce a stronger response than others?",
+    "As receiver: does mouth-contact involved in removing food feel different from other oral contact?",
+    "As giver: does the visual quality of food on skin — the deliberate mess of it — produce any engagement of its own?"
+  ],
+  "why": "Food play introduces taste and smell into an experience that normally operates on touch alone. The multi-sensory combination — particularly temperature contrast and the smell of something sweet — activates different perceptual channels simultaneously. Some people find this creates a qualitatively richer experience; others find the sensory addition comedic or distracting. The response to whether food play is inherently intimate or inherently silly tends to be strong and immediate, which makes it worth finding out. The solo version is a genuine entry point: testing the combination alone first means the partner version isn't the first time you've encountered your own response."
+}

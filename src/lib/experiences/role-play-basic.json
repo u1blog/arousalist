@@ -1,0 +1,25 @@
+{
+  "id": "role-play-basic",
+  "number": 34,
+  "title": "Role Play",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Personas create a frame of plausible deniability that makes certain dynamics easier to enter — things that feel presumptuous as yourself become possible within a role.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing required; optionally a simple costume element or prop.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree on a simple scenario before starting — a pair of roles that creates a clear asymmetry. Don't overcomplicate it: stranger and local, authority figure and subordinate, service worker and customer. The scenario exists to give each person a different position to inhabit, not to stage a performance. Start in character and stay there until an agreed time is up (fifteen to twenty minutes works well). Agree beforehand on a word that means \"I'm speaking as myself now\" — use it if needed, then return to character or stop. After one round, try swapping roles or try a different scenario."
+    }
+  ],
+  "explore": [
+    "Does inhabiting a persona feel freeing, awkward, or both?",
+    "Is it easier to say or do things in character that you wouldn't say or do as yourself?",
+    "As the person in the lower-status role: does the structure of the scenario change how receiving attention feels?",
+    "Does a particular type of scenario — stranger, authority, service — produce more interest than others?"
+  ],
+  "why": "Personas create a frame of plausible deniability that makes certain dynamics easier to enter. Things that feel presumptuous or too revealing to do as yourself become possible within a role — not because the person is pretending to be someone else, but because the character grants permissions the person hasn't granted themselves. The psychological relief of inhabiting a role is often the main draw, and many people find that even a thin fictional frame substantially changes what they're able to access."
+}

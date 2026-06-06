@@ -1,0 +1,25 @@
+{
+  "id": "full-body-skin-contact",
+  "number": 44,
+  "title": "Full Body Skin Contact",
+  "tier": "partner-only",
+  "category": "sensation",
+  "description": "Sustained skin-to-skin contact activates a distinct physiological pathway associated with social bonding — and many people find it produces a quality of presence that more directed activity doesn't.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just yourselves; no clothing.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Both partners lie together, skin-to-skin, over as much surface area as possible — not for any particular activity, just for the contact itself. Stay still, or nearly still. Set a minimum of fifteen minutes and stay past whatever threshold appears. The point is sustained warmth, the texture and weight of another person's body against yours across a large area, and what that sustained state produces over time. Notice how the experience shifts: the first minutes may feel active or charged; something else usually arrives after a while."
+    }
+  ],
+  "explore": [
+    "Does sustained skin-to-skin contact feel calming, arousing, uncomfortable, or something that shifts over time?",
+    "Is there a threshold where the experience changes — and does it arrive at the same moment for both of you?",
+    "Are there specific areas of contact that register more strongly than others?",
+    "Does the quality of contact (pressure, warmth, texture) matter, or is it primarily the sustained presence?"
+  ],
+  "why": "Skin-to-skin contact activates the C-tactile nerve fibres that respond specifically to slow, sustained touch — a distinct physiological pathway from the nerves that respond to pressure or pain. These fibres are thought to have a role in social bonding, and their response is often experienced as calming rather than arousing. Many people find that sustained full-body contact produces a quality of presence that more directed activity doesn't. It also serves as a useful diagnostic: some people find the intimacy of full-body skin contact more emotionally exposing than any specific sexual act, which tells them something real about where their threshold for vulnerability actually sits."
+}

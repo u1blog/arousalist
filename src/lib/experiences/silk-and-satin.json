@@ -1,0 +1,30 @@
+{
+  "id": "silk-and-satin",
+  "number": 60,
+  "title": "Silk and Satin",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Silk and satin sit at the opposite end of the texture spectrum from rough materials — where rough textures produce sensation through friction, smooth fabric produces sensation through near-frictionlessness, and the nervous system responds to that edge distinctly.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A piece of silk, satin, or similar smooth fabric.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Draw the fabric slowly across your inner arm, the back of your neck, your face. Vary from barely-touching to pressing it firmly against skin. You're checking whether this end of the texture spectrum does anything at all — whether near-frictionless contact registers as sensation, and whether it's pleasant, neutral, or ticklish. Many people are surprised by how strong their response is to something this apparently slight."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver lies back, minimal clothing or none. Giver draws the fabric slowly across different areas — varying from barely-touching glides to sustained firm contact, and from large surfaces (the whole back) to specific attention (the crook of an elbow, behind the knee). Combine with a blindfold: without the visual prediction of where the fabric will move, the contact arrives as a surprise each time. After one round, switch."
+    }
+  ],
+  "explore": [
+    "Solo: does very soft, low-friction fabric produce any response — or does the near-absence of texture mean near-absence of sensation?",
+    "As receiver: is there a pressure or pace where silk/satin becomes genuinely activating rather than just pleasant?",
+    "Does the temperature of the fabric against warm skin register separately from the texture itself?",
+    "As giver: does working with extremely soft material — choosing where it moves across the receiver's body — carry any of the engagement of other tools?"
+  ],
+  "why": "Silk and satin sit at the opposite end of the texture spectrum from rough materials in Texture Play. Where rough textures produce sensation through friction, smooth fabric produces sensation through near-frictionlessness — the touch registers at the edge of contact, and the nervous system responds to that edge distinctly. Many people find the response is disproportionate to the apparent lightness of the contact. The blindfolded partner version tends to amplify this significantly, because the brain can't predict where the fabric will arrive next."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "being-watched",
+  "number": 22,
+  "title": "Being Watched",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Being watched creates the experience of being seen at close range without the usual reciprocity of a physical exchange — and self-consciousness and arousal often arrive together.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just yourselves.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "One partner touches themselves while the other watches — no participation, no touch, no commentary. The watcher's job is to remain still and pay full attention. The person being watched continues without performing for the watcher, but without ignoring them either — just doing what they would do alone, with someone fully present. Start with a ten-minute limit. After time is up, switch roles completely. Both people get the experience of watching and being watched before comparing. Most people find these two positions produce very different things in ways they couldn't have predicted in advance."
+    }
+  ],
+  "explore": [
+    "Being watched: does someone's full attention change how you relate to your own body?",
+    "Is the awareness of being watched distracting, exposing, exciting — or several of these at once?",
+    "As watcher: what is it like to have no role except attention — to witness rather than participate?",
+    "Which position felt more exposing — and is exposing the right word for what you felt?"
+  ],
+  "why": "Being watched creates the experience of being seen at close range without the usual reciprocity of a physical exchange. The watcher holds a particular kind of power — full attention without action — which some people find more activating than direct contact. For the person being watched, self-consciousness and arousal often arrive together, and where that tension resolves varies sharply: some find the exposure deadening, others find it sharpening. The role switch is essential here — the two positions reveal different things about how you relate to being seen versus seeing."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "breath-control-light",
+  "number": 35,
+  "title": "Breath Control (Light)",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "A hand placed flat on the throat — with no pressure — triggers the same alertness response as actual restriction, because the brain reads proximity as the act itself.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Just a hand.",
+  "safetyNote": "This experience is specifically a hand placed flat on the throat with no pressure applied — the intent is the weight of placement alone, not restriction of any kind. Never squeeze, press down, cover the nose and mouth, or use a forearm. Anything beyond a flat resting hand belongs in a guided setting with someone who has specific training.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Partner places their hand flat on the receiver's throat — palm down, fingers relaxed, no downward pressure. Just resting there. The receiver's job is to notice what happens in their body and mind from placement alone, with no restriction occurring. Hold for one to two minutes, then remove the hand completely and notice the difference. Then place it again. The experience is entirely psychological: nothing is being restricted, but the brain responds to the placement as if it were significant regardless. After one round, switch roles."
+    }
+  ],
+  "explore": [
+    "As receiver: what does the placement alone produce, before anything has actually changed?",
+    "Does the response feel more physical (tension, heightened awareness) or more psychological (the weight of the gesture)?",
+    "Is the removal of the hand as significant as its placement?",
+    "As giver: what does it feel like to be trusted with that placement — to hold it with no intent to act on it?"
+  ],
+  "why": "The throat is one of the most vulnerability-laden parts of the body. A hand placed there — even with no pressure — triggers the same alertness response as actual restriction, because the brain reads proximity as the act itself. For many people, the response this placement produces is disproportionate to what is physically happening: the gesture carries more weight than its physical content. This is the entry-level version of an experience that carries real risk at higher intensities; its value here is in finding out whether the psychological dimension alone produces anything worth knowing about."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "vibration",
+  "number": 29,
+  "title": "Vibration",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Vibration acts on deeper nerve endings than most touch engages — areas that produce nothing from regular contact sometimes produce a strong response, and vice versa.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A handheld electric massager or an electric toothbrush (flat end only, not modified).",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Run the vibrating head across different areas, working through the same systematic territory as Body Sensitivity Mapping: forearms, back of neck, shoulders, soles of feet (through sock, then directly), behind the knees, scalp, stomach. Vary from light contact to pressed firmly against the skin. You're finding out which areas respond to vibration — and whether that response is interesting, neutral, or uncomfortable. Areas that produce nothing from regular touch sometimes produce a strong response to vibration, and vice versa."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver is blindfolded. Partner runs the massager over the body without pattern or announcement, moving between areas. The constant sensation of vibration — present even while moving between spots — changes the baseline: areas arrive already partially activated. Try holding the device against one area for a sustained period, then switching suddenly to another. After one round, switch roles."
+    }
+  ],
+  "explore": [
+    "Solo: which areas respond most strongly to vibration — and were any genuinely surprising?",
+    "Is your response to vibration in a given area different from your response to other types of touch there?",
+    "As receiver with a partner: does the continuous vibration between applications change how each specific touch lands?",
+    "As giver: does working through a device feel different from hand contact — more or less connected to the receiver's responses?"
+  ],
+  "why": "Vibration acts on the deeper nerve endings and fascia rather than just the surface pressure receptors that most touch engages. This is why areas that respond weakly to regular touch often produce unexpectedly strong responses to vibration — the stimulus reaches a different layer. Many people discover a strong response on the scalp, the soles of the feet, or the backs of the thighs from nothing more than an electric toothbrush. That's worth knowing before concluding this category isn't for you."
+}

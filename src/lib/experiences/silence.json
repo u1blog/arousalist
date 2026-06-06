@@ -1,0 +1,25 @@
+{
+  "id": "silence",
+  "number": 24,
+  "title": "Silence",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Silence removes the option to fill space with words and routes all communication through the physical channel instead — and what that surfaces varies sharply between people.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree beforehand that neither person will speak for the duration — no words, no sounds of reassurance, no narration of what's happening. Continue whatever physical activity you'd normally do, just without language. Set a minimum of twenty minutes. Notice when the impulse to speak arrives and what you would have said. After one round, compare: what did language usually provide that was suddenly absent? Then try it a second time, shorter — five minutes — and see whether silence feels different when it has a defined end."
+    }
+  ],
+  "explore": [
+    "When did the impulse to speak arrive, and what would you have said?",
+    "Does silence feel connecting, isolating, or more intense than usual?",
+    "What does language usually provide in intimacy — and was any of that available without it?",
+    "Does your partner's response become more or less readable without words to fill the gaps?"
+  ],
+  "why": "Language during intimacy is often partly noise — reassurance, negotiation, performance of enjoyment delivered out loud. Silence removes the option to fill space with words and routes all of that through the physical channel instead. For some people this produces unexpectedly heightened attention to a partner's body and breath; for others it surfaces how much they rely on verbal communication to manage intimacy. Both responses are informative. Most people find the second attempt easier than the first."
+}
