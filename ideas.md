@@ -135,6 +135,25 @@ Current state: 12 experiences, local ratings/notes stored in browser, no auth, n
 
 ---
 
+## Feedback & Contributions
+
+**Experience feedback**
+- A simple per-experience feedback button — "something wrong with these instructions?" or "this felt off" — that opens a short form
+- Keeps it low-friction: no account required, just an optional text field and a send button
+- Delivery could be a GitHub issue (via API), a form service (Formspree, etc.), or just an email mailto link to keep it fully static
+- Distinguish between content feedback (instructions unclear, safety note missing something) and general feedback (I didn't like it) — the former is actionable, the latter isn't
+
+**Suggest a new experience**
+- A structured submission form that mirrors the writing guide fields: title, tier, category, description, why you think it belongs here
+- Sets expectations upfront — links to the writing guide so submitters understand what's actually needed
+- Could be a GitHub issue template (keeps it in the open, lets others +1 suggestions) or a private form if you'd rather curate quietly
+- Optionally: a public "requested experiences" list so people can see what's been suggested and vote, avoiding duplicates
+
+**In-app writing guide link**
+- The experience-writing-guide.md already exists — surface it in the UI alongside the submission form so contributors can write a full draft rather than just a request
+
+---
+
 ## Things to decide before building
 
 - Do you want a backend at all, or stay fully client-side?
