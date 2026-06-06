@@ -4,7 +4,40 @@ Current state: 62 experiences, local ratings/notes stored in browser, no auth, n
 
 ---
 
-## Guided Paths
+## Session Planner
+
+Plan an evening in advance — pick a set of experiences, order them, then have the app walk you through them one at a time.
+
+**Building a session**
+- Browse and add experiences to a session from the experience list (like a playlist)
+- Drag to reorder — think about pacing: lighter/sensation-led first, more intense/dynamic-led later
+- Give the session a name and optional note ("Tuesday — first time trying restraint")
+- Save multiple sessions so you can revisit or reuse a lineup that worked
+
+**The kit list**
+- Before you start, the app consolidates equipment from all selected experiences into a single list — one place to gather everything you need
+- Deduplicates (if three experiences need a blindfold, it only appears once)
+- Could flag conflicts: e.g. if one experience needs a lit candle and another specifically says no open flames
+
+**Session mode (walk-through)**
+- Full-screen, distraction-free view — one experience at a time, phone-friendly
+- Shows just the instructions for the current experience (solo or partner, depending on your session type)
+- Simple "next" to advance, with a progress indicator ("3 of 6")
+- Rate and add a note for each experience immediately after, while it's fresh, before moving on
+- A "pause session" state so you can step away and resume without losing your place
+
+**After the session**
+- Summary screen: all experiences tried that evening, all ratings given
+- Prompts a short overall reflection: what was the highlight, what would you change next time
+- Session saved to history alongside individual experience records
+
+**Session history**
+- List of past sessions with date, experiences included, and overall notes
+- Useful for spotting what combinations worked well together
+
+---
+
+
 
 **Couples path**
 - A structured sequence of experiences designed to be worked through together over time — ordered by tier (solo-start → better with a partner → partner only) to build a shared vocabulary before going deeper
