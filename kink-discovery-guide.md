@@ -404,6 +404,111 @@ There are no right answers. The goal is honest self-knowledge. Go slowly, pay at
 
 ---
 
+### 18. Nipple Play
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Just hands; optionally a small wooden peg or light clip for later.
+
+**Solo first:** Run a fingernail lightly across one nipple — barely touching. Then press with a fingertip, varying from very light to firm circular pressure. Try pinching: light, then moderate, then enough to notice clearly. Nipple sensitivity varies more between people than almost any other area — some find firm stimulation uncomfortable, others find very light touch produces more response than anything intense. Establish your own baseline before adding a partner.
+
+**With a partner (the real version):** Receiver lies back. Giver works through types of stimulation in succession without announcement: fingertip pressure, light pinching, firmer pinching, tongue, suction, light teeth. Vary the pace — sustained pressure held, then sudden release, then a pause of nothing. The moment of release after sustained stimulation is often as interesting as the stimulation itself. If the receiver responds well, introduce a small wooden peg or light clip on one nipple while attention moves elsewhere — the constant mild pressure alongside other stimulation produces a distinct layered experience. After one round, switch roles.
+
+**Things to explore:**
+- Solo: are you in the "barely registers" camp or the "highly sensitive" camp — and were you surprised by which?
+- As receiver: which type of stimulation — pressure, pinching, suction, teeth — produces the clearest response?
+- Does release after sustained stimulation feel as significant as the stimulation itself?
+- As giver: does attending carefully to where the receiver responds — finding what works for this specific person — produce any engagement of its own?
+
+**Why people love this:** Nipple sensitivity varies more between people than almost any other part of the body, which makes solo exploration here genuinely informative. In many people, stimulation here connects via direct neural pathways to responses elsewhere in the body — sensation that begins as localised can spread in ways that are often surprising. The partner version adds unpredictability to an area the nervous system pays close attention to, which tends to make every stimulus land more precisely.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 19. Neck Kissing and Breathing
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**⚠ Safety first:** Keep to lips and breath only — no pressure on the throat. This experience is about sensation, not restriction.
+
+**What to do:** Receiver sits or lies with neck exposed. Giver begins with only breath — not lips, just slow warm exhalation close to the skin, moving gradually from the base of the neck to behind the ear. Hold still for longer than feels natural. Then introduce lips: barely-touching contact, moving unhurriedly through the sides, behind the ear, the base, the curve where neck meets shoulder. Vary between breath alone, light lips, and tongue. The rule is to go more slowly than instinct suggests — the neck responds to anticipation as much as contact, and rushing past the moment of almost-touching loses most of what makes it interesting. After one round, switch roles.
+
+**Things to explore:**
+- As receiver: which part of the neck is most sensitive — sides, base, behind the ear, the shoulder curve?
+- Is it the contact itself or the anticipation of contact that produces the stronger response?
+- Does the temperature of breath — cooler on inhale, warmer on exhale — make a noticeable difference?
+- As giver: does slow, undivided attention to one part of the body feel different from working across the whole?
+
+**Why people love this:** The neck is densely innervated and largely left alone in daily life, which makes deliberate attention there immediately noticeable. Warm breath registers as proximity before contact arrives — the brain reads nearness as a signal in its own right. The combination of breath, warmth, and light touch near the ear and jaw feeds into the same response pathways as more explicitly erotic touch. Many people are surprised by how strongly they respond to something this slow and this simple.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 20. Teasing and Denial
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** Agree on a clear word to pause before starting. The giver stimulates the receiver — using whatever physical contact the receiver responds to — and deliberately withholds the next step whenever the receiver is clearly wanting it. Not random stopping; deliberate, attentive denial at the moments it costs most. When the receiver is close to asking for more, give less. When they reach for contact, withdraw slightly. The giver's job is to stay present and engaged throughout — this is not neglect, it's controlled attention. The receiver's job is to stay in the experience rather than rush past it. After one round, switch roles. The giver's experience of maintaining sustained deliberate control is genuinely different from what the receiver is experiencing.
+
+**Things to explore:**
+- As receiver: does deliberate withholding increase arousal, produce frustration, or both — and does the ratio shift as time goes on?
+- Is there a point where denial stops being interesting and becomes purely frustrating — and when in the experience does that arrive?
+- As giver: does maintaining deliberate control — giving less rather than more — produce any engagement of its own?
+- Is there a clear role preference, or does it depend on the dynamic with this particular person?
+
+**Why people love this:** Teasing and denial inverts the usual trajectory of physical intimacy — instead of building toward something, the giver builds and redirects. For many receivers, arousal accumulates without release in a way that feels qualitatively different from a direct approach. For givers, the experience requires close reading of the receiver — you can only deny effectively if you're paying attention — and that attentiveness tends to generate its own involvement. This is the partner version of the Edging experience; the dynamic element (someone else controlling the outcome) is what changes it.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 21. Dirty Talk
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** During physical activity, one partner narrates — in plain, specific language — what is happening, what they want, or what they intend to do next. Not a performance, not a script: actual present-tense description of the immediate moment. "I want you to..." or "you feel..." or a direct statement of what comes next. Keep language specific; vague or ornate phrases tend to land badly. The other person's job is to notice their immediate reaction — whether language adds to the physical experience, distracts from it, or produces something complicated. After one round, switch. Many people find their response to receiving dirty talk is very different from their response to being required to produce it.
+
+**Things to explore:**
+- As receiver: do words during physical activity intensify the experience, distract from it, or fall flat?
+- Does the specific language matter — crude vs. direct vs. descriptive — or is it primarily the act of speaking at all?
+- As giver: does narrating what's happening change the quality of your own attention?
+- Is there a clear preference for speaking or hearing — or does comfort with both tell you something too?
+
+**Why people love this:** Language during physical intimacy adds a second simultaneous channel. For people to whom it lands, the combination of described and felt experience produces a kind of double presence — body and mind occupied with the same thing at once. For those it doesn't reach, the disconnect is usually informative: it often marks whether verbal or physical modes carry more weight in how you experience desire. The discomfort of speaking explicitly out loud, before knowing how the listener receives it, is also its own small data point.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 22. Being Watched
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** One partner touches themselves while the other watches — no participation, no touch, no commentary. The watcher's job is to remain still and pay full attention. The person being watched continues without performing for the watcher, but without ignoring them either — just doing what they would do alone, with someone fully present. Start with a ten-minute limit. After time is up, switch roles completely. Both people get the experience of watching and being watched before comparing. Most people find these two positions produce very different things in ways they couldn't have predicted in advance.
+
+**Things to explore:**
+- Being watched: does someone's full attention change how you relate to your own body?
+- Is the awareness of being watched distracting, exposing, exciting — or several of these at once?
+- As watcher: what is it like to have no role except attention — to witness rather than participate?
+- Which position felt more exposing — and is exposing the right word for what you felt?
+
+**Why people love this:** Being watched creates the experience of being seen at close range without the usual reciprocity of a physical exchange. The watcher holds a particular kind of power — full attention without action — which some people find more activating than direct contact. For the person being watched, self-consciousness and arousal often arrive together, and where that tension resolves varies sharply: some find the exposure deadening, others find it sharpening. The role switch is essential here — the two positions reveal different things about how you relate to being seen versus seeing.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -430,10 +535,10 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Massage** — full body, varying pressure; distinguishing relaxation from arousal~~
 - **Tickling** — from light to intense; the edge between pleasure and overwhelm
 - **Pinching** — skin folds, nipples, inner thigh; sharp localised sensation
-- **Nipple play** — fingers, mouth, pinching, twisting, clamps (light pegs to start); sensitivity varies enormously between people
+- ~~**Nipple play** — fingers, mouth, pinching, twisting, clamps (light pegs to start); sensitivity varies enormously between people~~
 - **Cupping** — suction on skin using hands or mouth; the pulling sensation and marks left
 - **Body worship** — dedicated, unhurried attention to a specific body part (not feet)
-- **Neck kissing and breathing** — breath on the neck, lips, tongue; how proximity and warmth register
+- ~~**Neck kissing and breathing** — breath on the neck, lips, tongue; how proximity and warmth register~~
 - **Ear play** — whispering, breathing, light tongue; how sound and sensation combine
 - **Scalp massage** — firm pressure vs. light; distinct from hair pulling
 - **Full body skin contact** — sustained close physical contact; skin-to-skin over a large area
@@ -476,7 +581,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 
 ### Psychological & Dynamic
 
-- **Teasing and denial** — prolonged anticipation, deliberate withholding of what the receiver wants
+- ~~**Teasing and denial** — prolonged anticipation, deliberate withholding of what the receiver wants~~
 - **Orgasm control** — partner controls if and when; the experience of having that surrendered
 - **Orgasm on command** — training the body to respond to a word or signal; requires practice and a receptive nervous system
 - ~~**Praise** — verbal affirmation during sex; "good girl/boy/person"; how being told you're doing well lands in an intimate context~~
@@ -485,11 +590,11 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Humiliation (light)** — being made to feel exposed or silly in a consensual context; distinct from degradation; more about vulnerability than insult
 - ~~**Eye contact** — sustained, deliberate eye contact during intimacy; how confronting or connecting it is~~
 - **Silence** — no talking, no sound allowed; how that changes awareness and intensity
-- **Being watched** — partner observes while you touch yourself; the exposure dynamic
-- **Watching** — observing a partner touch themselves; what it's like to witness rather than participate
+- ~~**Being watched** — partner observes while you touch yourself; the exposure dynamic~~
+- ~~**Watching** — observing a partner touch themselves; what it's like to witness rather than participate~~
 - **Mutual masturbation** — both partners touching themselves simultaneously; shared but separate
 - **Talking about it** — explicit verbal description of what's happening or what will happen; how words intensify physical experience
-- **Dirty talk** — narrating during sex; some find it transformative, others find it deflating or funny
+- ~~**Dirty talk** — narrating during sex; some find it transformative, others find it deflating or funny~~
 - **Confessing fantasies** — telling a partner something you've never said out loud; the vulnerability and relief of that
 - **Role play (basic)** — agreed-on personas or scenarios; stranger, authority figure, service worker, etc.
 - **Age play (adult)** — one or both partners adopting an adult persona with exaggerated innocence or authority; distinct from anything involving minors
