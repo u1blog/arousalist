@@ -509,6 +509,113 @@ There are no right answers. The goal is honest self-knowledge. Go slowly, pay at
 
 ---
 
+### 23. Tickling
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Just hands; optionally a soft brush or feather for the solo version.
+
+**⚠ Safety first:** Agree on a clear word to stop before starting. Tickling escalates faster than most experiences — stop immediately when asked.
+
+**Solo first:** Drag a soft brush or feather across the areas most associated with ticklishness: sole of the foot, inner arm, sides, behind the knees. You can't properly tickle yourself — the brain predicts your own touch and suppresses the response before it fires — but you can test whether these areas register sensation and whether it's pleasant, irritating, or somewhere between. If a brush on the sole of your foot produces anything, the partner version will be stronger.
+
+**With a partner (the real version):** Receiver lies back, not restrained. Giver starts with very light touch on less sensitive areas — inner arm, back of the knee — and moves gradually toward the more responsive zones. The aim is the edge between pleasure and mild overwhelm: light and slow enough that the receiver stays engaged, persistent enough that the sensation continues. That edge is the experience — hovering there rather than charging past it. After one round, switch roles.
+
+**Things to explore:**
+- Solo: which areas register sensation from a brush or feather, and is that sensation pleasant, irritating, or difficult to categorise?
+- As receiver: is there a pressure and pace where the sensation shifts from overwhelming to interesting?
+- Does not knowing where the next touch lands change how each one feels?
+- As giver: does staying at the edge — light enough to be bearable, persistent enough to be felt — require its own quality of attention?
+
+**Why people love this:** You can't tickle yourself because the brain predicts your own movements and cancels the tickle response before it arrives. A partner's touch on the same areas produces the full reaction precisely because it's unpredictable — the same mechanism that makes unexpected touch sharper than touch you're braced for. The interesting version of this experience isn't the overwhelming kind; it's staying just this side of that, where the sensation demands full presence without shutting anything down.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 24. Silence
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** Agree beforehand that neither person will speak for the duration — no words, no sounds of reassurance, no narration of what's happening. Continue whatever physical activity you'd normally do, just without language. Set a minimum of twenty minutes. Notice when the impulse to speak arrives and what you would have said. After one round, compare: what did language usually provide that was suddenly absent? Then try it a second time, shorter — five minutes — and see whether silence feels different when it has a defined end.
+
+**Things to explore:**
+- When did the impulse to speak arrive, and what would you have said?
+- Does silence feel connecting, isolating, or more intense than usual?
+- What does language usually provide in intimacy — and was any of that available without it?
+- Does your partner's response become more or less readable without words to fill the gaps?
+
+**Why people love this:** Language during intimacy is often partly noise — reassurance, negotiation, performance of enjoyment delivered out loud. Silence removes the option to fill space with words and routes all of that through the physical channel instead. For some people this produces unexpectedly heightened attention to a partner's body and breath; for others it surfaces how much they rely on verbal communication to manage intimacy. Both responses are informative. Most people find the second attempt easier than the first.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 25. Pressure and Weight
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**⚠ Safety first:** Avoid resting full weight directly on the spine, ribcage, or neck. The person on top should use arms or knees to manage how much weight actually lands. Agree on a word to stop.
+
+**What to do:** One partner lies down; the other lies or kneels on top — not with equipment, just presence and weight. Start with partial weight, forearms taking some of the load, and gradually let more settle. Try the receiver face down (compression across the back), face up (contact across the chest and stomach), and pinned on their side. The receiver's job is to notice what full-body compression produces: the warmth of another body, the restriction of movement, the particular weight of someone else's physical presence. After one round, switch roles.
+
+**Things to explore:**
+- As receiver: does compression feel grounding, claustrophobic, pleasurable — or several of these at once?
+- Does the inability to move freely, without formal restraint, produce any of the same response as restraint does?
+- As giver: does being the body whose weight is felt — being that physically present — produce anything for you?
+- How does this compare to the Restraint experience? Is the difference meaningful?
+
+**Why people love this:** Weight and pressure produce something rope and cuffs don't: warmth, the aliveness of another body, contact across a large area simultaneously. For many receivers, being unable to move freely under a partner's body — without anything tying them down — produces a different response than formal restraint, more primal and less negotiated. The giver's experience of being the physical presence that determines the receiver's range of motion is often more engaging than expected.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 26. Confessing Fantasies
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** One person tells the other something they have never said out loud — a recurring fantasy, an image, a scenario they return to but have kept to themselves. Not a comfortable preference, but something that feels genuinely revealing. Keep it to one thing, described specifically. The listener's job is to receive it without immediately sharing their own or analysing what was said — just hear it and acknowledge it was heard. Then switch. After both people have gone, you can talk. The act of saying something aloud that you've only thought is distinct from the content of what you say, and often produces its own response regardless of how it's received.
+
+**Things to explore:**
+- What made choosing which thing to share difficult?
+- As the person sharing: did saying it out loud change how the fantasy feels, or how you feel about it?
+- As the listener: how did receiving something genuinely private feel — to be trusted with it specifically?
+- Does the other person's response match what you feared or expected?
+
+**Why people love this:** Most people carry things they want but haven't said. The barrier is usually fear of judgment, embarrassment, or the intimacy of being known that precisely. When someone does say it — and it's received without deflection — many people report something closer to relief than vulnerability. The experience often turns out to be less dangerous than the anticipation. For the listener, receiving a genuine private disclosure changes something about how you see the person disclosing. The content is often less surprising than both people expected.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 27. Showering or Bathing Together
+*👫 Partner only*
+
+**What you need:** Shower or bath; soap, shampoo.
+
+**What to do:** One partner washes the other completely — deliberately, not functionally. Start at the hair and scalp. Move to face, neck, shoulders, chest, arms, back, legs, feet. Soap, rinse, take time. One person is entirely on the receiving end; the other does the work. Don't mix the roles mid-way through. When the wash is complete, switch. The task structure is the point: washing someone gives the hands a specific, sequential job, which removes the ambiguity of undirected touch and makes sustained attention easier to maintain. Notice what it feels like to be tended to this completely. Notice what it feels like to be the one providing that care.
+
+**Things to explore:**
+- As receiver: does being physically cared for this way feel relaxing, intimate, exposing, or some combination?
+- Is the vulnerability of being washed — having someone clean you, attending to every part — different from other kinds of physical intimacy?
+- As giver: does the task focus — working through the body methodically — feel different from undirected touching?
+- Does the line between "intimate" and "sexual" get harder to locate during this?
+
+**Why people love this:** Bathing someone is one of the most functional forms of physical care, and that functionality is part of what makes it interesting. The structure of the task removes self-consciousness from the giver and passivity from the receiver — you're doing something specific, not just touching. Many people find being washed by someone fully attending to the job unexpectedly moving, in a way distinct from any other kind of touch. The experience is often described as intimate without being overtly sexual, and many people find the boundary between those categories becomes genuinely hard to locate.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -533,7 +640,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 ### Sensation & Physical
 
 - ~~**Massage** — full body, varying pressure; distinguishing relaxation from arousal~~
-- **Tickling** — from light to intense; the edge between pleasure and overwhelm
+- ~~**Tickling** — from light to intense; the edge between pleasure and overwhelm~~
 - **Pinching** — skin folds, nipples, inner thigh; sharp localised sensation
 - ~~**Nipple play** — fingers, mouth, pinching, twisting, clamps (light pegs to start); sensitivity varies enormously between people~~
 - **Cupping** — suction on skin using hands or mouth; the pulling sensation and marks left
@@ -544,12 +651,12 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Full body skin contact** — sustained close physical contact; skin-to-skin over a large area
 - **Massage with oil** — how lubrication changes the quality of touch entirely
 - **Vibration** — household massager or electric toothbrush on non-genital areas; unexpected erogenous zones
-- **Pressure and weight** — a partner's body weight on you; pinned vs. restrained
+- ~~**Pressure and weight** — a partner's body weight on you; pinned vs. restrained~~
 - **Dry humping / clothed contact** — friction and pressure with clothes on; anticipation and frustration
 - **Food play** — temperature, texture, and taste brought onto the body; chocolate, honey, ice cream
 - **Body painting** — using food or body-safe paint; the sensation of application, the visual result
 - **Shaving** — one partner shaving the other; intimacy, vulnerability, trust, and the sensation of a blade
-- **Showering or bathing together** — water temperature, soap, and the particular vulnerability of washing another person
+- ~~**Showering or bathing together** — water temperature, soap, and the particular vulnerability of washing another person~~
 - **Genital massage (non-goal-oriented)** — deliberate touch with no expectation of orgasm; many people have never experienced this
 
 ### Anal Play
@@ -589,13 +696,13 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Begging** — the receiver is required to ask for what they want; what that does to both people
 - **Humiliation (light)** — being made to feel exposed or silly in a consensual context; distinct from degradation; more about vulnerability than insult
 - ~~**Eye contact** — sustained, deliberate eye contact during intimacy; how confronting or connecting it is~~
-- **Silence** — no talking, no sound allowed; how that changes awareness and intensity
+- ~~**Silence** — no talking, no sound allowed; how that changes awareness and intensity~~
 - ~~**Being watched** — partner observes while you touch yourself; the exposure dynamic~~
 - ~~**Watching** — observing a partner touch themselves; what it's like to witness rather than participate~~
 - **Mutual masturbation** — both partners touching themselves simultaneously; shared but separate
 - **Talking about it** — explicit verbal description of what's happening or what will happen; how words intensify physical experience
 - ~~**Dirty talk** — narrating during sex; some find it transformative, others find it deflating or funny~~
-- **Confessing fantasies** — telling a partner something you've never said out loud; the vulnerability and relief of that
+- ~~**Confessing fantasies** — telling a partner something you've never said out loud; the vulnerability and relief of that~~
 - **Role play (basic)** — agreed-on personas or scenarios; stranger, authority figure, service worker, etc.
 - **Age play (adult)** — one or both partners adopting an adult persona with exaggerated innocence or authority; distinct from anything involving minors
 - **Consensual non-consent (light)** — "no" means keep going, "red" means stop; the fantasy of resistance within a trusted framework
