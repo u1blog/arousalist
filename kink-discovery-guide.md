@@ -1044,6 +1044,112 @@ You can also run this as a standalone exercise — lie together after ordinary i
 
 ---
 
+### 48. Body Worship
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** The receiver chooses a specific body part — not genitals, not feet (covered in #11) — and tells the giver. Something less expected: a shoulder, collarbone, forearm, hand, knee, back of the neck. The giver spends twenty minutes attending exclusively to that area: moving slowly through every type of contact available — lips, tongue, breath, fingertips, fingernails, full palm — without leaving it. No moving on. The receiver's job is to notice what sustained, exclusive attention to one area produces over time. After one round, switch roles.
+
+**Things to explore:**
+- As receiver: does sustained exclusive attention to one area feel different from the same contact as part of wider touch?
+- Does the experience shift over the twenty minutes — does the same contact produce different responses as time passes?
+- What body part did you choose, and was that choice revealing in retrospect?
+- As giver: what does twenty minutes of exclusive focus on one small area feel like — does it produce intimacy, absorption, something else?
+
+**Why people love this:** Most touch moves — it covers ground, transitions, escalates. Body worship inverts that by staying in place long past the point where moving on would normally happen. The receiver's job becomes simply to receive full attention in one location for much longer than is usual, which many people find more exposing and more gratifying than being touched everywhere at once. For givers drawn to care and focus, spending twenty minutes working through every variation of contact on one small part of another person is often as engaging as anything more physically demanding.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 49. Genital Massage (Non-Goal-Oriented)
+*🧍 Solo start*
+
+**What you need:** Just yourself; optionally a small amount of massage oil.
+
+**Solo:** Set aside twenty minutes with no goal of orgasm — not working toward anything, not chasing sensation. Touch your genitals with deliberate attention, slowly and without direction. Vary pressure from barely-touching to firm. Move through areas that are usually treated as means to an end. Notice what the area responds to when it isn't being driven toward a climax. Many people find this surfaces sensitivities and responses that goal-oriented stimulation consistently bypasses.
+
+**With a partner:** The partner version extends this directly: the giver attends to the receiver's genitals with the same non-directional quality — no goal of orgasm, no escalation toward anything, just prolonged deliberate attention. This is genuinely unusual. Genital touch between partners is almost always directional. Removing that direction often produces a different quality of response than purposeful stimulation does, and the receiver's experience of being attended to without an agenda is frequently described as unexpectedly intimate.
+
+**Things to explore:**
+- Solo: does removing the goal of orgasm change what you notice — does sensation feel different without a direction?
+- Are there areas or types of touch that produce responses you don't usually encounter in goal-oriented stimulation?
+- With a partner: does receiving genital attention with no goal feel relaxing, frustrating, or differently engaging?
+- Does the absence of expectation on both sides change what the touch communicates?
+
+**Why people love this:** Goal-oriented genital stimulation is efficient at producing its target and often misses everything else. Removing the goal forces attention onto the sensation itself rather than where it's leading. Many people discover preferences they've never noticed, simply because those responses exist between here and the destination rather than at it. The partner version is particularly revealing: genital touch without an agenda is genuinely uncommon, and many people find it unexpectedly intimate precisely because nothing is being worked toward.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 50. Humiliation (Light)
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** Agree on a word to stop before starting. The giver creates a small situation where the receiver feels mildly exposed or slightly ridiculous — but without insult or cruelty. Options: the receiver is asked to stay in an exposed position while the giver simply looks without touching; the receiver is asked to say something they find embarrassing; the receiver is gently teased about something minor and physically present; the receiver is made to do something that feels slightly absurd in context. The giver's job is to hold the situation — without cruelty, without rushing to rescue, without making it worse. The exposure is the point. After one round, switch roles.
+
+**Things to explore:**
+- As receiver: what does mild exposure — being seen in a slightly ridiculous or vulnerable position — actually produce? Shame, laughter, arousal, some combination?
+- Is there a threshold between the kind of vulnerability that feels interesting and the kind that just feels bad — and where does it sit?
+- As giver: what does holding someone in a mild position of exposure, with neither cruelty nor rescue, feel like?
+- How does this compare to Degradation — is the difference between language and situation meaningful in how it lands for you?
+
+**Why people love this:** Humiliation works through situation rather than language — it places the receiver in a position of exposure and leaves them there, without evaluating them negatively. For some people, the quality of being seen in a slightly vulnerable or absurd state within a context that is clearly safe produces a response that neither straight affirmation nor charged language quite reaches. The experience depends heavily on the giver holding the situation with care: the receiver is exposed but not attacked, and the gap between those two things is exactly where the experience lives.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 51. Lingerie
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Lingerie, or any clothing worn specifically to be seen in.
+
+**Solo first:** Put on the item alone, without a partner present. Look at yourself in a mirror. Notice what wearing it does to how you inhabit your body before adding someone else's response to the equation. Some people find it immediately changes posture and self-perception; others find it neutral. The solo version is the baseline — what it produces in you before it produces anything in anyone else.
+
+**With a partner (the real version):** Wear it in front of your partner and notice the additional layer: not just how you feel in it, but what being seen in it produces. The partner's job is to actually pay attention — not to perform enthusiasm, but to look. Notice whether being seen in something chosen deliberately feels different from being seen without it. After one round, swap if both want to — the experience of wearing it is genuinely different from observing it, and many people find they have a strong preference.
+
+**Things to explore:**
+- Solo: does wearing it change how you feel in your body — posture, self-perception, or something less tangible?
+- As the person wearing it with a partner: does being seen in it produce anything distinct from being seen without it?
+- As the observer: does particular clothing change how you see your partner — and is that change meaningful or does it fade quickly?
+- Is there a particular style or type that produces a stronger response, and what does that tell you?
+
+**Why people love this:** Clothing communicates something about how the wearer wants to be seen, and that signal is read by both parties even without words. Lingerie specifically — worn deliberately, chosen with the viewer in mind — carries a particular kind of intentionality that ordinary undressing doesn't. For some people, being seen in something chosen for this purpose is more significant than what happens next. For others, the clothing is context that quickly dissolves. The solo version is worth doing first because it separates what the clothing does to you from what being seen in it does to you — those two things often turn out to be quite different.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 52. Degradation of Space
+*👫 Partner only*
+
+**What you need:** Just yourselves and a home.
+
+**What to do:** Choose a location that feels specifically wrong — not just different from the bedroom, but somewhere that carries a quality of transgression: the kitchen counter, the hallway, the bathroom floor, a particular chair that belongs to someone else's daily life. The wrongness should be specific, not arbitrary. Stay there for the duration. Don't move to the bedroom when it gets intense. Notice what the location itself contributes — whether the wrongness changes anything, or whether it turns out to be irrelevant once you're in it.
+
+**Things to explore:**
+- Does the specific location produce any quality of experience the bedroom doesn't?
+- Is it the physical qualities of the space (harder surface, different light, different temperature) or the transgressive quality that makes the difference — or are they inseparable?
+- Does the sense of it being "wrong" heighten, distract, or simply dissolve once you're there?
+- Is there a particular type of wrongness — risk of interruption, wrong room, wrong surface — that produces more than others?
+
+**Why people love this:** Most sex happens in one place, which eventually acquires the quality of being the right place — expected, comfortable, and unremarkable. A location that feels specifically wrong disrupts that comfort in a way that reactivates attention. The kitchen counter is different from the bed not just because of the surface but because of what the kitchen means in daily life — the transgression is contextual, not physical. Some people find this quality immediately heightening; others find it dissipates as soon as they're actually in it. Either response tells you something about how much context shapes your experience of desire.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -1072,7 +1178,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Pinching** — skin folds, nipples, inner thigh; sharp localised sensation~~
 - ~~**Nipple play** — fingers, mouth, pinching, twisting, clamps (light pegs to start); sensitivity varies enormously between people~~
 - ~~**Cupping** — suction on skin using hands or mouth; the pulling sensation and marks left~~
-- **Body worship** — dedicated, unhurried attention to a specific body part (not feet)
+- ~~**Body worship** — dedicated, unhurried attention to a specific body part (not feet)~~
 - ~~**Neck kissing and breathing** — breath on the neck, lips, tongue; how proximity and warmth register~~
 - ~~**Ear play** — whispering, breathing, light tongue; how sound and sensation combine~~
 - **Scalp massage** — firm pressure vs. light; distinct from hair pulling
@@ -1085,7 +1191,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Body painting** — using food or body-safe paint; the sensation of application, the visual result
 - **Shaving** — one partner shaving the other; intimacy, vulnerability, trust, and the sensation of a blade
 - ~~**Showering or bathing together** — water temperature, soap, and the particular vulnerability of washing another person~~
-- **Genital massage (non-goal-oriented)** — deliberate touch with no expectation of orgasm; many people have never experienced this
+- ~~**Genital massage (non-goal-oriented)** — deliberate touch with no expectation of orgasm; many people have never experienced this~~
 
 ### Anal Play
 
@@ -1122,7 +1228,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Praise** — verbal affirmation during sex; "good girl/boy/person"; how being told you're doing well lands in an intimate context~~
 - ~~**Degradation (light)** — consensually charged language in the other direction; some people find this deeply activating, others find it a hard no~~
 - ~~**Begging** — the receiver is required to ask for what they want; what that does to both people~~
-- **Humiliation (light)** — being made to feel exposed or silly in a consensual context; distinct from degradation; more about vulnerability than insult
+- ~~**Humiliation (light)** — being made to feel exposed or silly in a consensual context; distinct from degradation; more about vulnerability than insult~~
 - ~~**Eye contact** — sustained, deliberate eye contact during intimacy; how confronting or connecting it is~~
 - ~~**Silence** — no talking, no sound allowed; how that changes awareness and intensity~~
 - ~~**Being watched** — partner observes while you touch yourself; the exposure dynamic~~
@@ -1139,12 +1245,12 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Public/semi-public** — doing something intimate in a context with risk of being seen
 - **Voyeurism** — watching others (consensually, e.g. at a club)
 - **Exhibitionism** — being seen (consensually)
-- **Degradation of space** — sex in unexpected or "wrong" locations in the home; the transgression is part of the appeal
+- ~~**Degradation of space** — sex in unexpected or "wrong" locations in the home; the transgression is part of the appeal~~
 - **Scripted scenes** — a fully written scenario acted out; the preparation and performance as part of the experience
 
 ### Clothing, Aesthetics & Fetish
 
-- **Lingerie** — how particular clothing changes self-perception and the dynamic with a partner
+- ~~**Lingerie** — how particular clothing changes self-perception and the dynamic with a partner~~
 - **Uniforms and costumes** — the psychological effect of wearing or seeing a particular role signalled by clothing
 - **High heels** — the posture, sound, and aesthetics; how wearing them changes embodiment and how they read to a partner
 - **Latex and leather** — sensory qualities: smell, sound, tightness, temperature retention
