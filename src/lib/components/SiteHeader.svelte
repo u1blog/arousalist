@@ -18,6 +18,13 @@
       >
         Browse
       </a>
+      <a
+        href="{base}/settings"
+        class="nav-link"
+        class:nav-link--active={$page.url.pathname === base + '/settings'}
+      >
+        Settings
+      </a>
       <span class="header-progress">{tried}/{EXPERIENCES.length} tried</span>
     </div>
   </nav>

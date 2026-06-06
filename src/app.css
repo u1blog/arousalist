@@ -60,6 +60,42 @@
   --transition:   160ms ease;
 }
 
+[data-theme="dark"] {
+  --bg-page:      #141110;
+  --bg-surface:   #1E1916;
+  --bg-raised:    #231E1A;
+  --bg-dim:       #2A2320;
+
+  --border:       #3A3028;
+  --border-focus: #C86A50;
+
+  --text:         #F0E8DC;
+  --text-secondary: #A89880;
+  --text-muted:   #6A6058;
+
+  --accent:       #C86A50;
+  --accent-hover: #E07A5F;
+  --accent-light: #3A1E17;
+  --accent-dim:   #2D1710;
+
+  --sage:         #5A9A7A;
+  --sage-light:   #1C3A2E;
+  --sage-dim:     #152B22;
+
+  --amber:        #C98E3A;
+  --amber-light:  #3A2C10;
+  --amber-dim:    #2A2010;
+
+  --rating-no-color:       #8A807A;
+  --rating-no-bg:          #2A2420;
+  --rating-no-active-bg:   #3A3430;
+  --rating-yes-plus-color: #5AAF8A;
+  --rating-yes-plus-bg:    #1A3A2E;
+
+  --shadow:       0 2px 8px rgba(0, 0, 0, 0.35);
+  --shadow-md:    0 4px 16px rgba(0, 0, 0, 0.45);
+}
+
 /* =========================================================
    Reset & Base
    ========================================================= */
