@@ -1261,6 +1261,119 @@ This is distinct from Dirty Talk (#21), which is narrating during the act. This 
 
 ---
 
+### 58. Massage with Oil
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Massage oil, coconut oil, or sweet almond oil. No undiluted essential oils directly on skin.
+
+**⚠ Safety first:** Many oils degrade latex. If you use barrier contraception, check compatibility before oil goes anywhere near genitals.
+
+**Solo first:** Pour a small amount of oil onto your forearm and run your fingertips along it. The change is immediate: friction reduces almost completely, and a drag becomes a glide. This is a categorically different sensation type, not just a smoother version of the same thing. Try varying pressure while maintaining the oil. Notice whether the absence of friction heightens or flattens what the skin registers.
+
+**With a partner (the real version):** Giver oils their hands and works through the receiver's body systematically — back and shoulders first, then legs, arms. Move more slowly than feels natural: oil rewards slow strokes in a way dry touch doesn't, and rushing loses most of what it offers. Vary from barely-touching glides to firm sustained contact with the full palm. After a complete pass, return attention to areas where the receiver responded. After one round, switch — the giver's experience of working through oil, the particular warmth and slip of it building under the hands, is worth having.
+
+**Things to explore:**
+- Solo: does near-frictionless contact feel qualitatively different from the same pressure on dry skin — or just smoother?
+- Are there areas of the body where oiled touch produces a noticeably stronger response than dry touch does?
+- As giver: does working through oil change how you give — does the slip quality encourage a different pace or attention?
+- Does the experience of oiled touch feel closer to massage, to something more intimate, or does that distinction dissolve over time?
+
+**Why people love this:** Oil removes the micro-friction of dry skin contact and turns a normal stroke into something between a pull and a float. Many people find oiled touch produces responses in areas that dry touch doesn't particularly activate — the sensation type is different enough that the body responds differently. It also changes the giver's experience: slow deliberate strokes become natural with oil, and the warmth that develops as oil heats against skin becomes part of the sensation itself. The quality of attention from both sides tends to slow down and deepen.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 59. Consensual Non-Consent (Light)
+*👫 Partner only*
+
+**What you need:** Nothing except two clearly agreed signals.
+
+**⚠ Safety first:** This experience requires two explicitly distinct signals agreed before starting: an in-scene resistance signal (character says no — stay in character, continue) and a genuine stop word that ends everything immediately (something that would never appear in-scene: "red," or any clearly unusual word). Any use of the stop word ends the experience completely, no questions. Run this only with someone you trust fully and have established clear communication with.
+
+**What to do:** Before starting, agree on a specific scenario and confirm that in-scene resistance from either person is fictional. Confirm the genuine stop word. Run the scene. The receiver's job is to notice what having permission to resist — within a framework that is actually safe — produces. The giver's job is to stay clearly in the scenario while remaining genuinely alert for the stop word. Debrief fully after: what actually happened in terms of response, not just whether you liked it.
+
+**Things to explore:**
+- As receiver: what did having permission to resist, within genuine safety, actually produce?
+- Was there a moment where the fantasy element and the reality of safety came into tension — or did they coexist cleanly?
+- As giver: how clearly could you hold the distinction between in-scene resistance and a genuine stop throughout?
+- What did the debrief reveal that wasn't apparent during the experience itself?
+
+**Why people love this:** Consensual non-consent allows the receiver to experience the fantasy of resistance — in-scene refusal being continued through — within a framework that is, in reality, fully controlled and safe. Many people carry a version of this but haven't explored it because it requires unusually clear trust and communication. When those conditions are in place, many people find the experience produces a response that straightforward reciprocal giving and receiving doesn't reach. The framework is not incidental: this experience exists only because the genuine stop signal is available, unambiguous, and both people know without question that it will be honoured.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 60. Silk and Satin
+*🧍➡️👫 Better with a partner*
+
+**What you need:** A piece of silk, satin, or similar smooth fabric.
+
+**Solo first:** Draw the fabric slowly across your inner arm, the back of your neck, your face. Vary from barely-touching to pressing it firmly against skin. You're checking whether this end of the texture spectrum does anything at all — whether near-frictionless contact registers as sensation, and whether it's pleasant, neutral, or ticklish. Many people are surprised by how strong their response is to something this apparently slight.
+
+**With a partner (the real version):** Receiver lies back, minimal clothing or none. Giver draws the fabric slowly across different areas — varying from barely-touching glides to sustained firm contact, and from large surfaces (the whole back) to specific attention (the crook of an elbow, behind the knee). Combine with a blindfold: without the visual prediction of where the fabric will move, the contact arrives as a surprise each time. After one round, switch.
+
+**Things to explore:**
+- Solo: does very soft, low-friction fabric produce any response — or does the near-absence of texture mean near-absence of sensation?
+- As receiver: is there a pressure or pace where silk/satin becomes genuinely activating rather than just pleasant?
+- Does the temperature of the fabric against warm skin register separately from the texture itself?
+- As giver: does working with extremely soft material — choosing where it moves across the receiver's body — carry any of the engagement of other tools?
+
+**Why people love this:** Silk and satin sit at the opposite end of the texture spectrum from rough materials in Texture Play (#2). Where rough textures produce sensation through friction, smooth fabric produces sensation through near-frictionlessness — the touch registers at the edge of contact, and the nervous system responds to that edge distinctly. Many people find the response is disproportionate to the apparent lightness of the contact. The blindfolded partner version tends to amplify this significantly, because the brain can't predict where the fabric will arrive next.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 61. Cunnilingus / Fellatio Focus
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** One partner gives oral sex to the other for the full duration — not as warm-up, not transitioning to anything else. This is the whole experience. Set a minimum time (twenty minutes) and stay with it. The receiver's job is to notice how the experience changes when there's no expectation of what comes next: no monitoring of progress, no awareness of transitioning, no managing of timing. The giver's job is to attend fully without positioning this as a precursor to something else. After one round, switch.
+
+**Things to explore:**
+- As receiver: does the experience change when you're not managing progress toward something else?
+- Is there a moment of adjustment — where the habit of anticipating what comes next has to be noticed and released?
+- As giver: does removing the forward momentum change how you give — how you attend, how long you stay in one place?
+- Do you find this more or less satisfying than the same activity as foreplay — and what does the difference tell you?
+
+**Why people love this:** Oral sex is most commonly experienced as a transition — something that happens before something else. Treating it as the main event removes the forward momentum that usually shapes it. For receivers, the absence of anticipating what comes next changes how fully present they can be — there's nothing to manage forward, nothing to track. For givers, it removes the time pressure that foreplay usually carries. Many people discover that oral sex as the whole experience produces a qualitatively different quality of attention from both sides than oral sex as a beginning.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 62. Food Play
+*🧍 Solo start*
+
+**What you need:** Food that works on skin: honey, chocolate sauce, ice cream, or whipped cream. A towel.
+
+**Solo:** Apply a small amount of honey or chocolate sauce to your inner arm. Run a finger slowly through it. Lick it off. Try ice cream on the same spot — colder, different texture, the quality of melting. You're checking whether the multi-sensory combination — temperature, texture, smell, and taste arriving together on skin rather than separately — produces anything that touch alone doesn't.
+
+**With a partner:** One partner applies food to the other's body — stomach, chest, neck, shoulders — and attends to it with mouth and tongue. Vary between different foods (warm honey vs. cold ice cream), different areas, and different ways of applying and removing. The giver controls what goes where and how long before attending to it. After one round, switch. The aesthetic and visual dimension — food on skin, the smell, the particular intimacy of removing it with your mouth — is part of the experience for many people, not incidental to it.
+
+**Things to explore:**
+- Solo: does the multi-sensory combination (temperature, texture, smell, and taste together) produce anything that touch alone doesn't?
+- Are there specific foods or temperatures that produce a stronger response than others?
+- As receiver: does mouth-contact involved in removing food feel different from other oral contact?
+- As giver: does the visual quality of food on skin — the deliberate mess of it — produce any engagement of its own?
+
+**Why people love this:** Food play introduces taste and smell into an experience that normally operates on touch alone. The multi-sensory combination — particularly temperature contrast and the smell of something sweet — activates different perceptual channels simultaneously. Some people find this creates a qualitatively richer experience; others find the sensory addition comedic or distracting. The response to whether food play is inherently intimate or inherently silly tends to be strong and immediate, which makes it worth finding out. The solo version is a genuine entry point: testing the combination alone first means the partner version isn't the first time you've encountered your own response.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -1294,11 +1407,11 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Ear play** — whispering, breathing, light tongue; how sound and sensation combine~~
 - ~~**Scalp massage** — firm pressure vs. light; distinct from hair pulling~~
 - ~~**Full body skin contact** — sustained close physical contact; skin-to-skin over a large area~~
-- **Massage with oil** — how lubrication changes the quality of touch entirely
+- ~~**Massage with oil** — how lubrication changes the quality of touch entirely~~
 - ~~**Vibration** — household massager or electric toothbrush on non-genital areas; unexpected erogenous zones~~
 - ~~**Pressure and weight** — a partner's body weight on you; pinned vs. restrained~~
 - ~~**Dry humping / clothed contact** — friction and pressure with clothes on; anticipation and frustration~~
-- **Food play** — temperature, texture, and taste brought onto the body; chocolate, honey, ice cream
+- ~~**Food play** — temperature, texture, and taste brought onto the body; chocolate, honey, ice cream~~
 - **Body painting** — using food or body-safe paint; the sensation of application, the visual result
 - **Shaving** — one partner shaving the other; intimacy, vulnerability, trust, and the sensation of a blade
 - ~~**Showering or bathing together** — water temperature, soap, and the particular vulnerability of washing another person~~
@@ -1350,7 +1463,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Confessing fantasies** — telling a partner something you've never said out loud; the vulnerability and relief of that~~
 - ~~**Role play (basic)** — agreed-on personas or scenarios; stranger, authority figure, service worker, etc.~~
 - **Age play (adult)** — one or both partners adopting an adult persona with exaggerated innocence or authority; distinct from anything involving minors
-- **Consensual non-consent (light)** — "no" means keep going, "red" means stop; the fantasy of resistance within a trusted framework
+- ~~**Consensual non-consent (light)** — "no" means keep going, "red" means stop; the fantasy of resistance within a trusted framework~~
 - **Somnophilia (consensual)** — pre-agreed touching while a partner is asleep or pretending to be; the fantasy of being acted upon without awareness
 - **Cuckolding / compersion** — a partner being with someone else while you watch or know; the complex interplay of jealousy and arousal
 - **Public/semi-public** — doing something intimate in a context with risk of being seen
@@ -1365,7 +1478,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Uniforms and costumes** — the psychological effect of wearing or seeing a particular role signalled by clothing
 - **High heels** — the posture, sound, and aesthetics; how wearing them changes embodiment and how they read to a partner
 - **Latex and leather** — sensory qualities: smell, sound, tightness, temperature retention
-- **Silk and satin** — the opposite end of the texture spectrum; how very soft fabric against skin feels during intimacy
+- ~~**Silk and satin** — the opposite end of the texture spectrum; how very soft fabric against skin feels during intimacy~~
 - **Cross-dressing** — wearing clothing associated with another gender; how that changes the experience of the body
 - ~~**Nudity asymmetry** — one person clothed, one naked; what that imbalance produces in both people~~
 - **Corsetry and compression** — being held tightly around the torso; how sustained compression feels over time
@@ -1382,7 +1495,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Deep kissing / throat** — fingers or other objects at the back of the throat; the gag reflex and the psychological experience of that threshold
 - ~~**Breath control (very light)** — a hand resting on the throat with no pressure; the psychological weight even without physical restriction. *Note: anything beyond this requires experience and belongs in Cat 3.*~~
 - ~~**Oral fixation** — fingers in the mouth, using the mouth to hold something; what the mouth responds to when it isn't kissing~~
-- **Cunnilingus / fellatio focus** — oral sex as the main event rather than foreplay; how the experience changes when it isn't a precursor to something else
+- ~~**Cunnilingus / fellatio focus** — oral sex as the main event rather than foreplay; how the experience changes when it isn't a precursor to something else~~
 - **Spitting** — into a partner's mouth, on a partner's body; a charged act that some find intensely erotic and others find off-putting; worth knowing which
 
 ### Body Fluids & Mess
