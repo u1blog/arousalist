@@ -719,6 +719,116 @@ There are no right answers. The goal is honest self-knowledge. Go slowly, pay at
 
 ---
 
+### 33. Pinching
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Just hands.
+
+**⚠ Safety first:** Build pressure gradually — it's easy to misjudge how firm a pinch feels to someone else. Avoid pinching over bony areas, broken skin, or moles.
+
+**Solo first:** Pinch small folds of skin across different areas: inner thigh, upper arm, the side of the torso, back of the upper arm. Vary from very light to firm, and from a small pinch to gathering a larger fold. You're mapping your body's response to sharp localised pressure — which areas produce something interesting, which just hurt, and whether there's a threshold where the sensation shifts from one to the other.
+
+**With a partner (the real version):** Giver works through the same areas without announcing where next. Vary between very light and firm, and between a quick pinch and holding pressure sustained. Pay attention to the temporary redness that firm pinching leaves — the visual mark is often part of the experience for both people, not incidental to it. After one round, switch roles.
+
+**Things to explore:**
+- Solo: is there a threshold where the sensation shifts from uncomfortable to interesting?
+- Are there areas where pinching produces a stronger response than you'd predicted?
+- As receiver: does a sustained pinch feel different from a quick one — and which do you prefer?
+- As giver: does the act of leaving a temporary mark — visible evidence of pressure — feel interesting, neutral, or something else?
+
+**Why people love this:** Pinching delivers sharp, localised sensation with precise control — both pressure and location are entirely under the giver's direction. The inner thigh in particular tends to surprise people. The sensation sits in a similar zone to scratching: sharp enough to demand full attention, not so overwhelming it shuts anything down. The temporary redness left by firmer pinches carries something of the same weight as scratch marks — evidence of intensity that fades within minutes.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 34. Role Play (Basic)
+*👫 Partner only*
+
+**What you need:** Nothing required; optionally a simple costume element or prop.
+
+**What to do:** Agree on a simple scenario before starting — a pair of roles that creates a clear asymmetry. Don't overcomplicate it: stranger and local, authority figure and subordinate, service worker and customer. The scenario exists to give each person a different position to inhabit, not to stage a performance. Start in character and stay there until an agreed time is up (fifteen to twenty minutes works well). Agree beforehand on a word that means "I'm speaking as myself now" — use it if needed, then return to character or stop. After one round, try swapping roles or try a different scenario.
+
+**Things to explore:**
+- Does inhabiting a persona feel freeing, awkward, or both?
+- Is it easier to say or do things in character that you wouldn't say or do as yourself?
+- As the person in the lower-status role: does the structure of the scenario change how receiving attention feels?
+- Does a particular type of scenario — stranger, authority, service — produce more interest than others?
+
+**Why people love this:** Personas create a frame of plausible deniability that makes certain dynamics easier to enter. Things that feel presumptuous or too revealing to do as yourself become possible within a role — not because the person is pretending to be someone else, but because the character grants permissions the person hasn't granted themselves. The psychological relief of inhabiting a role is often the main draw, and many people find that even a thin fictional frame substantially changes what they're able to access.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 35. Breath Control (Very Light)
+*👫 Partner only*
+
+**What you need:** Just a hand.
+
+**⚠ Safety first:** This experience is specifically a hand placed flat on the throat with no pressure applied — the intent is the weight of placement alone, not restriction of any kind. Never squeeze, press down, cover the nose and mouth, or use a forearm. Anything beyond a flat resting hand belongs in a guided setting with someone who has specific training.
+
+**What to do:** Partner places their hand flat on the receiver's throat — palm down, fingers relaxed, no downward pressure. Just resting there. The receiver's job is to notice what happens in their body and mind from placement alone, with no restriction occurring. Hold for one to two minutes, then remove the hand completely and notice the difference. Then place it again. The experience is entirely psychological: nothing is being restricted, but the brain responds to the placement as if it were significant regardless. After one round, switch roles.
+
+**Things to explore:**
+- As receiver: what does the placement alone produce, before anything has actually changed?
+- Does the response feel more physical (tension, heightened awareness) or more psychological (the weight of the gesture)?
+- Is the removal of the hand as significant as its placement?
+- As giver: what does it feel like to be trusted with that placement — to hold it with no intent to act on it?
+
+**Why people love this:** The throat is one of the most vulnerability-laden parts of the body. A hand placed there — even with no pressure — triggers the same alertness response as actual restriction, because the brain reads proximity as the act itself. For many people, the response this placement produces is disproportionate to what is physically happening: the gesture carries more weight than its physical content. This is the entry-level version of an experience that carries real risk at higher intensities; its value here is in finding out whether the psychological dimension alone produces anything worth knowing about.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 36. Smell and Scent
+*🧍➡️👫 Better with a partner*
+
+**What you need:** A piece of worn clothing from a partner for the solo version; yourselves for the partner version.
+
+**Solo first:** Take a worn piece of clothing — a t-shirt, a pillowcase — and notice what your partner's scent produces. Not whether you like it in the abstract, but what it actually does: does it produce any pull toward them, feel neutral, feel like something? You're checking whether olfactory attraction is operating for you at all, which most people have never deliberately tested.
+
+**With a partner (the real version):** During physical contact, give deliberate attention to your partner's natural scent — not product, not perfume, but the scent of their skin and hair. Spend time at the neck, inner wrist, scalp, and chest. Notice what the smell produces as distinct from what the touch produces. Take turns. Some people find their partner's natural scent is one of the most activating things about them; others find it largely neutral. Both are worth knowing.
+
+**Things to explore:**
+- Solo: does your partner's scent on worn clothing produce any response, or is smell essentially neutral for you?
+- With a partner: are there parts of the body where their scent is stronger or more activating?
+- Does the response to smell operate independently — i.e., does it produce something even when nothing else is happening?
+- Is there a difference between how you respond to natural scent and how you respond to worn fragrance?
+
+**Why people love this:** Olfactory attraction operates largely beneath conscious awareness, which means most people have never checked whether it's doing anything. The nose has direct connections to the brain's limbic system — bypassing the cortex — which is why smell can produce an immediate emotional response before any analysis happens. Some people discover that their partner's natural scent is one of the most activating things about them; others find it's essentially neutral. Either is useful to know, and the solo version (worn clothing) makes this a genuinely accessible first check.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 37. Mirror
+*👫 Partner only*
+
+**What you need:** A mirror large enough to see yourselves together.
+
+**What to do:** During physical activity, position yourselves where you can see the two of you in the mirror — not catching a glimpse, but actually watching. The receiver's job is to notice how watching changes the experience. The giver's job is to watch both themselves and the receiver, and notice what seeing the act as well as doing it produces. Spend at least ten minutes with the mirror accessible before stopping to compare. There's often a strong reaction in one direction or the other — intensifying, or immediately alienating — and the direction itself is the data.
+
+**Things to explore:**
+- Does watching yourself change how you inhabit your body — more self-conscious, more present, or both?
+- Do you find yourself watching your own face, your partner's, or the two of you together — and does what you focus on shift?
+- Does the mirror feel connecting or distancing?
+- Is there a difference between accidentally catching a glimpse and deliberately holding the look?
+
+**Why people love this:** The mirror introduces a viewer's perspective into an experience that is normally entirely interior. You're watching two people, one of whom is you — a position the brain doesn't entirely know what to do with. Some people find this self-witnessing immediately arousing: the visual confirmation of what's happening makes it more real. Others find the self-awareness it introduces distracting — they can't stop monitoring how they look. Both responses tell you something specific about how you experience desire: from the inside, or with part of you watching from outside.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -744,7 +854,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 
 - ~~**Massage** — full body, varying pressure; distinguishing relaxation from arousal~~
 - ~~**Tickling** — from light to intense; the edge between pleasure and overwhelm~~
-- **Pinching** — skin folds, nipples, inner thigh; sharp localised sensation
+- ~~**Pinching** — skin folds, nipples, inner thigh; sharp localised sensation~~
 - ~~**Nipple play** — fingers, mouth, pinching, twisting, clamps (light pegs to start); sensitivity varies enormously between people~~
 - **Cupping** — suction on skin using hands or mouth; the pulling sensation and marks left
 - **Body worship** — dedicated, unhurried attention to a specific body part (not feet)
@@ -806,7 +916,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Talking about it** — explicit verbal description of what's happening or what will happen; how words intensify physical experience
 - ~~**Dirty talk** — narrating during sex; some find it transformative, others find it deflating or funny~~
 - ~~**Confessing fantasies** — telling a partner something you've never said out loud; the vulnerability and relief of that~~
-- **Role play (basic)** — agreed-on personas or scenarios; stranger, authority figure, service worker, etc.
+- ~~**Role play (basic)** — agreed-on personas or scenarios; stranger, authority figure, service worker, etc.~~
 - **Age play (adult)** — one or both partners adopting an adult persona with exaggerated innocence or authority; distinct from anything involving minors
 - **Consensual non-consent (light)** — "no" means keep going, "red" means stop; the fantasy of resistance within a trusted framework
 - **Somnophilia (consensual)** — pre-agreed touching while a partner is asleep or pretending to be; the fantasy of being acted upon without awareness
@@ -831,14 +941,14 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Masks** — wearing a mask (anonymity, persona) or having a partner masked (the effect of obscured identity)
 - **Objectification** — being treated as a beautiful object rather than a person; some find this freeing, others find it alienating
 - **Body modification aesthetics** — piercings, tattoos, scars as erotic rather than just cosmetic; how permanent marks on a body are experienced intimately
-- **Smell and scent** — a partner's natural scent; worn clothing; how olfactory attraction operates
+- ~~**Smell and scent** — a partner's natural scent; worn clothing; how olfactory attraction operates~~
 
 ### Oral & Breath
 
 - ~~**Slow kissing** — deliberate, unhurried; different from functional kissing~~
 - **Kissing without hands** — lips only; how constraint changes the intensity
 - **Deep kissing / throat** — fingers or other objects at the back of the throat; the gag reflex and the psychological experience of that threshold
-- **Breath control (very light)** — a hand resting on the throat with no pressure; the psychological weight even without physical restriction. *Note: anything beyond this requires experience and belongs in Cat 3.*
+- ~~**Breath control (very light)** — a hand resting on the throat with no pressure; the psychological weight even without physical restriction. *Note: anything beyond this requires experience and belongs in Cat 3.*~~
 - **Oral fixation** — fingers in the mouth, using the mouth to hold something; what the mouth responds to when it isn't kissing
 - **Cunnilingus / fellatio focus** — oral sex as the main event rather than foreplay; how the experience changes when it isn't a precursor to something else
 - **Spitting** — into a partner's mouth, on a partner's body; a charged act that some find intensely erotic and others find off-putting; worth knowing which
@@ -882,7 +992,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 ### Positions, Space & Logistics
 
 - **Different locations** — the effect of context; floor vs. bed vs. outdoors vs. car
-- **Mirror** — watching yourselves; some find it connecting, others find it distracting or alienating
+- ~~**Mirror** — watching yourselves; some find it connecting, others find it distracting or alienating~~
 - **Time constraints** — deliberate urgency vs. deliberate slowness; how time pressure changes the experience
 - ~~**Edging (solo)** — bringing yourself to the edge repeatedly before allowing orgasm; training attention and body awareness~~
 - **Extended sessions** — deliberately long; how the experience shifts when there's no rush and no endpoint
