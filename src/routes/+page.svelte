@@ -1,5 +1,7 @@
 <script>
   import { base } from '$app/paths';
+  import { EXPERIENCES } from '$lib/data.js';
+  const count = EXPERIENCES.length;
 </script>
 
 <svelte:head>
@@ -12,7 +14,7 @@
   <p class="hero-eyebrow">A personal discovery guide</p>
   <h1 class="hero-title">Explore what<br><em>you're into</em></h1>
   <p class="hero-subtitle">
-    Twelve structured experiences — solo or with a partner — with a simple rating system to
+    {count} structured experiences — solo or with a partner — with a simple rating system to
     help you build honest self-knowledge about what you respond to and why.
   </p>
   <a href="{base}/experiences" class="btn-primary">Browse the Experiences →</a>
@@ -119,7 +121,7 @@
 <section class="cta-section">
   <div class="container" style="text-align:center">
     <h2>Ready to start?</h2>
-    <p>Browse all twelve experiences, filter by tier or type, and track your progress as you go. Your data stays in your browser — private, local, and never shared.</p>
+    <p>Browse all {count} experiences, filter by tier or type, and track your progress as you go. Your data stays in your browser — private, local, and never shared.</p>
     <a href="{base}/experiences" class="btn-primary">Explore the Experiences →</a>
   </div>
 </section>
