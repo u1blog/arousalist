@@ -1,6 +1,28 @@
 import { writable } from 'svelte/store';
 import { browser } from '$app/environment';
 
+const THEME_KEY = 'kdg_theme';
+
+function createThemeStore() {
+  const defaultTheme = 'dark';
+  const initial = browser ? (localStorage.getItem(THEME_KEY) ?? defaultTheme) : defaultTheme;
+  const store = writable(initial);
+
+  if (browser) {
+    store.subscribe(value => localStorage.setItem(THEME_KEY, value));
+  }
+
+  return {
+    subscribe: store.subscribe,
+    set: store.set,
+    toggle() {
+      store.update(t => (t === 'dark' ? 'light' : 'dark'));
+    },
+  };
+}
+
+export const theme = createThemeStore();
+
 const STORAGE_KEY = 'kdg_progress';
 
 function loadFromStorage() {
