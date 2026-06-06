@@ -1150,6 +1150,117 @@ You can also run this as a standalone exercise — lie together after ordinary i
 
 ---
 
+### 53. Scalp Massage
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Just hands.
+
+**Solo first:** Work your fingertips across your own scalp — firm circular pressure at the base of the skull, behind the ears, at the temples, across the crown. Then try very light fingernail dragging across the same areas. Notice which produces more response, and where on the scalp you feel it most. You're establishing your baseline before someone else's hands introduce unpredictability.
+
+**With a partner (the real version):** Receiver sits or lies back with eyes closed. Giver works through the scalp methodically: base of skull, behind and above the ears, temples, crown, forehead hairline. Vary between firm thumb pressure held in one spot, slow circular fingertip motion, and light fingernail dragging across the full surface. Take longer than feels necessary in each area before moving on. The unpredictability of where the attention goes next is most of what the partner version adds. After one round, switch.
+
+**Things to explore:**
+- Solo: which type of scalp contact produces the most — pressure, circular motion, or light fingernail dragging?
+- As receiver: are there specific areas of the scalp that register much more than others?
+- Does the response feel relaxing, arousing, or does it shift between the two over time?
+- As giver: does working slowly and methodically through someone's scalp — staying longer than feels natural — produce a different quality of focus than other types of touch?
+
+**Why people love this:** The scalp has a higher density of nerve endings than most of the body, which is why even functional scalp contact — a haircut, a shampoo — produces a noticeable response in most people. Sustained, deliberate attention here from a partner produces something stronger than the functional variety, and many people find it disproportionately powerful relative to its apparent simplicity. It also sits in an unusual space: simultaneously relaxing and intimate, in a way that makes it hard to separate those two qualities.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 54. Ruined Orgasm
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** The receiver indicates clearly when they are approaching the point of no return. At that exact moment — not before it, not well past it — the giver either removes all stimulation completely or changes it significantly. The result is an orgasm that happens but without the accompanying sensation intensity: physiologically present, subjectively diminished. The receiver experiences something between orgasm and nothing. After one round, compare: what did it produce, and how did the aftermath feel compared to a full orgasm? Agree on a clear signal before starting — timing is everything, and the signal needs to be specific enough that the giver can act on it precisely.
+
+**Things to explore:**
+- As receiver: what did the ruined orgasm produce — frustration, an unusual physical sensation, something more complex?
+- How did the aftermath feel compared to a full orgasm — more or less satisfied, more or less aroused?
+- As giver: what was it like to read the receiver precisely enough to act at exactly the right moment?
+- Is this something you'd want to repeat — or is once enough to know your response?
+
+**Why people love this:** A ruined orgasm occupies a genuinely strange category: physiologically it is an orgasm, but the subjective experience often lacks the satisfaction that usually follows. For some receivers this is frustrating in an interesting way — they're left in an elevated state without the resolution they expected. For others it's simply unsatisfying in a way that tells them they prefer the full version. That difference is worth knowing. The giver's experience of timing this precisely — reading the receiver closely enough to act at exactly the right moment — requires a quality of attention that many find engaging in its own right.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 55. Oral Fixation
+*🧍➡️👫 Better with a partner*
+
+**What you need:** Clean hands.
+
+**Solo first:** Place two fingers into your own mouth and notice what the mouth does: whether it closes around them, whether there's an instinct to suck, what the tongue does. Hold them there for a minute. You're not doing anything — you're noticing what the mouth does on its own when something is placed in it. That response (or its absence) is the baseline.
+
+**With a partner (the real version):** Giver places one or two clean fingers into the receiver's mouth and holds them there. The giver can move them slowly, press gently against the tongue, change depth — but without directing the receiver. The receiver's job is simply to notice what their mouth does with them: whether it holds, sucks, bites lightly, stays passive. After one round, switch — the experience of having your fingers held in someone's mouth, feeling what the receiver's mouth does, is a distinct experience from being the one whose mouth is occupied.
+
+**Things to explore:**
+- Solo: does your mouth have any particular instinctive response when something is placed in it?
+- As receiver: does having fingers in your mouth produce arousal, comfort, an urge to perform, or something that resists categorisation?
+- As giver: what does it feel like to have your fingers held in someone else's mouth — to feel what their mouth does with them?
+- Does any response here connect to anything else you've noticed about yourself in this guide?
+
+**Why people love this:** The mouth is one of the most sensitive and psychologically loaded parts of the body. What it does when something is placed there — whether it holds, sucks, bites, or stays passive — often reflects something about orientation and desire that isn't consciously available through other routes. For some people, having their mouth occupied produces something they find difficult to categorise but immediately recognise as significant. For givers, feeling the receiver's mouth respond is a form of direct physical feedback that's unusually immediate.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 56. Talking About It
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** Before physical activity begins, spend ten to fifteen minutes describing to your partner exactly what you're going to do — not as negotiation, not as question-and-answer, but as deliberate description. Then do what you described. Alternatively: after an experience, describe it back to each other in specific detail. Or use description as the primary mode for a period before any contact begins — words first, contact later. The variable being tested is what sustained verbal description of intention, of memory, or of what's being noticed does to desire on its own.
+
+This is distinct from Dirty Talk (#21), which is narrating during the act. This experience is about description as foreplay — words that precede, or follow, rather than accompany.
+
+**Things to explore:**
+- Does describing what you're going to do change your experience of doing it?
+- As receiver of description: does hearing an explicit account of what's coming change how you anticipate it?
+- Is it easier to describe future intentions or past experiences — and does that asymmetry tell you anything?
+- Does sustained verbal description without physical contact produce any arousal on its own?
+
+**Why people love this:** Language about sex can precede, accompany, or follow the physical experience, and the timing changes what it does. Describing what's going to happen builds a mental image that the body then arrives to meet; describing what happened afterwards consolidates it in a way that can make the experience feel like it continues. Many people find the description phase produces as much arousal as what follows it. Some people also discover that they communicate desire much more naturally in the future or past tense — in intention and memory — than in the present-tense narration of dirty talk.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 57. Scheduled Sex
+*🧍➡️👫 Better with a partner*
+
+**What you need:** A shared calendar and a few days.
+
+**Solo first:** Agree a specific time with your partner — not vague ("this weekend"), but specific ("Saturday at 8pm"). Between now and then, pay deliberate attention to what the anticipation produces. Does knowing produce excitement, pressure, or both? Do you find yourself thinking about it often, or trying not to? The anticipation period is the solo version of this experience, and it's genuinely informative on its own.
+
+**With a partner (the encounter itself):** At the agreed time, follow through — specifically as scheduled, not as an encounter that happens to start at that time. Notice whether the planned quality changes how you arrive to it. Arrive having already been thinking about it. After, compare: did anticipation enhance the experience, deflate it, or produce something more complicated than either?
+
+**Things to explore:**
+- During the anticipation period: does knowing what's coming produce excitement, pressure, or a mixture that shifts over time?
+- Does the planned quality change how you experience the encounter once you're in it?
+- Is there a difference between the anticipation being enjoyable and the experience itself meeting the anticipation?
+- Does knowing your partner is also anticipating it change what the anticipation feels like?
+
+**Why people love this:** Spontaneous and planned sex are genuinely different experiences, and most people have a strong preference without having deliberately tested both. Scheduled sex arrives with the full weight of anticipation — both people have been thinking about it, and that thinking enters the room with them. For some people this is better: the anticipation is pleasurable in itself and the encounter benefits from the run-up. For others, the expectation makes it harder to be fully present. Knowing which is true for you is practically useful in ways that go beyond this guide.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -1181,7 +1292,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Body worship** — dedicated, unhurried attention to a specific body part (not feet)~~
 - ~~**Neck kissing and breathing** — breath on the neck, lips, tongue; how proximity and warmth register~~
 - ~~**Ear play** — whispering, breathing, light tongue; how sound and sensation combine~~
-- **Scalp massage** — firm pressure vs. light; distinct from hair pulling
+- ~~**Scalp massage** — firm pressure vs. light; distinct from hair pulling~~
 - ~~**Full body skin contact** — sustained close physical contact; skin-to-skin over a large area~~
 - **Massage with oil** — how lubrication changes the quality of touch entirely
 - ~~**Vibration** — household massager or electric toothbrush on non-genital areas; unexpected erogenous zones~~
@@ -1217,7 +1328,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Cock and ball binding (light)** — a soft cord or cock ring creating mild constriction; the sensation of pressure and the visual/psychological effect
 - **Trampling / pressure** — a partner applying foot or body weight; the sensation and the power dynamic combined
 - **Edging** — bringing someone to the edge of orgasm and stopping repeatedly; the buildup and the psychological experience of denial
-- **Ruined orgasm** — stimulation stopped or changed at the point of no return; a distinct and divisive experience worth knowing about
+- ~~**Ruined orgasm** — stimulation stopped or changed at the point of no return; a distinct and divisive experience worth knowing about~~
 - **Advanced / Cat 3** — parachute harnesses, ball stretchers, more intense impact, formal CBT equipment; experienced practitioners only
 
 ### Psychological & Dynamic
@@ -1234,7 +1345,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Being watched** — partner observes while you touch yourself; the exposure dynamic~~
 - ~~**Watching** — observing a partner touch themselves; what it's like to witness rather than participate~~
 - ~~**Mutual masturbation** — both partners touching themselves simultaneously; shared but separate~~
-- **Talking about it** — explicit verbal description of what's happening or what will happen; how words intensify physical experience
+- ~~**Talking about it** — explicit verbal description of what's happening or what will happen; how words intensify physical experience~~
 - ~~**Dirty talk** — narrating during sex; some find it transformative, others find it deflating or funny~~
 - ~~**Confessing fantasies** — telling a partner something you've never said out loud; the vulnerability and relief of that~~
 - ~~**Role play (basic)** — agreed-on personas or scenarios; stranger, authority figure, service worker, etc.~~
@@ -1270,7 +1381,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Kissing without hands** — lips only; how constraint changes the intensity~~
 - **Deep kissing / throat** — fingers or other objects at the back of the throat; the gag reflex and the psychological experience of that threshold
 - ~~**Breath control (very light)** — a hand resting on the throat with no pressure; the psychological weight even without physical restriction. *Note: anything beyond this requires experience and belongs in Cat 3.*~~
-- **Oral fixation** — fingers in the mouth, using the mouth to hold something; what the mouth responds to when it isn't kissing
+- ~~**Oral fixation** — fingers in the mouth, using the mouth to hold something; what the mouth responds to when it isn't kissing~~
 - **Cunnilingus / fellatio focus** — oral sex as the main event rather than foreplay; how the experience changes when it isn't a precursor to something else
 - **Spitting** — into a partner's mouth, on a partner's body; a charged act that some find intensely erotic and others find off-putting; worth knowing which
 
@@ -1317,7 +1428,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Time constraints** — deliberate urgency vs. deliberate slowness; how time pressure changes the experience
 - ~~**Edging (solo)** — bringing yourself to the edge repeatedly before allowing orgasm; training attention and body awareness~~
 - **Extended sessions** — deliberately long; how the experience shifts when there's no rush and no endpoint
-- **Scheduled sex** — deliberately planned and anticipated; whether anticipation enhances or deflates
+- ~~**Scheduled sex** — deliberately planned and anticipated; whether anticipation enhances or deflates~~
 - ~~**Aftercare exploration** — what each person actually needs after intensity; holding, space, food, silence; worth knowing before you need it~~
 - **Talking before** — negotiating or describing what you want before doing it; the effect of anticipation built through words
 - **Sober vs. altered** — for those who've only had sex in one state; what changes about awareness, inhibition, and sensation
