@@ -829,6 +829,111 @@ There are no right answers. The goal is honest self-knowledge. Go slowly, pay at
 
 ---
 
+### 38. Degradation (Light)
+*👫 Partner only*
+
+**What you need:** Nothing.
+
+**What to do:** Before starting, the receiver specifies a small set of charged words or phrases that are acceptable — not a general permission for anything, but a specific short list they've explicitly approved. The giver uses those words during physical activity when they feel natural, and only those words. The receiver's job is to notice their immediate reaction: does the language produce any charge, or does it land flat? Agree on a word to stop before starting. After one round, switch roles — giving and receiving charged language are often very different experiences, and many people find they have a strong preference for one side.
+
+**Things to explore:**
+- As receiver: does the language produce any response — charge, embarrassment, nothing, or something unexpected?
+- Is there a specific word or phrase that lands harder than others — and is it the meaning, the sound, or the context?
+- As giver: does using charged language about someone you're intimate with feel natural, uncomfortable, or produce something you didn't predict?
+- How does this compare to Praise — does your reaction differ, and what does the difference tell you?
+
+**Why people love this:** Degradation works, when it works, through contrast: a word that would be an insult in ordinary life becomes charged specifically because of the context that surrounds it. The gap between the word's everyday meaning and the intimacy of the moment produces a response that affirmation doesn't. For people to whom it lands, this tends to produce a specific intensity — not in spite of the language but because of it. For those it doesn't reach, the flatness is also informative: it points to something about how language and arousal connect for you, which comparing this experience against Praise often makes clearer.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 39. Aftercare Exploration
+*👫 Partner only*
+
+**What you need:** Nothing except time and the willingness to name what you actually need.
+
+**What to do:** After any experience of significant intensity, don't immediately move on. Designate the next twenty minutes as a deliberate aftercare window. Each person names, out loud, what they actually need right now: physical closeness, physical space, talking, silence, warmth, food, distraction. The rule is to answer honestly rather than defaulting to what seems undemanding. The other person's job is to provide what was asked, without substituting what they'd prefer to give. After the window, compare: was what you asked for what you needed?
+
+You can also run this as a standalone exercise — lie together after ordinary intimacy, with both people naming one thing they actually want from the next twenty minutes. It doesn't require a preceding high-intensity experience to be useful.
+
+**Things to explore:**
+- What was your first instinct in the moments right after the experience ended?
+- Did you ask for what you actually needed, or for what seemed easy or acceptable to ask?
+- Is there a gap between what you asked for and what you discovered you wanted once it was provided?
+- Does receiving exactly what you requested feel different from receiving what someone assumed you'd want?
+
+**Why people love this:** Most couples navigate post-intensity time on autopilot — doing what seems expected, what they've always done, or whatever is least complicated to ask for. Finding out what you actually need, and being able to name it plainly, often surfaces a mismatch that has been operating quietly for a long time. Some people need close physical contact immediately; others need physical space. Some need words; others need silence. Knowing which you are — and knowing which your partner is — prevents a specific kind of post-experience misreading that can quietly undercut everything that came before it.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 40. Dry Humping / Clothed Contact
+*👫 Partner only*
+
+**What you need:** Clothing — at minimum underwear on both people throughout.
+
+**What to do:** Both partners keep clothes on for the duration — nothing removed or moved aside. The activity is friction, pressure, and movement through fabric rather than direct contact. Try different positions: lying together, sitting astride, pressed against a wall, standing. Try different types of movement: grinding, sustained pressure, intermittent contact. Notice which combinations produce the most response given the barrier. Stay in this for at least fifteen minutes without escalating to skin contact — the constraint is the point, not a limitation to get past.
+
+**Things to explore:**
+- Does the constraint of clothing heighten or dampen arousal compared to what you'd expect?
+- Is there a specific position or type of movement that produces the most response through fabric?
+- Does the sense of partial access — anticipation without release — produce its own quality?
+- How does sustained clothed contact compare to moving directly to skin?
+
+**Why people love this:** Dry humping is usually treated as something you do before you can do more — a junior version of something else. Treated as the whole experience rather than a prelude, it has specific qualities that direct contact doesn't produce: fabric creates a different type of friction, the barrier keeps arousal consistently elevated without resolution, and the forced incompleteness focuses full attention on the contact that is available. Many people find the resulting arousal significantly more intense than a direct approach, because nothing is being resolved.
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 41. Kissing Without Hands
+*👫 Partner only*
+
+**What you need:** Just yourselves.
+
+**What to do:** Both partners keep hands completely still — at their sides, behind their backs, or resting on a surface — for the full duration. Lips only. No hands on hair, face, neck, or body. If hands move, stop and return them. Hold this for at least ten minutes. The constraint changes what the kiss has to do: everything that hands usually provide — direction, urgency, closeness, adjustment — must now come through the lips alone. After ten minutes, release the constraint and notice what changes when the hands return.
+
+**Things to explore:**
+- Does removing the hands change how the kissing itself feels — more or less intense?
+- Is there something hands usually provide that the lips try to compensate for without them?
+- Does the restraint feel frustrating, focusing, or both simultaneously?
+- What does adding the hands back change — and is that change immediate or gradual?
+
+**Why people love this:** Hands in kissing do significant work — they guide, hold, manage proximity, and communicate urgency. Remove them and the lips must carry the full weight of the contact. Many people find that kissing without hands demands more precise attention and produces a quality of contact that even deliberately slow kissing with hands doesn't reach. It also works as a calibration: how much of what you enjoy about kissing is in the lips specifically, and how much was always in the rest of the experience around them?
+
+**Rating (receiver):** ✗ / ? / ✓ / ✓✓
+**Rating (giver):** ✗ / ? / ✓ / ✓✓
+
+---
+
+### 42. External Anal Massage (Solo)
+*🧍 Solo start*
+
+**What you need:** Clean hands; optionally a small amount of massage oil or unscented coconut oil.
+
+**⚠ Safety first:** Keep fingernails short and filed smooth. Wash hands first. This experience is external only — no penetration.
+
+**Solo:** Lie on your back or side with knees drawn up. With a clean finger and oil if you'd like, make slow circles on the external area around the anus — not inserting, just exploring the surface. Vary pressure from very light to moderately firm. Move out to the perineum and back. Take five to ten minutes. You're finding out what response this area has, which most people have never deliberately checked. The result might be neutral, pleasant, or something harder to categorise — all of these are information.
+
+**With a partner:** The natural progression is a partner doing this while the receiver relaxes entirely. The difference between doing it yourself and receiving it from someone else is the removal of self-consciousness about the area — and whether you can actually relax into it. That experience is covered in External Anal Massage (Partner).
+
+**Things to explore:**
+- Does this area produce any response — pleasant, uncomfortable, neutral, or something harder to categorise?
+- Does the response change with pressure, or is it consistent across a range?
+- Is there something beyond the physical — discomfort with the area itself, or surprising neutrality about it?
+- Does the experience change how you think about this part of your body?
+
+**Why people love this:** Most people have never paid this kind of deliberate, neutral attention to this part of their anatomy. The external anal sphincter has a high concentration of nerve endings and produces a distinct response in many people that bears no relation to what they assumed. The solo version is the right first step: knowing your own response before involving a partner makes the partner version easier to enter and easier to communicate about. Many people who try this discover either a genuine positive response they've been avoiding, or a neutral one that removes an anxiety they didn't need to carry.
+
+**Rating (solo):** ✗ / ? / ✓ / ✓✓
+
+---
+
 ## Your Profile
 
 Once you've worked through the experiences, look for patterns in your ratings:
@@ -865,7 +970,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Massage with oil** — how lubrication changes the quality of touch entirely
 - ~~**Vibration** — household massager or electric toothbrush on non-genital areas; unexpected erogenous zones~~
 - ~~**Pressure and weight** — a partner's body weight on you; pinned vs. restrained~~
-- **Dry humping / clothed contact** — friction and pressure with clothes on; anticipation and frustration
+- ~~**Dry humping / clothed contact** — friction and pressure with clothes on; anticipation and frustration~~
 - **Food play** — temperature, texture, and taste brought onto the body; chocolate, honey, ice cream
 - **Body painting** — using food or body-safe paint; the sensation of application, the visual result
 - **Shaving** — one partner shaving the other; intimacy, vulnerability, trust, and the sensation of a blade
@@ -876,7 +981,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 
 *Spans solo through to Cat 3 — one of the most commonly curious but least explored areas.*
 
-- **External anal massage (solo)** — fingers only, external; a very accessible starting point most people have never tried deliberately
+- ~~**External anal massage (solo)** — fingers only, external; a very accessible starting point most people have never tried deliberately~~
 - **External anal massage (partner)** — the receiver relaxing while a partner applies gentle external pressure; trust and unfamiliarity make this a different experience
 - **Internal — solo with finger** — one finger, well lubricated, slow; learning what the internal sensation actually is before involving anything else
 - **Beginner butt plug (solo)** — small, flared base essential (safety note: never anything without a flared base); worn briefly at rest to understand the sensation of fullness
@@ -905,7 +1010,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - **Orgasm control** — partner controls if and when; the experience of having that surrendered
 - **Orgasm on command** — training the body to respond to a word or signal; requires practice and a receptive nervous system
 - ~~**Praise** — verbal affirmation during sex; "good girl/boy/person"; how being told you're doing well lands in an intimate context~~
-- **Degradation (light)** — consensually charged language in the other direction; some people find this deeply activating, others find it a hard no
+- ~~**Degradation (light)** — consensually charged language in the other direction; some people find this deeply activating, others find it a hard no~~
 - ~~**Begging** — the receiver is required to ask for what they want; what that does to both people~~
 - **Humiliation (light)** — being made to feel exposed or silly in a consensual context; distinct from degradation; more about vulnerability than insult
 - ~~**Eye contact** — sustained, deliberate eye contact during intimacy; how confronting or connecting it is~~
@@ -946,7 +1051,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 ### Oral & Breath
 
 - ~~**Slow kissing** — deliberate, unhurried; different from functional kissing~~
-- **Kissing without hands** — lips only; how constraint changes the intensity
+- ~~**Kissing without hands** — lips only; how constraint changes the intensity~~
 - **Deep kissing / throat** — fingers or other objects at the back of the throat; the gag reflex and the psychological experience of that threshold
 - ~~**Breath control (very light)** — a hand resting on the throat with no pressure; the psychological weight even without physical restriction. *Note: anything beyond this requires experience and belongs in Cat 3.*~~
 - **Oral fixation** — fingers in the mouth, using the mouth to hold something; what the mouth responds to when it isn't kissing
@@ -997,7 +1102,7 @@ Take note of anything that landed as ✓✓ — those are your entry points for 
 - ~~**Edging (solo)** — bringing yourself to the edge repeatedly before allowing orgasm; training attention and body awareness~~
 - **Extended sessions** — deliberately long; how the experience shifts when there's no rush and no endpoint
 - **Scheduled sex** — deliberately planned and anticipated; whether anticipation enhances or deflates
-- **Aftercare exploration** — what each person actually needs after intensity; holding, space, food, silence; worth knowing before you need it
+- ~~**Aftercare exploration** — what each person actually needs after intensity; holding, space, food, silence; worth knowing before you need it~~
 - **Talking before** — negotiating or describing what you want before doing it; the effect of anticipation built through words
 - **Sober vs. altered** — for those who've only had sex in one state; what changes about awareness, inhibition, and sensation
 
