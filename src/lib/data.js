@@ -84,6 +84,16 @@ export const CATEGORY_INFO = {
   dynamic:   { label: 'Dynamic-led' },
 };
 
+// Optional field on experience JSON objects.
+// Absent/null = anatomy-neutral (shown for all filters).
+// "penis"  = requires penis anatomy (hidden when filter is "has-vulva")
+// "vulva"  = requires vulva anatomy (hidden when filter is "has-penis")
+export const ANATOMY_FILTER_OPTIONS = [
+  { value: 'all',       label: 'All' },
+  { value: 'has-penis', label: 'Has penis' },
+  { value: 'has-vulva', label: 'Has vulva' },
+];
+
 export const RATING_OPTIONS = [
   { value: 'no',       symbol: '✗',  label: 'Not for me' },
   { value: 'curious',  symbol: '?',  label: 'Curious — would try again' },
