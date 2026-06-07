@@ -70,13 +70,12 @@
 
 <svelte:head>
   <title>Browse Experiences — Arousalist</title>
-  <meta name="description" content="Browse all twelve experiences. Filter by tier, status, and category. Track your progress." />
+  <meta name="description" content="Browse all experiences. Filter by tier, status, and category. Track your progress." />
 </svelte:head>
 
 <div class="browse-header">
   <div class="container">
     <h1 class="browse-title">Experiences</h1>
-    <p class="browse-subtitle">Twelve structured exercises. Work through them at your own pace.</p>
 
     <div class="progress-wrap">
       <div class="progress-track">
