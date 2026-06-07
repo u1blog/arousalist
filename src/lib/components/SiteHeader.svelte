@@ -1,10 +1,11 @@
 <script>
   import { base } from '$app/paths';
   import { page } from '$app/stores';
-  import { progress } from '$lib/stores.js';
+  import { progress, wishlist } from '$lib/stores.js';
   import { EXPERIENCES } from '$lib/data.js';
 
   let tried = $derived(EXPERIENCES.filter(e => $progress[e.id]?.tried).length);
+  let wishlistCount = $derived([...$wishlist].length);
 </script>
 
 <header class="site-header">
@@ -17,6 +18,16 @@
         class:nav-link--active={$page.url.pathname.startsWith(base + '/experiences')}
       >
         Browse
+      </a>
+      <a
+        href="{base}/wishlist"
+        class="nav-link"
+        class:nav-link--active={$page.url.pathname === base + '/wishlist'}
+      >
+        Wishlist
+        {#if wishlistCount > 0}
+          <span class="nav-badge">{wishlistCount}</span>
+        {/if}
       </a>
       <a
         href="{base}/settings"
@@ -73,6 +84,23 @@
     transition: color var(--transition);
   }
   .nav-link:hover, .nav-link--active { color: var(--accent); }
+
+  .nav-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 4px;
+    border-radius: 100px;
+    background: var(--accent);
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    line-height: 1;
+    vertical-align: middle;
+    margin-left: 0.1rem;
+  }
 
   .header-progress {
     font-size: 0.8rem;

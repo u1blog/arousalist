@@ -72,3 +72,36 @@ function createProgressStore() {
 }
 
 export const progress = createProgressStore();
+
+const WISHLIST_KEY = 'kdg_wishlist';
+
+function createWishlistStore() {
+  const initial = browser
+    ? new Set(JSON.parse(localStorage.getItem(WISHLIST_KEY) || '[]'))
+    : new Set();
+  const store = writable(initial);
+
+  if (browser) {
+    store.subscribe(value => {
+      localStorage.setItem(WISHLIST_KEY, JSON.stringify([...value]));
+    });
+  }
+
+  return {
+    subscribe: store.subscribe,
+    toggle(id) {
+      store.update(s => {
+        const next = new Set(s);
+        if (next.has(id)) next.delete(id);
+        else next.add(id);
+        return next;
+      });
+    },
+    reset() {
+      store.set(new Set());
+      if (browser) localStorage.removeItem(WISHLIST_KEY);
+    },
+  };
+}
+
+export const wishlist = createWishlistStore();
