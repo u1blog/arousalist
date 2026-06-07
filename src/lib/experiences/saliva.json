@@ -1,0 +1,30 @@
+{
+  "id": "saliva",
+  "number": 106,
+  "title": "Saliva",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Extended wet kissing — or deliberate attention to a partner's saliva during oral contact — raises a question most people have never asked directly: how do you actually feel about a partner's saliva on your skin?",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Nothing required.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "During ordinary kissing, let wetness accumulate on your lips and face without wiping it away. Notice what staying with it produces once the immediate sensation of contact has passed — whether the residue reads as warm, neutral, or slightly aversive."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Spend ten minutes in extended, deliberately wet kissing — sustained and wet, with your partner's saliva present on your lips, face, and neck throughout. Don't wipe it away. Then try the same during other oral contact: your partner's mouth on your neck, shoulder, chest. Notice specifically what the wetness produces when it stays on your skin after the contact moves elsewhere. Compare your response across different areas."
+    }
+  ],
+  "explore": [
+    "Does your partner's saliva produce a response — and is that response different from your response to your own?",
+    "Is the response primarily physical (warmth, texture, moisture) or more associative — something about what the saliva represents?",
+    "Does the response change depending on where on the body it is?",
+    "Is there a difference between wet kissing as something you're actively doing versus saliva arriving on you from your partner's mouth?"
+  ],
+  "why": "Saliva is a bodily fluid present throughout oral contact that most people have never examined their response to deliberately — it's too immediate and ambient to isolate. Some people find extended wet contact deeply connecting; others find it mildly aversive in a way they've never quite located. The difference tends to track with how much of intimacy operates through bodily immediacy for a given person — those for whom physical presence carries a lot of charge often find a partner's saliva activating in its own right; those for whom intimacy is more psychological sometimes find it neutral. Either response is worth knowing, because the default is simply not to think about it."
+}

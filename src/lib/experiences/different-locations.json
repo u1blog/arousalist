@@ -1,0 +1,30 @@
+{
+  "id": "different-locations",
+  "number": 108,
+  "title": "Different Locations",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "The physical environment changes the physical experience — surface, temperature, light, sound, and space all produce different conditions for the same activity. Most people have never deliberately varied these and compared what each produces.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Nothing required.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Masturbate somewhere other than your usual location — the floor, a chair, a different room. Notice what the physical environment changes: the surface under your body, the light quality, the temperature of the air, whether you feel more or less enclosed. You're testing how sensitive your experience is to context before involving a partner."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Try the same activity in at least two clearly different physical environments in close succession — the bed, then the floor; inside, then a genuinely outdoor space; a soft surface, then a hard one. Keep the activity similar enough that you're comparing the environments rather than different experiences. Notice specifically what the physical conditions change: whether a hard surface under your body changes the sensation of contact, whether temperature in the air changes how touch registers, whether enclosed versus open space changes your sense of presence. Compare notes after."
+    }
+  ],
+  "explore": [
+    "Does a hard surface change the sensation of contact with your partner, and in which direction?",
+    "Does temperature in the environment — cooler air, outdoor cold — change how skin contact registers?",
+    "Is there a location where you felt more or less present — more absorbed or more aware of the environment as context?",
+    "Does varying the environment tell you something about how much context shapes your experience of the activity itself?"
+  ],
+  "why": "Most people have a strong habitual location for sex — usually a bed — and have never systematically varied the physical conditions to see what changes. The floor produces different sensation from a mattress because the body is supported differently, contact pressure distributes differently, and movement is constrained differently. Outdoor environments change temperature, air movement, and the sense of enclosure versus openness in ways that register physically. This is distinct from the Degradation of Space experience, which is about the transgressive quality of a wrong location — this is about what different physical conditions directly produce in the body and in attention."
+}
