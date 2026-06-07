@@ -60,6 +60,63 @@ import consensualNonConsentLight from './experiences/consensual-non-consent-ligh
 import silkAndSatin from './experiences/silk-and-satin.json';
 import cunnilingusfellatioFocus from './experiences/cunnilingus-fellatio-focus.json';
 import foodPlay from './experiences/food-play.json';
+import bodyPainting from './experiences/body-painting.json';
+import shaving from './experiences/shaving.json';
+import externalAnalMassagePartner from './experiences/external-anal-massage-partner.json';
+import spitting from './experiences/spitting.json';
+import orgasmOnCommand from './experiences/orgasm-on-command.json';
+import rimming from './experiences/rimming.json';
+import sharingPhotosPartner from './experiences/sharing-photos-partner.json';
+import publicSemiPublic from './experiences/public-semi-public.json';
+import timeConstraints from './experiences/time-constraints.json';
+import internalAnalSolo from './experiences/internal-anal-solo.json';
+import beginnerButtPlugSolo from './experiences/beginner-butt-plug-solo.json';
+import prostateMassage from './experiences/prostate-massage.json';
+import uniformsCostumes from './experiences/uniforms-costumes.json';
+import latexLeather from './experiences/latex-leather.json';
+import extendedSessions from './experiences/extended-sessions.json';
+import trampling from './experiences/trampling.json';
+import beginnerButtPlugPartner from './experiences/beginner-butt-plug-partner.json';
+import crossDressing from './experiences/cross-dressing.json';
+import masks from './experiences/masks.json';
+import somnophiliaConsensual from './experiences/somnophilia-consensual.json';
+import scriptedScenes from './experiences/scripted-scenes.json';
+import soberVsAltered from './experiences/sober-vs-altered.json';
+import cockBallSelfExploration from './experiences/cock-ball-self-exploration.json';
+import highHeels from './experiences/high-heels.json';
+import objectification from './experiences/objectification.json';
+import voyeurism from './experiences/voyeurism.json';
+import exhibitionism from './experiences/exhibitionism.json';
+import beingRecorded from './experiences/being-recorded.json';
+import analDuringOtherActivity from './experiences/anal-during-other-activity.json';
+import watchingYourselfBack from './experiences/watching-yourself-back.json';
+import corsetryCompression from './experiences/corsetry-compression.json';
+import ejaculationOnBody from './experiences/ejaculation-on-body.json';
+import threesome from './experiences/threesome.json';
+import watersportsLight from './experiences/watersports-light.json';
+import cbtLightSolo from './experiences/cbt-light-solo.json';
+import cuckoldingCompersion from './experiences/cuckolding-compersion.json';
+import sameSexExperience from './experiences/same-sex-experience.json';
+import longDistanceIntimacy from './experiences/long-distance-intimacy.json';
+import sweat from './experiences/sweat.json';
+import agePlayAdult from './experiences/age-play-adult.json';
+import partnerCbtLight from './experiences/partner-cbt-light.json';
+import cockBallBindingLight from './experiences/cock-ball-binding-light.json';
+import deepThroat from './experiences/deep-throat.json';
+import saliva from './experiences/saliva.json';
+import bodyModificationAesthetics from './experiences/body-modification-aesthetics.json';
+import differentLocations from './experiences/different-locations.json';
+import sharingPhotosAnonymous from './experiences/sharing-photos-anonymous.json';
+import onlinePersona from './experiences/online-persona.json';
+import swinging from './experiences/swinging.json';
+import groupSex from './experiences/group-sex.json';
+import sexPartiesClubs from './experiences/sex-parties-clubs.json';
+import anonymousLiveStreaming from './experiences/anonymous-live-streaming.json';
+import receivingExplicitImages from './experiences/receiving-explicit-images.json';
+import receivingRatingsComments from './experiences/receiving-ratings-comments.json';
+import identifiableLiveStreaming from './experiences/identifiable-live-streaming.json';
+import oneOnOneVideoStrangers from './experiences/one-on-one-video-strangers.json';
+import receivingUnsolicitedImages from './experiences/receiving-unsolicited-images.json';
 
 export const TIER_INFO = {
   'solo-start': {
@@ -170,4 +227,61 @@ export const EXPERIENCES = [
   silkAndSatin,
   cunnilingusfellatioFocus,
   foodPlay,
+  bodyPainting,
+  shaving,
+  externalAnalMassagePartner,
+  spitting,
+  orgasmOnCommand,
+  rimming,
+  sharingPhotosPartner,
+  publicSemiPublic,
+  timeConstraints,
+  internalAnalSolo,
+  beginnerButtPlugSolo,
+  prostateMassage,
+  uniformsCostumes,
+  latexLeather,
+  extendedSessions,
+  trampling,
+  beginnerButtPlugPartner,
+  crossDressing,
+  masks,
+  somnophiliaConsensual,
+  scriptedScenes,
+  soberVsAltered,
+  cockBallSelfExploration,
+  highHeels,
+  objectification,
+  voyeurism,
+  exhibitionism,
+  beingRecorded,
+  analDuringOtherActivity,
+  watchingYourselfBack,
+  corsetryCompression,
+  ejaculationOnBody,
+  threesome,
+  watersportsLight,
+  cbtLightSolo,
+  cuckoldingCompersion,
+  sameSexExperience,
+  longDistanceIntimacy,
+  sweat,
+  agePlayAdult,
+  partnerCbtLight,
+  cockBallBindingLight,
+  deepThroat,
+  saliva,
+  bodyModificationAesthetics,
+  differentLocations,
+  sharingPhotosAnonymous,
+  onlinePersona,
+  swinging,
+  groupSex,
+  sexPartiesClubs,
+  anonymousLiveStreaming,
+  receivingExplicitImages,
+  receivingRatingsComments,
+  identifiableLiveStreaming,
+  oneOnOneVideoStrangers,
+  receivingUnsolicitedImages,
 ];
