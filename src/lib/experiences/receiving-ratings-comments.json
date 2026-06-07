@@ -1,0 +1,25 @@
+{
+  "id": "receiving-ratings-comments",
+  "number": 116,
+  "title": "Receiving Ratings and Comments",
+  "tier": "solo-start",
+  "category": "dynamic",
+  "description": "Putting yourself up for evaluation by strangers — asking for a number, a verdict — produces something that passive viewing or anonymous sharing doesn't. Whether the feedback is positive, negative, or absent, the act of asking is its own experience.",
+  "ratingTypes": ["solo"],
+  "equipment": "An anonymous account on a ratings or feedback platform (Reddit, dedicated sites); photos or content already prepared.",
+  "safetyNote": "Keep your account entirely separate from any real-world identity. Negative or cruel comments arrive alongside positive ones — decide in advance whether you want to read all of them or filter; knowing your own threshold before posting is more useful than discovering it after.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo",
+      "content": "Using an anonymous account, post a photo or image that invites explicit rating or written feedback — many platforms have dedicated rating threads. Before you post, notice what you're hoping to receive: a specific number, written response, volume of replies. Then post and wait. When responses arrive, read them and notice what each type of feedback produces: high ratings, low ratings, written comments that describe you, the absence of response. Does the number matter more than the words, or vice versa? Does positive feedback produce what you expected, and does critical or absent feedback produce something different from what you anticipated?"
+    }
+  ],
+  "explore": [
+    "Does the act of asking to be evaluated produce something before any feedback arrives?",
+    "Is your response primarily to the content of the feedback, or to the fact of being seen and assessed at all?",
+    "Does a high rating produce what you predicted — and does a critical or absent response land differently from how you imagined?",
+    "Does knowing the audience is strangers with no social context change how their opinion registers?"
+  ],
+  "why": "Ratings and comments differ from passive anonymous viewing because the evaluation is explicit: you've asked to be assessed, and the response is a direct verdict. For some people, the primary charge is in the asking — the vulnerability of inviting judgment — and the actual feedback is almost secondary. For others, the specific content of the response is what matters: a number that ranks you, words that describe what someone found appealing or not. Many people find that negative or absent feedback is more informative about their own psychology than positive feedback — discovering how much a stranger's low rating lands, or how little a high one satisfies, turns out to tell them something that no amount of thinking about it beforehand could."
+}
