@@ -1,0 +1,25 @@
+{
+  "id": "shaving",
+  "number": 64,
+  "title": "Shaving",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Being shaved by a partner puts a blade in someone else's hands while you stay still — that specific form of physical trust, combined with prolonged deliberate care, produces something distinct from other forms of attentive touch.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Safety razor or cartridge razor with a fresh blade. Shaving foam or cream. Warm water and a clean towel.",
+  "safetyNote": "Use a new or clean blade. Keep strokes short and move with the grain. Never shave over moles, broken skin, or bony prominences. Start with a reliable, flat surface — the lower leg or forearm — rather than the neck or face on a first attempt.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Choose an area with a flat, accessible surface: the lower leg, inner thigh, or underarm. Giver begins with warm water and applies foam or cream slowly, lathering in small circles — the preparation is part of the experience, not just preliminary to it. Take longer than feels necessary. Then bring the razor: short, deliberate strokes, rinsing frequently, returning to the same area as needed. The giver's entire focus is on one task — keeping the blade flat, moving carefully, finishing cleanly. There is no room for improvisation. The receiver stays still and notices what it produces to have someone apply a blade to their skin with this degree of specific, quiet attention. After one round, switch."
+    }
+  ],
+  "explore": [
+    "As receiver: what does it feel like to stay still while someone uses a blade on your skin with deliberate care — is the vulnerability uncomfortable, interesting, or something else?",
+    "Is the quality of the giver's attention — entirely focused on finishing the task precisely — part of what you feel, or is the physical sensation the main thing?",
+    "As giver: does being entirely focused on one careful, functional task — with no room for error — change the quality of your attention compared to undirected touch?",
+    "Does the functional nature of the act (it produces a result, it has a finish) make it feel more or less intimate than open-ended touch?"
+  ],
+  "why": "Shaving is one of the few acts where physical care and physical vulnerability occupy exactly the same moment. The receiver must stay still while a blade moves across their skin; the giver must be exactly precise. That combination — trust and care operating at the same time, with the same object — produces something distinct from even attentive massage. Many receivers describe it as a form of being held that doesn't use hands; many givers describe the focused, task-driven quality as clarifying — there is only one right thing to do, and doing it well is the whole act. The act's functional outcome (clean skin) sits alongside its relational quality without undermining it."
+}

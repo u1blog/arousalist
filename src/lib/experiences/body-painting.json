@@ -1,0 +1,30 @@
+{
+  "id": "body-painting",
+  "number": 63,
+  "title": "Body Painting",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "A brush on skin registers differently from a fingertip — the contact is more precise and more impersonal, which makes the receiver's attention sharper. The visual result, which only the giver can fully see, adds a dimension that touch alone doesn't produce.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Body-safe water-soluble paint (face paint or dedicated body paint), or food: honey or chocolate sauce. Soft brushes of at least two sizes. An old sheet or drop cloth. Warm water for cleanup.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Apply a small amount of honey or paint to your inner forearm using a soft brush. Move deliberately slowly. Notice how the brush tip registers differently from a fingertip — more precise, more impersonal, the contact arriving through a tool rather than directly. You're testing whether brush-on-skin produces any response worth building on, separate from the visual dimension that only arrives with a partner."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner (the real version)",
+      "content": "Receiver lies on the drop cloth and stays still throughout. Giver begins with larger brush strokes across the back or legs — wide sweeps that cover ground — then transitions to smaller brushes for more specific areas: shoulders, collarbone, stomach. Vary between the brush tip only (precise, almost clinical) and laying the brush flat (more pressure, more width). Move slowly. The giver's job is to treat the receiver's body as a surface to be considered carefully, not worked through quickly. The receiver's job is to notice two things separately: the sensation of application, and the awareness of being visually composed by someone else. The giver can see something the receiver cannot. After one round, switch."
+    }
+  ],
+  "explore": [
+    "Solo: does the brush on skin register as pleasant, neutral, or something harder to place?",
+    "As receiver: is it the sensation of application — the brush moving deliberately — that you notice, or more the awareness of being observed and composed by someone else?",
+    "As giver: does treating another person's body as a visual project change how you pay attention to it?",
+    "Does the cleanup — removing the paint together — carry any quality of its own, or is it simply functional?"
+  ],
+  "why": "Body painting distributes attention differently from most forms of touch: the giver's focus is partly visual, partly tactile, which changes how deliberately and slowly they move. For receivers, a brush produces sensation through precision rather than warmth — the contact is more specific and less immediately intimate than a hand, which means the nervous system receives it differently. Many people find that being carefully observed and painted, with the result visible only to the painter, produces a quality of being attended to that other experiences don't quite reach. The impersonality of the tool is part of the point: the receiver is being composed, not just touched."
+}
