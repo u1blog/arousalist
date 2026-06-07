@@ -110,6 +110,7 @@
     transition: background var(--transition);
     width: 100%;
     text-align: center;
+    justify-content: center;
   }
 
   .btn-primary:hover {
