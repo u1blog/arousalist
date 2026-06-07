@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>Kink Discovery Guide</title>
+  <title>Arousalist</title>
   <meta name="description" content="A structured, judgment-free guide to exploring what you're into — solo or with a partner." />
 </svelte:head>
 

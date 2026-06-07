@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Settings — Kink Discovery Guide</title>
+  <title>Settings — Arousalist</title>
 </svelte:head>
 
 <div class="settings-page container">

@@ -16,7 +16,7 @@
 </script>
 
 <svelte:head>
-  <title>{exp.title} — Kink Discovery Guide</title>
+  <title>{exp.title} — Arousalist</title>
   <meta name="description" content={exp.description} />
 </svelte:head>
 
