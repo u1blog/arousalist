@@ -1,0 +1,25 @@
+{
+  "id": "one-on-one-video-strangers",
+  "number": 118,
+  "title": "One-on-One Video With Strangers",
+  "tier": "solo-start",
+  "category": "dynamic",
+  "description": "A private video call with a single stranger produces a specific dynamic that streaming doesn't have: both people are visible to each other simultaneously, and neither has an audience. The mutual visibility creates a different kind of presence than performing for many.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A platform that facilitates anonymous one-on-one video (Omegle alternatives, dedicated adult video platforms); anonymous account completely separate from real identity.",
+  "safetyNote": "The other person can record you without your knowledge — treat anything you do on video as potentially persistent regardless of the platform's stated policies. Use an anonymous account with no identifying information, and consider what's visible in your background.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo",
+      "content": "Connect anonymously with a single stranger via video. Notice immediately what the mutual visibility produces that one-directional streaming doesn't: you can see them while they see you, and their responses are visible to you in real time. Notice what happens when both people are watching each other — whether seeing their reaction changes how you're in the experience, whether the absence of a crowd makes this feel more or less exposed, and whether the intimacy of one-on-one contact with a stranger is closer to in-person experience or more like an intensified version of streaming. The call can be brief — even a few minutes of genuine mutual contact is enough to know what this produces."
+    }
+  ],
+  "explore": [
+    "Does mutual visibility — both watching each other simultaneously — change the quality of the exposure compared to streaming for an audience?",
+    "Is seeing the other person's response part of what produces the experience, or is it primarily about being seen?",
+    "Does the one-on-one context with a stranger feel more intimate than streaming to many, or less — and what produces that?",
+    "Does the absence of a broader audience make this more or less charged than performing for many people at once?"
+  ],
+  "why": "One-on-one video with a stranger sits between streaming and in-person experience in a specific way: the audience is singular, mutual visibility is present, but no pre-existing relationship frames what happens. The mutual visibility is the key variable — when both people can see each other, responses are visible in real time, and that feedback loop changes the quality of the encounter in ways that streaming to a hidden audience doesn't produce. For some people the directness of a single stranger's attention is more intense than a streaming audience; for others the intimacy of one-on-one removes the charge that comes from plurality. The response-in-real-time element — watching someone watch you — is what most people find either activating or unexpectedly confronting in ways they couldn't predict from streaming alone."
+}

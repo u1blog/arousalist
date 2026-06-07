@@ -1,0 +1,25 @@
+{
+  "id": "receiving-explicit-images",
+  "number": 115,
+  "title": "Receiving Explicit Images",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Receiving an explicit image from a partner lands differently from seeing them in person — it's a captured, deliberate moment that exists as an object and arrives in your ordinary life asking to be received on its own terms.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "A phone or device.",
+  "safetyNote": "Consider where received images are stored — automatic backups, shared libraries, or notification previews can expose something intended to be private.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Ask your partner to send you an explicit image of themselves — one they've chosen and composed for you specifically. Receive it at a time when you can give it full attention rather than a glance. Look at it properly. Notice what seeing your partner captured this way produces that seeing them in person doesn't: the deliberateness of it, the frame they chose, the fact that it exists beyond the moment. Respond — tell them what it produced. Then compare: what was the gap between what they thought you'd receive and what you actually experienced? Switch: send one yourself and notice what the act of sending — and their response — produces."
+    }
+  ],
+  "explore": [
+    "Does seeing a partner deliberately captured and sent produce anything that being with them in person doesn't?",
+    "Is the response primarily to the image itself, or to the deliberateness of the act of choosing and sending it?",
+    "Does receiving an image in an ordinary context — away from them, mid-day — change what it produces compared to receiving it when you're already together?",
+    "Does your response to receiving match what you would have predicted before you actually had it?"
+  ],
+  "why": "Receiving an explicit image from a partner is distinct from seeing them in person in a specific way: the image is deliberately made and persists past the moment. They chose the frame, the timing, what to include and withhold — and that choice is visible in the image itself. For receivers, this often produces a quality of being trusted with something specific: not just access to an image but access to their self-presentation, chosen for you. The context of reception also matters — many people find an explicit image arriving in the middle of an ordinary day produces something that the same image received during an encounter doesn't."
+}

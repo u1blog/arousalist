@@ -1,0 +1,30 @@
+{
+  "id": "high-heels",
+  "number": 86,
+  "title": "High Heels",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "High heels change posture, gait, sound, and height simultaneously — a constellation of changes that produces a specific effect both in the wearer and in whoever is watching. The response to that combination tends to be clear in one direction or the other.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "High heels in a wearable size.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Put them on and walk — just around the room for a few minutes. Notice what the changed posture and gait produces: the shift in centre of gravity, the sound on the floor, the height differential. You're establishing your own response to wearing them — how you inhabit your body differently — before adding someone else's response to the picture."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Wear them with your partner and engage as you normally would. Notice what changes about how you hold yourself and move — and what your partner's attention does. Your partner's job is to pay full attention and notice what, if anything, shifts about how they see you. After one round, swap if both want to — the experience of wearing is genuinely different from the experience of watching, and many people find the side that produces more for them is not the one they predicted."
+    }
+  ],
+  "explore": [
+    "Solo: does wearing heels change how you inhabit your body — posture, how you move, anything less tangible about how you feel?",
+    "Is the response primarily about how you look, how you feel physically, the sound they make, or the height difference they create?",
+    "As observer: is it the visual quality of the shoe, the altered posture and movement, or the sound that carries the most charge?",
+    "Is there an authority or vulnerability implied by the height differential — and if so, which direction does it run for you?"
+  ],
+  "why": "High heels produce a specific constellation of changes — altered posture, a particular deliberate gait, an audible presence, a shift in height — that don't arrive separately. Many people find this combination produces something more than the sum of its parts; others find it neutral or physically awkward. For wearers, the changed posture typically forces a different relationship to the body — more upright, more deliberate in movement — that many people find either empowering or exposing, sometimes both. For observers, the sound and the altered way of moving are often what carry the most charge, more than the aesthetic of the shoe itself."
+}

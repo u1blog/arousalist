@@ -1,0 +1,30 @@
+{
+  "id": "exhibitionism",
+  "number": 89,
+  "title": "Exhibitionism",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "Being seen by people outside the relationship — in a context where being seen is welcomed — is a different register from being watched by a partner alone. Whether it adds something or collapses the charge is worth finding out.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A consensual context — a venue where exhibitionism is part of the social contract, or an explicit arrangement with people who have agreed to watch.",
+  "safetyNote": "This requires a setting where being seen is explicitly welcomed by everyone present. Exposure in a context where bystanders have not consented to what they're seeing is not covered here.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Before attending a venue or arranging an audience, test the simpler version: the Being Watched experience (being watched by your partner alone) establishes your baseline response to being observed. If that produced something, the question for this experience is what an external audience adds or changes."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Attend a venue where being watched is part of the explicit social contract, or arrange a specific consensual context. Begin with something relatively contained — not full exposure immediately — and notice what being in a watched context produces even before anything happens. As you engage with your partner, pay attention to how awareness of the external audience changes what's happening: whether it heightens engagement, produces self-consciousness, or introduces a performance quality that changes the nature of what you're doing. Compare notes after: did the external audience add to or subtract from the experience?"
+    }
+  ],
+  "explore": [
+    "Does awareness of an external audience change what's happening between you and your partner — and in which direction?",
+    "Is the appeal the fact of being seen, the anonymity of the audience, or the specific context of being in a venue that normalises it?",
+    "Does exhibitionism introduce a performance quality — and if it does, is that welcome or does it get in the way?",
+    "How does this compare to being watched by your partner alone — is the external audience additive, or does it change something essential?"
+  ],
+  "why": "Exhibitionism in a consensual setting operates through the awareness of being seen by people outside the relationship — and that specific awareness changes the dynamic in ways that partner-only watching doesn't reach. For some people, the knowledge of an external audience heightens what's happening through a kind of performance charge; for others, it introduces self-consciousness that reduces presence. Many people also find that being in a venue that normalises what they're doing — where no one is surprised, where it's clearly permitted — produces a quality of permission that's quite different from transgression. The setting doesn't have to be extreme to test the basic response; even a mildly public-feeling context is enough to find out if the charge is there."
+}

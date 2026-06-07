@@ -1,0 +1,30 @@
+{
+  "id": "deep-throat",
+  "number": 105,
+  "title": "Deep Throat",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Fingers or a penis reaching toward the back of the throat introduces a specific threshold — the gag reflex — and the psychological experience of being at that threshold is often as significant as the physical sensation itself.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Clean hands for the solo version.",
+  "safetyNote": "Go slowly enough to allow relaxation — the gag reflex responds to sudden approach much more strongly than to gradual advance. Stop immediately if breathing is compromised. Build across multiple attempts rather than trying to push far in a single session.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "With two clean fingers, rest them on your tongue and advance slowly toward the back of the throat. Notice where the gag reflex first activates — how far in, and how strong the response is. Notice also what the experience of being at that threshold produces psychologically. You're finding out what your natural response is before involving a partner: whether the reflex is pronounced, whether the threshold itself is aversive or more complicated, and how much relaxation changes the response."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "One partner performs oral sex while the other guides depth slowly and attentively. The receiver's job is to notice what the threshold itself produces: the physiological response, the particular quality of being near something breath-adjacent, the degree of surrender of control that being at that depth requires. The giver's job is to read the receiver's response precisely and stay consistently within what's comfortable — not pushing against the limit but approaching it and withdrawing as the receiver settles. After one round, switch."
+    }
+  ],
+  "explore": [
+    "Solo: where does your gag reflex activate, and is its strength what you expected?",
+    "As receiver: is the response primarily physical — the threshold sensation — or psychological — the particular vulnerability of being at that threshold?",
+    "Does the breath-adjacent quality of this produce any of the same response as the Breath Control experience?",
+    "As giver: does guiding someone to this specific threshold — with full responsibility for staying within what's comfortable — produce its own quality of attention?"
+  ],
+  "why": "The gag reflex marks a threshold, and thresholds in this guide tend to be more interesting than ordinary sensation. What makes throat contact distinctive is the combination of a genuine physiological response — involuntary, present — with the psychological dimension of being near something breath-adjacent. For many receivers, relaxing into that threshold with someone managing the depth carefully produces something in the same territory as restraint: there's nothing to do but be in it, and the involuntary quality of the response means control is genuinely ceded. For givers, the responsibility of managing that threshold precisely — staying close without overstepping — is its own form of sustained, specific attention."
+}

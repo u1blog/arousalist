@@ -1,0 +1,25 @@
+{
+  "id": "same-sex-experience",
+  "number": 99,
+  "title": "Same-Sex Experience",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "For people who identify as straight or haven't explored this direction, a first same-sex encounter often produces a response quite different from the assumptions — either confirming what was suspected, revealing something unexpected, or finding that less changes than anticipated.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing required beyond the encounter itself.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "The entry point is simple: an encounter with someone of the same sex, approached with the same curiosity and attention you'd bring to any other experience in this guide. The specific activity matters less than paying attention to what's actually happening — what you respond to, what feels different from what you know, what feels the same. Don't arrive trying to confirm or deny an assumption. Arrive with the question open. After the encounter, take time to notice what was true — not what you expected, not what you'd prefer to feel, but what you actually found."
+    }
+  ],
+  "explore": [
+    "Does the experience confirm what you expected, produce something different, or reveal something you didn't have a category for?",
+    "What specifically feels different from your established experience — is it the person, the dynamic, the specific sensations, or something about the relational quality?",
+    "What feels the same as what you already knew — and is that more or less than you anticipated?",
+    "Does the experience change how you think about attraction — what you're drawn to and why?"
+  ],
+  "why": "Most people who identify as straight have spent years with predominantly heterosexual experience and never turned deliberate, open attention toward the same-sex direction. The absence of a response might be genuine — or it might simply be the absence of ever having actually looked. First same-sex encounters for people who've identified as straight often turn out to be more informative than they expected: some discover clear confirmation that it's not for them; others discover a response they hadn't had access to before; many find that what changes and what doesn't is more specific and more interesting than either anticipated. The guide's appendix covers attraction as an orientation question; this experience is about what actually happens when you show up."
+}

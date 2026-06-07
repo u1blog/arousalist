@@ -1,0 +1,30 @@
+{
+  "id": "prostate-massage",
+  "number": 74,
+  "title": "Prostate Massage",
+  "tier": "solo-start",
+  "category": "sensation",
+  "description": "For people with a prostate, internal stimulation via the anterior wall produces a qualitatively different type of arousal from anything external — often deeper, more diffuse, and harder to consciously manage — and most people have never found it deliberately enough to know their actual response.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Clean hands with short, smooth nails; generous water-based lubricant. Optionally a dedicated prostate massager with a flared base.",
+  "safetyNote": "Keep nails short and filed smooth. Use more lubricant than feels necessary. Never force anything — work with relaxation, not pressure. If there is pain, stop.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Lie on your back with knees drawn up. After external massage and relaxation (the Internal Anal — Solo experience is the right precursor, and should feel comfortable before continuing), insert one well-lubricated finger slowly. Once inside, curve the finger toward the front of the body — toward the navel. At roughly 5–7cm in, you'll find a distinct rounded structure with a different texture from the surrounding tissue: firmer, more defined. Apply slow, steady pressure rather than rapid movement. Vary between sustained pressure held in place and slow strokes across the surface. The response, when it arrives, is often a broad, diffuse warmth that's quite different from genital stimulation — for many people, unlike anything they've encountered before. Take fifteen to twenty minutes."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "The natural extension is a partner doing this while the receiver lies fully relaxed, which allows deeper relaxation than the solo version and adds the dynamic element of someone else controlling the stimulation. The giver's job is patience and responsiveness — slow, attentive, following feedback rather than assuming a technique."
+    }
+  ],
+  "explore": [
+    "Does stimulation here produce a response that's qualitatively different from external genital stimulation — a different category rather than a stronger version?",
+    "Is the response primarily physical, or does the location carry a psychological dimension of its own?",
+    "Does combining prostate stimulation with genital stimulation produce something different from either alone?",
+    "If the response is strong: does this change how you think about what kind of stimulation you want to explore further?"
+  ],
+  "why": "The prostate is densely innervated and responds to sustained pressure by activating different neural pathways from external genital stimulation. Many people describe the response as deeper and harder to consciously control — less directed than orgasm through genital stimulation, often more intense. Many people with a prostate have never deliberately found it; many who have tried have used insufficient lubricant or relaxation and concluded incorrectly that it doesn't produce much. The solo version addresses both those problems: you control the pace entirely, and there's no performance dimension to manage. What most people discover is either genuinely different from what they expected, or a clear neutral response that removes a curiosity they've been carrying."
+}

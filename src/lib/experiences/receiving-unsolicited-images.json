@@ -1,0 +1,25 @@
+{
+  "id": "receiving-unsolicited-images",
+  "number": 119,
+  "title": "Receiving Unsolicited Images",
+  "tier": "solo-start",
+  "category": "dynamic",
+  "description": "Most people have received an explicit image they didn't ask for. What it actually produced — versus what you assumed you felt about it — is worth examining. The actual response is often more varied and more specific than the social script about what receiving such an image is supposed to be.",
+  "ratingTypes": ["solo"],
+  "equipment": "None — this is a retrospective and attentional exercise rather than an active one.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo",
+      "content": "Recall a specific instance of receiving an explicit image you didn't request — the most recent one, or the most memorable. If you've never received one, use a hypothetical: someone you found attractive, someone you found neutral, a complete stranger. Without referring to what you were supposed to feel or what the expected social response is, try to identify what actually happened for you: whether there was arousal, discomfort, flattery, annoyance, curiosity, or some combination in sequence. Then examine the specific variables: who it was from made a difference, when it arrived made a difference, whether it was a body part or a person made a difference. Notice where your actual response diverged from the narrative you'd adopted about how you responded."
+    }
+  ],
+  "explore": [
+    "Was your actual response to receiving the image different from the response you'd have described to someone else — or from what you told yourself at the time?",
+    "How much did the sender matter compared to the content itself?",
+    "Did context — when it arrived, where you were, what you were doing — change what it produced?",
+    "Is there a version of receiving an unsolicited explicit image that would produce something different from the one you recall?"
+  ],
+  "why": "Unsolicited explicit images occupy a space where social response and actual psychological response often diverge significantly. The socially legible reaction — the one most people would report to others — is frequently not the whole story of what actually happened when the image arrived. Many people find, when they examine it honestly, that the response was more variable than they've acknowledged: that the sender's identity mattered more than the content, that context made a significant difference, or that an image from someone they were attracted to produced something quite specific that the category 'unsolicited' doesn't capture. The value of the exercise is not to justify receiving unwanted content but to get an accurate account of your own actual response — because the gap between your assumed response and your real one is informative about what you actually want."
+}

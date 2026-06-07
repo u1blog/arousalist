@@ -1,0 +1,30 @@
+{
+  "id": "sweat",
+  "number": 101,
+  "title": "Sweat",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Physical contact with a partner after or during exertion is a different sensory register from contact in ordinary conditions — warm, slick, and carrying a distinct quality of physicality that washed, rested bodies don't produce.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Some form of exertion before or during the encounter. Nothing else required.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "After physical exertion — a run, a workout, anything that produces genuine sweat — lie down and run your own hand across your skin. Notice what the combination of warmth, moisture, and altered smell produces as a baseline, before involving a partner."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Begin physical intimacy directly after exertion, before showering — or exercise together first and go directly into contact without cleaning up. Notice specifically what changes from your usual experience: the quality of skin contact with reduced friction, the warmth, the altered smell, the specific aliveness of a body that has been working. After one encounter this way, compare it to what you notice in ordinary conditions. The point is not to prefer one but to notice what each provides that the other doesn't."
+    }
+  ],
+  "explore": [
+    "Solo: does your own body after exertion feel or smell different in ways that register — and is that response positive, neutral, or aversive?",
+    "Does contact with a partner's sweating body produce anything that contact in ordinary conditions doesn't?",
+    "Is the primary difference the smell, the temperature, the altered texture of skin, or the quality of physicality it implies?",
+    "Does the result change how you think about showering before sex as a default — is it preference, or habit?"
+  ],
+  "why": "Sweat changes the sensory profile of physical contact in specific ways: skin is warmer and slicker, friction is different, and the body's natural smell is more present. For many people, this produces a quality of physicality — of encountering a body that has been doing something — that clean, rested contact doesn't provide. The olfactory dimension in particular often carries more charge than expected, connecting to the same olfactory attraction pathways explored in the Smell and Scent experience. Some people find post-exertion contact significantly more engaging than they anticipated; others prefer the ordinary baseline. The default of showering before sex is so established that most people have never directly compared the two."
+}

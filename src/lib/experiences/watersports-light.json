@@ -1,0 +1,30 @@
+{
+  "id": "watersports-light",
+  "number": 96,
+  "title": "Watersports (Light)",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Urine on skin is medically benign and produces a strong, fast reaction in most people — usually clear in one direction. Whether that reaction is aversion, neutrality, or something more activating is worth finding out rather than assuming.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A shower or bath. Towels.",
+  "safetyNote": "Urine from a healthy person is sterile. Avoid contact with open wounds. A shower is the natural setting — cleanup is immediate and the context is already established.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "In the shower, let urine run over your own skin — hand, leg — and notice your immediate response before any other variable enters. You're testing your unmediated reaction to the substance itself, separate from the dynamic of a partner being involved."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "In the shower, one partner urinates on the other — starting with a neutral area, the leg or lower back. The receiver notices their immediate response: aversion, neutrality, warmth, or something more activating. Don't perform either direction. After one round, switch. The two sides of this act are different enough to be worth experiencing separately before drawing conclusions."
+    }
+  ],
+  "explore": [
+    "Solo: what is your immediate, unmediated response to urine on your own skin — and did it match what you assumed?",
+    "As receiver from a partner: does the response change when it comes from someone else rather than yourself?",
+    "As giver: what does the act of urinating on a partner produce — charge, discomfort, something neutral?",
+    "Is the response primarily about the physical sensation, the warmth, the visual quality, or the transgressive dimension of the act?"
+  ],
+  "why": "Urine carries strong social prohibition — it is emphatically out of place except in specific private contexts — which means it tends to carry either strong aversion or real charge depending on how that transgression registers for a given person. For people to whom this appeals, the appeal is almost never the physical sensation (which is mild) but the meaning of the act: warmth, intimacy, a very specific kind of claimed quality. For people to whom it doesn't, the aversion is immediate and tells them everything they need to know quickly. Most people have a fast, definitive response, which makes this one of the quicker entries in this guide to evaluate. The solo version makes the first step significantly smaller."
+}

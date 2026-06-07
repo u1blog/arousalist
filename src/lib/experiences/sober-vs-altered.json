@@ -1,0 +1,30 @@
+{
+  "id": "sober-vs-altered",
+  "number": 84,
+  "title": "Sober vs. Altered",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Most people have a habitual state for sex and have never directly compared the other. The differences in sensation clarity, inhibition, and presence tend to be more specific than expected — and the preference that emerges is often different from the assumption.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Whatever you'd normally use to alter your state, if that's the direction being tested.",
+  "safetyNote": "This applies to mild, legal alterations only — moderate alcohol, cannabis where legal. Any alteration that meaningfully impairs the ability to give or withdraw consent is outside the scope of this guide. If either person has a history with substance dependency, skip this one.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "If you typically masturbate only in one state, try the other once. Notice specifically: which sensations register more clearly, what your attention does differently, how long things take, and whether your preferences or fantasies shift. You're establishing your own baseline comparison before adding another person."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Run what is essentially the same encounter twice — once sober, once mildly altered — close enough together that the comparison is useful. Keep the activity similar enough that you're isolating the state variable rather than comparing two different experiences. Notice what changes specifically: which physical sensations register more or less clearly, what you feel able to do or say, and how much of your attention is on what's actually happening versus somewhere else. Compare notes after each round."
+    }
+  ],
+  "explore": [
+    "Is there a specific quality — sensation clarity, inhibition, presence — that changes most noticeably between states?",
+    "Does the altered state add something, or does it primarily remove something (self-monitoring, inhibition, precision of sensation)?",
+    "Does sober sex feel more or less intimate than altered sex — and what does that tell you about the role inhibition plays in your experience of closeness?",
+    "Is the preference consistent across different partners or contexts, or does it depend on other variables?"
+  ],
+  "why": "Most people have a strong habitual state for sex — sober or some degree altered — and have never deliberately compared the other. The differences tend to be more specific than the general claims about either state: altered states often lower inhibition and reduce self-monitoring, but they also tend to reduce sensation clarity and the precision of attention; sober encounters involve more self-consciousness but also more direct access to what's actually happening. Which of those trade-offs you prefer, and whether that preference is consistent, is practically useful information. Many people discover their habitual state is habit rather than genuine preference — they've just never checked."
+}

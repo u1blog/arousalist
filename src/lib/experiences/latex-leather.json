@@ -1,0 +1,30 @@
+{
+  "id": "latex-leather",
+  "number": 76,
+  "title": "Latex and Leather",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Latex and leather both produce a sensory profile that fabric doesn't — distinctive smell, temperature retention, tightness or weight against skin — and the response to wearing or being near them tends to be clear and fast in one direction or the other.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A latex or leather item — a glove, a collar, a belt, a cuff, or a piece of clothing. A single item is enough for a first test.",
+  "safetyNote": "Latex allergy exists and is worth checking before extended skin contact. If you have a known latex allergy, use leather or PVC alternatives.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Hold the item against your inner forearm or put it on and notice what the material produces before any partner response enters the picture. The smell typically arrives first; then temperature retention as the material warms against skin; then, with latex, the tightness and the sound of movement. Stay with it for a few minutes. You're establishing your baseline response to the material itself, separately from any dynamic that comes with it."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Wear the item with your partner, or have your partner wear it, and engage as you normally would. Don't frame it as an exercise — just be in it. Notice what the material adds to what's already happening, whether the smell or tightness carries any charge, and whether your response to your partner changes when they're in it. After one round, swap."
+    }
+  ],
+  "explore": [
+    "Solo: does the material produce any response on its own — smell, tightness, temperature — or is it essentially neutral?",
+    "Is there a specific quality of the material — the smell, the sound it makes, the feel against skin, the visual quality — that carries more weight than the others?",
+    "As the person wearing it: does the material change how you inhabit your body or how you feel seen?",
+    "As the person observing: does the material change how you engage with your partner, and does the effect stay consistent or fade quickly?"
+  ],
+  "why": "Latex and leather produce a sensory profile that fabric doesn't replicate — a specific smell, the way they retain warmth against skin, and a quality of tightness or weight that registers as something distinct from softness. For some people these qualities are immediately activating in a way that seems to operate below conscious preference; for others they're distracting or neutral. The response tends to be fast and clear in one direction or the other, which makes this a quick experience to test. Many people who identify as having a material interest trace it to an initial involuntary response to the smell or tightness — something that arrived before any conscious framing. Others find they have no response and are simply glad to know."
+}
