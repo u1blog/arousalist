@@ -51,12 +51,19 @@
     height: 62px;
     display: flex;
     align-items: center;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .site-header::-webkit-scrollbar {
+    display: none;
   }
 
   .site-nav {
     display: flex;
     align-items: center;
     gap: 2rem;
+    min-width: max-content;
   }
 
   .nav-logo {
@@ -82,6 +89,7 @@
     color: var(--text-secondary);
     text-decoration: none;
     transition: color var(--transition);
+    white-space: nowrap;
   }
   .nav-link:hover, .nav-link--active { color: var(--accent); }
 
