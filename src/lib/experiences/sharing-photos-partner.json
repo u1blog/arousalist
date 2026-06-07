@@ -1,0 +1,30 @@
+{
+  "id": "sharing-photos-partner",
+  "number": 69,
+  "title": "Sharing Photos",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "Sending an explicit image to a partner operates differently from being seen in person — you're captured rather than witnessed, the image persists after the moment, and the deliberateness of choosing to send it is visible in the act of sending.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A phone or device with a camera.",
+  "safetyNote": "Images persist. Consider whether automatic backups, shared libraries, or notification previews might expose something you intend to stay private. Agree beforehand whether images will be kept or deleted, and on which devices they may land.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Take an explicit photo of yourself — just for yourself, not to send yet. Notice what taking it produces separately from what sharing it would. Some people find framing and capturing themselves clarifying; others find it uncomfortable or neutral. You're separating your response to being captured from your response to being seen."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Send the photo. Notice what happens in the gap between pressing send and receiving a response — that interval is distinct, and the quality of what it produces is worth paying attention to. As receiver: notice how seeing your partner this way lands compared to seeing them in person. The image is deliberately composed and chosen; that intentionality reads differently from live presence. Compare notes after: what did the anticipation produce? Does having an image that persists — that can be looked at again — feel different from a moment that ends? Then switch."
+    }
+  ],
+  "explore": [
+    "Solo: does taking the photo produce anything — a different relationship to your own body, discomfort, something more neutral?",
+    "As sender: what does the interval between sending and receiving a response produce?",
+    "As receiver: does seeing your partner deliberately composed and captured change how you see them, even briefly?",
+    "Does the persistence of the image — it exists somewhere, it can be returned to — carry its own quality distinct from a live encounter?"
+  ],
+  "why": "An explicit image is different from presence in a specific way: it's a choice made in the past that arrives as an object in the present. The sender chose the frame, the moment, what to show — and that deliberateness is visible in the image itself. For receivers, seeing a partner this way often carries a quality of being trusted that live presence doesn't produce to the same degree, because the choice to capture and send was made separately from the moment of contact. For senders, the vulnerability is different from being seen in person: you're not there to read the response in real time, and the image persists past the moment. Most people find they have a clear reaction to one side or the other."
+}

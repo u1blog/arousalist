@@ -1,0 +1,25 @@
+{
+  "id": "time-constraints",
+  "number": 71,
+  "title": "Time Constraints",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "A hard time limit changes what you pay attention to — urgency is a genuinely different mode from open-ended exploration, and comparing them directly often reveals a preference people haven't previously examined.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "A timer.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Set a timer for ten minutes. Both partners know it's running. The constraint is the point: there's no settling in, no possibility of continuing past the limit. Pay attention to how the time pressure shapes what you do — whether urgency focuses attention or fragments it, whether knowing the end is approaching changes the final minutes. When the timer ends, stop. Wait two minutes. Then, if both people want to, run the reverse: set a timer for thirty minutes and move as slowly as possible, with no urgency. Same activity, different mode. Afterwards, compare what each produced."
+    }
+  ],
+  "explore": [
+    "Does urgency focus your attention or fragment it?",
+    "Does the approaching end change the quality of the final minutes — and in which direction?",
+    "Does the extended slow version feel qualitatively different from the urgent version, or just longer?",
+    "Which mode do you find more engaging — and did that match what you expected?"
+  ],
+  "why": "Time pressure changes the mode of attention in a specific way: when the end is known and close, each moment carries a weight it doesn't have in open-ended time. Some people find this focusing — the limit forces full presence because there's no room to defer anything. Others find the clock distracting — awareness of the limit prevents them from being fully in what's happening. The comparison between modes often reveals a strong preference people haven't consciously examined. Many people who believe they prefer urgent, spontaneous sex find the slow version produces a qualitatively different experience; others confirm a genuine preference for urgency that they hadn't previously tested against its opposite."
+}

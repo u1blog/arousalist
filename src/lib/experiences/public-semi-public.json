@@ -1,0 +1,25 @@
+{
+  "id": "public-semi-public",
+  "number": 70,
+  "title": "Semi-Public",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Doing something intimate where discovery is possible splits attention between two simultaneous channels — what's happening between you, and awareness of the external environment. Whether that split focuses attention or fragments it is what this is testing.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "A location where discovery is possible but unlikely.",
+  "safetyNote": "Semi-public means a space where discovery is possible but where bystanders would be unlikely to encounter anything without choosing to. A parked car, a secluded outdoor space, a private room at a venue. Exposure in a genuinely public context where bystanders would encounter it without choice is a different category and outside the scope of this guide.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Choose a location where discovery is unlikely but not impossible: a parked car away from foot traffic, an empty outdoor space with some cover, a semi-private room. Agree on what you're going to do before arriving. Once there, the experience is partly the act and partly the state of navigating two layers of attention at once — what's happening between you, and background awareness of the external environment. Don't try to ignore the context; let it be present. Notice whether the risk layer heightens what's happening or distracts from it, and whether that quality shifts as you stay longer. Afterwards, compare: did the location add anything, or did it mostly function as a distraction?"
+    }
+  ],
+  "explore": [
+    "Does the possibility of discovery heighten attention or fragment it — and does the answer stay consistent throughout, or shift?",
+    "Is there a point where risk moves from interesting to simply anxiety-inducing, and where does that sit?",
+    "Does the experience feel different once you're actually there versus when you were anticipating it?",
+    "Is one of you more activated by the risk context than the other — and does that asymmetry change the dynamic between you?"
+  ],
+  "why": "Risk context changes the nature of attention: the possibility of discovery makes it impossible to be mentally absent in the way that familiar, private spaces allow. For people to whom this lands, the alertness the context produces is itself part of the experience — the nervous system is fully occupied with two things simultaneously, and that dual-channel state is engaging rather than draining. For those it doesn't reach, the risk mostly functions as a distraction from what's actually happening. Whether the external context heightens or divides attention is worth knowing, because it points to something about whether transgression carries erotic charge for you more broadly."
+}
