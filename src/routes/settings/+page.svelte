@@ -1,5 +1,11 @@
 <script>
-  import { theme } from '$lib/stores.js';
+  import { theme, progress } from '$lib/stores.js';
+
+  let showConfirm = $state(false);
+
+  function requestReset() { showConfirm = true; }
+  function cancelReset()  { showConfirm = false; }
+  function confirmReset() { progress.reset(); showConfirm = false; }
 </script>
 
 <svelte:head>
@@ -40,6 +46,27 @@
           <span class="theme-icon">☀️</span>
           Light
         </button>
+      </div>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2 class="section-title">Data</h2>
+
+    <div class="setting-row">
+      <div class="setting-info">
+        <span class="setting-label">Clear all data</span>
+        <span class="setting-desc">Permanently delete all ratings, notes, and progress. This cannot be undone.</span>
+      </div>
+
+      <div class="reset-area">
+        {#if showConfirm}
+          <span class="reset-confirm-text">Are you sure?</span>
+          <button onclick={cancelReset} class="btn-cancel">Cancel</button>
+          <button onclick={confirmReset} class="btn-confirm">Yes, clear it</button>
+        {:else}
+          <button onclick={requestReset} class="btn-reset">Clear all data</button>
+        {/if}
       </div>
     </div>
   </section>
@@ -150,5 +177,57 @@
   .theme-icon {
     font-size: 0.95em;
     line-height: 1;
+  }
+
+  .settings-section + .settings-section {
+    margin-top: 1.5rem;
+  }
+
+  .reset-area {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-shrink: 0;
+  }
+
+  .reset-confirm-text {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+  }
+
+  .btn-reset {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.45rem 1rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    transition: border-color var(--transition), color var(--transition);
+  }
+  .btn-reset:hover { border-color: var(--accent); color: var(--accent); }
+
+  .btn-confirm {
+    font-size: 0.875rem;
+    color: white;
+    background: var(--accent);
+    border: none;
+    border-radius: var(--radius-sm);
+    padding: 0.45rem 1rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-weight: 500;
+  }
+
+  .btn-cancel {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.45rem 1rem;
+    cursor: pointer;
+    font-family: var(--font-body);
   }
 </style>

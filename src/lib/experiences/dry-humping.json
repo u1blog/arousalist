@@ -2,13 +2,18 @@
   "id": "dry-humping",
   "number": 40,
   "title": "Dry Humping",
-  "tier": "partner-only",
+  "tier": "better-with-partner",
   "category": "sensation",
   "description": "Treated as the whole experience rather than a prelude, clothed contact has specific qualities that direct contact doesn't produce — fabric creates a different type of friction, and the barrier keeps arousal consistently elevated without resolution.",
-  "ratingTypes": ["receiver", "giver"],
-  "equipment": "Clothing — at minimum underwear on both people throughout.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Clothing — at minimum underwear throughout.",
   "safetyNote": null,
   "instructions": [
+    {
+      "type": "single",
+      "label": "Solo",
+      "content": "Keep clothes on throughout — underwear at minimum, more if you prefer. Use a pillow, rolled blanket, or any firm surface to grind against. Try different positions: lying face down, sitting astride, on your side. Try different types of movement: sustained pressure, rhythmic grinding, intermittent contact. Notice which position and angle produce the most response through the fabric. Stay in this for at least ten minutes without removing clothing — the constraint is the point."
+    },
     {
       "type": "single",
       "label": "With a partner",

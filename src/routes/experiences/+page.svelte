@@ -1,12 +1,11 @@
 <script>
   import { progress } from '$lib/stores.js';
-  import { EXPERIENCES, ANATOMY_FILTER_OPTIONS } from '$lib/data.js';
+  import { EXPERIENCES } from '$lib/data.js';
   import ExperienceCard from '$lib/components/ExperienceCard.svelte';
 
   let tierFilter     = $state('all');
   let statusFilter   = $state('all');
   let categoryFilter = $state('all');
-  let anatomyFilter  = $state('all');
 
   let stats = $derived({
     tried: EXPERIENCES.filter(e => $progress[e.id]?.tried).length,
@@ -30,9 +29,6 @@
       }
 
       if (categoryFilter !== 'all' && exp.category !== categoryFilter) return false;
-
-      if (anatomyFilter === 'has-penis' && exp.anatomy === 'vulva') return false;
-      if (anatomyFilter === 'has-vulva' && exp.anatomy === 'penis') return false;
 
       return true;
     })
@@ -120,18 +116,6 @@
       {/each}
     </div>
 
-    <div class="filter-divider"></div>
-
-    <div class="filter-group">
-      <span class="filter-label">Anatomy</span>
-      {#each ANATOMY_FILTER_OPTIONS as opt}
-        <button
-          class="filter-btn"
-          class:is-active={anatomyFilter === opt.value}
-          onclick={() => anatomyFilter = opt.value}
-        >{opt.label}</button>
-      {/each}
-    </div>
   </div>
 </div>
 
@@ -146,7 +130,7 @@
     {:else}
       <div class="no-results">
         <p>No experiences match the current filters.</p>
-        <button class="btn-primary" onclick={() => { tierFilter = 'all'; statusFilter = 'all'; categoryFilter = 'all'; anatomyFilter = 'all'; }}>
+        <button class="btn-primary" onclick={() => { tierFilter = 'all'; statusFilter = 'all'; categoryFilter = 'all'; }}>
           Clear filters
         </button>
       </div>
