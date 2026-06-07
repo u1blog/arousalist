@@ -1,0 +1,25 @@
+{
+  "id": "extended-sessions",
+  "number": 77,
+  "title": "Extended Sessions",
+  "tier": "partner-only",
+  "category": "sensation",
+  "description": "Deliberately long encounters move through distinct phases that shorter sessions never reach — the initial charge settles, something quieter arrives, and then often something else after that. Most people have never stayed long enough to find out what's in the later phases.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Two to three hours with nothing else scheduled.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree in advance that this has no endpoint and no specific agenda — no goal, no escalation toward anything, no plan for what happens when. Begin with whatever feels natural. When the initial charge settles — and it will — don't introduce anything new or move things forward. Stay in whatever state you've arrived at. Notice what comes after: many people find a quieter, more absorptive mode that only open-ended time allows. Stay there. At some point later, notice if something else shifts. Don't manufacture transitions; let them arrive on their own. Two to three hours is the minimum for the later phases to appear — shorter sessions end before reaching them."
+    }
+  ],
+  "explore": [
+    "Does the experience move through distinct phases — and where does the first transition arrive?",
+    "What happens when the initial charge settles and you don't move things forward?",
+    "Is there a quality of presence in the later phases that the earlier ones don't have?",
+    "Does having no endpoint change how you're in it — less monitoring of progress, more absorption in what's actually happening?"
+  ],
+  "why": "Most sexual encounters are structured around a trajectory: building toward something, arriving there, ending. Extended sessions with no agenda remove that structure entirely. The initial phase runs its course and something else appears — often a quieter, more absorptive mode that many people describe as more genuinely present than the charged beginning, because there's nothing to track or move toward. Some people find this the most intimate territory they've been in; others find the absence of direction uncomfortable. Either response reveals something real about how you orient toward intimacy — whether you're drawn to intensity and its resolution, or to the longer, stranger territory that appears beyond it."
+}

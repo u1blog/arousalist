@@ -1,0 +1,30 @@
+{
+  "id": "uniforms-costumes",
+  "number": 75,
+  "title": "Uniforms and Costumes",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "A uniform or costume signals a role before anything is said or done, and that signal is legible immediately — to the person wearing it and to whoever sees them. The clothing does work the behaviour doesn't have to.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Something that signals a clear role: a uniform element (a single item is enough — a collar, a tie, a shirt, a hat), or any clothing strongly associated with a particular type of authority, service, or position.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Put the item on and look at yourself in a mirror. Notice whether wearing it changes anything about how you hold yourself — posture, the way you stand — before any interaction begins. You're testing whether the role the clothing signals carries any effect on you simply through wearing it, separate from a partner's response."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Wear the item with your partner and engage as you normally would — or as the role suggests. Don't explain or narrate the scenario; let the clothing carry what it carries without commentary. Notice what changes about how you act, how your partner responds, and whether the role creates any permission or expectation that you didn't have without it. After one round, swap — the experience of wearing the item is genuinely different from observing it, and many people find their preference is the opposite of what they predicted."
+    }
+  ],
+  "explore": [
+    "Solo: does wearing the item change anything about how you hold yourself or feel in your body — even without an audience?",
+    "With a partner: does the role the clothing signals arrive before any behaviour does — does it carry the dynamic on its own without anyone acting it out?",
+    "Is there a particular type of role — authority, service, professional, institutional — that produces a stronger response than others?",
+    "As observer: does seeing your partner occupy a specific role via clothing change how you engage with them, and how quickly does that effect arrive?"
+  ],
+  "why": "Clothing communicates role before behaviour does. A uniform element that signals authority, service, or a specific institutional context creates a frame that both people read immediately and without needing to negotiate — the signal is already legible. For many people, wearing something that assigns a role is the low-friction entry into dynamics they want to explore but haven't been able to initiate as themselves: the costume provides the permission the person hasn't granted themselves. For observers, the response to seeing a partner inhabit a specific role via clothing is often more immediate and clearer than expected. Many people find even a single item — a collar, a tie worn alone — is sufficient to shift the dynamic noticeably."
+}
