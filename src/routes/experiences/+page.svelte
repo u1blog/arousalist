@@ -1,11 +1,12 @@
 <script>
-  import { progress } from '$lib/stores.js';
+  import { progress, wishlist } from '$lib/stores.js';
   import { EXPERIENCES } from '$lib/data.js';
   import ExperienceCard from '$lib/components/ExperienceCard.svelte';
 
   let tierFilter     = $state('all');
   let statusFilter   = $state('all');
   let categoryFilter = $state('all');
+  let filtersOpen    = $state(false);
 
   let stats = $derived({
     tried: EXPERIENCES.filter(e => $progress[e.id]?.tried).length,
@@ -22,16 +23,21 @@
 
       if (tierFilter !== 'all' && exp.tier !== tierFilter) return false;
 
-      if (statusFilter === 'tried'     && !d.tried) return false;
-      if (statusFilter === 'not-tried' && d.tried)  return false;
+      if (statusFilter === 'tried'      && !d.tried) return false;
+      if (statusFilter === 'not-tried'  && d.tried)  return false;
       if (statusFilter === 'rated') {
         if (!d.ratings || !Object.values(d.ratings).some(Boolean)) return false;
       }
+      if (statusFilter === 'wishlisted' && !$wishlist.has(exp.id)) return false;
 
       if (categoryFilter !== 'all' && exp.category !== categoryFilter) return false;
 
       return true;
     })
+  );
+
+  let isFiltered = $derived(
+    tierFilter !== 'all' || statusFilter !== 'all' || categoryFilter !== 'all'
   );
 
   const tierOptions = [
@@ -41,10 +47,11 @@
     { value: 'partner-only',         label: 'Partner only' },
   ];
   const statusOptions = [
-    { value: 'all',       label: 'All' },
-    { value: 'tried',     label: 'Tried' },
-    { value: 'not-tried', label: 'Not tried' },
-    { value: 'rated',     label: 'Rated' },
+    { value: 'all',        label: 'All' },
+    { value: 'tried',      label: 'Tried' },
+    { value: 'not-tried',  label: 'Not tried' },
+    { value: 'rated',      label: 'Rated' },
+    { value: 'wishlisted', label: 'Wishlisted' },
   ];
   const categoryOptions = [
     { value: 'all',       label: 'All' },
@@ -53,6 +60,12 @@
   ];
 
   let progressPct = $derived((stats.tried / stats.total) * 100);
+
+  function clearFilters() {
+    tierFilter = 'all';
+    statusFilter = 'all';
+    categoryFilter = 'all';
+  }
 </script>
 
 <svelte:head>
@@ -78,45 +91,71 @@
 </div>
 
 <div class="filters-wrap">
-  <div class="container filters-inner">
-    <div class="filter-group">
-      <span class="filter-label">Tier</span>
-      {#each tierOptions as opt}
-        <button
-          class="filter-btn"
-          class:is-active={tierFilter === opt.value}
-          onclick={() => tierFilter = opt.value}
-        >{opt.label}</button>
-      {/each}
-    </div>
+  <div class="container filters-bar">
+    <button
+      class="filter-toggle-btn"
+      class:has-filters={isFiltered}
+      onclick={() => filtersOpen = !filtersOpen}
+      aria-expanded={filtersOpen}
+    >
+      <span class="filter-toggle-icon" class:open={filtersOpen}>▾</span>
+      Filters
+      {#if isFiltered}<span class="filter-active-dot" aria-hidden="true"></span>{/if}
+    </button>
 
-    <div class="filter-divider"></div>
+    <span class="results-count">
+      {#if isFiltered}
+        {filtered.length} of {EXPERIENCES.length}
+      {:else}
+        {EXPERIENCES.length} experiences
+      {/if}
+    </span>
 
-    <div class="filter-group">
-      <span class="filter-label">Status</span>
-      {#each statusOptions as opt}
-        <button
-          class="filter-btn"
-          class:is-active={statusFilter === opt.value}
-          onclick={() => statusFilter = opt.value}
-        >{opt.label}</button>
-      {/each}
-    </div>
-
-    <div class="filter-divider"></div>
-
-    <div class="filter-group">
-      <span class="filter-label">Type</span>
-      {#each categoryOptions as opt}
-        <button
-          class="filter-btn"
-          class:is-active={categoryFilter === opt.value}
-          onclick={() => categoryFilter = opt.value}
-        >{opt.label}</button>
-      {/each}
-    </div>
-
+    {#if isFiltered}
+      <button class="clear-btn" onclick={clearFilters}>Clear</button>
+    {/if}
   </div>
+
+  {#if filtersOpen}
+    <div class="container filters-inner">
+      <div class="filter-group">
+        <span class="filter-label">Tier</span>
+        {#each tierOptions as opt}
+          <button
+            class="filter-btn"
+            class:is-active={tierFilter === opt.value}
+            onclick={() => tierFilter = opt.value}
+          >{opt.label}</button>
+        {/each}
+      </div>
+
+      <div class="filter-divider"></div>
+
+      <div class="filter-group">
+        <span class="filter-label">Status</span>
+        {#each statusOptions as opt}
+          <button
+            class="filter-btn"
+            class:is-active={statusFilter === opt.value}
+            onclick={() => statusFilter = opt.value}
+          >{opt.label}</button>
+        {/each}
+      </div>
+
+      <div class="filter-divider"></div>
+
+      <div class="filter-group">
+        <span class="filter-label">Type</span>
+        {#each categoryOptions as opt}
+          <button
+            class="filter-btn"
+            class:is-active={categoryFilter === opt.value}
+            onclick={() => categoryFilter = opt.value}
+          >{opt.label}</button>
+        {/each}
+      </div>
+    </div>
+  {/if}
 </div>
 
 <div class="browse-body">
@@ -130,7 +169,7 @@
     {:else}
       <div class="no-results">
         <p>No experiences match the current filters.</p>
-        <button class="btn-primary" onclick={() => { tierFilter = 'all'; statusFilter = 'all'; categoryFilter = 'all'; }}>
+        <button class="btn-primary" onclick={clearFilters}>
           Clear filters
         </button>
       </div>
@@ -197,17 +236,79 @@
   .filters-wrap {
     background: var(--bg-surface);
     border-bottom: 1px solid var(--border);
-    padding: 1rem 0;
     position: sticky;
     top: 62px;
     z-index: 90;
   }
+
+  .filters-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+
+  .filter-toggle-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-family: var(--font-body);
+    font-size: 0.825rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    background: var(--bg-dim);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.35rem 0.75rem;
+    cursor: pointer;
+    transition: border-color var(--transition), color var(--transition);
+    white-space: nowrap;
+  }
+  .filter-toggle-btn:hover { border-color: var(--accent-light); color: var(--text); }
+  .filter-toggle-btn.has-filters { border-color: var(--accent-light); color: var(--accent); }
+
+  .filter-toggle-icon {
+    font-size: 0.75rem;
+    transition: transform 0.15s ease;
+    display: inline-block;
+  }
+  .filter-toggle-icon.open { transform: rotate(180deg); }
+
+  .filter-active-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    flex-shrink: 0;
+  }
+
+  .results-count {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .clear-btn {
+    font-size: 0.775rem;
+    font-weight: 500;
+    color: var(--accent);
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font-family: var(--font-body);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .clear-btn:hover { opacity: 0.75; }
 
   .filters-inner {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
     align-items: center;
+    padding-top: 0;
+    padding-bottom: 0.75rem;
   }
 
   .filter-group {

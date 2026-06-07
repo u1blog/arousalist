@@ -1,6 +1,7 @@
 <script>
   import { base } from '$app/paths';
   import { TIER_INFO, CATEGORY_INFO } from '$lib/data.js';
+  import { wishlist } from '$lib/stores.js';
   import RatingWidget from '$lib/components/RatingWidget.svelte';
   import TriedToggle  from '$lib/components/TriedToggle.svelte';
   import NotesField   from '$lib/components/NotesField.svelte';
@@ -13,6 +14,7 @@
   let tier = $derived(TIER_INFO[exp.tier]);
   let cat  = $derived(CATEGORY_INFO[exp.category]);
   let numStr = $derived(String(exp.number).padStart(2, '0'));
+  let isWishlisted = $derived($wishlist.has(exp.id));
 </script>
 
 <svelte:head>
@@ -76,6 +78,17 @@
 
     <div class="tracker-tried">
       <TriedToggle experienceId={exp.id} />
+    </div>
+
+    <div class="tracker-section">
+      <button
+        class="wishlist-toggle"
+        class:is-wishlisted={isWishlisted}
+        onclick={() => wishlist.toggle(exp.id)}
+      >
+        <span class="wishlist-heart">♥</span>
+        {isWishlisted ? 'Saved to wishlist' : 'Save to wishlist'}
+      </button>
     </div>
 
     <div class="tracker-section">
@@ -286,7 +299,31 @@
     margin-bottom: 2rem;
     max-width: none;
   }
-  .tracker-tried { margin-bottom: 2.5rem; }
+  .tracker-tried { margin-bottom: 1.5rem; }
+
+  .wishlist-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    background: var(--bg-dim);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: border-color var(--transition), color var(--transition), background var(--transition);
+  }
+  .wishlist-toggle:hover { border-color: var(--accent-light); color: var(--accent); }
+  .wishlist-toggle.is-wishlisted {
+    border-color: var(--accent-light);
+    color: var(--accent);
+    background: var(--bg-raised);
+  }
+
+  .wishlist-heart { font-size: 1rem; line-height: 1; }
   .tracker-section { margin-bottom: 2rem; }
   .tracker-section-heading {
     font-size: 0.8rem;

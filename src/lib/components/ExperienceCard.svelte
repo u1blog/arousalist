@@ -1,6 +1,6 @@
 <script>
   import { base } from '$app/paths';
-  import { progress } from '$lib/stores.js';
+  import { progress, wishlist } from '$lib/stores.js';
   import { TIER_INFO, CATEGORY_INFO, RATING_OPTIONS, RATING_LABELS } from '$lib/data.js';
 
   let { experience } = $props();
@@ -15,6 +15,8 @@
       .map(type => ({ type, value: data.ratings?.[type] }))
       .filter(r => r.value)
   );
+
+  let isWishlisted = $derived($wishlist.has(experience.id));
 
   function optionFor(value) {
     return RATING_OPTIONS.find(o => o.value === value);
@@ -31,6 +33,13 @@
     {#if data.tried}
       <span class="tried-indicator" title="Tried">✓</span>
     {/if}
+    <button
+      class="wishlist-btn"
+      class:is-wishlisted={isWishlisted}
+      onclick={(e) => { e.preventDefault(); e.stopPropagation(); wishlist.toggle(experience.id); }}
+      title={isWishlisted ? 'Remove from wishlist' : 'Add to wishlist'}
+      aria-label={isWishlisted ? 'Remove from wishlist' : 'Add to wishlist'}
+    >♥</button>
   </div>
 
   <h2 class="card-title">{experience.title}</h2>
@@ -105,6 +114,26 @@
     font-weight: 700;
     flex-shrink: 0;
   }
+
+  .wishlist-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: none;
+    background: transparent;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    transition: color var(--transition), background var(--transition);
+    flex-shrink: 0;
+  }
+  .wishlist-btn:hover { color: var(--accent); background: var(--bg-dim); }
+  .wishlist-btn.is-wishlisted { color: var(--accent); }
 
   .card-title {
     font-family: var(--font-heading);
