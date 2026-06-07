@@ -109,6 +109,7 @@
     cursor: pointer;
     transition: background var(--transition);
     width: 100%;
+    text-align: center;
   }
 
   .btn-primary:hover {
