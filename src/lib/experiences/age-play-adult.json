@@ -1,0 +1,25 @@
+{
+  "id": "age-play-adult",
+  "number": 102,
+  "title": "Age Play (Adult)",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Adopting an adult persona with exaggerated innocence, naivety, or corresponding authority — within a fully adult context — explores a specific psychological dynamic that produces strong responses in one direction or the other, rarely neutral.",
+  "ratingTypes": ["receiver", "giver"],
+  "equipment": "Nothing required; optionally clothing that supports the persona.",
+  "safetyNote": "This experience involves consenting adults adopting adult personas with particular psychological qualities — innocence, inexperience, or authority. All participants are adults throughout. Agree on a clear word to step out of the dynamic at any point.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree beforehand on which persona each person is inhabiting: one adopts a register of exaggerated innocence or naivety — not a different age, but a different degree of experience and worldliness; the other inhabits a corresponding register of care, authority, or guidance. Agree on a word to step outside the dynamic if needed. Once in the scene, the less-experienced persona's job is to inhabit that register fully — allowing someone else to guide, explain, or take charge of the encounter. The more experienced persona's job is to hold that authority with genuine care, not condescension. After one round, swap the registers if both people want to. Most people find they have a strong and immediate preference."
+    }
+  ],
+  "explore": [
+    "As the person inhabiting the more innocent persona: what does ceding experience and authority to someone else produce — ease, discomfort, something else?",
+    "Is the appeal the specific psychological dynamic — innocence meeting authority — or primarily the permission structure it creates?",
+    "As the person inhabiting the authority persona: does the responsibility of guiding someone less experienced produce engagement, discomfort, or something harder to categorise?",
+    "Is there a clear role preference — and did the experience tell you something about why that persona fits you better?"
+  ],
+  "why": "Age play in its adult form is a persona dynamic rather than a literal one — it's about inhabiting psychological registers of innocence and experience, not different ages. For people to whom it lands, the dynamic produces something specific: the innocent persona gets to cede knowledge and authority entirely, which produces a particular kind of release; the experienced persona gets to hold care and guidance, which produces its own form of engagement. The strong reactions this dynamic produces in either direction — whether it clicks immediately or feels entirely wrong — tend to come from what the personas require psychologically. Many people find that one side fits them more naturally than expected, which tells them something about the dynamics they're drawn to more broadly."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "long-distance-intimacy",
+  "number": 100,
+  "title": "Long-Distance Intimacy",
+  "tier": "better-with-partner",
+  "category": "dynamic",
+  "description": "Digital intimacy at distance is not a substitute for physical presence — it's a different mode that produces different things, some of which physical presence can't replicate. Absence and anticipation are themselves variables worth examining.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A phone or device. A partner who is elsewhere.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Before a planned digital encounter, spend time with the anticipation deliberately — rather than filling the gap between now and the call with other things, pay attention to what the knowledge of the approaching encounter produces on its own. Anticipation at a distance is one of the distinct qualities this mode offers, and it's worth noticing separately from the encounter itself."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Conduct an explicit encounter over video, text, or voice — not as a practical substitute for being together, but as the thing itself. Try different modes in different sessions: video only, voice only, text only. Notice what each medium produces differently: video gives presence without touch; voice gives intimacy without image; text gives time to compose and receive. After each, notice what the specific medium allowed and what it foreclosed — and whether anything in the digital mode produced something that in-person contact doesn't."
+    }
+  ],
+  "explore": [
+    "Does the anticipation before a digital encounter produce anything — and is that anticipation different from what precedes physical contact?",
+    "What does each medium (video, voice, text) produce differently — what is available in each that the others don't offer?",
+    "Is there anything in long-distance intimacy that in-person contact doesn't replicate — not what's missing, but what's specifically present?",
+    "Does absence change how you relate to desire for someone — does it clarify, intensify, or complicate it?"
+  ],
+  "why": "Long-distance intimacy forces a separation of channels that physical presence combines automatically: in-person contact arrives with visual information, sound, touch, and smell simultaneously. At distance, each of those is negotiated individually or forfeited entirely, and what remains is restructured around what's available. Many people discover that stripping presence down to voice alone, or to text alone, produces a quality of attention and communication that the noise of full physical presence doesn't. Absence and anticipation are also real variables: desire that lives entirely in text and memory, with no resolution through touch, produces its own specific quality that physical proximity doesn't replicate and that many people have never examined deliberately."
+}
