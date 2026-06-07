@@ -2,6 +2,7 @@
   import '../app.css';
   import SiteHeader from '$lib/components/SiteHeader.svelte';
   import SiteFooter from '$lib/components/SiteFooter.svelte';
+  import AgeWarning from '$lib/components/AgeWarning.svelte';
   import { theme } from '$lib/stores.js';
   import { browser } from '$app/environment';
 
@@ -14,6 +15,7 @@
   });
 </script>
 
+<AgeWarning />
 <SiteHeader />
 <main>{@render children()}</main>
 <SiteFooter />
