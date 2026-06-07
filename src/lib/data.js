@@ -118,6 +118,7 @@ import identifiableLiveStreaming from './experiences/identifiable-live-streaming
 import oneOnOneVideoStrangers from './experiences/one-on-one-video-strangers.json';
 import receivingUnsolicitedImages from './experiences/receiving-unsolicited-images.json';
 import frotting from './experiences/frotting.json';
+import sharingPartnerAnonymous from './experiences/sharing-partner-anonymous.json';
 
 export const TIER_INFO = {
   'solo-start': {
@@ -163,6 +164,8 @@ export const RATING_LABELS = {
   solo:     'Solo',
   receiver: 'As receiver',
   giver:    'As giver',
+  sharer:   'As sharer',
+  subject:  'As subject',
 };
 
 export const EXPERIENCES = [
@@ -286,4 +289,5 @@ export const EXPERIENCES = [
   oneOnOneVideoStrangers,
   receivingUnsolicitedImages,
   frotting,
+  sharingPartnerAnonymous,
 ];

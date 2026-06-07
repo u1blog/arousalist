@@ -1,0 +1,26 @@
+{
+  "id": "sharing-partner-anonymous",
+  "number": 121,
+  "title": "Sharing Your Partner Anonymously",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Posting explicit photos of a partner to an anonymous audience positions a known person in front of strangers — and the sharer's response to that, and the subject's response to being in that position, are distinct psychological experiences that can't be accurately predicted in advance.",
+  "ratingTypes": ["sharer", "subject"],
+  "equipment": "An anonymous account with no connection to either person's real identity.",
+  "safetyNote": "Explicit consent from the subject is not optional and must be given without pressure, able to be withdrawn at any time. Agree in advance on what can be shown, what will happen to the images, and whether the account will be deleted after. Any identifying features — face, tattoos, distinctive marks, visible location details, image metadata — can identify the subject even when intended as anonymous. Images posted publicly can persist after deletion. In many jurisdictions, sharing explicit images without clear ongoing consent carries serious legal consequences regardless of relationship.",
+  "instructions": [
+    {
+      "type": "single",
+      "label": "With a partner",
+      "content": "Agree in advance on what will be shared, that either person can stop at any point, and what happens to the images and account afterward. Sharer: post a single image. Notice the gap before responses arrive — what that interval produces, and then what the responses themselves produce when they come. Are you watching for approval of your partner, desire directed at them, or the volume of response? Subject: you are not present, but you know you're being seen. Notice what knowing this produces separately from actually reading the responses. When responses arrive, read them together or separately — agree which beforehand. Both: notice what specifically shifts when strangers respond to someone one of you is intimate with. Compersion, possessiveness, pride, discomfort, indifference — whichever arrives, notice whether it matches what you predicted before posting."
+    }
+  ],
+  "explore": [
+    "Sharer: does seeing strangers respond to your partner produce compersion, possessiveness, pride, or something else — and does the quality of the response (positive, critical, absent) change what it produces?",
+    "Subject: does knowing you're being seen by strangers — without being present — produce something different from being seen in person or via sexting?",
+    "Does the sharer's control over what's shown — what to include, what to leave out — carry its own charge separate from the responses?",
+    "Does the anonymity on both sides (neither of you is identifiable) affect the dynamic — would it feel different if the audience knew the relationship?",
+    "Reading comments about your partner, or about yourself: does the stranger's-eye view change how either of you sees the subject, even briefly?"
+  ],
+  "why": "This experience creates a triangulated gaze that has no close equivalent in the other sharing experiences: the sharer watches strangers respond to someone they're intimate with, and the subject is seen by people they'll never encounter, through images chosen by someone they trust. The sharer's experience is fundamentally different from sharing their own images — the desire is directed at someone else, and whether that produces compersion, possessiveness, or something more ambivalent tells the sharer something specific about their relationship to the subject. For the subject, being shown to strangers through a partner's curation is a different exposure from posting your own images: the partner decided what to show, and that mediation is part of what the subject is responding to, alongside the strangers' attention itself. Both roles produce responses that most people find they couldn't accurately anticipate."
+}
