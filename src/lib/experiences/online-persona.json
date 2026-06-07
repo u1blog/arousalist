@@ -1,0 +1,25 @@
+{
+  "id": "online-persona",
+  "number": 110,
+  "title": "Online Persona",
+  "tier": "solo-start",
+  "category": "dynamic",
+  "description": "Building a separate identity for sexual expression gives you a version of yourself that exists only in that space. What that version allows and what it withholds tells you something real — about what the separation is doing and what it's for.",
+  "ratingTypes": ["solo"],
+  "equipment": "A device; accounts on appropriate platforms, completely separate from personal accounts and email.",
+  "safetyNote": "Keep the persona genuinely separate from your real identity — different email address, no crossover with personal accounts, no identifying details. A persona that leaks is no longer a persona.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo",
+      "content": "Build the persona with deliberate choices: a username, a specific aesthetic, decisions about what to show and what to withhold. Operate it for long enough to develop it — post, interact, let it have a small history. Notice what it feels like to have a version of yourself that exists only in this context: what it allows that your ordinary identity doesn't, and what it withholds that your ordinary identity carries. After operating it long enough to have a real response to it, examine the gap between the persona and the self: how wide is it, what lives in that gap, and is the persona discovering something true or constructing something fictional?"
+    }
+  ],
+  "explore": [
+    "What does the persona allow that your ordinary identity doesn't — and is the permission coming from the anonymity or from the constructed identity itself?",
+    "Is the persona continuous with who you are, or does it represent something you contain but don't usually express?",
+    "What do you choose to withhold from the persona — and does what you withhold tell you as much as what you include?",
+    "Does operating the persona change anything about how you relate to your ordinary identity — does it stay separate, or does something bleed?"
+  ],
+  "why": "A sexual persona is a selective presentation — not a lie, but an emphasis of one dimension with everything else held back. For some people the act of building and inhabiting a persona produces genuine self-knowledge: the persona is more honest about one specific thing than the full self can be in ordinary life. For others, the separation eventually feels hollow — the audience is responding to a construction rather than a person, and that hollowness is informative in its own right. Which of those it is depends on how much of the persona is discovery versus performance, and that question is usually only answerable from inside the experience of running it."
+}

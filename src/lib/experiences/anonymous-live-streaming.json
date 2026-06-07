@@ -1,0 +1,30 @@
+{
+  "id": "anonymous-live-streaming",
+  "number": 114,
+  "title": "Anonymous Live Streaming",
+  "tier": "solo-start",
+  "category": "dynamic",
+  "description": "Streaming in real time to an unknown audience — face hidden — introduces something still images don't have: the audience is present while something is happening. That simultaneity changes the quality of the exposure.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A device with camera and reliable connection; an anonymous account on a live streaming platform, completely separate from real identity.",
+  "safetyNote": "Ensure your face and any identifying marks or background details are outside the frame before going live. Live streams can be recorded by viewers without your knowledge — treat anything streamed as potentially persistent regardless of platform deletion options.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Stream an explicit solo session with face and identifying features outside the frame. Notice what the presence of a live audience changes: whether awareness of being watched in real time produces a performance quality, whether the chat produces anything when responses arrive, and whether the immediacy of a live audience is different from what you expected when thinking about it. The audience is there now, while this is happening — that's what distinguishes this from still images."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "Stream with a partner, both anonymous. The additional variable is navigating the audience alongside someone else — how their awareness of the audience changes what happens between you, and whether performing for an audience together produces a different dynamic from performing solo."
+    }
+  ],
+  "explore": [
+    "Does a live audience — even anonymous, even unseen — change how you're in the experience?",
+    "Is the response primarily to the watching (being seen), to the chat (being responded to in real time), or to the simultaneous performance quality that streaming introduces?",
+    "Does the live quality — this is happening now — produce something distinct from what still images produced?",
+    "Does the experience match what you imagined it would be — and in which direction does it diverge?"
+  ],
+  "why": "Live streaming differs from still images in one specific way: the audience is present while something is happening rather than consuming a record of something that already happened. That simultaneity produces a different quality of exposure — you are being watched now, in real time, and responses arrive immediately. For many people this real-time dimension is what makes streaming distinct from photography: the presence of a live audience creates something between a private experience and a performance, and the performer's awareness of being watched while doing something changes the quality of the doing. Whether that quality is activating or distracting turns out to be specific to the person, and the answer is usually not what they predicted."
+}
