@@ -2,20 +2,26 @@
   "id": "mirror",
   "number": 37,
   "title": "Mirror",
-  "tier": "partner-only",
+  "tier": "better-with-partner",
   "category": "dynamic",
   "description": "The mirror introduces a viewer's perspective into an experience that is normally entirely interior — and whether that self-witnessing is immediately arousing or distracting tells you something specific about how you experience desire.",
-  "ratingTypes": ["receiver", "giver"],
-  "equipment": "A mirror large enough to see yourselves together.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "A mirror large enough to see yourself clearly.",
   "safetyNote": null,
   "instructions": [
     {
-      "type": "single",
+      "type": "solo",
+      "label": "Solo first",
+      "content": "During solo activity, position yourself where you can see yourself in the mirror — not catching a glimpse, but actually watching. Your job is to notice how watching yourself changes the experience. Some people find it immediately intensifying: the visual confirmation makes what's happening more real. Others find it distracting — they can't stop monitoring how they look rather than what they feel. Hold the look deliberately for at least a few minutes before looking away. The direction of your response is what you're finding out."
+    },
+    {
+      "type": "partner",
       "label": "With a partner",
       "content": "During physical activity, position yourselves where you can see the two of you in the mirror — not catching a glimpse, but actually watching. The receiver's job is to notice how watching changes the experience. The giver's job is to watch both themselves and the receiver, and notice what seeing the act as well as doing it produces. Spend at least ten minutes with the mirror accessible before stopping to compare. There's often a strong reaction in one direction or the other — intensifying, or immediately alienating — and the direction itself is the data."
     }
   ],
   "explore": [
+    "Solo: does watching yourself intensify the experience or pull you out of it — and does the answer surprise you?",
     "Does watching yourself change how you inhabit your body — more self-conscious, more present, or both?",
     "Do you find yourself watching your own face, your partner's, or the two of you together — and does what you focus on shift?",
     "Does the mirror feel connecting or distancing?",

@@ -2,22 +2,28 @@
   "id": "ruined-orgasm",
   "number": 54,
   "title": "Ruined Orgasm",
-  "tier": "partner-only",
+  "tier": "better-with-partner",
   "category": "dynamic",
   "description": "A ruined orgasm occupies a genuinely strange category: physiologically it is an orgasm, but the subjective experience often lacks the satisfaction that usually follows.",
-  "ratingTypes": ["receiver", "giver"],
-  "equipment": "Just yourselves.",
+  "ratingTypes": ["solo", "receiver", "giver"],
+  "equipment": "Just yourself.",
   "safetyNote": null,
   "instructions": [
     {
-      "type": "single",
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Bring yourself to the edge of orgasm, and at the exact point of no return — not before it, not well past it — remove all stimulation completely. The result is an orgasm that happens without the accompanying sensation intensity: physiologically present, subjectively diminished. After one round, note what it produced: frustration, an unusual physical sensation, elevated arousal that lingers, or something more complex? And how does the aftermath compare to a full orgasm? The precision required — reading your own approach closely enough to act at exactly the right moment — is itself part of the experience."
+    },
+    {
+      "type": "partner",
       "label": "With a partner",
       "content": "The receiver indicates clearly when they are approaching the point of no return. At that exact moment — not before it, not well past it — the giver either removes all stimulation completely or changes it significantly. The result is an orgasm that happens but without the accompanying sensation intensity: physiologically present, subjectively diminished. The receiver experiences something between orgasm and nothing. After one round, compare: what did it produce, and how did the aftermath feel compared to a full orgasm? Agree on a clear signal before starting — timing is everything, and the signal needs to be specific enough that the giver can act on it precisely."
     }
   ],
   "explore": [
-    "As receiver: what did the ruined orgasm produce — frustration, an unusual physical sensation, something more complex?",
+    "Solo: what did the ruined orgasm produce — frustration, an unusual physical sensation, elevated arousal that lingered, something else?",
     "How did the aftermath feel compared to a full orgasm — more or less satisfied, more or less aroused?",
+    "As receiver: does it change anything to have the timing out of your control?",
     "As giver: what was it like to read the receiver precisely enough to act at exactly the right moment?",
     "Is this something you'd want to repeat — or is once enough to know your response?"
   ],
