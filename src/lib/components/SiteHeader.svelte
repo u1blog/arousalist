@@ -9,7 +9,7 @@
 
 <header class="site-header">
   <nav class="site-nav container">
-    <a href="{base}/" class="nav-logo">Kink Discovery Guide</a>
+    <a href="{base}/" class="nav-logo">Arousalist</a>
     <div class="nav-links">
       <a
         href="{base}/experiences"

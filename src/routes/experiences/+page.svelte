@@ -60,7 +60,7 @@
 </script>
 
 <svelte:head>
-  <title>Browse Experiences — Kink Discovery Guide</title>
+  <title>Browse Experiences — Arousalist</title>
   <meta name="description" content="Browse all twelve experiences. Filter by tier, status, and category. Track your progress." />
 </svelte:head>
 
