@@ -117,6 +117,7 @@ import receivingRatingsComments from './experiences/receiving-ratings-comments.j
 import identifiableLiveStreaming from './experiences/identifiable-live-streaming.json';
 import oneOnOneVideoStrangers from './experiences/one-on-one-video-strangers.json';
 import receivingUnsolicitedImages from './experiences/receiving-unsolicited-images.json';
+import frotting from './experiences/frotting.json';
 
 export const TIER_INFO = {
   'solo-start': {
@@ -284,4 +285,5 @@ export const EXPERIENCES = [
   identifiableLiveStreaming,
   oneOnOneVideoStrangers,
   receivingUnsolicitedImages,
+  frotting,
 ];
