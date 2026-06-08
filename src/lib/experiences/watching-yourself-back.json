@@ -5,7 +5,11 @@
   "tier": "solo-start",
   "category": "dynamic",
   "description": "Watching a recording of yourself during sex reverses the usual relationship to your own body completely — the physical sensation is absent and the external view is all there is. The gap between the two is usually significant and almost always surprising.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A recording of yourself — from the Being Recorded experience or taken specifically for this.",
   "safetyNote": "Ensure the recording is stored privately and securely. Delete it after if preferred.",
   "instructions": [
@@ -26,5 +30,9 @@
     "Does watching produce anything — arousal, recognition, discomfort, neutrality — and does the response surprise you?",
     "Watching with a partner: does their presence change what you're able to look at or sit with?"
   ],
-  "why": "Most of the time we experience sex from the inside — sensation, attention, response — with no access to how it appears from outside. A recording reverses that entirely. Many people find the result quite different from what they expected: either more comfortable, more confronting, or stranger than they anticipated. The gap between how you experience inhabiting your body and how you actually appear from outside is concrete in a recording in a way it can't be in imagination, and people consistently encounter things they didn't expect in both directions — responses about their own body, about their partner, and about what intimacy looks like from the outside that their interior experience had no access to."
+  "why": "Most of the time we experience sex from the inside — sensation, attention, response — with no access to how it appears from outside. A recording reverses that entirely. Many people find the result quite different from what they expected: either more comfortable, more confronting, or stranger than they anticipated. The gap between how you experience inhabiting your body and how you actually appear from outside is concrete in a recording in a way it can't be in imagination, and people consistently encounter things they didn't expect in both directions — responses about their own body, about their partner, and about what intimacy looks like from the outside that their interior experience had no access to.",
+  "tags": [
+    "exhibitionism",
+    "visual"
+  ]
 }

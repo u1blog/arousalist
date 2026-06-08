@@ -5,7 +5,11 @@
   "tier": "solo-start",
   "category": "sensation",
   "description": "Removing the goal of orgasm forces attention onto the sensation itself rather than where it's leading — and many people discover preferences they've never noticed, because those responses exist between here and the destination rather than at it.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourself; optionally a small amount of massage oil.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "With a partner: does receiving genital attention with no goal feel relaxing, frustrating, or differently engaging?",
     "Does the absence of expectation on both sides change what the touch communicates?"
   ],
-  "why": "Goal-oriented genital stimulation is efficient at producing its target and often misses everything else. Removing the goal forces attention onto the sensation itself rather than where it's leading. Many people discover preferences they've never noticed, simply because those responses exist between here and the destination rather than at it. The partner version is particularly revealing: genital touch without an agenda is genuinely uncommon, and many people find it unexpectedly intimate precisely because nothing is being worked toward."
+  "why": "Goal-oriented genital stimulation is efficient at producing its target and often misses everything else. Removing the goal forces attention onto the sensation itself rather than where it's leading. Many people discover preferences they've never noticed, simply because those responses exist between here and the destination rather than at it. The partner version is particularly revealing: genital touch without an agenda is genuinely uncommon, and many people find it unexpectedly intimate precisely because nothing is being worked toward.",
+  "tags": [
+    "touch"
+  ]
 }

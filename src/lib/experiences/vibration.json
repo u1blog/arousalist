@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Vibration acts on deeper nerve endings than most touch engages — areas that produce nothing from regular contact sometimes produce a strong response, and vice versa.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A handheld electric massager or an electric toothbrush (flat end only, not modified).",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "As receiver with a partner: does the continuous vibration between applications change how each specific touch lands?",
     "As giver: does working through a device feel different from hand contact — more or less connected to the receiver's responses?"
   ],
-  "why": "Vibration acts on the deeper nerve endings and fascia rather than just the surface pressure receptors that most touch engages. This is why areas that respond weakly to regular touch often produce unexpectedly strong responses to vibration — the stimulus reaches a different layer. Many people discover a strong response on the scalp, the soles of the feet, or the backs of the thighs from nothing more than an electric toothbrush. That's worth knowing before concluding this category isn't for you."
+  "why": "Vibration acts on the deeper nerve endings and fascia rather than just the surface pressure receptors that most touch engages. This is why areas that respond weakly to regular touch often produce unexpectedly strong responses to vibration — the stimulus reaches a different layer. Many people discover a strong response on the scalp, the soles of the feet, or the backs of the thighs from nothing more than an electric toothbrush. That's worth knowing before concluding this category isn't for you.",
+  "tags": [
+    "sensation"
+  ]
 }

@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "A word that would be an insult in ordinary life becomes charged specifically because of the context — the gap between the word's everyday meaning and the intimacy of the moment produces a response that affirmation doesn't.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: does using charged language about someone you're intimate with feel natural, uncomfortable, or produce something you didn't predict?",
     "How does this compare to Praise — does your reaction differ, and what does the difference tell you?"
   ],
-  "why": "Degradation works, when it works, through contrast: a word that would be an insult in ordinary life becomes charged specifically because of the context that surrounds it. The gap between the word's everyday meaning and the intimacy of the moment produces a response that affirmation doesn't. For people to whom it lands, this tends to produce a specific intensity — not in spite of the language but because of it. For those it doesn't reach, the flatness is also informative: it points to something about how language and arousal connect for you, which comparing this experience against Praise often makes clearer."
+  "why": "Degradation works, when it works, through contrast: a word that would be an insult in ordinary life becomes charged specifically because of the context that surrounds it. The gap between the word's everyday meaning and the intimacy of the moment produces a response that affirmation doesn't. For people to whom it lands, this tends to produce a specific intensity — not in spite of the language but because of it. For those it doesn't reach, the flatness is also informative: it points to something about how language and arousal connect for you, which comparing this experience against Praise often makes clearer.",
+  "tags": [
+    "verbal",
+    "power exchange"
+  ]
 }

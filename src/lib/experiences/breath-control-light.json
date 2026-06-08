@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "A hand placed flat on the throat — with no pressure — triggers the same alertness response as actual restriction, because the brain reads proximity as the act itself.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just a hand.",
   "safetyNote": "This experience is specifically a hand placed flat on the throat with no pressure applied — the intent is the weight of placement alone, not restriction of any kind. Never squeeze, press down, cover the nose and mouth, or use a forearm. Anything beyond a flat resting hand belongs in a guided setting with someone who has specific training.",
   "instructions": [
@@ -21,5 +24,9 @@
     "Is the removal of the hand as significant as its placement?",
     "As giver: what does it feel like to be trusted with that placement — to hold it with no intent to act on it?"
   ],
-  "why": "The throat is one of the most vulnerability-laden parts of the body. A hand placed there — even with no pressure — triggers the same alertness response as actual restriction, because the brain reads proximity as the act itself. For many people, the response this placement produces is disproportionate to what is physically happening: the gesture carries more weight than its physical content. This is the entry-level version of an experience that carries real risk at higher intensities; its value here is in finding out whether the psychological dimension alone produces anything worth knowing about."
+  "why": "The throat is one of the most vulnerability-laden parts of the body. A hand placed there — even with no pressure — triggers the same alertness response as actual restriction, because the brain reads proximity as the act itself. For many people, the response this placement produces is disproportionate to what is physically happening: the gesture carries more weight than its physical content. This is the entry-level version of an experience that carries real risk at higher intensities; its value here is in finding out whether the psychological dimension alone produces anything worth knowing about.",
+  "tags": [
+    "restraint",
+    "power exchange"
+  ]
 }

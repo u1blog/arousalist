@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Temperature, light impact, and visual ritual combine in this multi-sensory experience.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A plain white household candle (not scented, not coloured — these burn hotter), lighter, something to protect the floor",
   "safetyNote": "Plain white candles have the lowest burn temperature. Hold at least 45cm above skin — wax cools significantly as it falls. Never use near the face. Have cool water nearby. Test on your outer thigh first.",
   "instructions": [
@@ -26,5 +30,9 @@
     "Is there something about the ritual quality — candle, warmth, wax hardening on skin — that appeals?",
     "As giver: does controlling the pace, height, and location — and watching the effect — produce its own interest?"
   ],
-  "why": "Wax play sits at the intersection of temperature, light impact, and visual ritual. The experience is multi-sensory — the smell of the wax, the warmth, the brief sting, the hardening on skin. The partner version adds spatial unpredictability on top. Many people find it oddly grounding and meditative; others are more drawn to the aesthetics and theatre of it."
+  "why": "Wax play sits at the intersection of temperature, light impact, and visual ritual. The experience is multi-sensory — the smell of the wax, the warmth, the brief sting, the hardening on skin. The partner version adds spatial unpredictability on top. Many people find it oddly grounding and meditative; others are more drawn to the aesthetics and theatre of it.",
+  "tags": [
+    "sensation",
+    "pain"
+  ]
 }

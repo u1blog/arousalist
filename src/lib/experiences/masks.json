@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "A mask changes two things simultaneously: the wearer becomes harder to read, and the wearer becomes less exposed. Both effects are real and usually operate in different directions for each person.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A mask. A simple masquerade mask works; a full face covering produces a stronger version of the same effect.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "As the unmasked person: does not being able to read your partner's expression change how you engage with them?",
     "Does the mask make the other person feel more or less themselves — and which of those produces a stronger response in you?"
   ],
-  "why": "Masks do two things at once: they reduce the wearer's exposure and they make the wearer harder to read. For the person wearing it, partial anonymity often changes what feels possible — the mask provides a layer between the self and the interaction that can function as permission. For the person seeing the masked face, the absence of readable expression creates a different quality of attention: you are looking at someone you know but cannot fully parse, and that gap in information produces its own kind of focus. The two effects typically operate asymmetrically — one person less exposed, one person less able to read — and the experience of that asymmetry is usually different from what both people anticipated."
+  "why": "Masks do two things at once: they reduce the wearer's exposure and they make the wearer harder to read. For the person wearing it, partial anonymity often changes what feels possible — the mask provides a layer between the self and the interaction that can function as permission. For the person seeing the masked face, the absence of readable expression creates a different quality of attention: you are looking at someone you know but cannot fully parse, and that gap in information produces its own kind of focus. The two effects typically operate asymmetrically — one person less exposed, one person less able to read — and the experience of that asymmetry is usually different from what both people anticipated.",
+  "tags": [
+    "visual",
+    "roleplay"
+  ]
 }

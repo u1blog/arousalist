@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Watching other people engaged in intimacy — in a context where watching is welcomed — is a different experience from consuming recorded content. Presence and proximity change what the watching produces.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "A consensual context. This requires either a sex-positive venue where voyeurism is part of the social contract, or an explicit arrangement with people who have agreed to be watched.",
   "safetyNote": "Consent from everyone involved is the entire basis of this experience. Watching without the knowledge or agreement of the people being watched is not voyeurism in this sense — it is a violation. Confirm clearly that watching is welcome before watching.",
   "instructions": [
@@ -21,5 +24,8 @@
     "Does watching alongside your partner change the experience — do you find yourself watching them as much as watching the scene?",
     "Does the experience tell you something about your relationship to watching versus participating?"
   ],
-  "why": "Voyeurism in person is structurally different from recorded content in one way: the people being watched are real, present, and aware of being watched. That mutuality — they know you're there, they've agreed to it — changes the nature of the watching. For some people, the proximity and presence produce an immediacy that recorded content can't replicate; for others the social context is distracting in a way that prevents full absorption. Many people also find that watching alongside a partner is its own experience — you're simultaneously watching the scene and aware of your partner watching, and what each of you responds to is visible. That layer of mutual observation is often as interesting as the scene itself."
+  "why": "Voyeurism in person is structurally different from recorded content in one way: the people being watched are real, present, and aware of being watched. That mutuality — they know you're there, they've agreed to it — changes the nature of the watching. For some people, the proximity and presence produce an immediacy that recorded content can't replicate; for others the social context is distracting in a way that prevents full absorption. Many people also find that watching alongside a partner is its own experience — you're simultaneously watching the scene and aware of your partner watching, and what each of you responds to is visible. That layer of mutual observation is often as interesting as the scene itself.",
+  "tags": [
+    "exhibitionism"
+  ]
 }

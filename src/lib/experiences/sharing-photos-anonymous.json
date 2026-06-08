@@ -5,7 +5,9 @@
   "tier": "solo-start",
   "category": "dynamic",
   "description": "Posting explicit photos to an anonymous platform inverts the usual structure of being seen: the audience knows exactly what you look like but nothing else about you. That specific asymmetry produces a kind of exposure that partner-directed sharing doesn't replicate.",
-  "ratingTypes": ["solo"],
+  "ratingTypes": [
+    "solo"
+  ],
   "equipment": "A phone or camera; an anonymous account on an appropriate platform, completely separate from your real identity.",
   "safetyNote": "Any identifying features — face, tattoos, distinctive marks, visible background details — can identify you even if you think they won't. Decide what you're comfortable being permanently associated with before posting. Images posted publicly can persist even after deletion.",
   "instructions": [
@@ -21,5 +23,9 @@
     "Does anonymity change what you feel able to show compared to sharing with someone who knows you?",
     "Does the knowledge that the audience has no access to who you are — only to what you look like — carry its own quality, or does it feel like a limitation?"
   ],
-  "why": "Anonymous sharing gives the audience maximum visual access with zero social context — they see what you look like without knowing anything else about you. For some people this asymmetry is what makes exposure possible at all: the anonymity removes the social stakes. For others, it limits what the exposure produces — the audience is responding to an image rather than a person, and that distinction matters. Responses from strangers with no investment in you can feel either clarifying or hollow, and which it is tells you something specific about what you're actually seeking from being seen: the visual fact of it, or the recognition."
+  "why": "Anonymous sharing gives the audience maximum visual access with zero social context — they see what you look like without knowing anything else about you. For some people this asymmetry is what makes exposure possible at all: the anonymity removes the social stakes. For others, it limits what the exposure produces — the audience is responding to an image rather than a person, and that distinction matters. Responses from strangers with no investment in you can feel either clarifying or hollow, and which it is tells you something specific about what you're actually seeking from being seen: the visual fact of it, or the recognition.",
+  "tags": [
+    "exhibitionism",
+    "online"
+  ]
 }

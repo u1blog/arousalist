@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "A hard time limit changes what you pay attention to — urgency is a genuinely different mode from open-ended exploration, and comparing them directly often reveals a preference people haven't previously examined.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "A timer.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "Does the extended slow version feel qualitatively different from the urgent version, or just longer?",
     "Which mode do you find more engaging — and did that match what you expected?"
   ],
-  "why": "Time pressure changes the mode of attention in a specific way: when the end is known and close, each moment carries a weight it doesn't have in open-ended time. Some people find this focusing — the limit forces full presence because there's no room to defer anything. Others find the clock distracting — awareness of the limit prevents them from being fully in what's happening. The comparison between modes often reveals a strong preference people haven't consciously examined. Many people who believe they prefer urgent, spontaneous sex find the slow version produces a qualitatively different experience; others confirm a genuine preference for urgency that they hadn't previously tested against its opposite."
+  "why": "Time pressure changes the mode of attention in a specific way: when the end is known and close, each moment carries a weight it doesn't have in open-ended time. Some people find this focusing — the limit forces full presence because there's no room to defer anything. Others find the clock distracting — awareness of the limit prevents them from being fully in what's happening. The comparison between modes often reveals a strong preference people haven't consciously examined. Many people who believe they prefer urgent, spontaneous sex find the slow version produces a qualitatively different experience; others confirm a genuine preference for urgency that they hadn't previously tested against its opposite.",
+  "tags": [
+    "intimacy"
+  ]
 }

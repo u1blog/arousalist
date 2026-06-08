@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Pre-agreed touching while a partner is asleep or keeping still explores a specific kind of passivity — being acted upon without the usual responsiveness and reciprocity — which produces something distinct for both the receiver and the giver.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing required. Explicit advance agreement is the only essential component.",
   "safetyNote": "This experience requires clear, explicit consent agreed while both people are fully alert — before either person is asleep or in a sleep-adjacent state. Specify exactly what is and is not included. There is no way to obtain consent during the experience itself, so the prior agreement is its entire ethical foundation. Agree on a word or signal the receiver can use at any point to end the experience immediately.",
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: what does attending to someone who isn't responding change about the quality of your attention?",
     "Does the prior agreement — having this clearly established in advance — function as a precondition only, or does the act of agreeing carry its own quality?"
   ],
-  "why": "Consensual somnophilia explores a specific quality of passivity: being acted upon without the responsiveness that usually structures intimate contact. For receivers, the absence of the expectation to respond — to track, manage, or reciprocate — often produces a genuine release of the self-monitoring that intimacy ordinarily involves. For givers, attending to someone who isn't responding changes the quality of attention in a specific way: there is no feedback loop to calibrate against, so the giver's attention is entirely self-directed rather than responsive. The prior agreement is not incidental to the experience — it is the basis on which it can be what it is, and the signal to stop is always available."
+  "why": "Consensual somnophilia explores a specific quality of passivity: being acted upon without the responsiveness that usually structures intimate contact. For receivers, the absence of the expectation to respond — to track, manage, or reciprocate — often produces a genuine release of the self-monitoring that intimacy ordinarily involves. For givers, attending to someone who isn't responding changes the quality of attention in a specific way: there is no feedback loop to calibrate against, so the giver's attention is entirely self-directed rather than responsive. The prior agreement is not incidental to the experience — it is the basis on which it can be what it is, and the signal to stop is always available.",
+  "tags": [
+    "roleplay",
+    "power exchange"
+  ]
 }

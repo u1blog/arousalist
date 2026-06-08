@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "The solo version separates what the clothing does to you from what being seen in it does to you — those two things often turn out to be quite different.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Lingerie, or any clothing worn specifically to be seen in.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "As the observer: does particular clothing change how you see your partner — and is that change meaningful or does it fade quickly?",
     "Is there a particular style or type that produces a stronger response, and what does that tell you?"
   ],
-  "why": "Clothing communicates something about how the wearer wants to be seen, and that signal is read by both parties even without words. Lingerie specifically — worn deliberately, chosen with the viewer in mind — carries a particular kind of intentionality that ordinary undressing doesn't. For some people, being seen in something chosen for this purpose is more significant than what happens next. For others, the clothing is context that quickly dissolves. The solo version is worth doing first because it separates what the clothing does to you from what being seen in it does to you — those two things often turn out to be quite different."
+  "why": "Clothing communicates something about how the wearer wants to be seen, and that signal is read by both parties even without words. Lingerie specifically — worn deliberately, chosen with the viewer in mind — carries a particular kind of intentionality that ordinary undressing doesn't. For some people, being seen in something chosen for this purpose is more significant than what happens next. For others, the clothing is context that quickly dissolves. The solo version is worth doing first because it separates what the clothing does to you from what being seen in it does to you — those two things often turn out to be quite different.",
+  "tags": [
+    "visual"
+  ]
 }

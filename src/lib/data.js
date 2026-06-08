@@ -143,6 +143,25 @@ export const CATEGORY_INFO = {
   dynamic:   { label: 'Dynamic-led' },
 };
 
+export const ALL_TAGS = [
+  'anal',
+  'exhibitionism',
+  'group',
+  'intimacy',
+  'online',
+  'oral',
+  'orgasm control',
+  'pain',
+  'power exchange',
+  'restraint',
+  'roleplay',
+  'sensation',
+  'solo',
+  'touch',
+  'verbal',
+  'visual',
+];
+
 // Optional field on experience JSON objects.
 // Absent/null = anatomy-neutral (shown for all filters).
 // "penis"  = requires penis anatomy (hidden when filter is "has-vulva")
@@ -168,7 +187,7 @@ export const RATING_LABELS = {
   subject:  'As subject',
 };
 
-export const EXPERIENCES = [
+const _EXPERIENCES_RAW = [
   temperaturePlay,
   textureSensationPlay,
   sensoryDeprivationSight,
@@ -291,3 +310,7 @@ export const EXPERIENCES = [
   frotting,
   sharingPartnerAnonymous,
 ];
+
+export const EXPERIENCES = [..._EXPERIENCES_RAW].sort((a, b) =>
+  a.title.localeCompare(b.title)
+);

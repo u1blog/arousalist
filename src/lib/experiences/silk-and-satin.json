@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Silk and satin sit at the opposite end of the texture spectrum from rough materials — where rough textures produce sensation through friction, smooth fabric produces sensation through near-frictionlessness, and the nervous system responds to that edge distinctly.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A piece of silk, satin, or similar smooth fabric.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "Does the temperature of the fabric against warm skin register separately from the texture itself?",
     "As giver: does working with extremely soft material — choosing where it moves across the receiver's body — carry any of the engagement of other tools?"
   ],
-  "why": "Silk and satin sit at the opposite end of the texture spectrum from rough materials in Texture Play. Where rough textures produce sensation through friction, smooth fabric produces sensation through near-frictionlessness — the touch registers at the edge of contact, and the nervous system responds to that edge distinctly. Many people find the response is disproportionate to the apparent lightness of the contact. The blindfolded partner version tends to amplify this significantly, because the brain can't predict where the fabric will arrive next."
+  "why": "Silk and satin sit at the opposite end of the texture spectrum from rough materials in Texture Play. Where rough textures produce sensation through friction, smooth fabric produces sensation through near-frictionlessness — the touch registers at the edge of contact, and the nervous system responds to that edge distinctly. Many people find the response is disproportionate to the apparent lightness of the contact. The blindfolded partner version tends to amplify this significantly, because the brain can't predict where the fabric will arrive next.",
+  "tags": [
+    "sensation",
+    "visual"
+  ]
 }

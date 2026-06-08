@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "sensation",
   "description": "Primal, immediate, and grounding — biting carries strong associations of presence, intensity, and claiming.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": "Avoid bony areas — spine, collarbone, ribs. Never bite hard enough to break skin. Build pressure very gradually and watch the receiver's response closely; intensity that feels controlled to the giver can feel sharper than expected to the receiver.",
   "instructions": [
@@ -21,5 +24,9 @@
     "Is there something that appeals about the primal, claiming quality of it?",
     "As giver: does the act of biting — the pressure, the deliberateness, the claiming quality — produce something for you?"
   ],
-  "why": "Biting carries strong primal associations — it's an act of presence, intensity, claiming. Many people find it grounds them in the moment more immediately than almost anything else. The neck and shoulder are particularly rich with nerve endings, and the combination of pressure, warmth, and mild pain produces a response that people often find difficult to describe but immediately want again."
+  "why": "Biting carries strong primal associations — it's an act of presence, intensity, claiming. Many people find it grounds them in the moment more immediately than almost anything else. The neck and shoulder are particularly rich with nerve endings, and the combination of pressure, warmth, and mild pain produces a response that people often find difficult to describe but immediately want again.",
+  "tags": [
+    "pain",
+    "sensation"
+  ]
 }

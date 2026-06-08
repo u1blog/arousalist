@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "Wearing clothing associated with a different gender changes how you inhabit your body — what that change produces, whether it's clarifying, uncomfortable, or something more complicated, is worth finding out about directly.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Items of clothing from a different gender category than your own. Fit matters less than signal — the point is that the clothing communicates something, not that it fits perfectly.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "With a partner: does wearing it change what feels available to you — things you can do or say that you couldn't as yourself?",
     "As observer: does seeing your partner this way change how you engage with them, and how quickly does that effect arrive or dissolve?"
   ],
-  "why": "Clothing carries gender signal — it communicates something about the wearer's identity before they've said or done anything. Wearing items from a different gender category disrupts the alignment between physical body and habitual presentation, and what that disruption produces varies widely: some people find it immediately clarifying, a closer match between how they feel and how they appear; others find it uncomfortable in ways that are informative about their own gender relationship; others find it primarily neutral. The erotic dimension, where it's present, is usually less about the specific garments and more about the permission shift that putting them on creates — the costume granting access to something the person hasn't granted themselves otherwise."
+  "why": "Clothing carries gender signal — it communicates something about the wearer's identity before they've said or done anything. Wearing items from a different gender category disrupts the alignment between physical body and habitual presentation, and what that disruption produces varies widely: some people find it immediately clarifying, a closer match between how they feel and how they appear; others find it uncomfortable in ways that are informative about their own gender relationship; others find it primarily neutral. The erotic dimension, where it's present, is usually less about the specific garments and more about the permission shift that putting them on creates — the costume granting access to something the person hasn't granted themselves otherwise.",
+  "tags": [
+    "visual",
+    "roleplay"
+  ]
 }

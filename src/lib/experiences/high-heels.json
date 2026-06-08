@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "High heels change posture, gait, sound, and height simultaneously — a constellation of changes that produces a specific effect both in the wearer and in whoever is watching. The response to that combination tends to be clear in one direction or the other.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "High heels in a wearable size.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "As observer: is it the visual quality of the shoe, the altered posture and movement, or the sound that carries the most charge?",
     "Is there an authority or vulnerability implied by the height differential — and if so, which direction does it run for you?"
   ],
-  "why": "High heels produce a specific constellation of changes — altered posture, a particular deliberate gait, an audible presence, a shift in height — that don't arrive separately. Many people find this combination produces something more than the sum of its parts; others find it neutral or physically awkward. For wearers, the changed posture typically forces a different relationship to the body — more upright, more deliberate in movement — that many people find either empowering or exposing, sometimes both. For observers, the sound and the altered way of moving are often what carry the most charge, more than the aesthetic of the shoe itself."
+  "why": "High heels produce a specific constellation of changes — altered posture, a particular deliberate gait, an audible presence, a shift in height — that don't arrive separately. Many people find this combination produces something more than the sum of its parts; others find it neutral or physically awkward. For wearers, the changed posture typically forces a different relationship to the body — more upright, more deliberate in movement — that many people find either empowering or exposing, sometimes both. For observers, the sound and the altered way of moving are often what carry the most charge, more than the aesthetic of the shoe itself.",
+  "tags": [
+    "visual",
+    "power exchange"
+  ]
 }

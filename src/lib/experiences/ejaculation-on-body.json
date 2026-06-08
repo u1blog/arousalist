@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Where ejaculation lands — and whether that matters — is something most people have preferences about without having examined them directly. The visual and psychological dimension typically does more work than the physical sensation.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "As giver: does directing ejaculation to a specific location produce anything — charge, neutrality, something unexpected?",
     "Is there a clear preference, and does it match what you would have predicted before examining it?"
   ],
-  "why": "Ejaculation on a partner's body carries significantly more psychological than physical content for most people — the sensation itself is mild, but the visual and symbolic dimension varies more between people than almost anything else in this guide. For some receivers, specific locations carry a claimed or intimate quality they find activating; for others the same locations feel uncomfortable or simply neutral. For givers, the choice of location is often loaded in ways they haven't consciously examined. What makes this worth testing deliberately is that most people's responses here are specific and discovered rather than predicted — preferences that turn out to be quite different from assumptions."
+  "why": "Ejaculation on a partner's body carries significantly more psychological than physical content for most people — the sensation itself is mild, but the visual and symbolic dimension varies more between people than almost anything else in this guide. For some receivers, specific locations carry a claimed or intimate quality they find activating; for others the same locations feel uncomfortable or simply neutral. For givers, the choice of location is often loaded in ways they haven't consciously examined. What makes this worth testing deliberately is that most people's responses here are specific and discovered rather than predicted — preferences that turn out to be quite different from assumptions.",
+  "tags": [
+    "power exchange"
+  ]
 }

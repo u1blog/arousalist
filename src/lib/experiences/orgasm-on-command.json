@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Orgasm on command is a conditioning effect, not a performance trick — a word becomes associated with permission to come across enough repetitions that it starts to carry some of the trigger itself. Whether it takes depends on your nervous system, and finding out is the point.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves; several sessions across time.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: does holding the trigger, even when you're not using it actively, change how you engage during a session?",
     "If conditioning doesn't take, what does that tell you about how your arousal responds to suggestion and permission?"
   ],
-  "why": "Orgasm on command works through the same mechanism as any learned association, applied to an autonomic response. For receivers responsive to suggestion, the word eventually carries enough associative weight that it starts to trigger rather than just accompany. The real draw is often the dynamic element — being explicitly permitted to come, rather than deciding to. That permission structure, someone else holding the trigger, is what many people find meaningful regardless of whether the conditioning fully takes. For givers, having that authority and choosing when to use it changes the quality of attention throughout the session."
+  "why": "Orgasm on command works through the same mechanism as any learned association, applied to an autonomic response. For receivers responsive to suggestion, the word eventually carries enough associative weight that it starts to trigger rather than just accompany. The real draw is often the dynamic element — being explicitly permitted to come, rather than deciding to. That permission structure, someone else holding the trigger, is what many people find meaningful regardless of whether the conditioning fully takes. For givers, having that authority and choosing when to use it changes the quality of attention throughout the session.",
+  "tags": [
+    "orgasm control",
+    "power exchange"
+  ]
 }

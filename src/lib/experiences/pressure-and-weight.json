@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "sensation",
   "description": "Weight and pressure produce something rope and cuffs don't: warmth, the aliveness of another body, contact across a large area simultaneously.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": "Avoid resting full weight directly on the spine, ribcage, or neck. The person on top should use arms or knees to manage how much weight actually lands. Agree on a word to stop.",
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: does being the body whose weight is felt — being that physically present — produce anything for you?",
     "How does this compare to the Restraint experience? Is the difference meaningful?"
   ],
-  "why": "Weight and pressure produce something rope and cuffs don't: warmth, the aliveness of another body, contact across a large area simultaneously. For many receivers, being unable to move freely under a partner's body — without anything tying them down — produces a different response than formal restraint, more primal and less negotiated. The giver's experience of being the physical presence that determines the receiver's range of motion is often more engaging than expected."
+  "why": "Weight and pressure produce something rope and cuffs don't: warmth, the aliveness of another body, contact across a large area simultaneously. For many receivers, being unable to move freely under a partner's body — without anything tying them down — produces a different response than formal restraint, more primal and less negotiated. The giver's experience of being the physical presence that determines the receiver's range of motion is often more engaging than expected.",
+  "tags": [
+    "sensation",
+    "restraint"
+  ]
 }

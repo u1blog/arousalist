@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "sensation",
   "description": "Sustained skin-to-skin contact activates a distinct physiological pathway associated with social bonding — and many people find it produces a quality of presence that more directed activity doesn't.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves; no clothing.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "Are there specific areas of contact that register more strongly than others?",
     "Does the quality of contact (pressure, warmth, texture) matter, or is it primarily the sustained presence?"
   ],
-  "why": "Skin-to-skin contact activates the C-tactile nerve fibres that respond specifically to slow, sustained touch — a distinct physiological pathway from the nerves that respond to pressure or pain. These fibres are thought to have a role in social bonding, and their response is often experienced as calming rather than arousing. Many people find that sustained full-body contact produces a quality of presence that more directed activity doesn't. It also serves as a useful diagnostic: some people find the intimacy of full-body skin contact more emotionally exposing than any specific sexual act, which tells them something real about where their threshold for vulnerability actually sits."
+  "why": "Skin-to-skin contact activates the C-tactile nerve fibres that respond specifically to slow, sustained touch — a distinct physiological pathway from the nerves that respond to pressure or pain. These fibres are thought to have a role in social bonding, and their response is often experienced as calming rather than arousing. Many people find that sustained full-body contact produces a quality of presence that more directed activity doesn't. It also serves as a useful diagnostic: some people find the intimacy of full-body skin contact more emotionally exposing than any specific sexual act, which tells them something real about where their threshold for vulnerability actually sits.",
+  "tags": [
+    "touch",
+    "intimacy"
+  ]
 }

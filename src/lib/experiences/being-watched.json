@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Being watched creates the experience of being seen at close range without the usual reciprocity of a physical exchange — and self-consciousness and arousal often arrive together.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As watcher: what is it like to have no role except attention — to witness rather than participate?",
     "Which position felt more exposing — and is exposing the right word for what you felt?"
   ],
-  "why": "Being watched creates the experience of being seen at close range without the usual reciprocity of a physical exchange. The watcher holds a particular kind of power — full attention without action — which some people find more activating than direct contact. For the person being watched, self-consciousness and arousal often arrive together, and where that tension resolves varies sharply: some find the exposure deadening, others find it sharpening. The role switch is essential here — the two positions reveal different things about how you relate to being seen versus seeing."
+  "why": "Being watched creates the experience of being seen at close range without the usual reciprocity of a physical exchange. The watcher holds a particular kind of power — full attention without action — which some people find more activating than direct contact. For the person being watched, self-consciousness and arousal often arrive together, and where that tension resolves varies sharply: some find the exposure deadening, others find it sharpening. The role switch is essential here — the two positions reveal different things about how you relate to being seen versus seeing.",
+  "tags": [
+    "exhibitionism",
+    "power exchange"
+  ]
 }

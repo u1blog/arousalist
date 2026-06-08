@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Positional and sensory at once — controlling someone's head position is often as significant as the scalp sensation itself.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just hands.",
   "safetyNote": "Gather hair from close to the scalp — pulling from the ends yanks on individual strands and causes discomfort without the intended sensation. Apply steady tension rather than sharp jerks. Check in about pressure as you build.",
   "instructions": [
@@ -21,5 +24,9 @@
     "Does slow, sustained tension feel different to a quick pull?",
     "As giver: does directing where someone's head goes — having that kind of positional control — produce something for you?"
   ],
-  "why": "Hair pulling is positional as much as sensory — whoever holds the hair guides where the head goes. That directional, controlling quality is what many people respond to, often more than the scalp sensation itself. It's a compact act of dominance and submission that requires no equipment and no planning. The neck, once exposed, also becomes suddenly accessible — which is rarely accidental."
+  "why": "Hair pulling is positional as much as sensory — whoever holds the hair guides where the head goes. That directional, controlling quality is what many people respond to, often more than the scalp sensation itself. It's a compact act of dominance and submission that requires no equipment and no planning. The neck, once exposed, also becomes suddenly accessible — which is rarely accidental.",
+  "tags": [
+    "pain",
+    "power exchange"
+  ]
 }

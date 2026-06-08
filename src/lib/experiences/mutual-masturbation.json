@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Both people are doing something individual, but in shared space and full view — and the symmetry removes the giver-receiver structure entirely while the presence of the other person changes the nature of the act.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "Is there a pull toward focusing on yourself or toward focusing on your partner — and does it shift?",
     "Does performing something normally solitary in shared space feel exposing, connecting, or something harder to name?"
   ],
-  "why": "Mutual masturbation sits between solo and partnered experience in a specific way: both people are doing something individual, but in shared space and full view. The symmetry removes the giver-receiver structure entirely — no one is attending to the other, both are attending to themselves — while the presence of the other person changes the nature of the act. Some people find this the sharpest version of the Being Watched dynamic, because the watcher is visibly occupied rather than just observing. Others find the parallel self-focus makes the shared presence feel more intimate, not less."
+  "why": "Mutual masturbation sits between solo and partnered experience in a specific way: both people are doing something individual, but in shared space and full view. The symmetry removes the giver-receiver structure entirely — no one is attending to the other, both are attending to themselves — while the presence of the other person changes the nature of the act. Some people find this the sharpest version of the Being Watched dynamic, because the watcher is visibly occupied rather than just observing. Others find the parallel self-focus makes the shared presence feel more intimate, not less.",
+  "tags": [
+    "intimacy"
+  ]
 }

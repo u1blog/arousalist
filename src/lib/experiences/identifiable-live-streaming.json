@@ -5,7 +5,9 @@
   "tier": "solo-start",
   "category": "dynamic",
   "description": "Streaming with your face visible is a categorically different exposure level from anonymous streaming — not just a higher intensity version of the same thing. The face makes it irreversible in a specific way: you can be recognised, found, remembered.",
-  "ratingTypes": ["solo"],
+  "ratingTypes": [
+    "solo"
+  ],
   "equipment": "A device with camera and reliable connection; an account on a live platform; a considered decision about persistence — any stream can be recorded by viewers.",
   "safetyNote": "This is a permanent decision in a way that anonymous streaming is not. Once your face is associated with explicit content on a platform, that association can persist even after deletion — recordings by viewers, caches, and search indexing can all outlast the original stream. Approach this only after the anonymous streaming experience, and with full clarity about the difference in permanence and reachability.",
   "instructions": [
@@ -21,5 +23,9 @@
     "Does the audience's response to your face produce something different from their response to your body?",
     "Does the permanence of the decision register most before the stream, during it, or after?"
   ],
-  "why": "Identifiable streaming differs from anonymous streaming not in degree but in kind: the face makes recognition possible, and recognition makes the exposure permanent in a way that masked content is not. For some people this is exactly what produces the charge — the commitment is real, the exposure is complete, and that totality is what makes it significant. For others, the awareness of permanence and discoverability is primarily anxiety rather than activation. The face also changes what strangers respond to: instead of responding to a body, they respond to a person, and the quality of that attention is different — more intimate, more personal, and more variable in ways that anonymous responses aren't."
+  "why": "Identifiable streaming differs from anonymous streaming not in degree but in kind: the face makes recognition possible, and recognition makes the exposure permanent in a way that masked content is not. For some people this is exactly what produces the charge — the commitment is real, the exposure is complete, and that totality is what makes it significant. For others, the awareness of permanence and discoverability is primarily anxiety rather than activation. The face also changes what strangers respond to: instead of responding to a body, they respond to a person, and the quality of that attention is different — more intimate, more personal, and more variable in ways that anonymous responses aren't.",
+  "tags": [
+    "exhibitionism",
+    "online"
+  ]
 }

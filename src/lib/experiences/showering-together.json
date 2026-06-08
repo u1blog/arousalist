@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Washing someone gives the hands a specific, sequential job — and many people find being washed by someone fully attending to the task unexpectedly moving, in a way distinct from any other kind of touch.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Shower or bath; soap, shampoo.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "As giver: does the task focus — working through the body methodically — feel different from undirected touching?",
     "Does the line between \"intimate\" and \"sexual\" get harder to locate during this?"
   ],
-  "why": "Bathing someone is one of the most functional forms of physical care, and that functionality is part of what makes it interesting. The structure of the task removes self-consciousness from the giver and passivity from the receiver — you're doing something specific, not just touching. Many people find being washed by someone fully attending to the job unexpectedly moving, in a way distinct from any other kind of touch. The experience is often described as intimate without being overtly sexual, and many people find the boundary between those categories becomes genuinely hard to locate."
+  "why": "Bathing someone is one of the most functional forms of physical care, and that functionality is part of what makes it interesting. The structure of the task removes self-consciousness from the giver and passivity from the receiver — you're doing something specific, not just touching. Many people find being washed by someone fully attending to the job unexpectedly moving, in a way distinct from any other kind of touch. The experience is often described as intimate without being overtly sexual, and many people find the boundary between those categories becomes genuinely hard to locate.",
+  "tags": [
+    "intimacy"
+  ]
 }

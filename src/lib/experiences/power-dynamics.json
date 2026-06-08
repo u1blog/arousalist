@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "No equipment needed — just two people and an agreed structure. Discover whether giving or following instructions produces something real.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing except an agreed setup.",
   "safetyNote": null,
   "instructions": [
@@ -20,5 +23,8 @@
     "As receiver: does following instructions feel frustrating, relaxing, or something else?",
     "Is there a clear preference for which role you'd rather be in — or does it depend on who you're with?"
   ],
-  "why": "No props, pure dynamic. Many people discover a strong role preference through this exercise that they hadn't consciously identified. Givers often find that genuine calm authority is harder to sustain than expected — and more satisfying when they manage it. Receivers often find that full compliance, even in small mundane things, produces an unexpected quieting of the mind. The responsibility is temporarily lifted. There's nothing to decide."
+  "why": "No props, pure dynamic. Many people discover a strong role preference through this exercise that they hadn't consciously identified. Givers often find that genuine calm authority is harder to sustain than expected — and more satisfying when they manage it. Receivers often find that full compliance, even in small mundane things, produces an unexpected quieting of the mind. The responsibility is temporarily lifted. There's nothing to decide.",
+  "tags": [
+    "power exchange"
+  ]
 }

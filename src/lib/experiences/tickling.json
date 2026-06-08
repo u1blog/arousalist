@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "You can't tickle yourself because the brain predicts your own movements and cancels the response — a partner's touch on the same areas produces the full reaction precisely because it's unpredictable.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just hands; optionally a soft brush or feather for the solo version.",
   "safetyNote": "Agree on a clear word to stop before starting. Tickling escalates faster than most experiences — stop immediately when asked.",
   "instructions": [
@@ -26,5 +30,9 @@
     "Does not knowing where the next touch lands change how each one feels?",
     "As giver: does staying at the edge — light enough to be bearable, persistent enough to be felt — require its own quality of attention?"
   ],
-  "why": "You can't tickle yourself because the brain predicts your own movements and cancels the tickle response before it arrives. A partner's touch on the same areas produces the full reaction precisely because it's unpredictable — the same mechanism that makes unexpected touch sharper than touch you're braced for. The interesting version of this experience isn't the overwhelming kind; it's staying just this side of that, where the sensation demands full presence without shutting anything down."
+  "why": "You can't tickle yourself because the brain predicts your own movements and cancels the tickle response before it arrives. A partner's touch on the same areas produces the full reaction precisely because it's unpredictable — the same mechanism that makes unexpected touch sharper than touch you're braced for. The interesting version of this experience isn't the overwhelming kind; it's staying just this side of that, where the sensation demands full presence without shutting anything down.",
+  "tags": [
+    "sensation",
+    "power exchange"
+  ]
 }

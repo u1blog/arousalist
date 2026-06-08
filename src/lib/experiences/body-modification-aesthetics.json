@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "Piercings, tattoos, and scars attended to deliberately — rather than passed over as incidental — often produce a response in both people that casual contact misses. Permanent marks carry history, and that history is accessible if you pay attention to it.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing required beyond whatever marks or modifications are present on either body.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "Is the response primarily about the physical sensation of modified skin (texture, metal, raised scar tissue), the visual quality, or the meaning the marking carries?",
     "Does a body you know well look different after you've paid this kind of attention to its marks?"
   ],
-  "why": "Modifications are permanent marks chosen deliberately — they carry history and meaning that ordinary skin doesn't. Attending to them during intimacy is attending to a record of a decision: someone chose this mark, and it's still there. For many people, this produces a quality of intimacy distinct from attending to unmodified skin — you are in contact with something that means something. For the person being attended to, having someone focus on a modification they've carried for years often reactivates it: habitual familiarity mutes things, and another person's attention restores them to presence. Scars carry this quality most strongly of all — attended to with care rather than avoided, they become something else."
+  "why": "Modifications are permanent marks chosen deliberately — they carry history and meaning that ordinary skin doesn't. Attending to them during intimacy is attending to a record of a decision: someone chose this mark, and it's still there. For many people, this produces a quality of intimacy distinct from attending to unmodified skin — you are in contact with something that means something. For the person being attended to, having someone focus on a modification they've carried for years often reactivates it: habitual familiarity mutes things, and another person's attention restores them to presence. Scars carry this quality most strongly of all — attended to with care rather than avoided, they become something else.",
+  "tags": [
+    "visual"
+  ]
 }

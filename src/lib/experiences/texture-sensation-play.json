@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Map your responses to different materials and textures, from soft silk to rough burlap, across different areas of your body.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Soft fabric (silk, satin), rough fabric (burlap, denim), a feather or soft makeup brush, fingernails, a blindfold",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "Are there areas of your body that are more sensitive than you knew?",
     "As giver: does choosing and applying textures across the receiver's body — watching where they respond and where they don't — produce any interest of its own?"
   ],
-  "why": "Most of us spend our days in uniform clothing and rarely pay attention to what touch actually feels like. A rough texture dragged across skin can feel grounding and primal; something very soft can feel almost unbearably tender. People are consistently surprised by strong preferences they didn't know they had — and the partner version tends to surface them faster."
+  "why": "Most of us spend our days in uniform clothing and rarely pay attention to what touch actually feels like. A rough texture dragged across skin can feel grounding and primal; something very soft can feel almost unbearably tender. People are consistently surprised by strong preferences they didn't know they had — and the partner version tends to surface them faster.",
+  "tags": [
+    "sensation"
+  ]
 }

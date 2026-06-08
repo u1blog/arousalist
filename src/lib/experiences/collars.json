@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "The collar carries one of the most concentrated symbolic loads of any object in this space — and that cultural weight does work before anything else happens.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "A collar if you have one; otherwise a scarf, ribbon, or any fabric band that sits loosely around the neck.",
   "safetyNote": "Nothing tight around the neck. The collar should sit loosely — the point is the gesture and symbolic weight, not any pressure.",
   "instructions": [
@@ -21,5 +24,10 @@
     "As the person who places it: what does placing a collar on someone feel like — and does their wearing it change how you engage?",
     "Is there a clear preference for wearing or placing — and did that match what you expected?"
   ],
-  "why": "The collar carries one of the most concentrated symbolic loads of any object in this space — it has an immediately legible meaning in BDSM contexts that both people will read even if neither has used one before. That cultural weight does work before anything else happens. For the person wearing it, the physical sensation is often secondary to the psychological experience of the gesture and what it represents. For the person who places it, there's a quality of attentive ownership — this person is wearing something I put there — that many find more activating than they anticipated."
+  "why": "The collar carries one of the most concentrated symbolic loads of any object in this space — it has an immediately legible meaning in BDSM contexts that both people will read even if neither has used one before. That cultural weight does work before anything else happens. For the person wearing it, the physical sensation is often secondary to the psychological experience of the gesture and what it represents. For the person who places it, there's a quality of attentive ownership — this person is wearing something I put there — that many find more activating than they anticipated.",
+  "tags": [
+    "restraint",
+    "power exchange",
+    "visual"
+  ]
 }

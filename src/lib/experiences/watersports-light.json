@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Urine on skin is medically benign and produces a strong, fast reaction in most people — usually clear in one direction. Whether that reaction is aversion, neutrality, or something more activating is worth finding out rather than assuming.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A shower or bath. Towels.",
   "safetyNote": "Urine from a healthy person is sterile. Avoid contact with open wounds. A shower is the natural setting — cleanup is immediate and the context is already established.",
   "instructions": [
@@ -26,5 +30,9 @@
     "As giver: what does the act of urinating on a partner produce — charge, discomfort, something neutral?",
     "Is the response primarily about the physical sensation, the warmth, the visual quality, or the transgressive dimension of the act?"
   ],
-  "why": "Urine carries strong social prohibition — it is emphatically out of place except in specific private contexts — which means it tends to carry either strong aversion or real charge depending on how that transgression registers for a given person. For people to whom this appeals, the appeal is almost never the physical sensation (which is mild) but the meaning of the act: warmth, intimacy, a very specific kind of claimed quality. For people to whom it doesn't, the aversion is immediate and tells them everything they need to know quickly. Most people have a fast, definitive response, which makes this one of the quicker entries in this guide to evaluate. The solo version makes the first step significantly smaller."
+  "why": "Urine carries strong social prohibition — it is emphatically out of place except in specific private contexts — which means it tends to carry either strong aversion or real charge depending on how that transgression registers for a given person. For people to whom this appeals, the appeal is almost never the physical sensation (which is mild) but the meaning of the act: warmth, intimacy, a very specific kind of claimed quality. For people to whom it doesn't, the aversion is immediate and tells them everything they need to know quickly. Most people have a fast, definitive response, which makes this one of the quicker entries in this guide to evaluate. The solo version makes the first step significantly smaller.",
+  "tags": [
+    "sensation",
+    "power exchange"
+  ]
 }

@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Attending a consensual adult venue changes the context for what intimacy means. The effect of ambient sexuality — of being in a space where it is openly present and normalised — is worth examining on its own, before any direct participation.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Access to a legitimate sex-positive venue. Most require membership or vetting — that process is part of the safety infrastructure.",
   "safetyNote": "Reputable venues have clear codes of conduct and staff to enforce them. Find out the rules before attending. Consent from each person for each specific contact applies here as anywhere — presence at the venue is not general permission.",
   "instructions": [
@@ -21,5 +24,9 @@
     "How do you and your partner relate to each other in this environment compared to private ones?",
     "Is the venue context itself additive to what you'd experience in private, or does it primarily produce something specific to being in a social, semi-public space?"
   ],
-  "why": "Sex-positive venues produce an effect through context alone: you are in a space where sexuality is openly present, normalised by the venue and by everyone else there. For some people this normalisation is the significant thing — the usual social prohibition is simply absent, and the absence makes things available that would usually require deliberate transgression. For others, the social context is intrusive — it's hard to be fully present with a partner while also processing a group environment. Many people also find their first visit primarily informative about what kind of venue actually matches what they were imagining, which is often quite different from expectation in both directions."
+  "why": "Sex-positive venues produce an effect through context alone: you are in a space where sexuality is openly present, normalised by the venue and by everyone else there. For some people this normalisation is the significant thing — the usual social prohibition is simply absent, and the absence makes things available that would usually require deliberate transgression. For others, the social context is intrusive — it's hard to be fully present with a partner while also processing a group environment. Many people also find their first visit primarily informative about what kind of venue actually matches what they were imagining, which is often quite different from expectation in both directions.",
+  "tags": [
+    "group",
+    "exhibitionism"
+  ]
 }

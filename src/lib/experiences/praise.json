@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "To say something true and specific, the giver has to be paying close attention — and that quality of close attention often reads as care in a way that touch alone doesn't always communicate.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: does sustaining genuine verbal affirmation feel natural, or does it require a different kind of effort?",
     "Is there a clear sense of whether giving or receiving praise fits your register more naturally?"
   ],
-  "why": "Praise during intimacy works — when it works — because it combines physical and verbal confirmation simultaneously. To say something true and specific, the giver has to be paying close attention: you can't phrase it genuinely without genuinely noticing. That quality of close attention often reads as care in a way that touch alone doesn't always communicate. For receivers drawn to this, it can feel like being held in someone's full awareness. For those it doesn't reach, the disconnect is also informative — it often points to something about verbal versus physical modes of connection."
+  "why": "Praise during intimacy works — when it works — because it combines physical and verbal confirmation simultaneously. To say something true and specific, the giver has to be paying close attention: you can't phrase it genuinely without genuinely noticing. That quality of close attention often reads as care in a way that touch alone doesn't always communicate. For receivers drawn to this, it can feel like being held in someone's full awareness. For those it doesn't reach, the disconnect is also informative — it often points to something about verbal versus physical modes of connection.",
+  "tags": [
+    "verbal",
+    "power exchange"
+  ]
 }

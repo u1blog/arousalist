@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Latex and leather both produce a sensory profile that fabric doesn't — distinctive smell, temperature retention, tightness or weight against skin — and the response to wearing or being near them tends to be clear and fast in one direction or the other.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A latex or leather item — a glove, a collar, a belt, a cuff, or a piece of clothing. A single item is enough for a first test.",
   "safetyNote": "Latex allergy exists and is worth checking before extended skin contact. If you have a known latex allergy, use leather or PVC alternatives.",
   "instructions": [
@@ -26,5 +30,9 @@
     "As the person wearing it: does the material change how you inhabit your body or how you feel seen?",
     "As the person observing: does the material change how you engage with your partner, and does the effect stay consistent or fade quickly?"
   ],
-  "why": "Latex and leather produce a sensory profile that fabric doesn't replicate — a specific smell, the way they retain warmth against skin, and a quality of tightness or weight that registers as something distinct from softness. For some people these qualities are immediately activating in a way that seems to operate below conscious preference; for others they're distracting or neutral. The response tends to be fast and clear in one direction or the other, which makes this a quick experience to test. Many people who identify as having a material interest trace it to an initial involuntary response to the smell or tightness — something that arrived before any conscious framing. Others find they have no response and are simply glad to know."
+  "why": "Latex and leather produce a sensory profile that fabric doesn't replicate — a specific smell, the way they retain warmth against skin, and a quality of tightness or weight that registers as something distinct from softness. For some people these qualities are immediately activating in a way that seems to operate below conscious preference; for others they're distracting or neutral. The response tends to be fast and clear in one direction or the other, which makes this a quick experience to test. Many people who identify as having a material interest trace it to an initial involuntary response to the smell or tightness — something that arrived before any conscious framing. Others find they have no response and are simply glad to know.",
+  "tags": [
+    "sensation",
+    "visual"
+  ]
 }

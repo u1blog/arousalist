@@ -5,7 +5,11 @@
   "tier": "solo-start",
   "category": "sensation",
   "description": "For people with a prostate, internal stimulation via the anterior wall produces a qualitatively different type of arousal from anything external — often deeper, more diffuse, and harder to consciously manage — and most people have never found it deliberately enough to know their actual response.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Clean hands with short, smooth nails; generous water-based lubricant. Optionally a dedicated prostate massager with a flared base.",
   "safetyNote": "Keep nails short and filed smooth. Use more lubricant than feels necessary. Never force anything — work with relaxation, not pressure. If there is pain, stop.",
   "instructions": [
@@ -26,5 +30,8 @@
     "Does combining prostate stimulation with genital stimulation produce something different from either alone?",
     "If the response is strong: does this change how you think about what kind of stimulation you want to explore further?"
   ],
-  "why": "The prostate is densely innervated and responds to sustained pressure by activating different neural pathways from external genital stimulation. Many people describe the response as deeper and harder to consciously control — less directed than orgasm through genital stimulation, often more intense. Many people with a prostate have never deliberately found it; many who have tried have used insufficient lubricant or relaxation and concluded incorrectly that it doesn't produce much. The solo version addresses both those problems: you control the pace entirely, and there's no performance dimension to manage. What most people discover is either genuinely different from what they expected, or a clear neutral response that removes a curiosity they've been carrying."
+  "why": "The prostate is densely innervated and responds to sustained pressure by activating different neural pathways from external genital stimulation. Many people describe the response as deeper and harder to consciously control — less directed than orgasm through genital stimulation, often more intense. Many people with a prostate have never deliberately found it; many who have tried have used insufficient lubricant or relaxation and concluded incorrectly that it doesn't produce much. The solo version addresses both those problems: you control the pace entirely, and there's no performance dimension to manage. What most people discover is either genuinely different from what they expected, or a clear neutral response that removes a curiosity they've been carrying.",
+  "tags": [
+    "anal"
+  ]
 }

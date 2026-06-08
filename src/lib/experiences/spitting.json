@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Spitting during intimacy produces a clear, immediate response in almost everyone — usually strong in one direction — which makes it one of the more efficient acts to test. Whether it lands as intensely charged or immediately off-putting, the result is information.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: what did deliberately spitting at someone you're intimate with produce — discomfort, charge, something unexpected?",
     "Is the dynamic element (the transgressive act, the power it implies) doing more work than the physical sensation itself?"
   ],
-  "why": "Saliva carries strong cultural loading — spitting ordinarily signals contempt or disregard, which is exactly why the same act in a consensual intimate context can produce a concentrated charge that more explicitly physical acts sometimes don't. For people to whom it lands, the dynamic element is usually what's doing the work: being acted upon in a way that references transgression, within a context that is clearly safe. For those it doesn't reach, the aversion is also informative — it often points to something about how much symbolic loading an act needs to shed before it can feel intimate. Most people have a fast, clear response to this one, in one direction or the other."
+  "why": "Saliva carries strong cultural loading — spitting ordinarily signals contempt or disregard, which is exactly why the same act in a consensual intimate context can produce a concentrated charge that more explicitly physical acts sometimes don't. For people to whom it lands, the dynamic element is usually what's doing the work: being acted upon in a way that references transgression, within a context that is clearly safe. For those it doesn't reach, the aversion is also informative — it often points to something about how much symbolic loading an act needs to shed before it can feel intimate. Most people have a fast, clear response to this one, in one direction or the other.",
+  "tags": [
+    "oral",
+    "power exchange"
+  ]
 }

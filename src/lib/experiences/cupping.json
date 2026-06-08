@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Cupping creates sensation through pulling rather than pressing — a type of stimulation that most touch doesn't produce — and the visible marks are part of the experience for both people.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves — hands and mouth.",
   "safetyNote": "Keep suction away from the face. Very sustained, intense suction can cause bruising — start lighter than you think necessary and build gradually.",
   "instructions": [
@@ -26,5 +30,9 @@
     "Does location matter — are there areas where suction produces a stronger response than others?",
     "As giver: does applying mouth to skin and holding there — the sustained deliberate closeness — produce any engagement of its own?"
   ],
-  "why": "Cupping creates sensation through pulling rather than pressing — a type of stimulation that most touch doesn't produce. The immediate sensation is distinctive; what many people find equally interesting is the brief ache after release, where the pulled area registers its own response. The visible marks are part of the experience for both people: temporary evidence of intensity that both can see. For givers, the act of applying sustained mouth contact and holding has a quality of deliberate, claiming closeness that many find as interesting as the physical sensation it produces."
+  "why": "Cupping creates sensation through pulling rather than pressing — a type of stimulation that most touch doesn't produce. The immediate sensation is distinctive; what many people find equally interesting is the brief ache after release, where the pulled area registers its own response. The visible marks are part of the experience for both people: temporary evidence of intensity that both can see. For givers, the act of applying sustained mouth contact and holding has a quality of deliberate, claiming closeness that many find as interesting as the physical sensation it produces.",
+  "tags": [
+    "sensation",
+    "pain"
+  ]
 }
