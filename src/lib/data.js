@@ -146,8 +146,10 @@ export const CATEGORY_INFO = {
 export const ALL_TAGS = [
   'anal',
   'exhibitionism',
+  'female anatomy',
   'group',
   'intimacy',
+  'male anatomy',
   'online',
   'oral',
   'orgasm control',
