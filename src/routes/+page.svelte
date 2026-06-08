@@ -34,12 +34,12 @@
       <div class="how-card">
         <div class="how-card-icon">📋</div>
         <div class="how-card-title">Rate it</div>
-        <p class="how-card-text">After each experience, give it a rating from ✗ to ✓✓ — separately for solo and partner versions, and for giver and receiver roles where relevant.</p>
+        <p class="how-card-text">After each experience, give it a rating from ✗ to 🔥 — separately for solo and partner versions, and for giver and receiver roles where relevant.</p>
       </div>
       <div class="how-card">
         <div class="how-card-icon">🔍</div>
-        <div class="how-card-title">Find your profile</div>
-        <p class="how-card-text">Look for patterns. Sensation-led or dynamic-led? Giver or receiver? Solo curious or drawn to the partner dynamic? The answers accumulate.</p>
+        <div class="how-card-title">Keep what works</div>
+        <p class="how-card-text">Adopt what resonates, discard the rest. The goal isn't to like everything — it's to know yourself better.</p>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@
   <div class="container">
     <p class="section-label">The rating system</p>
     <h2 class="section-title">Four honest options</h2>
-    <p class="section-desc">No right answers. The goal is accurate self-knowledge — so a ✗ is as useful as a ✓✓.</p>
+    <p class="section-desc">No right answers. The goal is accurate self-knowledge — so a ✗ is as useful as a 🔥.</p>
     <div class="rating-table">
       <div class="rating-item rating-item--no">
         <div class="rating-symbol-large">✗</div>
@@ -68,7 +68,7 @@
         <div class="rating-item-desc">I liked this. Worth incorporating.</div>
       </div>
       <div class="rating-item rating-item--yes-plus">
-        <div class="rating-symbol-large">✓✓</div>
+        <div class="rating-symbol-large">🔥</div>
         <div class="rating-item-label">Really yes</div>
         <div class="rating-item-desc">I really liked this. I want more of this.</div>
       </div>

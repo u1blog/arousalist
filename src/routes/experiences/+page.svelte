@@ -9,15 +9,6 @@
   let filtersOpen    = $state(false);
   let search         = $state('');
 
-  let stats = $derived({
-    tried: EXPERIENCES.filter(e => $progress[e.id]?.tried).length,
-    rated: EXPERIENCES.filter(e => {
-      const d = $progress[e.id];
-      return d?.ratings && Object.values(d.ratings).some(Boolean);
-    }).length,
-    total: EXPERIENCES.length,
-  });
-
   let filtered = $derived.by(() => {
     const q = search.trim().toLowerCase();
     return EXPERIENCES.filter(exp => {
@@ -64,8 +55,6 @@
     { value: 'rated',      label: 'Rated' },
     { value: 'wishlisted', label: 'Wishlisted' },
   ];
-  let progressPct = $derived((stats.tried / stats.total) * 100);
-
   const tagOptions = [
     { value: 'all', label: 'All' },
     ...ALL_TAGS.map(t => ({ value: t, label: t })),
@@ -88,15 +77,6 @@
   <div class="container">
     <h1 class="browse-title">Experiences</h1>
 
-    <div class="progress-wrap">
-      <div class="progress-track">
-        <div class="progress-fill" style="width: {progressPct}%"></div>
-      </div>
-      <div class="progress-labels">
-        <span class="progress-stat"><strong>{stats.tried}</strong> of {stats.total} tried</span>
-        <span class="progress-stat"><strong>{stats.rated}</strong> rated</span>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -215,41 +195,6 @@
     color: var(--text-secondary);
     margin-bottom: 2rem;
     max-width: none;
-  }
-
-  .progress-wrap {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    padding: 1.25rem 0;
-    border-top: 1px solid var(--border);
-  }
-
-  .progress-track {
-    flex: 1;
-    height: 4px;
-    background: var(--border);
-    border-radius: 100px;
-    overflow: hidden;
-  }
-
-  .progress-fill {
-    height: 100%;
-    background: var(--sage);
-    border-radius: 100px;
-    transition: width 0.4s ease;
-  }
-
-  .progress-labels {
-    display: flex;
-    gap: 1rem;
-    flex-shrink: 0;
-  }
-
-  .progress-stat {
-    font-size: 0.8rem;
-    color: var(--text-secondary);
-    white-space: nowrap;
   }
 
   /* Filters */

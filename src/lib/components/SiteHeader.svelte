@@ -1,10 +1,8 @@
 <script>
   import { base } from '$app/paths';
   import { page } from '$app/stores';
-  import { progress, wishlist } from '$lib/stores.js';
-  import { EXPERIENCES } from '$lib/data.js';
+  import { wishlist } from '$lib/stores.js';
 
-  let tried = $derived(EXPERIENCES.filter(e => $progress[e.id]?.tried).length);
   let wishlistCount = $derived([...$wishlist].length);
 </script>
 
@@ -36,7 +34,6 @@
       >
         Settings
       </a>
-      <span class="header-progress">{tried}/{EXPERIENCES.length} tried</span>
     </div>
   </nav>
 </header>
@@ -110,12 +107,4 @@
     margin-left: 0.1rem;
   }
 
-  .header-progress {
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: var(--text-muted);
-    background: var(--bg-dim);
-    padding: 0.25rem 0.7rem;
-    border-radius: 100px;
-  }
 </style>
