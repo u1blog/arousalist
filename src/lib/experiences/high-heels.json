@@ -2,7 +2,7 @@
   "id": "high-heels",
   "number": 86,
   "title": "High Heels",
-  "tier": "better-with-partner",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "High heels change posture, gait, sound, and height simultaneously — a constellation of changes that produces a specific effect both in the wearer and in whoever is watching. The response to that combination tends to be clear in one direction or the other.",
   "ratingTypes": [

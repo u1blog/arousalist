@@ -2,7 +2,7 @@
   "id": "masks",
   "number": 81,
   "title": "Masks",
-  "tier": "better-with-partner",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "A mask changes two things simultaneously: the wearer becomes harder to read, and the wearer becomes less exposed. Both effects are real and usually operate in different directions for each person.",
   "ratingTypes": [

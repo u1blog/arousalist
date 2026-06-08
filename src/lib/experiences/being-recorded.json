@@ -2,7 +2,7 @@
   "id": "being-recorded",
   "number": 90,
   "title": "Being Recorded",
-  "tier": "better-with-partner",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "Being recorded is different from being watched: the camera is impassive, the image will persist, and someone else is controlling what gets captured. Each of those differences carries its own quality.",
   "ratingTypes": [

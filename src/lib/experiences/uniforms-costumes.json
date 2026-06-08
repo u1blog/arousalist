@@ -2,7 +2,7 @@
   "id": "uniforms-costumes",
   "number": 75,
   "title": "Uniforms and Costumes",
-  "tier": "better-with-partner",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "A uniform or costume signals a role before anything is said or done, and that signal is legible immediately — to the person wearing it and to whoever sees them. The clothing does work the behaviour doesn't have to.",
   "ratingTypes": [

@@ -126,10 +126,15 @@ export const TIER_INFO = {
     label: 'Solo',
     hint: 'Try this alone first to understand your baseline response',
   },
+  'solo-or-partnered': {
+    icon: '🧍•👫',
+    label: 'Solo or partnered',
+    hint: 'Equally rewarding alone or with a partner — both are complete experiences',
+  },
   'better-with-partner': {
     icon: '🧍→👫',
     label: 'Better with a partner',
-    hint: 'The solo version is useful groundwork, but a partner unlocks the real experience',
+    hint: 'Solo is useful groundwork, but a partner meaningfully changes the experience',
   },
   'partner-only': {
     icon: '👫',

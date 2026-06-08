@@ -1,13 +1,25 @@
 <script>
+  import { page } from '$app/stores';
+  import { goto } from '$app/navigation';
   import { progress, wishlist } from '$lib/stores.js';
   import { EXPERIENCES, ALL_TAGS } from '$lib/data.js';
   import ExperienceCard from '$lib/components/ExperienceCard.svelte';
 
-  let tierFilter     = $state('all');
-  let statusFilter   = $state('all');
-  let tagFilter      = $state('all');
-  let filtersOpen    = $state(false);
-  let search         = $state('');
+  let tierFilter   = $state($page.url.searchParams.get('tier')   ?? 'all');
+  let statusFilter = $state($page.url.searchParams.get('status') ?? 'all');
+  let tagFilter    = $state($page.url.searchParams.get('tag')    ?? 'all');
+  let search       = $state($page.url.searchParams.get('q')      ?? '');
+  let filtersOpen  = $state(tierFilter !== 'all' || statusFilter !== 'all' || tagFilter !== 'all');
+
+  $effect(() => {
+    const params = new URLSearchParams();
+    if (tierFilter !== 'all')   params.set('tier',   tierFilter);
+    if (statusFilter !== 'all') params.set('status', statusFilter);
+    if (tagFilter !== 'all')    params.set('tag',    tagFilter);
+    if (search.trim())          params.set('q',      search.trim());
+    const qs = params.toString();
+    goto(qs ? `?${qs}` : '?', { replaceState: true, noScroll: true, keepFocus: true });
+  });
 
   let filtered = $derived.by(() => {
     const q = search.trim().toLowerCase();
@@ -44,7 +56,8 @@
 
   const tierOptions = [
     { value: 'all',                  label: 'All' },
-    { value: 'solo',           label: 'Solo' },
+    { value: 'solo',                 label: 'Solo' },
+    { value: 'solo-or-partnered',    label: 'Solo or partnered' },
     { value: 'better-with-partner',  label: 'Better with a partner' },
     { value: 'partner-only',         label: 'Partner only' },
   ];

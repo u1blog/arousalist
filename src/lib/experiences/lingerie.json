@@ -2,7 +2,7 @@
   "id": "lingerie",
   "number": 51,
   "title": "Lingerie",
-  "tier": "better-with-partner",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "The solo version separates what the clothing does to you from what being seen in it does to you — those two things often turn out to be quite different.",
   "ratingTypes": [
