@@ -1,8 +1,7 @@
 <footer class="site-footer">
   <div class="footer-inner container">
     <p class="footer-note">
-      Your ratings, notes, and progress are stored only in your browser —
-      private and local, never tracked or sent anywhere.
+      Your ratings, notes, and progress are stored only in your browser - private and local, never tracked or sent anywhere.
     </p>
   </div>
 </footer>
@@ -25,6 +24,6 @@
   .footer-note {
     font-size: 0.8rem;
     color: var(--text-muted);
-    max-width: 50ch;
+    max-width: 100%;
   }
 </style>

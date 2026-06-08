@@ -8,7 +8,10 @@
 
 <header class="site-header">
   <nav class="site-nav container">
-    <a href="{base}/" class="nav-logo">Arousalist</a>
+    <a href="{base}/" class="nav-logo">
+      <img src="/arousalisticon.png" alt="" class="nav-logo-icon" />
+      Arousalist
+    </a>
     <div class="nav-links">
       <a
         href="{base}/experiences"
@@ -70,8 +73,17 @@
     color: var(--text);
     text-decoration: none;
     flex-shrink: 0;
+    display: flex;
+    align-items: center;
   }
   .nav-logo:hover { color: var(--accent); }
+
+  .nav-logo-icon {
+    width: 24px;
+    height: 24px;
+    display: block;
+    margin-right: 0.35rem;
+  }
 
   .nav-links {
     display: flex;

@@ -140,7 +140,7 @@
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--accent);
-    margin-bottom: 1.25rem;
+    margin: 0 auto 1.25rem;
   }
   .hero-title {
     font-family: var(--font-heading);
