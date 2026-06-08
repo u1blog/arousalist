@@ -9,7 +9,7 @@
 <header class="site-header">
   <nav class="site-nav container">
     <a href="{base}/" class="nav-logo">
-      <img src="/arousalisticon.png" alt="" class="nav-logo-icon" />
+      <img src="{base}/arousalisticon.png" alt="" class="nav-logo-icon" />
       Arousalist
     </a>
     <div class="nav-links">
