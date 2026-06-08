@@ -5,9 +5,9 @@
 
   let tierFilter     = $state('all');
   let statusFilter   = $state('all');
-  let categoryFilter = $state('all');
   let tagFilter      = $state('all');
   let filtersOpen    = $state(false);
+  let search         = $state('');
 
   let stats = $derived({
     tried: EXPERIENCES.filter(e => $progress[e.id]?.tried).length,
@@ -18,8 +18,9 @@
     total: EXPERIENCES.length,
   });
 
-  let filtered = $derived(
-    EXPERIENCES.filter(exp => {
+  let filtered = $derived.by(() => {
+    const q = search.trim().toLowerCase();
+    return EXPERIENCES.filter(exp => {
       const d = $progress[exp.id] ?? {};
 
       if (tierFilter !== 'all' && exp.tier !== tierFilter) return false;
@@ -31,17 +32,24 @@
       }
       if (statusFilter === 'wishlisted' && !$wishlist.has(exp.id)) return false;
 
-      if (categoryFilter !== 'all' && exp.category !== categoryFilter) return false;
-
       if (tagFilter !== 'all' && !exp.tags?.includes(tagFilter)) return false;
 
+      if (q) {
+        const inTitle = exp.title.toLowerCase().includes(q);
+        const inDesc  = exp.description?.toLowerCase().includes(q);
+        const inTags  = exp.tags?.some(t => t.toLowerCase().includes(q));
+        if (!inTitle && !inDesc && !inTags) return false;
+      }
+
       return true;
-    })
-  );
+    });
+  });
 
   let isFiltered = $derived(
-    tierFilter !== 'all' || statusFilter !== 'all' || categoryFilter !== 'all' || tagFilter !== 'all'
+    tierFilter !== 'all' || statusFilter !== 'all' || tagFilter !== 'all'
   );
+
+  let hasAnyFilter = $derived(isFiltered || search.trim() !== '');
 
   const tierOptions = [
     { value: 'all',                  label: 'All' },
@@ -56,12 +64,6 @@
     { value: 'rated',      label: 'Rated' },
     { value: 'wishlisted', label: 'Wishlisted' },
   ];
-  const categoryOptions = [
-    { value: 'all',       label: 'All' },
-    { value: 'sensation', label: 'Sensation-led' },
-    { value: 'dynamic',   label: 'Dynamic-led' },
-  ];
-
   let progressPct = $derived((stats.tried / stats.total) * 100);
 
   const tagOptions = [
@@ -72,8 +74,8 @@
   function clearFilters() {
     tierFilter = 'all';
     statusFilter = 'all';
-    categoryFilter = 'all';
     tagFilter = 'all';
+    search = '';
   }
 </script>
 
@@ -112,58 +114,55 @@
     </button>
 
     <span class="results-count">
-      {#if isFiltered}
+      {#if hasAnyFilter}
         {filtered.length} of {EXPERIENCES.length}
       {:else}
         {EXPERIENCES.length} experiences
       {/if}
     </span>
 
-    {#if isFiltered}
+    {#if hasAnyFilter}
       <button class="clear-btn" onclick={clearFilters}>Clear</button>
     {/if}
+
+    <div class="search-wrap">
+      <input
+        class="search-input"
+        type="search"
+        placeholder="Search…"
+        bind:value={search}
+        aria-label="Search experiences"
+      />
+    </div>
   </div>
 
   {#if filtersOpen}
     <div class="container filters-inner">
-      <div class="filter-group">
-        <span class="filter-label">Tier</span>
-        {#each tierOptions as opt}
-          <button
-            class="filter-btn"
-            class:is-active={tierFilter === opt.value}
-            onclick={() => tierFilter = opt.value}
-          >{opt.label}</button>
-        {/each}
+      <div class="filters-row">
+        <div class="filter-group">
+          <span class="filter-label">Tier</span>
+          {#each tierOptions as opt}
+            <button
+              class="filter-btn"
+              class:is-active={tierFilter === opt.value}
+              onclick={() => tierFilter = opt.value}
+            >{opt.label}</button>
+          {/each}
+        </div>
+
+        <div class="filter-divider"></div>
+
+        <div class="filter-group">
+          <span class="filter-label">Status</span>
+          {#each statusOptions as opt}
+            <button
+              class="filter-btn"
+              class:is-active={statusFilter === opt.value}
+              onclick={() => statusFilter = opt.value}
+            >{opt.label}</button>
+          {/each}
+        </div>
       </div>
-
-      <div class="filter-divider"></div>
-
-      <div class="filter-group">
-        <span class="filter-label">Status</span>
-        {#each statusOptions as opt}
-          <button
-            class="filter-btn"
-            class:is-active={statusFilter === opt.value}
-            onclick={() => statusFilter = opt.value}
-          >{opt.label}</button>
-        {/each}
-      </div>
-
-      <div class="filter-divider"></div>
-
-      <div class="filter-group">
-        <span class="filter-label">Type</span>
-        {#each categoryOptions as opt}
-          <button
-            class="filter-btn"
-            class:is-active={categoryFilter === opt.value}
-            onclick={() => categoryFilter = opt.value}
-          >{opt.label}</button>
-        {/each}
-      </div>
-
-      <div class="filter-divider"></div>
 
       <div class="filter-group filter-group--tags">
         <span class="filter-label">Tag</span>
@@ -309,6 +308,28 @@
     color: var(--text-muted);
   }
 
+  .search-wrap {
+    margin-left: auto;
+  }
+
+  .search-input {
+    font-family: var(--font-body);
+    font-size: 0.825rem;
+    color: var(--text);
+    background: var(--bg-dim);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.35rem 0.75rem;
+    width: 180px;
+    outline: none;
+    transition: border-color var(--transition), width var(--transition);
+  }
+  .search-input::placeholder { color: var(--text-muted); }
+  .search-input:focus {
+    border-color: var(--accent-light);
+    width: 240px;
+  }
+
   .clear-btn {
     font-size: 0.775rem;
     font-weight: 500;
@@ -325,11 +346,17 @@
 
   .filters-inner {
     display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    align-items: center;
+    flex-direction: column;
+    gap: 0.75rem;
     padding-top: 0;
     padding-bottom: 0.75rem;
+  }
+
+  .filters-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
   }
 
   .filter-group {
@@ -340,8 +367,7 @@
   }
 
   .filter-group--tags {
-    flex: 1;
-    min-width: 0;
+    width: 100%;
   }
 
   .filter-label {
@@ -379,6 +405,5 @@
   @media (max-width: 700px) {
     .experience-grid { grid-template-columns: 1fr; }
     .filter-divider { display: none; }
-    .filters-inner { gap: 0.75rem; }
   }
 </style>

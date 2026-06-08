@@ -81,6 +81,7 @@
     font-size: 0.975rem;
     margin-bottom: 1.5rem;
     color: var(--text-secondary);
+    max-width: none;
   }
 
   .heart-example {

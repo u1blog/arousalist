@@ -1,13 +1,12 @@
 <script>
   import { base } from '$app/paths';
   import { progress, wishlist } from '$lib/stores.js';
-  import { TIER_INFO, CATEGORY_INFO, RATING_OPTIONS, RATING_LABELS } from '$lib/data.js';
+  import { TIER_INFO, RATING_OPTIONS, RATING_LABELS } from '$lib/data.js';
 
   let { experience } = $props();
 
   let data = $derived($progress[experience.id] ?? { tried: false, ratings: {}, notes: '' });
   let tier = $derived(TIER_INFO[experience.tier]);
-  let cat  = $derived(CATEGORY_INFO[experience.category]);
 
   let ratedEntries = $derived(
     experience.ratingTypes
@@ -26,7 +25,6 @@
   <div class="card-header">
     <div class="card-badges">
       <span class="tier-badge tier-badge--{experience.tier}">{tier.icon} {tier.label}</span>
-      <span class="cat-badge">{cat.label}</span>
     </div>
     {#if data.tried}
       <span class="tried-indicator" title="Tried">✓</span>
@@ -51,8 +49,8 @@
     </div>
   {/if}
 
-  <div class="card-status">
-    {#if ratedEntries.length}
+  {#if ratedEntries.length}
+    <div class="card-status">
       {#each ratedEntries as { type, value }}
         {@const opt = optionFor(value)}
         <span class="mini-rating mini-rating--{value}" title="{RATING_LABELS[type]}: {opt.label}">
@@ -60,10 +58,8 @@
           <span class="mini-symbol">{opt.symbol}</span>
         </span>
       {/each}
-    {:else}
-      <span class="card-status-empty">Not yet rated</span>
-    {/if}
-  </div>
+    </div>
+  {/if}
 </a>
 
 <style>
@@ -176,9 +172,4 @@
     border-top: 1px solid var(--border);
   }
 
-  .card-status-empty {
-    font-size: 0.775rem;
-    color: var(--text-muted);
-    font-style: italic;
-  }
 </style>
