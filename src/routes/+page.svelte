@@ -34,7 +34,7 @@
       <div class="how-card">
         <div class="how-card-icon">📋</div>
         <div class="how-card-title">Rate it</div>
-        <p class="how-card-text">After each experience, give it a rating from ✗ to 🔥 — separately for solo and partner versions, and for giver and receiver roles where relevant.</p>
+        <p class="how-card-text">After each experience, give it a rating from 🙅 to 🔥 — separately for solo and partner versions, and for giver and receiver roles where relevant.</p>
       </div>
       <div class="how-card">
         <div class="how-card-icon">🔍</div>
@@ -50,10 +50,10 @@
   <div class="container">
     <p class="section-label">The rating system</p>
     <h2 class="section-title">Four honest options</h2>
-    <p class="section-desc">No right answers. The goal is accurate self-knowledge — so a ✗ is as useful as a 🔥.</p>
+    <p class="section-desc">No right answers. The goal is accurate self-knowledge — so a 🙅 is as useful as a 🔥.</p>
     <div class="rating-table">
       <div class="rating-item rating-item--no">
-        <div class="rating-symbol-large">✗</div>
+        <div class="rating-symbol-large">🙅</div>
         <div class="rating-item-label">Not for me</div>
         <div class="rating-item-desc">Tried it, didn't produce anything worth returning to.</div>
       </div>
@@ -63,7 +63,7 @@
         <div class="rating-item-desc">Something was there. Would try again or go further.</div>
       </div>
       <div class="rating-item rating-item--yes">
-        <div class="rating-symbol-large">✓</div>
+        <div class="rating-symbol-large">✅</div>
         <div class="rating-item-label">Yes</div>
         <div class="rating-item-desc">I liked this. Worth incorporating.</div>
       </div>

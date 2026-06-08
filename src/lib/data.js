@@ -173,9 +173,9 @@ export const ANATOMY_FILTER_OPTIONS = [
 ];
 
 export const RATING_OPTIONS = [
-  { value: 'no',       symbol: '✗',  label: 'Not for me' },
+  { value: 'no',       symbol: '🙅',  label: 'Not for me' },
   { value: 'curious',  symbol: '?',  label: 'Curious — would try again' },
-  { value: 'yes',      symbol: '✓',  label: 'Yes — I liked this' },
+  { value: 'yes',      symbol: '✅',  label: 'Yes — I liked this' },
   { value: 'yes-plus', symbol: '🔥', label: 'Yes — I really liked this' },
 ];
 
