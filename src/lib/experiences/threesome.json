@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Adding a third person changes the arithmetic of intimacy in ways that are hard to anticipate: attention divides, comparison becomes possible, jealousy and arousal often arrive simultaneously, and the dynamic between the original couple changes in ways that persist past the experience.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "A third person who has been explicitly asked, has clearly agreed, and whose role within the encounter has been specifically discussed in advance.",
   "safetyNote": "Agree on the specific shape of the encounter before it begins — who engages with whom, in what ways, with what limits. Agree on a word that ends the experience immediately for any person, no explanation required. Plan a debrief with your partner afterward, ideally the same day.",
   "instructions": [
@@ -21,5 +24,8 @@
     "Does watching your partner with someone else produce anything you didn't expect — pleasure at their pleasure, something more complicated?",
     "What did the actual experience tell you about how you respond to a scenario you may have only previously imagined?"
   ],
-  "why": "A threesome involves more variables than any other experience in this guide, which is why most people find what actually happens quite different from what they imagined. The logistics, divided attention, and emotional texture are all more complex than the fantasy version suggests — and the fantasy version is often the only reference people have going in. For some couples the experience produces something positive and clarifying; for others it surfaces dynamics they hadn't anticipated. The debrief is as important as the experience itself: many of the most significant responses arrive in retrospect, once the attention required to manage the encounter is no longer competing with the capacity to notice what's happening."
+  "why": "A threesome involves more variables than any other experience in this guide, which is why most people find what actually happens quite different from what they imagined. The logistics, divided attention, and emotional texture are all more complex than the fantasy version suggests — and the fantasy version is often the only reference people have going in. For some couples the experience produces something positive and clarifying; for others it surfaces dynamics they hadn't anticipated. The debrief is as important as the experience itself: many of the most significant responses arrive in retrospect, once the attention required to manage the encounter is no longer competing with the capacity to notice what's happening.",
+  "tags": [
+    "group"
+  ]
 }

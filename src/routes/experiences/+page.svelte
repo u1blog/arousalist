@@ -1,11 +1,12 @@
 <script>
   import { progress, wishlist } from '$lib/stores.js';
-  import { EXPERIENCES } from '$lib/data.js';
+  import { EXPERIENCES, ALL_TAGS } from '$lib/data.js';
   import ExperienceCard from '$lib/components/ExperienceCard.svelte';
 
   let tierFilter     = $state('all');
   let statusFilter   = $state('all');
   let categoryFilter = $state('all');
+  let tagFilter      = $state('all');
   let filtersOpen    = $state(false);
 
   let stats = $derived({
@@ -32,12 +33,14 @@
 
       if (categoryFilter !== 'all' && exp.category !== categoryFilter) return false;
 
+      if (tagFilter !== 'all' && !exp.tags?.includes(tagFilter)) return false;
+
       return true;
     })
   );
 
   let isFiltered = $derived(
-    tierFilter !== 'all' || statusFilter !== 'all' || categoryFilter !== 'all'
+    tierFilter !== 'all' || statusFilter !== 'all' || categoryFilter !== 'all' || tagFilter !== 'all'
   );
 
   const tierOptions = [
@@ -61,10 +64,16 @@
 
   let progressPct = $derived((stats.tried / stats.total) * 100);
 
+  const tagOptions = [
+    { value: 'all', label: 'All' },
+    ...ALL_TAGS.map(t => ({ value: t, label: t })),
+  ];
+
   function clearFilters() {
     tierFilter = 'all';
     statusFilter = 'all';
     categoryFilter = 'all';
+    tagFilter = 'all';
   }
 </script>
 
@@ -150,6 +159,19 @@
             class="filter-btn"
             class:is-active={categoryFilter === opt.value}
             onclick={() => categoryFilter = opt.value}
+          >{opt.label}</button>
+        {/each}
+      </div>
+
+      <div class="filter-divider"></div>
+
+      <div class="filter-group filter-group--tags">
+        <span class="filter-label">Tag</span>
+        {#each tagOptions as opt}
+          <button
+            class="filter-btn"
+            class:is-active={tagFilter === opt.value}
+            onclick={() => tagFilter = opt.value}
           >{opt.label}</button>
         {/each}
       </div>
@@ -315,6 +337,11 @@
     align-items: center;
     gap: 0.5rem;
     flex-wrap: wrap;
+  }
+
+  .filter-group--tags {
+    flex: 1;
+    min-width: 0;
   }
 
   .filter-label {

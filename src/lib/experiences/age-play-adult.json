@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Adopting an adult persona with exaggerated innocence, naivety, or corresponding authority — within a fully adult context — explores a specific psychological dynamic that produces strong responses in one direction or the other, rarely neutral.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing required; optionally clothing that supports the persona.",
   "safetyNote": "This experience involves consenting adults adopting adult personas with particular psychological qualities — innocence, inexperience, or authority. All participants are adults throughout. Agree on a clear word to step out of the dynamic at any point.",
   "instructions": [
@@ -21,5 +24,9 @@
     "As the person inhabiting the authority persona: does the responsibility of guiding someone less experienced produce engagement, discomfort, or something harder to categorise?",
     "Is there a clear role preference — and did the experience tell you something about why that persona fits you better?"
   ],
-  "why": "Age play in its adult form is a persona dynamic rather than a literal one — it's about inhabiting psychological registers of innocence and experience, not different ages. For people to whom it lands, the dynamic produces something specific: the innocent persona gets to cede knowledge and authority entirely, which produces a particular kind of release; the experienced persona gets to hold care and guidance, which produces its own form of engagement. The strong reactions this dynamic produces in either direction — whether it clicks immediately or feels entirely wrong — tend to come from what the personas require psychologically. Many people find that one side fits them more naturally than expected, which tells them something about the dynamics they're drawn to more broadly."
+  "why": "Age play in its adult form is a persona dynamic rather than a literal one — it's about inhabiting psychological registers of innocence and experience, not different ages. For people to whom it lands, the dynamic produces something specific: the innocent persona gets to cede knowledge and authority entirely, which produces a particular kind of release; the experienced persona gets to hold care and guidance, which produces its own form of engagement. The strong reactions this dynamic produces in either direction — whether it clicks immediately or feels entirely wrong — tend to come from what the personas require psychologically. Many people find that one side fits them more naturally than expected, which tells them something about the dynamics they're drawn to more broadly.",
+  "tags": [
+    "roleplay",
+    "power exchange"
+  ]
 }

@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Attentive touch from someone genuinely tracking your responses is a different thing from relaxation — and many givers find sustained focus on another person's body more engaging than expected.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just hands; optionally massage oil.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "As giver: does sustained focus on another person's body — reading where they respond — produce anything for you?",
     "Does receiving this quality of attention feel comfortable, exposing, or both?"
   ],
-  "why": "Massage is often understood as a service — something done to produce relaxation. Attentive touch from someone genuinely tracking your responses is a different thing. The giver's full focus is on you: where your breath changes, where you tense, where something lands. That quality of being attended to, without agenda, is something many people rarely experience. For givers drawn to care, the act of reading and responding to a partner's body — without reciprocation — is often more engaging than expected."
+  "why": "Massage is often understood as a service — something done to produce relaxation. Attentive touch from someone genuinely tracking your responses is a different thing. The giver's full focus is on you: where your breath changes, where you tense, where something lands. That quality of being attended to, without agenda, is something many people rarely experience. For givers drawn to care, the act of reading and responding to a partner's body — without reciprocation — is often more engaging than expected.",
+  "tags": [
+    "touch",
+    "intimacy"
+  ]
 }

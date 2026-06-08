@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "A location that feels specifically wrong disrupts the comfort of the expected place — and whether the transgressive quality heightens, distracts, or dissolves tells you something about how much context shapes your experience of desire.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves and a home.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "Does the sense of it being \"wrong\" heighten, distract, or simply dissolve once you're there?",
     "Is there a particular type of wrongness — risk of interruption, wrong room, wrong surface — that produces more than others?"
   ],
-  "why": "Most sex happens in one place, which eventually acquires the quality of being the right place — expected, comfortable, and unremarkable. A location that feels specifically wrong disrupts that comfort in a way that reactivates attention. The kitchen counter is different from the bed not just because of the surface but because of what the kitchen means in daily life — the transgression is contextual, not physical. Some people find this quality immediately heightening; others find it dissipates as soon as they're actually in it. Either response tells you something about how much context shapes your experience of desire."
+  "why": "Most sex happens in one place, which eventually acquires the quality of being the right place — expected, comfortable, and unremarkable. A location that feels specifically wrong disrupts that comfort in a way that reactivates attention. The kitchen counter is different from the bed not just because of the surface but because of what the kitchen means in daily life — the transgression is contextual, not physical. Some people find this quality immediately heightening; others find it dissipates as soon as they're actually in it. Either response tells you something about how much context shapes your experience of desire.",
+  "tags": [
+    "power exchange"
+  ]
 }

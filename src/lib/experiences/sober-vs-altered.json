@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Most people have a habitual state for sex and have never directly compared the other. The differences in sensation clarity, inhibition, and presence tend to be more specific than expected — and the preference that emerges is often different from the assumption.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Whatever you'd normally use to alter your state, if that's the direction being tested.",
   "safetyNote": "This applies to mild, legal alterations only — moderate alcohol, cannabis where legal. Any alteration that meaningfully impairs the ability to give or withdraw consent is outside the scope of this guide. If either person has a history with substance dependency, skip this one.",
   "instructions": [
@@ -26,5 +30,8 @@
     "Does sober sex feel more or less intimate than altered sex — and what does that tell you about the role inhibition plays in your experience of closeness?",
     "Is the preference consistent across different partners or contexts, or does it depend on other variables?"
   ],
-  "why": "Most people have a strong habitual state for sex — sober or some degree altered — and have never deliberately compared the other. The differences tend to be more specific than the general claims about either state: altered states often lower inhibition and reduce self-monitoring, but they also tend to reduce sensation clarity and the precision of attention; sober encounters involve more self-consciousness but also more direct access to what's actually happening. Which of those trade-offs you prefer, and whether that preference is consistent, is practically useful information. Many people discover their habitual state is habit rather than genuine preference — they've just never checked."
+  "why": "Most people have a strong habitual state for sex — sober or some degree altered — and have never deliberately compared the other. The differences tend to be more specific than the general claims about either state: altered states often lower inhibition and reduce self-monitoring, but they also tend to reduce sensation clarity and the precision of attention; sober encounters involve more self-consciousness but also more direct access to what's actually happening. Which of those trade-offs you prefer, and whether that preference is consistent, is practically useful information. Many people discover their habitual state is habit rather than genuine preference — they've just never checked.",
+  "tags": [
+    "intimacy"
+  ]
 }

@@ -5,10 +5,9 @@
 
   let { experience } = $props();
 
-  let data   = $derived($progress[experience.id] ?? { tried: false, ratings: {}, notes: '' });
-  let tier   = $derived(TIER_INFO[experience.tier]);
-  let cat    = $derived(CATEGORY_INFO[experience.category]);
-  let numStr = $derived(String(experience.number).padStart(2, '0'));
+  let data = $derived($progress[experience.id] ?? { tried: false, ratings: {}, notes: '' });
+  let tier = $derived(TIER_INFO[experience.tier]);
+  let cat  = $derived(CATEGORY_INFO[experience.category]);
 
   let ratedEntries = $derived(
     experience.ratingTypes
@@ -25,7 +24,6 @@
 
 <a href="{base}/experiences/{experience.id}" class="exp-card" class:is-tried={data.tried}>
   <div class="card-header">
-    <span class="card-number">{numStr}</span>
     <div class="card-badges">
       <span class="tier-badge tier-badge--{experience.tier}">{tier.icon} {tier.label}</span>
       <span class="cat-badge">{cat.label}</span>
@@ -44,6 +42,14 @@
 
   <h2 class="card-title">{experience.title}</h2>
   <p class="card-description">{experience.description}</p>
+
+  {#if experience.tags?.length}
+    <div class="card-tags">
+      {#each experience.tags as tag}
+        <span class="tag">{tag}</span>
+      {/each}
+    </div>
+  {/if}
 
   <div class="card-status">
     {#if ratedEntries.length}
@@ -84,14 +90,6 @@
     align-items: flex-start;
     gap: 0.75rem;
     margin-bottom: 0.75rem;
-  }
-
-  .card-number {
-    font-size: 0.75rem;
-    font-weight: 600;
-    color: var(--text-muted);
-    padding-top: 0.1rem;
-    flex-shrink: 0;
   }
 
   .card-badges {
@@ -149,7 +147,25 @@
     color: var(--text-secondary);
     line-height: 1.55;
     max-width: none;
-    margin-bottom: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .tag {
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+    border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+    border-radius: 100px;
+    padding: 0.15rem 0.55rem;
+    white-space: nowrap;
   }
 
   .card-status {

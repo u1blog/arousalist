@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "The scalp has a higher density of nerve endings than most of the body — sustained, deliberate attention here from a partner produces something stronger than the functional variety, and many people find it disproportionately powerful.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just hands.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "Does the response feel relaxing, arousing, or does it shift between the two over time?",
     "As giver: does working slowly and methodically through someone's scalp — staying longer than feels natural — produce a different quality of focus than other types of touch?"
   ],
-  "why": "The scalp has a higher density of nerve endings than most of the body, which is why even functional scalp contact — a haircut, a shampoo — produces a noticeable response in most people. Sustained, deliberate attention here from a partner produces something stronger than the functional variety, and many people find it disproportionately powerful relative to its apparent simplicity. It also sits in an unusual space: simultaneously relaxing and intimate, in a way that makes it hard to separate those two qualities."
+  "why": "The scalp has a higher density of nerve endings than most of the body, which is why even functional scalp contact — a haircut, a shampoo — produces a noticeable response in most people. Sustained, deliberate attention here from a partner produces something stronger than the functional variety, and many people find it disproportionately powerful relative to its apparent simplicity. It also sits in an unusual space: simultaneously relaxing and intimate, in a way that makes it hard to separate those two qualities.",
+  "tags": [
+    "touch",
+    "sensation"
+  ]
 }

@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "Writing desire requires specificity that thinking about it doesn't — and the asynchrony of text exchange creates a rhythm that real-time contact doesn't produce.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A phone or device.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "As receiver of texts: does receiving explicit written language feel different from hearing the same thing spoken?",
     "Does the delay between sending and receiving produce anything — anticipation, anxiety, something else?"
   ],
-  "why": "Writing desire requires specificity that thinking about it doesn't — you have to find actual words, which many people find both revealing and clarifying. Receiving explicit text from someone you're intimate with sits in a specific register: less ephemeral than speech (you can read it again), more deliberate than a passing comment. The asynchrony of text exchange creates a rhythm that real-time contact doesn't — send, then wait, then receive — and many people find that rhythm intensifying in itself. Some discover that writing is how they communicate desire most precisely; others find the medium creates a distance they don't want."
+  "why": "Writing desire requires specificity that thinking about it doesn't — you have to find actual words, which many people find both revealing and clarifying. Receiving explicit text from someone you're intimate with sits in a specific register: less ephemeral than speech (you can read it again), more deliberate than a passing comment. The asynchrony of text exchange creates a rhythm that real-time contact doesn't — send, then wait, then receive — and many people find that rhythm intensifying in itself. Some discover that writing is how they communicate desire most precisely; others find the medium creates a distance they don't want.",
+  "tags": [
+    "verbal",
+    "online"
+  ]
 }

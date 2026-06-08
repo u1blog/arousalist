@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Finding out what you actually need after intensity — and being able to name it plainly — often surfaces a mismatch that has been operating quietly for a long time.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing except time and the willingness to name what you actually need.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "Is there a gap between what you asked for and what you discovered you wanted once it was provided?",
     "Does receiving exactly what you requested feel different from receiving what someone assumed you'd want?"
   ],
-  "why": "Most couples navigate post-intensity time on autopilot — doing what seems expected, what they've always done, or whatever is least complicated to ask for. Finding out what you actually need, and being able to name it plainly, often surfaces a mismatch that has been operating quietly for a long time. Some people need close physical contact immediately; others need physical space. Some need words; others need silence. Knowing which you are — and knowing which your partner is — prevents a specific kind of post-experience misreading that can quietly undercut everything that came before it."
+  "why": "Most couples navigate post-intensity time on autopilot — doing what seems expected, what they've always done, or whatever is least complicated to ask for. Finding out what you actually need, and being able to name it plainly, often surfaces a mismatch that has been operating quietly for a long time. Some people need close physical contact immediately; others need physical space. Some need words; others need silence. Knowing which you are — and knowing which your partner is — prevents a specific kind of post-experience misreading that can quietly undercut everything that came before it.",
+  "tags": [
+    "intimacy"
+  ]
 }

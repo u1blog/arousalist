@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Being treated as a beautiful object — attended to with full appreciation but without expectation of interaction — produces a specific form of passivity that some people find unexpectedly freeing and others find alienating. Both responses are informative.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing required.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: does treating your partner as something to be arranged and appreciated, rather than responded to, change the quality of your attention toward them?",
     "Does the experience feel more or less intimate than direct reciprocal engagement — and what does that tell you?"
   ],
-  "why": "Objectification in this form is not neglect — the receiver is the entire focus — but it is attention that doesn't seek a response. For some receivers, the removal of the expectation to interact and reciprocate produces a genuine release: nothing is required of you except to be present and beautiful, and that is an unusually restful position for many people to occupy. For others, the experience surfaces something uncomfortable about being seen as an aesthetic object rather than a person — and that discomfort is also informative about what intimacy requires for them. For givers, maintaining purely appreciative, non-interactive attention for twenty minutes is harder than it sounds, and arriving at it produces its own quality of focused engagement."
+  "why": "Objectification in this form is not neglect — the receiver is the entire focus — but it is attention that doesn't seek a response. For some receivers, the removal of the expectation to interact and reciprocate produces a genuine release: nothing is required of you except to be present and beautiful, and that is an unusually restful position for many people to occupy. For others, the experience surfaces something uncomfortable about being seen as an aesthetic object rather than a person — and that discomfort is also informative about what intimacy requires for them. For givers, maintaining purely appreciative, non-interactive attention for twenty minutes is harder than it sounds, and arriving at it produces its own quality of focused engagement.",
+  "tags": [
+    "power exchange",
+    "roleplay"
+  ]
 }

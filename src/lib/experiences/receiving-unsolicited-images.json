@@ -5,7 +5,9 @@
   "tier": "solo-start",
   "category": "dynamic",
   "description": "Most people have received an explicit image they didn't ask for. What it actually produced — versus what you assumed you felt about it — is worth examining. The actual response is often more varied and more specific than the social script about what receiving such an image is supposed to be.",
-  "ratingTypes": ["solo"],
+  "ratingTypes": [
+    "solo"
+  ],
   "equipment": "None — this is a retrospective and attentional exercise rather than an active one.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +23,8 @@
     "Did context — when it arrived, where you were, what you were doing — change what it produced?",
     "Is there a version of receiving an unsolicited explicit image that would produce something different from the one you recall?"
   ],
-  "why": "Unsolicited explicit images occupy a space where social response and actual psychological response often diverge significantly. The socially legible reaction — the one most people would report to others — is frequently not the whole story of what actually happened when the image arrived. Many people find, when they examine it honestly, that the response was more variable than they've acknowledged: that the sender's identity mattered more than the content, that context made a significant difference, or that an image from someone they were attracted to produced something quite specific that the category 'unsolicited' doesn't capture. The value of the exercise is not to justify receiving unwanted content but to get an accurate account of your own actual response — because the gap between your assumed response and your real one is informative about what you actually want."
+  "why": "Unsolicited explicit images occupy a space where social response and actual psychological response often diverge significantly. The socially legible reaction — the one most people would report to others — is frequently not the whole story of what actually happened when the image arrived. Many people find, when they examine it honestly, that the response was more variable than they've acknowledged: that the sender's identity mattered more than the content, that context made a significant difference, or that an image from someone they were attracted to produced something quite specific that the category 'unsolicited' doesn't capture. The value of the exercise is not to justify receiving unwanted content but to get an accurate account of your own actual response — because the gap between your assumed response and your real one is informative about what you actually want.",
+  "tags": [
+    "online"
+  ]
 }

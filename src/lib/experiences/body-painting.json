@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "A brush on skin registers differently from a fingertip — the contact is more precise and more impersonal, which makes the receiver's attention sharper. The visual result, which only the giver can fully see, adds a dimension that touch alone doesn't produce.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Body-safe water-soluble paint (face paint or dedicated body paint), or food: honey or chocolate sauce. Soft brushes of at least two sizes. An old sheet or drop cloth. Warm water for cleanup.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "As giver: does treating another person's body as a visual project change how you pay attention to it?",
     "Does the cleanup — removing the paint together — carry any quality of its own, or is it simply functional?"
   ],
-  "why": "Body painting distributes attention differently from most forms of touch: the giver's focus is partly visual, partly tactile, which changes how deliberately and slowly they move. For receivers, a brush produces sensation through precision rather than warmth — the contact is more specific and less immediately intimate than a hand, which means the nervous system receives it differently. Many people find that being carefully observed and painted, with the result visible only to the painter, produces a quality of being attended to that other experiences don't quite reach. The impersonality of the tool is part of the point: the receiver is being composed, not just touched."
+  "why": "Body painting distributes attention differently from most forms of touch: the giver's focus is partly visual, partly tactile, which changes how deliberately and slowly they move. For receivers, a brush produces sensation through precision rather than warmth — the contact is more specific and less immediately intimate than a hand, which means the nervous system receives it differently. Many people find that being carefully observed and painted, with the result visible only to the painter, produces a quality of being attended to that other experiences don't quite reach. The impersonality of the tool is part of the point: the receiver is being composed, not just touched.",
+  "tags": [
+    "visual",
+    "touch"
+  ]
 }

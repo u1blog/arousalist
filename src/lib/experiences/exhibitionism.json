@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "Being seen by people outside the relationship — in a context where being seen is welcomed — is a different register from being watched by a partner alone. Whether it adds something or collapses the charge is worth finding out.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A consensual context — a venue where exhibitionism is part of the social contract, or an explicit arrangement with people who have agreed to watch.",
   "safetyNote": "This requires a setting where being seen is explicitly welcomed by everyone present. Exposure in a context where bystanders have not consented to what they're seeing is not covered here.",
   "instructions": [
@@ -26,5 +30,8 @@
     "Does exhibitionism introduce a performance quality — and if it does, is that welcome or does it get in the way?",
     "How does this compare to being watched by your partner alone — is the external audience additive, or does it change something essential?"
   ],
-  "why": "Exhibitionism in a consensual setting operates through the awareness of being seen by people outside the relationship — and that specific awareness changes the dynamic in ways that partner-only watching doesn't reach. For some people, the knowledge of an external audience heightens what's happening through a kind of performance charge; for others, it introduces self-consciousness that reduces presence. Many people also find that being in a venue that normalises what they're doing — where no one is surprised, where it's clearly permitted — produces a quality of permission that's quite different from transgression. The setting doesn't have to be extreme to test the basic response; even a mildly public-feeling context is enough to find out if the charge is there."
+  "why": "Exhibitionism in a consensual setting operates through the awareness of being seen by people outside the relationship — and that specific awareness changes the dynamic in ways that partner-only watching doesn't reach. For some people, the knowledge of an external audience heightens what's happening through a kind of performance charge; for others, it introduces self-consciousness that reduces presence. Many people also find that being in a venue that normalises what they're doing — where no one is surprised, where it's clearly permitted — produces a quality of permission that's quite different from transgression. The setting doesn't have to be extreme to test the basic response; even a mildly public-feeling context is enough to find out if the charge is there.",
+  "tags": [
+    "exhibitionism"
+  ]
 }

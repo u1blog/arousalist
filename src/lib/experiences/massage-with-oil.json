@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Oil removes the micro-friction of dry skin contact and turns a normal stroke into something between a pull and a float — and many people find oiled touch produces responses in areas that dry touch doesn't activate.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Massage oil, coconut oil, or sweet almond oil. No undiluted essential oils directly on skin.",
   "safetyNote": "Many oils degrade latex. If you use barrier contraception, check compatibility before oil goes anywhere near genitals.",
   "instructions": [
@@ -26,5 +30,9 @@
     "As giver: does working through oil change how you give — does the slip quality encourage a different pace or attention?",
     "Does the experience of oiled touch feel closer to massage, to something more intimate, or does that distinction dissolve over time?"
   ],
-  "why": "Oil removes the micro-friction of dry skin contact and turns a normal stroke into something between a pull and a float. Many people find oiled touch produces responses in areas that dry touch doesn't particularly activate — the sensation type is different enough that the body responds differently. It also changes the giver's experience: slow deliberate strokes become natural with oil, and the warmth that develops as oil heats against skin becomes part of the sensation itself. The quality of attention from both sides tends to slow down and deepen."
+  "why": "Oil removes the micro-friction of dry skin contact and turns a normal stroke into something between a pull and a float. Many people find oiled touch produces responses in areas that dry touch doesn't particularly activate — the sensation type is different enough that the body responds differently. It also changes the giver's experience: slow deliberate strokes become natural with oil, and the warmth that develops as oil heats against skin becomes part of the sensation itself. The quality of attention from both sides tends to slow down and deepen.",
+  "tags": [
+    "touch",
+    "sensation"
+  ]
 }

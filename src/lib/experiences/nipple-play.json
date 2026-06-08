@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Nipple sensitivity varies more between people than almost any other part of the body — the solo version tells you which camp you're in before you involve anyone else.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just hands; optionally a small wooden peg or light clip for later.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "Does release after sustained stimulation feel as significant as the stimulation itself?",
     "As giver: does attending carefully to where the receiver responds — finding what works for this specific person — produce any engagement of its own?"
   ],
-  "why": "Nipple sensitivity varies more between people than almost any other part of the body, which makes solo exploration here genuinely informative. In many people, stimulation here connects via direct neural pathways to responses elsewhere in the body — sensation that begins as localised can spread in ways that are often surprising. The partner version adds unpredictability to an area the nervous system pays close attention to, which tends to make every stimulus land more precisely."
+  "why": "Nipple sensitivity varies more between people than almost any other part of the body, which makes solo exploration here genuinely informative. In many people, stimulation here connects via direct neural pathways to responses elsewhere in the body — sensation that begins as localised can spread in ways that are often surprising. The partner version adds unpredictability to an area the nervous system pays close attention to, which tends to make every stimulus land more precisely.",
+  "tags": [
+    "sensation"
+  ]
 }

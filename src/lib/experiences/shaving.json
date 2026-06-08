@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Being shaved by a partner puts a blade in someone else's hands while you stay still — that specific form of physical trust, combined with prolonged deliberate care, produces something distinct from other forms of attentive touch.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Safety razor or cartridge razor with a fresh blade. Shaving foam or cream. Warm water and a clean towel.",
   "safetyNote": "Use a new or clean blade. Keep strokes short and move with the grain. Never shave over moles, broken skin, or bony prominences. Start with a reliable, flat surface — the lower leg or forearm — rather than the neck or face on a first attempt.",
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: does being entirely focused on one careful, functional task — with no room for error — change the quality of your attention compared to undirected touch?",
     "Does the functional nature of the act (it produces a result, it has a finish) make it feel more or less intimate than open-ended touch?"
   ],
-  "why": "Shaving is one of the few acts where physical care and physical vulnerability occupy exactly the same moment. The receiver must stay still while a blade moves across their skin; the giver must be exactly precise. That combination — trust and care operating at the same time, with the same object — produces something distinct from even attentive massage. Many receivers describe it as a form of being held that doesn't use hands; many givers describe the focused, task-driven quality as clarifying — there is only one right thing to do, and doing it well is the whole act. The act's functional outcome (clean skin) sits alongside its relational quality without undermining it."
+  "why": "Shaving is one of the few acts where physical care and physical vulnerability occupy exactly the same moment. The receiver must stay still while a blade moves across their skin; the giver must be exactly precise. That combination — trust and care operating at the same time, with the same object — produces something distinct from even attentive massage. Many receivers describe it as a form of being held that doesn't use hands; many givers describe the focused, task-driven quality as clarifying — there is only one right thing to do, and doing it well is the whole act. The act's functional outcome (clean skin) sits alongside its relational quality without undermining it.",
+  "tags": [
+    "sensation",
+    "power exchange"
+  ]
 }

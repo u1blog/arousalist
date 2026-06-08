@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "Spontaneous and planned sex are genuinely different experiences — and most people have a strong preference without having deliberately tested both.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A shared calendar and a few days.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "Is there a difference between the anticipation being enjoyable and the experience itself meeting the anticipation?",
     "Does knowing your partner is also anticipating it change what the anticipation feels like?"
   ],
-  "why": "Spontaneous and planned sex are genuinely different experiences, and most people have a strong preference without having deliberately tested both. Scheduled sex arrives with the full weight of anticipation — both people have been thinking about it, and that thinking enters the room with them. For some people this is better: the anticipation is pleasurable in itself and the encounter benefits from the run-up. For others, the expectation makes it harder to be fully present. Knowing which is true for you is practically useful in ways that go beyond this guide."
+  "why": "Spontaneous and planned sex are genuinely different experiences, and most people have a strong preference without having deliberately tested both. Scheduled sex arrives with the full weight of anticipation — both people have been thinking about it, and that thinking enters the room with them. For some people this is better: the anticipation is pleasurable in itself and the encounter benefits from the run-up. For others, the expectation makes it harder to be fully present. Knowing which is true for you is practically useful in ways that go beyond this guide.",
+  "tags": [
+    "intimacy"
+  ]
 }

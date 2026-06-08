@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Eye contact creates the particular discomfort of being seen without words to manage it — and sustained, deliberate eye contact removes the usual options for looking away.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "Does adding physical contact change what eye contact produces?",
     "Is there a clear preference for initiating the gaze or meeting it?"
   ],
-  "why": "Eye contact creates the particular discomfort of being seen without words to manage it. Most people handle this during intimacy by looking away, looking at the body, or closing their eyes — all ways of reducing exposure. Sustained eye contact removes that option. For some people it unlocks a quality of presence that physical sensation alone doesn't always reach; for others it surfaces anxiety that tells them something real about what intimacy feels like for them. Either response is information."
+  "why": "Eye contact creates the particular discomfort of being seen without words to manage it. Most people handle this during intimacy by looking away, looking at the body, or closing their eyes — all ways of reducing exposure. Sustained eye contact removes that option. For some people it unlocks a quality of presence that physical sensation alone doesn't always reach; for others it surfaces anxiety that tells them something real about what intimacy feels like for them. Either response is information.",
+  "tags": [
+    "intimacy"
+  ]
 }

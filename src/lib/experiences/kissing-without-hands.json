@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "sensation",
   "description": "Remove the hands and the lips must carry the full weight of the contact — and many people find this demands more precise attention than even deliberately slow kissing with hands.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "Does the restraint feel frustrating, focusing, or both simultaneously?",
     "What does adding the hands back change — and is that change immediate or gradual?"
   ],
-  "why": "Hands in kissing do significant work — they guide, hold, manage proximity, and communicate urgency. Remove them and the lips must carry the full weight of the contact. Many people find that kissing without hands demands more precise attention and produces a quality of contact that even deliberately slow kissing with hands doesn't reach. It also works as a calibration: how much of what you enjoy about kissing is in the lips specifically, and how much was always in the rest of the experience around them?"
+  "why": "Hands in kissing do significant work — they guide, hold, manage proximity, and communicate urgency. Remove them and the lips must carry the full weight of the contact. Many people find that kissing without hands demands more precise attention and produces a quality of contact that even deliberately slow kissing with hands doesn't reach. It also works as a calibration: how much of what you enjoy about kissing is in the lips specifically, and how much was always in the rest of the experience around them?",
+  "tags": [
+    "restraint",
+    "intimacy"
+  ]
 }

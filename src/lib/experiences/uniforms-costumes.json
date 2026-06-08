@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "A uniform or costume signals a role before anything is said or done, and that signal is legible immediately — to the person wearing it and to whoever sees them. The clothing does work the behaviour doesn't have to.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Something that signals a clear role: a uniform element (a single item is enough — a collar, a tie, a shirt, a hat), or any clothing strongly associated with a particular type of authority, service, or position.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "Is there a particular type of role — authority, service, professional, institutional — that produces a stronger response than others?",
     "As observer: does seeing your partner occupy a specific role via clothing change how you engage with them, and how quickly does that effect arrive?"
   ],
-  "why": "Clothing communicates role before behaviour does. A uniform element that signals authority, service, or a specific institutional context creates a frame that both people read immediately and without needing to negotiate — the signal is already legible. For many people, wearing something that assigns a role is the low-friction entry into dynamics they want to explore but haven't been able to initiate as themselves: the costume provides the permission the person hasn't granted themselves. For observers, the response to seeing a partner inhabit a specific role via clothing is often more immediate and clearer than expected. Many people find even a single item — a collar, a tie worn alone — is sufficient to shift the dynamic noticeably."
+  "why": "Clothing communicates role before behaviour does. A uniform element that signals authority, service, or a specific institutional context creates a frame that both people read immediately and without needing to negotiate — the signal is already legible. For many people, wearing something that assigns a role is the low-friction entry into dynamics they want to explore but haven't been able to initiate as themselves: the costume provides the permission the person hasn't granted themselves. For observers, the response to seeing a partner inhabit a specific role via clothing is often more immediate and clearer than expected. Many people find even a single item — a collar, a tie worn alone — is sufficient to shift the dynamic noticeably.",
+  "tags": [
+    "roleplay",
+    "visual"
+  ]
 }

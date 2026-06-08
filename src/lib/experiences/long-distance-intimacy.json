@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "dynamic",
   "description": "Digital intimacy at distance is not a substitute for physical presence — it's a different mode that produces different things, some of which physical presence can't replicate. Absence and anticipation are themselves variables worth examining.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A phone or device. A partner who is elsewhere.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "Is there anything in long-distance intimacy that in-person contact doesn't replicate — not what's missing, but what's specifically present?",
     "Does absence change how you relate to desire for someone — does it clarify, intensify, or complicate it?"
   ],
-  "why": "Long-distance intimacy forces a separation of channels that physical presence combines automatically: in-person contact arrives with visual information, sound, touch, and smell simultaneously. At distance, each of those is negotiated individually or forfeited entirely, and what remains is restructured around what's available. Many people discover that stripping presence down to voice alone, or to text alone, produces a quality of attention and communication that the noise of full physical presence doesn't. Absence and anticipation are also real variables: desire that lives entirely in text and memory, with no resolution through touch, produces its own specific quality that physical proximity doesn't replicate and that many people have never examined deliberately."
+  "why": "Long-distance intimacy forces a separation of channels that physical presence combines automatically: in-person contact arrives with visual information, sound, touch, and smell simultaneously. At distance, each of those is negotiated individually or forfeited entirely, and what remains is restructured around what's available. Many people discover that stripping presence down to voice alone, or to text alone, produces a quality of attention and communication that the noise of full physical presence doesn't. Absence and anticipation are also real variables: desire that lives entirely in text and memory, with no resolution through touch, produces its own specific quality that physical proximity doesn't replicate and that many people have never examined deliberately.",
+  "tags": [
+    "intimacy",
+    "online"
+  ]
 }

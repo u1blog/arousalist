@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Writing a scenario in advance and then running it puts the preparation and the performance in the same experience — many people find the writing as activating as the scene itself, and the scene usually goes somewhere the script didn't anticipate.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing required; optionally a prop or costume element that serves the scenario.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "At what point did the scene diverge from the script, and was that divergence welcome or deflating?",
     "What did the debrief reveal that wasn't apparent during the scene itself?"
   ],
-  "why": "Scripted scenes separate preparation from performance in a way that unscripted role play doesn't — the act of writing the scenario is its own experience, and many people find the specificity required to write it as activating as what follows. The script creates a structure that both people know, which removes improvisation pressure and allows each person to arrive at the scene rather than build it in real time. The divergences — moments when the scene goes somewhere the script didn't plan — are often where the most interesting material appears. Comparing what the preparation produced versus what the performance produced often reveals something about where in the fantasy-to-reality arc the strongest response lives, which varies significantly between people."
+  "why": "Scripted scenes separate preparation from performance in a way that unscripted role play doesn't — the act of writing the scenario is its own experience, and many people find the specificity required to write it as activating as what follows. The script creates a structure that both people know, which removes improvisation pressure and allows each person to arrive at the scene rather than build it in real time. The divergences — moments when the scene goes somewhere the script didn't plan — are often where the most interesting material appears. Comparing what the preparation produced versus what the performance produced often reveals something about where in the fantasy-to-reality arc the strongest response lives, which varies significantly between people.",
+  "tags": [
+    "roleplay",
+    "verbal"
+  ]
 }

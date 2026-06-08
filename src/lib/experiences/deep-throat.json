@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Fingers or a penis reaching toward the back of the throat introduces a specific threshold — the gag reflex — and the psychological experience of being at that threshold is often as significant as the physical sensation itself.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Clean hands for the solo version.",
   "safetyNote": "Go slowly enough to allow relaxation — the gag reflex responds to sudden approach much more strongly than to gradual advance. Stop immediately if breathing is compromised. Build across multiple attempts rather than trying to push far in a single session.",
   "instructions": [
@@ -26,5 +30,9 @@
     "Does the breath-adjacent quality of this produce any of the same response as the Breath Control experience?",
     "As giver: does guiding someone to this specific threshold — with full responsibility for staying within what's comfortable — produce its own quality of attention?"
   ],
-  "why": "The gag reflex marks a threshold, and thresholds in this guide tend to be more interesting than ordinary sensation. What makes throat contact distinctive is the combination of a genuine physiological response — involuntary, present — with the psychological dimension of being near something breath-adjacent. For many receivers, relaxing into that threshold with someone managing the depth carefully produces something in the same territory as restraint: there's nothing to do but be in it, and the involuntary quality of the response means control is genuinely ceded. For givers, the responsibility of managing that threshold precisely — staying close without overstepping — is its own form of sustained, specific attention."
+  "why": "The gag reflex marks a threshold, and thresholds in this guide tend to be more interesting than ordinary sensation. What makes throat contact distinctive is the combination of a genuine physiological response — involuntary, present — with the psychological dimension of being near something breath-adjacent. For many receivers, relaxing into that threshold with someone managing the depth carefully produces something in the same territory as restraint: there's nothing to do but be in it, and the involuntary quality of the response means control is genuinely ceded. For givers, the responsibility of managing that threshold precisely — staying close without overstepping — is its own form of sustained, specific attention.",
+  "tags": [
+    "oral",
+    "power exchange"
+  ]
 }

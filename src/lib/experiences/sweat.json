@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Physical contact with a partner after or during exertion is a different sensory register from contact in ordinary conditions — warm, slick, and carrying a distinct quality of physicality that washed, rested bodies don't produce.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Some form of exertion before or during the encounter. Nothing else required.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "Is the primary difference the smell, the temperature, the altered texture of skin, or the quality of physicality it implies?",
     "Does the result change how you think about showering before sex as a default — is it preference, or habit?"
   ],
-  "why": "Sweat changes the sensory profile of physical contact in specific ways: skin is warmer and slicker, friction is different, and the body's natural smell is more present. For many people, this produces a quality of physicality — of encountering a body that has been doing something — that clean, rested contact doesn't provide. The olfactory dimension in particular often carries more charge than expected, connecting to the same olfactory attraction pathways explored in the Smell and Scent experience. Some people find post-exertion contact significantly more engaging than they anticipated; others prefer the ordinary baseline. The default of showering before sex is so established that most people have never directly compared the two."
+  "why": "Sweat changes the sensory profile of physical contact in specific ways: skin is warmer and slicker, friction is different, and the body's natural smell is more present. For many people, this produces a quality of physicality — of encountering a body that has been doing something — that clean, rested contact doesn't provide. The olfactory dimension in particular often carries more charge than expected, connecting to the same olfactory attraction pathways explored in the Smell and Scent experience. Some people find post-exertion contact significantly more engaging than they anticipated; others prefer the ordinary baseline. The default of showering before sex is so established that most people have never directly compared the two.",
+  "tags": [
+    "sensation",
+    "intimacy"
+  ]
 }

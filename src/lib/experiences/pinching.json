@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Pinching delivers sharp, localised sensation with precise control — the inner thigh in particular tends to surprise people, sitting in the same zone as scratching: demanding full attention without shutting anything down.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just hands.",
   "safetyNote": "Build pressure gradually — it's easy to misjudge how firm a pinch feels to someone else. Avoid pinching over bony areas, broken skin, or moles.",
   "instructions": [
@@ -26,5 +30,9 @@
     "As receiver: does a sustained pinch feel different from a quick one — and which do you prefer?",
     "As giver: does the act of leaving a temporary mark — visible evidence of pressure — feel interesting, neutral, or something else?"
   ],
-  "why": "Pinching delivers sharp, localised sensation with precise control — both pressure and location are entirely under the giver's direction. The inner thigh in particular tends to surprise people. The sensation sits in a similar zone to scratching: sharp enough to demand full attention, not so overwhelming it shuts anything down. The temporary redness left by firmer pinches carries something of the same weight as scratch marks — evidence of intensity that fades within minutes."
+  "why": "Pinching delivers sharp, localised sensation with precise control — both pressure and location are entirely under the giver's direction. The inner thigh in particular tends to surprise people. The sensation sits in a similar zone to scratching: sharp enough to demand full attention, not so overwhelming it shuts anything down. The temporary redness left by firmer pinches carries something of the same weight as scratch marks — evidence of intensity that fades within minutes.",
+  "tags": [
+    "pain",
+    "sensation"
+  ]
 }

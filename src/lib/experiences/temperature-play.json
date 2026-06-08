@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Explore how your body responds to warmth and cold — and how unpredictability transforms the experience with a partner.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Ice cubes, a glass of warm (not hot) water, a metal spoon, a blindfold",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "Are there parts of the body where the surprise lands harder?",
     "As giver: does controlling what the receiver feels — choosing the temperature, the location, the timing without telling them — produce its own interest?"
   ],
-  "why": "Temperature bypasses mental filters instantly — the body responds before the brain does. Cold creates sharp alertness; warmth produces something more yielding. The contrast between the two, especially when unexpected, can feel almost disorienting in a pleasurable way. With a partner controlling it, you surrender the ability to predict, and that surrender is often where the real interest lies."
+  "why": "Temperature bypasses mental filters instantly — the body responds before the brain does. Cold creates sharp alertness; warmth produces something more yielding. The contrast between the two, especially when unexpected, can feel almost disorienting in a pleasurable way. With a partner controlling it, you surrender the ability to predict, and that surrender is often where the real interest lies.",
+  "tags": [
+    "sensation"
+  ]
 }

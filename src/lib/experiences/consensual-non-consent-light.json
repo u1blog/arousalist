@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "CNC allows the receiver to experience the fantasy of resistance within a framework that is, in reality, fully controlled and safe — and the framework is not incidental: the experience exists only because the genuine stop signal is available.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing except two clearly agreed signals.",
   "safetyNote": "This experience requires two explicitly distinct signals agreed before starting: an in-scene resistance signal (character says no — stay in character, continue) and a genuine stop word that ends everything immediately (something that would never appear in-scene: \"red,\" or any clearly unusual word). Any use of the stop word ends the experience completely, no questions. Run this only with someone you trust fully and have established clear communication with.",
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: how clearly could you hold the distinction between in-scene resistance and a genuine stop throughout?",
     "What did the debrief reveal that wasn't apparent during the experience itself?"
   ],
-  "why": "Consensual non-consent allows the receiver to experience the fantasy of resistance — in-scene refusal being continued through — within a framework that is, in reality, fully controlled and safe. Many people carry a version of this but haven't explored it because it requires unusually clear trust and communication. When those conditions are in place, many people find the experience produces a response that straightforward reciprocal giving and receiving doesn't reach. The framework is not incidental: this experience exists only because the genuine stop signal is available, unambiguous, and both people know without question that it will be honoured."
+  "why": "Consensual non-consent allows the receiver to experience the fantasy of resistance — in-scene refusal being continued through — within a framework that is, in reality, fully controlled and safe. Many people carry a version of this but haven't explored it because it requires unusually clear trust and communication. When those conditions are in place, many people find the experience produces a response that straightforward reciprocal giving and receiving doesn't reach. The framework is not incidental: this experience exists only because the genuine stop signal is available, unambiguous, and both people know without question that it will be honoured.",
+  "tags": [
+    "roleplay",
+    "power exchange"
+  ]
 }

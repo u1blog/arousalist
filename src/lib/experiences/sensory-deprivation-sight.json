@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Discover what sustained loss of sight does to your mental state — whether the darkness feels calming, disorienting, or something you want more of.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A sleep mask, scarf, or any light-blocking fabric",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "Is the appeal the loss of sight itself, or the not-knowing what comes next?",
     "As giver: what does it feel like to be someone's only anchor — to hold their orientation entirely?"
   ],
-  "why": "The blindfold is one of the gentlest entries into surrendering control. Without sight, the brain gives up one of its primary tools for predicting what's coming next. For some people this is immediately calming — almost meditative. For others, the heightened anticipation is what's exciting. The solo version tells you which camp you're in. The partner version is a different thing entirely: one person holds another's entire sensory environment, and that asymmetry is where the real dynamic lives."
+  "why": "The blindfold is one of the gentlest entries into surrendering control. Without sight, the brain gives up one of its primary tools for predicting what's coming next. For some people this is immediately calming — almost meditative. For others, the heightened anticipation is what's exciting. The solo version tells you which camp you're in. The partner version is a different thing entirely: one person holds another's entire sensory environment, and that asymmetry is where the real dynamic lives.",
+  "tags": [
+    "sensation",
+    "restraint"
+  ]
 }

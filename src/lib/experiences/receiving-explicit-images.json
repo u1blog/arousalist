@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Receiving an explicit image from a partner lands differently from seeing them in person — it's a captured, deliberate moment that exists as an object and arrives in your ordinary life asking to be received on its own terms.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "A phone or device.",
   "safetyNote": "Consider where received images are stored — automatic backups, shared libraries, or notification previews can expose something intended to be private.",
   "instructions": [
@@ -21,5 +24,9 @@
     "Does receiving an image in an ordinary context — away from them, mid-day — change what it produces compared to receiving it when you're already together?",
     "Does your response to receiving match what you would have predicted before you actually had it?"
   ],
-  "why": "Receiving an explicit image from a partner is distinct from seeing them in person in a specific way: the image is deliberately made and persists past the moment. They chose the frame, the timing, what to include and withhold — and that choice is visible in the image itself. For receivers, this often produces a quality of being trusted with something specific: not just access to an image but access to their self-presentation, chosen for you. The context of reception also matters — many people find an explicit image arriving in the middle of an ordinary day produces something that the same image received during an encounter doesn't."
+  "why": "Receiving an explicit image from a partner is distinct from seeing them in person in a specific way: the image is deliberately made and persists past the moment. They chose the frame, the timing, what to include and withhold — and that choice is visible in the image itself. For receivers, this often produces a quality of being trusted with something specific: not just access to an image but access to their self-presentation, chosen for you. The context of reception also matters — many people find an explicit image arriving in the middle of an ordinary day produces something that the same image received during an encounter doesn't.",
+  "tags": [
+    "exhibitionism",
+    "online"
+  ]
 }

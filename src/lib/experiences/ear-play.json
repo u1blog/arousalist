@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "sensation",
   "description": "Whispering produces vibration and warm air simultaneously, and many people find this combination disproportionately activating relative to its apparent simplicity.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "Is there a specific sound — breath, whisper, hum — that lands harder than others?",
     "As giver: does this degree of closeness and specificity — attending to one small, specific area — require a different quality of focus?"
   ],
-  "why": "The ear sits unusually close to the brain's threat and arousal systems — sound arriving from inches away, with warmth and breath, registers as a particular kind of intimate proximity. The outer ear and earlobe are also more sensitive than most people expect. Whispering produces vibration and warm air simultaneously, and many people find this combination disproportionately activating relative to its apparent simplicity. The sensation is hard to predict in advance, which makes it worth testing rather than assuming."
+  "why": "The ear sits unusually close to the brain's threat and arousal systems — sound arriving from inches away, with warmth and breath, registers as a particular kind of intimate proximity. The outer ear and earlobe are also more sensitive than most people expect. Whispering produces vibration and warm air simultaneously, and many people find this combination disproportionately activating relative to its apparent simplicity. The sensation is hard to predict in advance, which makes it worth testing rather than assuming.",
+  "tags": [
+    "sensation"
+  ]
 }

@@ -5,7 +5,9 @@
   "tier": "solo-start",
   "category": "sensation",
   "description": "A small plug introduces a specific sensation — sustained fullness rather than stimulation — that's categorically different from finger contact and worth understanding on its own before combining it with anything else.",
-  "ratingTypes": ["solo"],
+  "ratingTypes": [
+    "solo"
+  ],
   "equipment": "A small butt plug with a flared base — this is not optional, it is the only safe design for anal use. Water-based lubricant. A towel.",
   "safetyNote": "Only use toys with a clearly flared base. The anal canal has no natural stopping point — anything without a flared base can be lost inside the body and require medical retrieval. Start with the smallest available size. Never use numbing products; pain is information.",
   "instructions": [
@@ -26,5 +28,9 @@
     "Does the sensation shift as you stay still versus move gently?",
     "Does the experience change your sense of this as a direction worth continuing — or does it resolve a curiosity in the other direction?"
   ],
-  "why": "A butt plug introduces a category of sensation that fingers don't replicate: sustained fullness and internal pressure that persists without movement. Many people find this produces a distinct baseline shift — other sensations register differently when the area is occupied. The solo version is the right first step before introducing a partner, because it lets you understand the sensation on its own, without the dynamic elements the partner version adds. The requirement for a flared base is not a precaution for the cautious — it is an anatomical constraint, and the only safe design."
+  "why": "A butt plug introduces a category of sensation that fingers don't replicate: sustained fullness and internal pressure that persists without movement. Many people find this produces a distinct baseline shift — other sensations register differently when the area is occupied. The solo version is the right first step before introducing a partner, because it lets you understand the sensation on its own, without the dynamic elements the partner version adds. The requirement for a flared base is not a precaution for the cautious — it is an anatomical constraint, and the only safe design.",
+  "tags": [
+    "anal",
+    "solo"
+  ]
 }

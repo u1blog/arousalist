@@ -5,7 +5,11 @@
   "tier": "solo-start",
   "category": "sensation",
   "description": "Food play introduces taste and smell into an experience that normally operates on touch alone — and the response to whether it's inherently intimate or inherently silly tends to be strong and immediate.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Food that works on skin: honey, chocolate sauce, ice cream, or whipped cream. A towel.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "As receiver: does mouth-contact involved in removing food feel different from other oral contact?",
     "As giver: does the visual quality of food on skin — the deliberate mess of it — produce any engagement of its own?"
   ],
-  "why": "Food play introduces taste and smell into an experience that normally operates on touch alone. The multi-sensory combination — particularly temperature contrast and the smell of something sweet — activates different perceptual channels simultaneously. Some people find this creates a qualitatively richer experience; others find the sensory addition comedic or distracting. The response to whether food play is inherently intimate or inherently silly tends to be strong and immediate, which makes it worth finding out. The solo version is a genuine entry point: testing the combination alone first means the partner version isn't the first time you've encountered your own response."
+  "why": "Food play introduces taste and smell into an experience that normally operates on touch alone. The multi-sensory combination — particularly temperature contrast and the smell of something sweet — activates different perceptual channels simultaneously. Some people find this creates a qualitatively richer experience; others find the sensory addition comedic or distracting. The response to whether food play is inherently intimate or inherently silly tends to be strong and immediate, which makes it worth finding out. The solo version is a genuine entry point: testing the combination alone first means the partner version isn't the first time you've encountered your own response.",
+  "tags": [
+    "sensation"
+  ]
 }

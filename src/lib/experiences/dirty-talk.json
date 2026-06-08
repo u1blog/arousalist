@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Language during physical intimacy adds a second simultaneous channel — and whether it adds or subtracts tells you something specific about how you experience desire.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "As giver: does narrating what's happening change the quality of your own attention?",
     "Is there a clear preference for speaking or hearing — or does comfort with both tell you something too?"
   ],
-  "why": "Language during physical intimacy adds a second simultaneous channel. For people to whom it lands, the combination of described and felt experience produces a kind of double presence — body and mind occupied with the same thing at once. For those it doesn't reach, the disconnect is usually informative: it often marks whether verbal or physical modes carry more weight in how you experience desire. The discomfort of speaking explicitly out loud, before knowing how the listener receives it, is also its own small data point."
+  "why": "Language during physical intimacy adds a second simultaneous channel. For people to whom it lands, the combination of described and felt experience produces a kind of double presence — body and mind occupied with the same thing at once. For those it doesn't reach, the disconnect is usually informative: it often marks whether verbal or physical modes carry more weight in how you experience desire. The discomfort of speaking explicitly out loud, before knowing how the listener receives it, is also its own small data point.",
+  "tags": [
+    "verbal"
+  ]
 }

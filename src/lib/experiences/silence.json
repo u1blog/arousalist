@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Silence removes the option to fill space with words and routes all communication through the physical channel instead — and what that surfaces varies sharply between people.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,8 @@
     "What does language usually provide in intimacy — and was any of that available without it?",
     "Does your partner's response become more or less readable without words to fill the gaps?"
   ],
-  "why": "Language during intimacy is often partly noise — reassurance, negotiation, performance of enjoyment delivered out loud. Silence removes the option to fill space with words and routes all of that through the physical channel instead. For some people this produces unexpectedly heightened attention to a partner's body and breath; for others it surfaces how much they rely on verbal communication to manage intimacy. Both responses are informative. Most people find the second attempt easier than the first."
+  "why": "Language during intimacy is often partly noise — reassurance, negotiation, performance of enjoyment delivered out loud. Silence removes the option to fill space with words and routes all of that through the physical channel instead. For some people this produces unexpectedly heightened attention to a partner's body and breath; for others it surfaces how much they rely on verbal communication to manage intimacy. Both responses are informative. Most people find the second attempt easier than the first.",
+  "tags": [
+    "intimacy"
+  ]
 }

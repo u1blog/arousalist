@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "Partner exchange in a social context adds a symmetry that private threesome arrangements don't have: both partners are engaged with other people simultaneously. What that parallel structure produces — in jealousy, arousal, and the dynamic between the couple — is usually different from what either person anticipated.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "A venue, event, or network; a detailed prior conversation with your partner.",
   "safetyNote": "Agree in detail with your partner before any event: what is and isn't on the table, what to do if either person wants to stop, and how you'll communicate during the event if something changes. A signal that means 'I want to leave now, no questions' is essential.",
   "instructions": [
@@ -21,5 +24,8 @@
     "Is the social context — being in a space with other couples doing the same thing — part of what makes it interesting, or does it fall away once you're in it?",
     "What did the debrief reveal that you couldn't access during the experience itself?"
   ],
-  "why": "Swinging differs from a threesome through its parallel structure: both partners engage with other people simultaneously rather than one being the focus. That symmetry changes the jealousy-arousal dynamic in specific ways — there's no clear watcher and watched, and the experience of your partner being with someone else arrives while you're also occupied, rather than while you're a direct observer. For some couples, this symmetry reduces the complexity of the cuckolding dynamic and makes the experience more accessible; for others it makes it harder to track what's happening. The social normalisation of a swinging context — being in a space where this is ordinary — also affects some people significantly and others not at all."
+  "why": "Swinging differs from a threesome through its parallel structure: both partners engage with other people simultaneously rather than one being the focus. That symmetry changes the jealousy-arousal dynamic in specific ways — there's no clear watcher and watched, and the experience of your partner being with someone else arrives while you're also occupied, rather than while you're a direct observer. For some couples, this symmetry reduces the complexity of the cuckolding dynamic and makes the experience more accessible; for others it makes it harder to track what's happening. The social normalisation of a swinging context — being in a space where this is ordinary — also affects some people significantly and others not at all.",
+  "tags": [
+    "group"
+  ]
 }

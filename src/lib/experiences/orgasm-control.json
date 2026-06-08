@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "The receiver surrenders the decision itself rather than just being prevented from acting on it — and for receivers drawn to surrender, this is often the deeper experience.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As giver: what does carrying that decision feel like — does authority over the receiver's experience produce engagement, pressure, or both?",
     "How does this compare to Teasing and Denial — is the difference in intention meaningful in practice?"
   ],
-  "why": "Orgasm control is distinct from teasing and denial in a specific way: the receiver surrenders the decision itself, rather than just being prevented from acting on it. Teasing and denial involves the receiver wanting something they're being kept from; orgasm control involves the receiver not knowing what the outcome will be, because it's no longer theirs to decide. For receivers drawn to surrender, this is often the deeper experience — the removal of expectation, not just access. For givers, carrying a consequential decision about someone else's experience is its own form of engagement, with its own weight."
+  "why": "Orgasm control is distinct from teasing and denial in a specific way: the receiver surrenders the decision itself, rather than just being prevented from acting on it. Teasing and denial involves the receiver wanting something they're being kept from; orgasm control involves the receiver not knowing what the outcome will be, because it's no longer theirs to decide. For receivers drawn to surrender, this is often the deeper experience — the removal of expectation, not just access. For givers, carrying a consequential decision about someone else's experience is its own form of engagement, with its own weight.",
+  "tags": [
+    "orgasm control",
+    "power exchange"
+  ]
 }

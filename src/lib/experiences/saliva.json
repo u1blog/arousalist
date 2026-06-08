@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Extended wet kissing — or deliberate attention to a partner's saliva during oral contact — raises a question most people have never asked directly: how do you actually feel about a partner's saliva on your skin?",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing required.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,9 @@
     "Does the response change depending on where on the body it is?",
     "Is there a difference between wet kissing as something you're actively doing versus saliva arriving on you from your partner's mouth?"
   ],
-  "why": "Saliva is a bodily fluid present throughout oral contact that most people have never examined their response to deliberately — it's too immediate and ambient to isolate. Some people find extended wet contact deeply connecting; others find it mildly aversive in a way they've never quite located. The difference tends to track with how much of intimacy operates through bodily immediacy for a given person — those for whom physical presence carries a lot of charge often find a partner's saliva activating in its own right; those for whom intimacy is more psychological sometimes find it neutral. Either response is worth knowing, because the default is simply not to think about it."
+  "why": "Saliva is a bodily fluid present throughout oral contact that most people have never examined their response to deliberately — it's too immediate and ambient to isolate. Some people find extended wet contact deeply connecting; others find it mildly aversive in a way they've never quite located. The difference tends to track with how much of intimacy operates through bodily immediacy for a given person — those for whom physical presence carries a lot of charge often find a partner's saliva activating in its own right; those for whom intimacy is more psychological sometimes find it neutral. Either response is worth knowing, because the default is simply not to think about it.",
+  "tags": [
+    "oral",
+    "sensation"
+  ]
 }

@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "The physical environment changes the physical experience — surface, temperature, light, sound, and space all produce different conditions for the same activity. Most people have never deliberately varied these and compared what each produces.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing required.",
   "safetyNote": null,
   "instructions": [
@@ -26,5 +30,8 @@
     "Is there a location where you felt more or less present — more absorbed or more aware of the environment as context?",
     "Does varying the environment tell you something about how much context shapes your experience of the activity itself?"
   ],
-  "why": "Most people have a strong habitual location for sex — usually a bed — and have never systematically varied the physical conditions to see what changes. The floor produces different sensation from a mattress because the body is supported differently, contact pressure distributes differently, and movement is constrained differently. Outdoor environments change temperature, air movement, and the sense of enclosure versus openness in ways that register physically. This is distinct from the Degradation of Space experience, which is about the transgressive quality of a wrong location — this is about what different physical conditions directly produce in the body and in attention."
+  "why": "Most people have a strong habitual location for sex — usually a bed — and have never systematically varied the physical conditions to see what changes. The floor produces different sensation from a mattress because the body is supported differently, contact pressure distributes differently, and movement is constrained differently. Outdoor environments change temperature, air movement, and the sense of enclosure versus openness in ways that register physically. This is distinct from the Degradation of Space experience, which is about the transgressive quality of a wrong location — this is about what different physical conditions directly produce in the body and in attention.",
+  "tags": [
+    "intimacy"
+  ]
 }

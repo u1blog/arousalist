@@ -5,7 +5,10 @@
   "tier": "partner-only",
   "category": "dynamic",
   "description": "When someone says something they've only ever thought, and it's received without deflection, many people report something closer to relief than vulnerability.",
-  "ratingTypes": ["receiver", "giver"],
+  "ratingTypes": [
+    "receiver",
+    "giver"
+  ],
   "equipment": "Nothing.",
   "safetyNote": null,
   "instructions": [
@@ -21,5 +24,9 @@
     "As the listener: how did receiving something genuinely private feel — to be trusted with it specifically?",
     "Does the other person's response match what you feared or expected?"
   ],
-  "why": "Most people carry things they want but haven't said. The barrier is usually fear of judgment, embarrassment, or the intimacy of being known that precisely. When someone does say it — and it's received without deflection — many people report something closer to relief than vulnerability. The experience often turns out to be less dangerous than the anticipation. For the listener, receiving a genuine private disclosure changes something about how you see the person disclosing. The content is often less surprising than both people expected."
+  "why": "Most people carry things they want but haven't said. The barrier is usually fear of judgment, embarrassment, or the intimacy of being known that precisely. When someone does say it — and it's received without deflection — many people report something closer to relief than vulnerability. The experience often turns out to be less dangerous than the anticipation. For the listener, receiving a genuine private disclosure changes something about how you see the person disclosing. The content is often less surprising than both people expected.",
+  "tags": [
+    "verbal",
+    "intimacy"
+  ]
 }

@@ -5,7 +5,11 @@
   "tier": "better-with-partner",
   "category": "sensation",
   "description": "Sustained compression around the torso changes breathing, posture, and how you hold yourself — and the effect accumulates over time. The release when it comes off is as distinctive as the wearing itself.",
-  "ratingTypes": ["solo", "receiver", "giver"],
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
   "equipment": "A corset, a firm compression garment, or a length of fabric that can be wrapped firmly around the torso. Snug enough to feel clearly, but breathing must remain comfortable throughout.",
   "safetyNote": "The compression should allow full, normal breathing at all times. If breathing feels restricted or laboured, loosen immediately. Never tighten past the point of comfortable breathing.",
   "instructions": [
@@ -26,5 +30,10 @@
     "Does the moment of release — compression ending — produce anything distinctive, and is it as significant as the wearing itself?",
     "With a partner: does being worn throughout change how you engage or move — and does the giver's awareness of it carry any charge?"
   ],
-  "why": "Sustained compression creates a different baseline for everything else. Breathing is shallower, posture changes, and the body receives constant proprioceptive input from the pressure that most touch doesn't produce. Many people find this has a grounding effect over time — the constant sensation of being held becomes a background that other sensations register against differently. The release when compression ends produces its own distinct response that many people describe as unexpectedly significant: a sudden return to normal that feels like a different kind of attention. Some people are strongly drawn to the held quality; others find it claustrophobic. The solo version separates the direct sensory experience from the dynamic element that a partner's involvement introduces."
+  "why": "Sustained compression creates a different baseline for everything else. Breathing is shallower, posture changes, and the body receives constant proprioceptive input from the pressure that most touch doesn't produce. Many people find this has a grounding effect over time — the constant sensation of being held becomes a background that other sensations register against differently. The release when compression ends produces its own distinct response that many people describe as unexpectedly significant: a sudden return to normal that feels like a different kind of attention. Some people are strongly drawn to the held quality; others find it claustrophobic. The solo version separates the direct sensory experience from the dynamic element that a partner's involvement introduces.",
+  "tags": [
+    "restraint",
+    "visual",
+    "sensation"
+  ]
 }
