@@ -2,7 +2,7 @@
   "id": "identifiable-live-streaming",
   "number": 117,
   "title": "Identifiable Live Streaming",
-  "tier": "solo-start",
+  "tier": "solo",
   "category": "dynamic",
   "description": "Streaming with your face visible is a categorically different exposure level from anonymous streaming — not just a higher intensity version of the same thing. The face makes it irreversible in a specific way: you can be recognised, found, remembered.",
   "ratingTypes": [

@@ -2,7 +2,7 @@
   "id": "anonymous-live-streaming",
   "number": 114,
   "title": "Anonymous Live Streaming",
-  "tier": "solo-start",
+  "tier": "solo",
   "category": "dynamic",
   "description": "Streaming in real time to an unknown audience — face hidden — introduces something still images don't have: the audience is present while something is happening. That simultaneity changes the quality of the exposure.",
   "ratingTypes": [

@@ -2,7 +2,7 @@
   "id": "receiving-ratings-comments",
   "number": 116,
   "title": "Receiving Ratings and Comments",
-  "tier": "solo-start",
+  "tier": "solo",
   "category": "dynamic",
   "description": "Putting yourself up for evaluation by strangers — asking for a number, a verdict — produces something that passive viewing or anonymous sharing doesn't. Whether the feedback is positive, negative, or absent, the act of asking is its own experience.",
   "ratingTypes": [

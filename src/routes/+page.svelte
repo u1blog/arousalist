@@ -86,7 +86,7 @@
       <div class="tier-item">
         <div class="tier-item-icon">🧍</div>
         <div>
-          <div class="tier-item-title">Solo start</div>
+          <div class="tier-item-title">Solo</div>
           <p class="tier-item-desc">Try this alone first to understand your baseline response before involving a partner.</p>
         </div>
       </div>

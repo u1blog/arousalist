@@ -2,7 +2,7 @@
   "id": "receiving-unsolicited-images",
   "number": 119,
   "title": "Receiving Unsolicited Images",
-  "tier": "solo-start",
+  "tier": "solo",
   "category": "dynamic",
   "description": "Most people have received an explicit image they didn't ask for. What it actually produced — versus what you assumed you felt about it — is worth examining. The actual response is often more varied and more specific than the social script about what receiving such an image is supposed to be.",
   "ratingTypes": [

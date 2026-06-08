@@ -44,7 +44,7 @@
 
   const tierOptions = [
     { value: 'all',                  label: 'All' },
-    { value: 'solo-start',           label: 'Solo start' },
+    { value: 'solo',           label: 'Solo' },
     { value: 'better-with-partner',  label: 'Better with a partner' },
     { value: 'partner-only',         label: 'Partner only' },
   ];

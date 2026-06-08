@@ -2,7 +2,7 @@
   "id": "sharing-photos-anonymous",
   "number": 109,
   "title": "Anonymous Photo Sharing",
-  "tier": "solo-start",
+  "tier": "solo",
   "category": "dynamic",
   "description": "Posting explicit photos to an anonymous platform inverts the usual structure of being seen: the audience knows exactly what you look like but nothing else about you. That specific asymmetry produces a kind of exposure that partner-directed sharing doesn't replicate.",
   "ratingTypes": [

@@ -121,9 +121,9 @@ import frotting from './experiences/frotting.json';
 import sharingPartnerAnonymous from './experiences/sharing-partner-anonymous.json';
 
 export const TIER_INFO = {
-  'solo-start': {
+  'solo': {
     icon: '🧍',
-    label: 'Solo start',
+    label: 'Solo',
     hint: 'Try this alone first to understand your baseline response',
   },
   'better-with-partner': {

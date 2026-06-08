@@ -204,7 +204,7 @@ p + p { margin-top: 1em; }
   white-space: nowrap;
   font-family: var(--font-body);
 }
-.tier-badge--solo-start         { color: var(--tier-solo-color);    background: var(--tier-solo-bg); }
+.tier-badge--solo         { color: var(--tier-solo-color);    background: var(--tier-solo-bg); }
 .tier-badge--better-with-partner { color: var(--tier-better-color); background: var(--tier-better-bg); }
 .tier-badge--partner-only        { color: var(--tier-partner-color); background: var(--tier-partner-bg); }
 
