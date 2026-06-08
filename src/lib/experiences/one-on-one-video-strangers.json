@@ -6,9 +6,7 @@
   "category": "dynamic",
   "description": "A private video call with a single stranger produces a specific dynamic that streaming doesn't have: both people are visible to each other simultaneously, and neither has an audience. The mutual visibility creates a different kind of presence than performing for many.",
   "ratingTypes": [
-    "solo",
-    "receiver",
-    "giver"
+    "solo"
   ],
   "equipment": "A platform that facilitates anonymous one-on-one video (Omegle alternatives, dedicated adult video platforms); anonymous account completely separate from real identity.",
   "safetyNote": "The other person can record you without your knowledge — treat anything you do on video as potentially persistent regardless of the platform's stated policies. Use an anonymous account with no identifying information, and consider what's visible in your background.",

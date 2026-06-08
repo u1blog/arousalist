@@ -6,9 +6,7 @@
   "category": "dynamic",
   "description": "Streaming in real time to an unknown audience — face hidden — introduces something still images don't have: the audience is present while something is happening. That simultaneity changes the quality of the exposure.",
   "ratingTypes": [
-    "solo",
-    "receiver",
-    "giver"
+    "solo"
   ],
   "equipment": "A device with camera and reliable connection; an anonymous account on a live streaming platform, completely separate from real identity.",
   "safetyNote": "Ensure your face and any identifying marks or background details are outside the frame before going live. Live streams can be recorded by viewers without your knowledge — treat anything streamed as potentially persistent regardless of platform deletion options.",

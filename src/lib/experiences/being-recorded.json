@@ -7,8 +7,8 @@
   "description": "Being recorded is different from being watched: the camera is impassive, the image will persist, and someone else is controlling what gets captured. Each of those differences carries its own quality.",
   "ratingTypes": [
     "solo",
-    "receiver",
-    "giver"
+    "subject",
+    "recorder"
   ],
   "equipment": "A phone or camera. Storage that you both have access to and control of.",
   "safetyNote": "Agree before starting where the recording will be stored, who can access it, and whether it will be kept or deleted. Both people should have equal access to the storage. Do not record without explicit agreement from everyone in the frame.",

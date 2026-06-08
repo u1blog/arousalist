@@ -187,11 +187,15 @@ export const RATING_OPTIONS = [
 ];
 
 export const RATING_LABELS = {
-  solo:     'Solo',
-  receiver: 'As receiver',
-  giver:    'As giver',
-  sharer:   'As sharer',
-  subject:  'As subject',
+  solo:      'Solo',
+  receiver:  'As receiver',
+  giver:     'As giver',
+  sharer:    'As sharer',
+  subject:   'As subject',
+  exhibitor: 'As exhibitor',
+  watcher:   'As watcher',
+  voyeur:    'As voyeur',
+  recorder:  'As recorder',
 };
 
 const _EXPERIENCES_RAW = [

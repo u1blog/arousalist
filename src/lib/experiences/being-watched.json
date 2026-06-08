@@ -6,8 +6,8 @@
   "category": "dynamic",
   "description": "Being watched creates the experience of being seen at close range without the usual reciprocity of a physical exchange — and self-consciousness and arousal often arrive together.",
   "ratingTypes": [
-    "receiver",
-    "giver"
+    "subject",
+    "watcher"
   ],
   "equipment": "Just yourselves.",
   "safetyNote": null,
