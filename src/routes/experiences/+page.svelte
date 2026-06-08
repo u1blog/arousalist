@@ -181,7 +181,7 @@
   .browse-header {
     background: var(--bg-surface);
     border-bottom: 1px solid var(--border);
-    padding: 2.5rem 0 0;
+    padding: 1.5rem 0 1.5rem;
   }
 
   .browse-title {
