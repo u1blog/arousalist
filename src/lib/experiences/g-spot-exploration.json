@@ -1,15 +1,10 @@
 {
   "id": "g-spot-exploration",
-  "number": 128,
   "title": "G-Spot Exploration",
   "tier": "solo",
   "category": "sensation",
   "description": "For people with a vagina, internal stimulation via the anterior wall produces a qualitatively different response from external clitoral stimulation — often deeper, more diffuse, and accompanied by a distinct pressure sensation that most people have never investigated deliberately enough to know their actual response.",
-  "ratingTypes": [
-    "solo",
-    "receiver",
-    "giver"
-  ],
+  "ratingTypes": ["solo", "receiver", "giver"],
   "equipment": "Clean hands with short, smooth nails; generous water-based lubricant. Optionally a curved toy designed for anterior wall stimulation.",
   "safetyNote": "Keep nails short and filed smooth. Use more lubricant than feels necessary. Never force anything — work with relaxation. If there is pain, stop.",
   "instructions": [
@@ -32,8 +27,5 @@
     "If the response is strong: does this change how you think about internal versus external stimulation?"
   ],
   "why": "The anterior vaginal wall overlies the internal clitoral complex — the urethral sponge and periurethral tissue are richly innervated and respond to pressure differently from the clitoral glans. Many people describe the response as deeper, less precisely located, and harder to consciously manage. Many people with a vagina have never deliberately found this area; many who have tried encountered the urge-to-urinate sensation, interpreted it as a problem, and stopped. That sensation is anatomically predictable and usually transitions into a different kind of response when met with relaxation rather than resistance. What most people discover is a type of stimulation that feels categorically different from external stimulation — not a better version of the same thing, but a genuinely different one.",
-  "tags": [
-    "female anatomy",
-    "sensation"
-  ]
+  "tags": ["female anatomy", "sensation"]
 }

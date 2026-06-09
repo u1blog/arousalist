@@ -1,15 +1,10 @@
 {
   "id": "clitoral-range",
-  "number": 129,
   "title": "Clitoral Range",
   "tier": "solo",
   "category": "sensation",
   "description": "Most people have a narrow clitoral stimulation technique that reliably works — and have never tested what lies outside it. A single deliberate session across technique, side, pressure, and directness reveals how much of the available range goes completely unexplored.",
-  "ratingTypes": [
-    "solo",
-    "receiver",
-    "giver"
-  ],
+  "ratingTypes": ["solo", "receiver", "giver"],
   "equipment": "Just yourself. Optionally a vibrator for comparison.",
   "safetyNote": null,
   "instructions": [
@@ -32,9 +27,5 @@
     "Does any variation outside your default produce something you'd want to explore further?"
   ],
   "why": "Most people establish a clitoral stimulation technique early and refine it over time — which means it gets faster and more reliable, but also narrower. The result is that a large part of the available range goes completely untested, not because it produces nothing but because the efficient path never passes through it. Indirect stimulation, shaft stimulation, and contra-lateral stimulation each produce distinct responses in many people that direct glans contact doesn't — different in quality, not just intensity. The solo version is the right first step because it gives exact control over the calibration without any communication overhead.",
-  "tags": [
-    "female anatomy",
-    "sensation",
-    "solo"
-  ]
+  "tags": ["female anatomy", "sensation", "solo"]
 }

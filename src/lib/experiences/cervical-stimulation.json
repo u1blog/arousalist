@@ -1,15 +1,10 @@
 {
   "id": "cervical-stimulation",
-  "number": 130,
   "title": "Cervical Stimulation",
   "tier": "solo-or-partnered",
   "category": "sensation",
   "description": "The cervix has its own distinct nerve supply — including partial innervation via the vagus nerve — and produces a response many people describe as unlike anything else: deep, diffuse, sometimes felt throughout the torso. Most people have never accessed it deliberately.",
-  "ratingTypes": [
-    "solo",
-    "receiver",
-    "giver"
-  ],
+  "ratingTypes": ["solo", "receiver", "giver"],
   "equipment": "Generous water-based or silicone-based lubricant. A curved toy or dildo long enough to reach the posterior fornix (the area around and behind the cervix). A pillow under the hips is useful.",
   "safetyNote": "Cervical sensitivity varies across the menstrual cycle — often highest around ovulation, lowest just after menstruation. Start there if uncertain. Use gradual, sustained pressure — not thrusting or impact. Sharp pain means stop and reduce depth. Accidental rough contact can cause cramping; this experience is about steady gentle pressure, not force.",
   "instructions": [
@@ -32,8 +27,5 @@
     "As giver: does the slower, more positionally precise quality of this produce a different kind of attention than other forms of penetration?"
   ],
   "why": "The cervix is partially innervated by the vagus nerve — a pathway that bypasses the spinal cord and connects directly to the brain. This is why it can produce sensation in people with certain spinal injuries who have no other pelvic sensation, and for everyone else it means the response often has a different character from stimulation delivered through standard pelvic pathways. Many people describe it as deeper and more diffuse than clitoral or G-spot stimulation — something felt throughout the lower body rather than at a precise point. Most people have encountered the cervix accidentally during deep penetration, usually as an uncomfortable bump; deliberate, gentle sustained contact is categorically different from accidental impact, and produces a response most people have never actually tested.",
-  "tags": [
-    "female anatomy",
-    "sensation"
-  ]
+  "tags": ["female anatomy", "sensation"]
 }
