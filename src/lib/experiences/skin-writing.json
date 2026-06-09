@@ -2,38 +2,32 @@
   "id": "skin-writing",
   "number": 122,
   "title": "Writing on Skin",
-  "tier": "better-with-partner",
-  "category": "sensation",
-  "description": "A fingertip moving in deliberate patterns on skin produces a specific quality of attention — on the writer's side and the receiver's. Add guessing what's being written and you get something sensation and communication can't quite do separately.",
+  "tier": "partner-only",
+  "category": "dynamic",
+  "description": "Writing a word on someone's body makes it physical and visible in a way speaking it doesn't. Ownership language, degrading words, possessive claims — the difference is that these stay on the body through the rest of the encounter, and both people know they're still there.",
   "ratingTypes": [
-    "solo",
     "receiver",
     "giver"
   ],
-  "equipment": "Just yourselves. Optionally: a blunt stylus or the capped end of a pen for variety.",
+  "equipment": "A skin-safe marker: eyeliner pencil or lip liner work well. Avoid permanent markers.",
   "safetyNote": null,
   "instructions": [
     {
-      "type": "solo",
-      "label": "Solo first",
-      "content": "Trace letters slowly on your own inner forearm using a single fingertip — light enough that the contact is precise. Notice whether you can feel each letter as sensation separate from your knowledge of what you're writing. This is calibration: you're checking how much information your skin actually carries, and whether very slow, deliberate contact there produces any response worth building on."
-    },
-    {
-      "type": "partner",
-      "label": "With a partner (the real version)",
-      "content": "Receiver lies still with eyes closed. Giver traces single letters, then short words, on the receiver's back, shoulder, or inner arm — slowly enough that each stroke is distinct. The receiver guesses what's being written; getting it wrong means the giver continues with the same word until they get it. Move through a few words, then switch roles. The guessing dimension isn't incidental: it keeps the receiver's attention entirely on the sensation, and it gives the giver a reason to be deliberate and slow. What you choose to write is up to you."
+      "type": "single",
+      "label": "With a partner",
+      "content": "Before starting, the receiver specifies what's acceptable — not general permission but a specific word or short phrase they've approved: 'slut', 'mine', 'property of [name]', whatever the word is. The giver chooses a location: somewhere visible to both (stomach, chest, inner thigh), somewhere the receiver can see by looking down, or somewhere the giver can see but the receiver can't without a mirror. Write it once, deliberately, in full. Whether you show the receiver what's written — immediately, or not until after — is a separate decision. The word stays on through the rest of the encounter. That persistence is the point: unlike spoken language, it doesn't disappear."
     }
   ],
   "explore": [
-    "Solo: can you actually feel what you're writing on yourself, or does your knowledge of the letter override the sensation?",
-    "As receiver: which areas produce clearer sensation — back, arm, stomach, inner thigh?",
-    "Does getting a letter wrong — and having it retraced — change how it registers the second time?",
-    "As giver: does choosing what to write, and writing it slowly enough to be felt, produce any quality of its own?"
+    "As receiver: is it the word itself, the act of being written on, or the knowledge that it's still there as sex continues that produces the most response?",
+    "Does location matter — visible to you, visible to them, visible to neither until after?",
+    "As giver: does writing something on a partner's body feel different from saying it? More deliberate, more committed?",
+    "Does seeing the word on your own body in a mirror land differently from simply knowing it's there?"
   ],
-  "why": "The skin reads pressure, direction, and sequence rather than meaning — but the brain tries to make meaning from it anyway, which creates unusual attentional focus in both people. The receiver is trying to decode sensation; the giver is trying to produce it precisely. This split is different from most forms of touch, which tend toward either sensation or communication rather than both at once. The guessing mechanic keeps the receiver present in a way that simple tracing doesn't require, and the giver necessarily slows down to a pace the skin can actually read.",
+  "why": "Spoken degradation is momentary — it exists and then it's gone. Written words on the body are different: they're physical, visible to one or both people, and they persist through the encounter. The word means something different on skin than in speech because it's been chosen and committed to in advance, placed somewhere specific, and is still legible ten minutes later. For many people that deliberateness — the difference between saying something and marking it — is what gives this weight that spoken language doesn't reach. The choice of what to write, where, and whether to reveal it creates a layer of dynamic that's entirely within the giver's control.",
   "tags": [
-    "touch",
-    "sensation",
-    "intimacy"
+    "power exchange",
+    "visual",
+    "verbal"
   ]
 }
