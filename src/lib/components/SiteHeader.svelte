@@ -14,6 +14,13 @@
     </a>
     <div class="nav-links">
       <a
+        href="{base}/guided"
+        class="nav-link"
+        class:nav-link--active={$page.url.pathname === base + '/guided'}
+      >
+        Guide
+      </a>
+      <a
         href="{base}/experiences"
         class="nav-link"
         class:nav-link--active={$page.url.pathname.startsWith(base + '/experiences')}

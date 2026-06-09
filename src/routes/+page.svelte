@@ -17,7 +17,10 @@
     {count} structured experiences — solo or with a partner — with a simple rating system to
     help you build honest self-knowledge about what you respond to and why.
   </p>
-  <a href="{base}/experiences" class="btn-primary">Browse the Experiences →</a>
+  <div class="hero-ctas">
+    <a href="{base}/experiences" class="btn-primary">Browse the Experiences →</a>
+    <a href="{base}/guided" class="btn-secondary">Not sure where to start? →</a>
+  </div>
 </section>
 
 <!-- How it works -->
@@ -134,6 +137,24 @@
     padding: 5rem 1.5rem 4.5rem;
     text-align: center;
   }
+  .hero-ctas {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn-secondary {
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color var(--transition);
+  }
+  .btn-secondary:hover { color: var(--accent); }
+
   .hero-eyebrow {
     font-size: 0.8rem;
     font-weight: 600;

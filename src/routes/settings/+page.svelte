@@ -1,11 +1,11 @@
 <script>
-  import { theme, progress, wishlist } from '$lib/stores.js';
+  import { theme, progress, wishlist, guidedPrefs } from '$lib/stores.js';
 
   let showConfirm = $state(false);
 
   function requestReset() { showConfirm = true; }
   function cancelReset()  { showConfirm = false; }
-  function confirmReset() { progress.reset(); wishlist.reset(); showConfirm = false; }
+  function confirmReset() { progress.reset(); wishlist.reset(); guidedPrefs.reset(); showConfirm = false; }
 </script>
 
 <svelte:head>
