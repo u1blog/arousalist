@@ -121,6 +121,7 @@ import sharingPartnerAnonymous from './experiences/sharing-partner-anonymous.jso
 import skinWriting from './experiences/skin-writing.json';
 import heartbeatListening from './experiences/heartbeat-listening.json';
 import stretching from './experiences/stretching.json';
+import vaginalStretching from './experiences/vaginal-stretching.json';
 
 export const TIER_INFO = {
   'solo': {
@@ -324,6 +325,7 @@ const _EXPERIENCES_RAW = [
   skinWriting,
   heartbeatListening,
   stretching,
+  vaginalStretching,
 ];
 
 export const EXPERIENCES = [..._EXPERIENCES_RAW].sort((a, b) =>
