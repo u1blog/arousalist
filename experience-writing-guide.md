@@ -170,6 +170,34 @@ Ask these questions before writing:
 
 ---
 
+## Adding an experience to the app
+
+Once the JSON is written and reviewed:
+
+1. **Create the file** at `src/lib/experiences/<id>.json`. The `id` field in the JSON and the filename must match.
+
+2. **Assign the next number.** Check the current highest with:
+   ```
+   jq -r '.number' src/lib/experiences/*.json | sort -n | tail -1
+   ```
+   Increment by one.
+
+3. **Register in `src/lib/data.js`.** Two edits required:
+
+   At the top with the other imports:
+   ```js
+   import myNewExperience from './experiences/my-new-experience.json';
+   ```
+
+   In the `_EXPERIENCES_RAW` array (near the bottom of the file):
+   ```js
+   myNewExperience,
+   ```
+
+   The array is sorted alphabetically by title at export time, so order within `_EXPERIENCES_RAW` doesn't matter.
+
+---
+
 ## Checklist before submitting
 
 - [ ] All required fields present

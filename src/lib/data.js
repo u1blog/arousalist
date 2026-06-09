@@ -119,6 +119,9 @@ import oneOnOneVideoStrangers from './experiences/one-on-one-video-strangers.jso
 import receivingUnsolicitedImages from './experiences/receiving-unsolicited-images.json';
 import frotting from './experiences/frotting.json';
 import sharingPartnerAnonymous from './experiences/sharing-partner-anonymous.json';
+import skinWriting from './experiences/skin-writing.json';
+import heartbeatListening from './experiences/heartbeat-listening.json';
+import stretching from './experiences/stretching.json';
 
 export const TIER_INFO = {
   'solo': {
@@ -320,6 +323,9 @@ const _EXPERIENCES_RAW = [
   receivingUnsolicitedImages,
   frotting,
   sharingPartnerAnonymous,
+  skinWriting,
+  heartbeatListening,
+  stretching,
 ];
 
 export const EXPERIENCES = [..._EXPERIENCES_RAW].sort((a, b) =>
