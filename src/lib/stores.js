@@ -105,3 +105,30 @@ function createWishlistStore() {
 }
 
 export const wishlist = createWishlistStore();
+
+const GUIDED_PREFS_KEY = 'kdg_guided';
+
+function createGuidedPrefsStore() {
+  const initial = browser
+    ? JSON.parse(localStorage.getItem(GUIDED_PREFS_KEY) || 'null')
+    : null;
+  const store = writable(initial);
+
+  if (browser) {
+    store.subscribe(value => {
+      if (value) {
+        localStorage.setItem(GUIDED_PREFS_KEY, JSON.stringify(value));
+      } else {
+        localStorage.removeItem(GUIDED_PREFS_KEY);
+      }
+    });
+  }
+
+  return {
+    subscribe: store.subscribe,
+    set: store.set,
+    reset() { store.set(null); },
+  };
+}
+
+export const guidedPrefs = createGuidedPrefsStore();
