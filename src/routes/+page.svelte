@@ -94,6 +94,13 @@
         </div>
       </div>
       <div class="tier-item">
+        <div class="tier-item-icon">🧍•👫</div>
+        <div>
+          <div class="tier-item-title">Solo or partnered</div>
+          <p class="tier-item-desc">Equally rewarding alone or with a partner — both are complete experiences.</p>
+        </div>
+      </div>
+      <div class="tier-item">
         <div class="tier-item-icon">🧍→👫</div>
         <div>
           <div class="tier-item-title">Better with a partner</div>
