@@ -2,10 +2,11 @@
   "id": "skin-writing",
   "number": 122,
   "title": "Writing on Skin",
-  "tier": "partner-only",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
-  "description": "Writing a word on someone's body makes it physical and visible in a way speaking it doesn't. Ownership language, degrading words, possessive claims — the difference is that these stay on the body through the rest of the encounter, and both people know they're still there.",
+  "description": "Writing a word on your body makes it physical and visible in a way thinking it doesn't. Ownership language, degrading words, possessive claims — written on skin, they stay there through the encounter, legible every time you look.",
   "ratingTypes": [
+    "solo",
     "receiver",
     "giver"
   ],
@@ -13,16 +14,21 @@
   "safetyNote": null,
   "instructions": [
     {
-      "type": "single",
+      "type": "solo",
+      "label": "Solo",
+      "content": "Choose a word — 'slut', 'mine', whatever lands for you — and write it somewhere on your body before you start. Stomach, chest, inner thigh. Do it deliberately, in full. Then use a mirror, or just look down. The word stays visible through the rest of the session. Notice whether seeing it changes anything, and whether that changes over the course of the session as you get more aroused."
+    },
+    {
+      "type": "partner",
       "label": "With a partner",
-      "content": "Before starting, the receiver specifies what's acceptable — not general permission but a specific word or short phrase they've approved: 'slut', 'mine', 'property of [name]', whatever the word is. The giver chooses a location: somewhere visible to both (stomach, chest, inner thigh), somewhere the receiver can see by looking down, or somewhere the giver can see but the receiver can't without a mirror. Write it once, deliberately, in full. Whether you show the receiver what's written — immediately, or not until after — is a separate decision. The word stays on through the rest of the encounter. That persistence is the point: unlike spoken language, it doesn't disappear."
+      "content": "Before starting, the receiver specifies what's acceptable — not general permission but a specific word or short phrase they've approved: 'slut', 'mine', 'property of [name]'. The giver chooses a location: somewhere visible to both (stomach, chest, inner thigh), somewhere the receiver can see by looking down, or somewhere the giver can see but the receiver can't without a mirror. Write it once, deliberately, in full. Whether you show the receiver immediately or not is a separate decision. The word stays on through the rest of the encounter — unlike spoken language, it doesn't disappear."
     }
   ],
   "explore": [
+    "Solo: does writing the word on yourself feel different from just thinking it — and does that difference persist as you continue?",
     "As receiver: is it the word itself, the act of being written on, or the knowledge that it's still there as sex continues that produces the most response?",
     "Does location matter — visible to you, visible to them, visible to neither until after?",
-    "As giver: does writing something on a partner's body feel different from saying it? More deliberate, more committed?",
-    "Does seeing the word on your own body in a mirror land differently from simply knowing it's there?"
+    "As giver: does writing something on a partner's body feel different from saying it? More deliberate, more committed?"
   ],
   "why": "Spoken degradation is momentary — it exists and then it's gone. Written words on the body are different: they're physical, visible to one or both people, and they persist through the encounter. The word means something different on skin than in speech because it's been chosen and committed to in advance, placed somewhere specific, and is still legible ten minutes later. For many people that deliberateness — the difference between saying something and marking it — is what gives this weight that spoken language doesn't reach. The choice of what to write, where, and whether to reveal it creates a layer of dynamic that's entirely within the giver's control.",
   "tags": [
