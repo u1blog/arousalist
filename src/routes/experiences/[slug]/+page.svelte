@@ -13,7 +13,6 @@
   let next = $derived(data.next);
   let tier = $derived(TIER_INFO[exp.tier]);
   let cat  = $derived(CATEGORY_INFO[exp.category]);
-  let numStr = $derived(String(exp.number).padStart(2, '0'));
   let isWishlisted = $derived($wishlist.has(exp.id));
 </script>
 
@@ -25,7 +24,6 @@
 <article class="experience-page">
 
   <div class="experience-intro">
-    <p class="experience-number">Experience {numStr}</p>
     <div class="experience-badges">
       <span class="tier-badge tier-badge--{exp.tier}">{tier.icon} {tier.label}</span>
       <span class="cat-badge">{cat.label}</span>
@@ -139,15 +137,6 @@
 
   /* Intro */
   .experience-intro { margin-bottom: 2.5rem; }
-
-  .experience-number {
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text-muted);
-    margin-bottom: 0.5rem;
-  }
 
   .experience-badges {
     display: flex;

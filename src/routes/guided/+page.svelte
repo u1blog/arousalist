@@ -40,7 +40,7 @@
         if (anatomy === 'vulva' && tags.includes('male anatomy')) return false;
         return true;
       })
-      .sort((a, b) => a.number - b.number);
+      .sort((a, b) => a.title.localeCompare(b.title));
   });
 
   const CONTEXT_LABELS = {
@@ -144,7 +144,7 @@
         <h2 class="results-title">
           {suggestions.length} experience{suggestions.length === 1 ? '' : 's'} for you
         </h2>
-        <p class="results-desc">Sorted from foundational to more involved. Try a few that catch your eye — there's no prescribed order.</p>
+        <p class="results-desc">Try a few that catch your eye — there's no prescribed order.</p>
         <button class="restart-btn" onclick={restart}>Start over</button>
       </div>
 
