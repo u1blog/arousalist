@@ -22,7 +22,7 @@
       if (data['kdg_wishlist']) wishlist.load(new Set(JSON.parse(data['kdg_wishlist'])));
       if (data['kdg_guided']) guidedPrefs.load(JSON.parse(data['kdg_guided']));
     } catch (e) {
-      error = e.message === 'Wrong passphrase' ? 'Incorrect passphrase.' : 'Something went wrong.';
+      error = e.message === 'Wrong passphrase' ? 'Incorrect password.' : 'Something went wrong.';
       passphrase = '';
     } finally {
       loading = false;
@@ -35,7 +35,7 @@
     <div class="card">
       <p class="eyebrow">Locked</p>
       <h1 id="lock-title">Your data is protected</h1>
-      <p class="body">Enter your passphrase to access your ratings and notes.</p>
+      <p class="body">Enter your password to access your ratings and notes.</p>
 
       <form class="form" onsubmit={e => { e.preventDefault(); submit(); }}>
         <input
@@ -43,7 +43,7 @@
           class="input"
           type="password"
           bind:value={passphrase}
-          placeholder="Passphrase"
+          placeholder="Password"
           autocomplete="current-password"
           disabled={loading}
         />

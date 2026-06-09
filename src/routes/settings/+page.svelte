@@ -26,8 +26,8 @@
   function cancelSetup() { showSetupForm = false; setupPassphrase = ''; setupConfirm = ''; setupError = ''; }
 
   async function doSetup() {
-    if (setupPassphrase.length < 8) { setupError = 'Passphrase must be at least 8 characters.'; return; }
-    if (setupPassphrase !== setupConfirm) { setupError = 'Passphrases do not match.'; return; }
+    if (setupPassphrase.length < 8) { setupError = 'Password must be at least 8 characters.'; return; }
+    if (setupPassphrase !== setupConfirm) { setupError = 'Passwords do not match.'; return; }
     setupLoading = true;
     setupError = '';
     try {
@@ -72,8 +72,8 @@
   function cancelChange() { showChangeForm = false; changeNew = ''; changeConfirm = ''; changeError = ''; }
 
   async function doChange() {
-    if (changeNew.length < 8) { changeError = 'Passphrase must be at least 8 characters.'; return; }
-    if (changeNew !== changeConfirm) { changeError = 'Passphrases do not match.'; return; }
+    if (changeNew.length < 8) { changeError = 'Password must be at least 8 characters.'; return; }
+    if (changeNew !== changeConfirm) { changeError = 'Passwords do not match.'; return; }
     changeLoading = true;
     changeError = '';
     try {
@@ -136,13 +136,13 @@
       <!-- No vault set up -->
       <div class="setting-row">
         <div class="setting-info">
-          <span class="setting-label">Passphrase lock</span>
+          <span class="setting-label">Password lock</span>
           <span class="setting-desc">
             Encrypt your ratings and notes so no one else can read them on this device.
           </span>
         </div>
         {#if !showSetupForm}
-          <button onclick={startSetup} class="btn-reset">Set passphrase</button>
+          <button onclick={startSetup} class="btn-reset">Set password</button>
         {/if}
       </div>
 
@@ -152,7 +152,7 @@
             class="pp-input"
             type="password"
             bind:value={setupPassphrase}
-            placeholder="New passphrase (8+ characters)"
+            placeholder="New password (8+ characters)"
             autocomplete="new-password"
             disabled={setupLoading}
           />
@@ -160,7 +160,7 @@
             class="pp-input"
             type="password"
             bind:value={setupConfirm}
-            placeholder="Confirm passphrase"
+            placeholder="Confirm password"
             autocomplete="new-password"
             disabled={setupLoading}
           />
@@ -171,7 +171,7 @@
               {setupLoading ? 'Encrypting…' : 'Enable'}
             </button>
           </div>
-          <p class="pp-hint">Your passphrase is never stored. If you forget it, your data cannot be recovered.</p>
+          <p class="pp-hint">Your password is never stored. If you forget it, your data cannot be recovered.</p>
         </div>
       {/if}
 
@@ -179,7 +179,7 @@
       <!-- Vault enabled and unlocked -->
       <div class="setting-row">
         <div class="setting-info">
-          <span class="setting-label">Passphrase lock</span>
+          <span class="setting-label">Password lock</span>
           <span class="setting-desc">Your data is encrypted. It will be locked when you close this tab.</span>
         </div>
         <div class="vault-actions">
@@ -196,7 +196,7 @@
             class="pp-input"
             type="password"
             bind:value={changeNew}
-            placeholder="New passphrase (8+ characters)"
+            placeholder="New password (8+ characters)"
             autocomplete="new-password"
             disabled={changeLoading}
           />
@@ -204,7 +204,7 @@
             class="pp-input"
             type="password"
             bind:value={changeConfirm}
-            placeholder="Confirm new passphrase"
+            placeholder="Confirm new password"
             autocomplete="new-password"
             disabled={changeLoading}
           />
@@ -212,7 +212,7 @@
           <div class="pp-actions">
             <button onclick={cancelChange} class="btn-cancel" disabled={changeLoading}>Cancel</button>
             <button onclick={doChange} class="btn-confirm" disabled={changeLoading || !changeNew || !changeConfirm}>
-              {changeLoading ? 'Saving…' : 'Save new passphrase'}
+              {changeLoading ? 'Saving…' : 'Save new password'}
             </button>
           </div>
         </div>
@@ -235,8 +235,8 @@
       <!-- Vault enabled but locked (user somehow got to settings while locked) -->
       <div class="setting-row">
         <div class="setting-info">
-          <span class="setting-label">Passphrase lock</span>
-          <span class="setting-desc">Your data is encrypted. Unlock the app to manage your passphrase.</span>
+          <span class="setting-label">Password lock</span>
+          <span class="setting-desc">Your data is encrypted. Unlock the app to manage your password.</span>
         </div>
       </div>
     {/if}
@@ -399,7 +399,7 @@
     display: flex;
     flex-direction: column;
     gap: 0.6rem;
-    padding: 0 1.25rem 1.25rem;
+    padding: 1rem 1.25rem 1.25rem;
     border-top: 1px solid var(--border);
   }
 
