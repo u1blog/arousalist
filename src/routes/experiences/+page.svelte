@@ -1,14 +1,15 @@
 <script>
   import { page } from '$app/stores';
   import { goto } from '$app/navigation';
+  import { browser } from '$app/environment';
   import { progress, wishlist } from '$lib/stores.js';
   import { EXPERIENCES, ALL_TAGS } from '$lib/data.js';
   import ExperienceCard from '$lib/components/ExperienceCard.svelte';
 
-  let tierFilter   = $state($page.url.searchParams.get('tier')   ?? 'all');
-  let statusFilter = $state($page.url.searchParams.get('status') ?? 'all');
-  let tagFilter    = $state($page.url.searchParams.get('tag')    ?? 'all');
-  let search       = $state($page.url.searchParams.get('q')      ?? '');
+  let tierFilter   = $state(browser ? ($page.url.searchParams.get('tier')   ?? 'all') : 'all');
+  let statusFilter = $state(browser ? ($page.url.searchParams.get('status') ?? 'all') : 'all');
+  let tagFilter    = $state(browser ? ($page.url.searchParams.get('tag')    ?? 'all') : 'all');
+  let search       = $state(browser ? ($page.url.searchParams.get('q')      ?? '')    : '');
   let filtersOpen  = $state(tierFilter !== 'all' || statusFilter !== 'all' || tagFilter !== 'all');
 
   $effect(() => {
