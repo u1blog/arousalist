@@ -121,7 +121,7 @@ import frotting from './experiences/frotting.json';
 import sharingPartnerAnonymous from './experiences/sharing-partner-anonymous.json';
 import skinWriting from './experiences/skin-writing.json';
 import heartbeatListening from './experiences/heartbeat-listening.json';
-import stretching from './experiences/stretching.json';
+import analStretching from './experiences/anal-stretching.json';
 import vaginalStretching from './experiences/vaginal-stretching.json';
 
 export const TIER_INFO = {
@@ -326,7 +326,7 @@ const _EXPERIENCES_RAW = [
   sharingPartnerAnonymous,
   skinWriting,
   heartbeatListening,
-  stretching,
+  analStretching,
   vaginalStretching,
 ];
 
