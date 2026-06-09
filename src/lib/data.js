@@ -123,6 +123,10 @@ import skinWriting from './experiences/skin-writing.json';
 import heartbeatListening from './experiences/heartbeat-listening.json';
 import stretching from './experiences/stretching.json';
 import vaginalStretching from './experiences/vaginal-stretching.json';
+import vulvaSelfExploration from './experiences/vulva-self-exploration.json';
+import gSpotExploration from './experiences/g-spot-exploration.json';
+import clitoralRange from './experiences/clitoral-range.json';
+import cervicalStimulation from './experiences/cervical-stimulation.json';
 
 export const TIER_INFO = {
   'solo': {
@@ -328,6 +332,10 @@ const _EXPERIENCES_RAW = [
   heartbeatListening,
   stretching,
   vaginalStretching,
+  vulvaSelfExploration,
+  gSpotExploration,
+  clitoralRange,
+  cervicalStimulation,
 ];
 
 export const EXPERIENCES = [..._EXPERIENCES_RAW].sort((a, b) =>

@@ -1,0 +1,39 @@
+{
+  "id": "g-spot-exploration",
+  "number": 128,
+  "title": "G-Spot Exploration",
+  "tier": "solo",
+  "category": "sensation",
+  "description": "For people with a vagina, internal stimulation via the anterior wall produces a qualitatively different response from external clitoral stimulation — often deeper, more diffuse, and accompanied by a distinct pressure sensation that most people have never investigated deliberately enough to know their actual response.",
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
+  "equipment": "Clean hands with short, smooth nails; generous water-based lubricant. Optionally a curved toy designed for anterior wall stimulation.",
+  "safetyNote": "Keep nails short and filed smooth. Use more lubricant than feels necessary. Never force anything — work with relaxation. If there is pain, stop.",
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "Lie on your back with knees drawn up or a pillow under your hips. Begin with external stimulation until you're aroused — this matters; the anterior wall becomes more accessible and responsive with arousal. Insert one well-lubricated finger slowly, palm facing up. At roughly 5–8cm in, curve the finger toward the front of the body. The anterior wall has a slightly different texture from the surrounding tissue — often described as ridged or spongy compared to the smoother posterior wall. Apply slow, rhythmic pressure with a 'come hither' motion rather than in-and-out movement. The initial response is often a distinct urge-to-urinate sensation; this is normal, reflects the anatomy, and usually transitions into something else with sustained attention. Stay with it for fifteen to twenty minutes."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "The receiver lies on their back with hips elevated on a pillow. The giver uses one or two lubricated fingers, palm up, finding the anterior wall and applying steady, rhythmic pressure rather than thrusting. The receiver's job is to stay relaxed and communicate in real time — particularly if the urge-to-urinate sensation arrives, since relaxing through it rather than tensing against it is what allows the experience to continue. The giver's job is slow attentiveness and patience. Combined with external clitoral stimulation, the response often becomes significantly more intense — many people find this combination produces something different from either alone."
+    }
+  ],
+  "explore": [
+    "Does stimulation here produce a response that's qualitatively different from external clitoral stimulation — a different category rather than a stronger version of the same thing?",
+    "Does the initial urge-to-urinate sensation resolve into something different with continued stimulation — and if so, what?",
+    "Does combining anterior wall stimulation with external stimulation produce something different from either alone?",
+    "As giver: does the slower, more attentive quality this requires produce a different experience from other forms of manual stimulation?",
+    "If the response is strong: does this change how you think about internal versus external stimulation?"
+  ],
+  "why": "The anterior vaginal wall overlies the internal clitoral complex — the urethral sponge and periurethral tissue are richly innervated and respond to pressure differently from the clitoral glans. Many people describe the response as deeper, less precisely located, and harder to consciously manage. Many people with a vagina have never deliberately found this area; many who have tried encountered the urge-to-urinate sensation, interpreted it as a problem, and stopped. That sensation is anatomically predictable and usually transitions into a different kind of response when met with relaxation rather than resistance. What most people discover is a type of stimulation that feels categorically different from external stimulation — not a better version of the same thing, but a genuinely different one.",
+  "tags": [
+    "female anatomy",
+    "sensation"
+  ]
+}

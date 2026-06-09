@@ -1,0 +1,40 @@
+{
+  "id": "clitoral-range",
+  "number": 129,
+  "title": "Clitoral Range",
+  "tier": "solo",
+  "category": "sensation",
+  "description": "Most people have a narrow clitoral stimulation technique that reliably works — and have never tested what lies outside it. A single deliberate session across technique, side, pressure, and directness reveals how much of the available range goes completely unexplored.",
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
+  "equipment": "Just yourself. Optionally a vibrator for comparison.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo",
+      "content": "Set aside twenty minutes. Begin by identifying your default: the exact technique, speed, pressure, and location you normally use. Then deliberately move away from it. Try the opposite side of the clitoris from your usual approach — most people have a strong preference for one side and almost never attend to the other. Try stimulating the clitoral shaft rather than the glans: slow strokes along the shaft, lateral pressure against it without direct contact with the tip. Try stimulating through the hood without retracting it. Try a slower pace than feels adequate, then faster. Try lighter pressure than feels necessary. If you use a vibrator, try it at a greater distance than usual, on a lower setting, or through a layer of fabric. Stay with each variation long enough to register the response — not just whether it's working, but what quality of sensation it produces."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "The partner version works best as explicit instruction: the receiver guides the giver through their default technique first, then asks the giver to deliberately vary away from it — other side, indirect stimulation, through the hood, shaft rather than glans, slower. The receiver's job is to stay present with each variation rather than steering back toward the default. The giver's job is attentiveness and patience when a variation doesn't build quickly. This often produces clear information for both people about what works and what the alternatives actually feel like."
+    }
+  ],
+  "explore": [
+    "How narrow is your default technique corridor — do you always use the same side, the same pressure, the same approach?",
+    "Does indirect stimulation — through the hood, or via the shaft — produce a qualitatively different response from direct contact, or just a weaker version?",
+    "Does the other side produce any meaningful response, or is the asymmetry strong?",
+    "With a partner: does being guided through your own range reveal something you hadn't previously articulated about what you prefer?",
+    "Does any variation outside your default produce something you'd want to explore further?"
+  ],
+  "why": "Most people establish a clitoral stimulation technique early and refine it over time — which means it gets faster and more reliable, but also narrower. The result is that a large part of the available range goes completely untested, not because it produces nothing but because the efficient path never passes through it. Indirect stimulation, shaft stimulation, and contra-lateral stimulation each produce distinct responses in many people that direct glans contact doesn't — different in quality, not just intensity. The solo version is the right first step because it gives exact control over the calibration without any communication overhead.",
+  "tags": [
+    "female anatomy",
+    "sensation",
+    "solo"
+  ]
+}
