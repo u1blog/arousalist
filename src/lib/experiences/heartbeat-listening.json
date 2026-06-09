@@ -1,0 +1,38 @@
+{
+  "id": "heartbeat-listening",
+  "number": 123,
+  "title": "Listening to Heartbeats",
+  "tier": "better-with-partner",
+  "category": "sensation",
+  "description": "Placing an ear against a partner's chest during sex gives you direct access to their physiological state — rate, rhythm, the force of each beat — in a way that surface signals like movement and sound don't.",
+  "ratingTypes": [
+    "solo",
+    "receiver",
+    "giver"
+  ],
+  "equipment": "Just yourselves. A stethoscope extends the range and precision considerably, but is optional.",
+  "safetyNote": null,
+  "instructions": [
+    {
+      "type": "solo",
+      "label": "Solo first",
+      "content": "During masturbation, pause at a point of clear arousal and place two fingers on the pulse point at your neck or inner wrist. Notice the rate and force. Try again close to orgasm. Most people haven't paid direct attention to this shift. You're establishing a baseline awareness of your own physiological response, which makes the partner version more legible."
+    },
+    {
+      "type": "partner",
+      "label": "With a partner",
+      "content": "At some point during sex — not necessarily at the beginning — stop movement completely. Press your ear against your partner's chest, left of center, just above and inside the nipple. Listen. Stay there for at least thirty seconds without speaking. Notice the rate, the force of each beat, whether it's accelerating or settling. If you have a stethoscope, use it: the sound becomes considerably more present. Resume, then pause again later and listen a second time. The comparison between the two moments — how the heartbeat has changed — is the point. Switch who listens."
+    }
+  ],
+  "explore": [
+    "Solo: is your resting-to-aroused heartbeat shift larger or smaller than you expected?",
+    "As listener: does hearing a partner's heartbeat — direct evidence of their physiological state — produce a response in you?",
+    "Is the comparison between two moments (early versus late in sex) more interesting than either moment alone?",
+    "Does stopping all movement to listen change anything about the quality of contact when you resume?"
+  ],
+  "why": "Heart rate is one of the few involuntary physiological signals that's directly audible without equipment. Listening to a partner's heartbeat during sex collapses the interpretive distance between surface signals — movement, sound, expression — and what's actually happening inside their body. There's something unusually direct about this compared to reading arousal from behavior: the signal can't be performed. Many people find that hearing a partner's genuine physiological engagement shifts the quality of their own presence. A stethoscope amplifies the effect — what was a background awareness becomes an explicit signal you're attending to together.",
+  "tags": [
+    "sensation",
+    "intimacy"
+  ]
+}
