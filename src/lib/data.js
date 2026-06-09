@@ -86,6 +86,7 @@ import highHeels from './experiences/high-heels.json';
 import objectification from './experiences/objectification.json';
 import voyeurism from './experiences/voyeurism.json';
 import exhibitionism from './experiences/exhibitionism.json';
+import socialNudity from './experiences/social-nudity.json';
 import beingRecorded from './experiences/being-recorded.json';
 import analDuringOtherActivity from './experiences/anal-during-other-activity.json';
 import watchingYourselfBack from './experiences/watching-yourself-back.json';
@@ -290,6 +291,7 @@ const _EXPERIENCES_RAW = [
   objectification,
   voyeurism,
   exhibitionism,
+  socialNudity,
   beingRecorded,
   analDuringOtherActivity,
   watchingYourselfBack,
