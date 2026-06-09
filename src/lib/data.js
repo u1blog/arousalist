@@ -39,7 +39,7 @@ import degradationLight from './experiences/degradation-light.json';
 import aftercare from './experiences/aftercare.json';
 import dryHumping from './experiences/dry-humping.json';
 import kissingWithoutHands from './experiences/kissing-without-hands.json';
-import externalAnalMassageSolo from './experiences/external-anal-massage-solo.json';
+import externalAnalMassage from './experiences/external-anal-massage.json';
 import cupping from './experiences/cupping.json';
 import fullBodySkinContact from './experiences/full-body-skin-contact.json';
 import collars from './experiences/collars.json';
@@ -62,7 +62,6 @@ import cunnilingusfellatioFocus from './experiences/cunnilingus-fellatio-focus.j
 import foodPlay from './experiences/food-play.json';
 import bodyPainting from './experiences/body-painting.json';
 import shaving from './experiences/shaving.json';
-import externalAnalMassagePartner from './experiences/external-anal-massage-partner.json';
 import spitting from './experiences/spitting.json';
 import orgasmOnCommand from './experiences/orgasm-on-command.json';
 import rimming from './experiences/rimming.json';
@@ -243,7 +242,7 @@ const _EXPERIENCES_RAW = [
   aftercare,
   dryHumping,
   kissingWithoutHands,
-  externalAnalMassageSolo,
+  externalAnalMassage,
   cupping,
   fullBodySkinContact,
   collars,
@@ -266,7 +265,6 @@ const _EXPERIENCES_RAW = [
   foodPlay,
   bodyPainting,
   shaving,
-  externalAnalMassagePartner,
   spitting,
   orgasmOnCommand,
   rimming,
