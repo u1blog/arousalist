@@ -5,8 +5,7 @@
   "category": "sensation",
   "description": "Sustained skin-to-skin contact activates a distinct physiological pathway associated with social bonding — and many people find it produces a quality of presence that more directed activity doesn't.",
   "ratingTypes": [
-    "receiver",
-    "giver"
+    "participant"
   ],
   "equipment": "Just yourselves; no clothing.",
   "safetyNote": null,

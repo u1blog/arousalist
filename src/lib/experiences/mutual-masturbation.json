@@ -5,8 +5,7 @@
   "category": "dynamic",
   "description": "Both people are doing something individual, but in shared space and full view — and the symmetry removes the giver-receiver structure entirely while the presence of the other person changes the nature of the act.",
   "ratingTypes": [
-    "receiver",
-    "giver"
+    "participant"
   ],
   "equipment": "Just yourselves.",
   "safetyNote": null,

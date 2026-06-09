@@ -5,8 +5,8 @@
   "category": "dynamic",
   "description": "Eye contact creates the particular discomfort of being seen without words to manage it — and sustained, deliberate eye contact removes the usual options for looking away.",
   "ratingTypes": [
-    "receiver",
-    "giver"
+    "initiator",
+    "receiver"
   ],
   "equipment": "Nothing.",
   "safetyNote": null,

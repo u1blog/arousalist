@@ -2,11 +2,10 @@
   "id": "extended-sessions",
   "title": "Extended Sessions",
   "tier": "partner-only",
-  "category": "sensation",
+  "category": "dynamic",
   "description": "Deliberately long encounters move through distinct phases that shorter sessions never reach — the initial charge settles, something quieter arrives, and then often something else after that. Most people have never stayed long enough to find out what's in the later phases.",
   "ratingTypes": [
-    "receiver",
-    "giver"
+    "participant"
   ],
   "equipment": "Two to three hours with nothing else scheduled.",
   "safetyNote": null,
