@@ -127,6 +127,7 @@ import vulvaSelfExploration from './experiences/vulva-self-exploration.json';
 import gSpotExploration from './experiences/g-spot-exploration.json';
 import clitoralRange from './experiences/clitoral-range.json';
 import cervicalStimulation from './experiences/cervical-stimulation.json';
+import cumSwallowing from './experiences/cum-swallowing.json';
 
 export const TIER_INFO = {
   'solo': {
@@ -336,6 +337,7 @@ const _EXPERIENCES_RAW = [
   gSpotExploration,
   clitoralRange,
   cervicalStimulation,
+  cumSwallowing,
 ];
 
 export const EXPERIENCES = [..._EXPERIENCES_RAW].sort((a, b) =>
