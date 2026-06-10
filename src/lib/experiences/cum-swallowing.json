@@ -1,14 +1,10 @@
 {
-  "id": "cum-swallowing",
+  "id": "swallowing",
   "title": "Swallowing",
   "tier": "solo-or-partnered",
   "category": "sensation",
   "description": "Most people have a settled position on swallowing without having separated two distinct questions: how their body responds to semen as a physical substance, and what the act of swallowing — or being swallowed by — carries psychologically. The solo version is specifically designed to isolate the first.",
-  "ratingTypes": [
-    "solo",
-    "receiver",
-    "giver"
-  ],
+  "ratingTypes": ["solo", "receiver", "giver"],
   "equipment": "Just yourselves.",
   "safetyNote": "Semen can transmit STIs. Approach this within a tested partnership or with explicit awareness of transmission risk.",
   "instructions": [
@@ -31,8 +27,5 @@
     "Does the solo version — tasting your own — give you meaningfully different information from what you experienced in the partner context?"
   ],
   "why": "Swallowing completes oral sex in a way that stopping short doesn't — not mechanically, but in terms of what it communicates. For many people who find it activating, the mechanism is the full reception quality of the act: a partner who swallows accepts everything, which carries an intimacy or an edge of submission that otherwise isn't present. For the ejaculating partner, the psychological dimension of that reception is often more significant than the physical difference in sensation. Snowballing extends this by creating a circuit: the fluid moves back, and the act of receiving your own semen from a partner's mouth carries its own specific charge — sometimes transgressive, sometimes an intensification of intimacy. The solo version exists because people regularly discover their response to the fluid itself and their response to the act in context are quite different things.",
-  "tags": [
-    "male anatomy",
-    "oral"
-  ]
+  "tags": ["male anatomy", "oral"]
 }
