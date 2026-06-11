@@ -1,19 +1,22 @@
 <script>
   import { base } from '$app/paths';
   import { TIER_INFO, CATEGORY_INFO } from '$lib/data.js';
-  import { wishlist } from '$lib/stores.js';
+  import { wishlist, progress } from '$lib/stores.js';
   import RatingWidget from '$lib/components/RatingWidget.svelte';
   import TriedToggle  from '$lib/components/TriedToggle.svelte';
   import NotesField   from '$lib/components/NotesField.svelte';
 
   let { data } = $props();
 
-  let exp  = $derived(data.experience);
-  let prev = $derived(data.prev);
-  let next = $derived(data.next);
-  let tier = $derived(TIER_INFO[exp.tier]);
-  let cat  = $derived(CATEGORY_INFO[exp.category]);
+  let exp          = $derived(data.experience);
+  let prev         = $derived(data.prev);
+  let next         = $derived(data.next);
+  let tier         = $derived(TIER_INFO[exp.tier]);
+  let cat          = $derived(CATEGORY_INFO[exp.category]);
   let isWishlisted = $derived($wishlist.has(exp.id));
+  let prerequisites    = $derived(data.prerequisites ?? []);
+  let leadsTo          = $derived(data.leadsTo ?? []);
+  let untriedPrereqs   = $derived(prerequisites.filter(p => !($progress[p.id]?.tried)));
 </script>
 
 <svelte:head>
@@ -22,6 +25,18 @@
 </svelte:head>
 
 <article class="experience-page">
+
+  {#if untriedPrereqs.length}
+    <aside class="prereq-nudge">
+      <span class="prereq-nudge-label">Try first</span>
+      <div class="prereq-nudge-links">
+        {#each untriedPrereqs as p}
+          <a href="{base}/experiences/{p.id}" class="prereq-nudge-link">{p.title}</a>
+        {/each}
+      </div>
+      <p class="prereq-nudge-note">This experience builds on {untriedPrereqs.length === 1 ? 'it' : 'them'}.</p>
+    </aside>
+  {/if}
 
   <div class="experience-intro">
     <div class="experience-badges">
@@ -68,6 +83,31 @@
     <h2 class="why-heading">Why people love this</h2>
     <p>{exp.why}</p>
   </div>
+
+  {#if prerequisites.length || leadsTo.length}
+    <div class="pathway">
+      {#if prerequisites.length}
+        <div class="pathway-section">
+          <span class="pathway-label">Try first</span>
+          <div class="pathway-links">
+            {#each prerequisites as p}
+              <a href="{base}/experiences/{p.id}" class="pathway-link pathway-link--before">{p.title}</a>
+            {/each}
+          </div>
+        </div>
+      {/if}
+      {#if leadsTo.length}
+        <div class="pathway-section">
+          <span class="pathway-label">Where this leads</span>
+          <div class="pathway-links">
+            {#each leadsTo as n}
+              <a href="{base}/experiences/{n.id}" class="pathway-link pathway-link--after">{n.title}</a>
+            {/each}
+          </div>
+        </div>
+      {/if}
+    </div>
+  {/if}
 
   <!-- Tracker -->
   <section class="tracker">
@@ -133,6 +173,57 @@
     margin: 0 auto;
     padding: 3rem 1.5rem 0;
     width: 100%;
+  }
+
+  /* Prerequisite nudge */
+  .prereq-nudge {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 0.75rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent-light);
+    border-radius: var(--radius);
+    padding: 0.9rem 1.25rem;
+    margin-bottom: 2rem;
+  }
+
+  .prereq-nudge-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-family: var(--font-body);
+    white-space: nowrap;
+  }
+
+  .prereq-nudge-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .prereq-nudge-link {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text);
+    background: var(--bg-dim);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.2rem 0.65rem;
+    text-decoration: none;
+    transition: border-color var(--transition), color var(--transition);
+  }
+  .prereq-nudge-link:hover { border-color: var(--accent-light); color: var(--accent); }
+
+  .prereq-nudge-note {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    width: 100%;
+    margin: 0;
+    line-height: 1.4;
   }
 
   /* Intro */
@@ -270,6 +361,60 @@
     font-style: italic;
     max-width: none;
   }
+
+  /* Pathway */
+  .pathway {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+
+  .pathway-section {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .pathway-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    font-family: var(--font-body);
+    white-space: nowrap;
+    margin-right: 0.25rem;
+  }
+
+  .pathway-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .pathway-link {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    background: var(--bg-dim);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.25rem 0.7rem;
+    text-decoration: none;
+    transition: border-color var(--transition), color var(--transition);
+  }
+  .pathway-link:hover {
+    border-color: var(--accent-light);
+    color: var(--accent);
+  }
+  .pathway-link--before::before { content: '← '; }
+  .pathway-link--after::after  { content: ' →'; }
 
   /* Tracker */
   .tracker {

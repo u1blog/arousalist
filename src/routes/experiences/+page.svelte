@@ -3,7 +3,7 @@
   import { goto } from '$app/navigation';
   import { browser } from '$app/environment';
   import { progress, wishlist } from '$lib/stores.js';
-  import { EXPERIENCES, ALL_TAGS } from '$lib/data.js';
+  import { EXPERIENCES, EXPERIENCES_ORDERED, ALL_TAGS } from '$lib/data.js';
   import ExperienceCard from '$lib/components/ExperienceCard.svelte';
 
   let tierFilter   = $state(browser ? ($page.url.searchParams.get('tier')   ?? 'all') : 'all');
@@ -24,7 +24,7 @@
 
   let filtered = $derived.by(() => {
     const q = search.trim().toLowerCase();
-    return EXPERIENCES.filter(exp => {
+    return EXPERIENCES_ORDERED.filter(exp => {
       const d = $progress[exp.id] ?? {};
 
       if (tierFilter !== 'all' && exp.tier !== tierFilter) return false;

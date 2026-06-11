@@ -343,3 +343,84 @@ const _EXPERIENCES_RAW = [
 export const EXPERIENCES = [..._EXPERIENCES_RAW].sort((a, b) =>
   a.title.localeCompare(b.title)
 );
+
+// Forward edges: id → ids it naturally leads to.
+// Reverse (prerequisites) is computed in the load function.
+export const LEADS_TO = {
+  // Anal exploration
+  'external-anal-massage':        ['internal-anal-solo'],
+  'internal-anal-solo':           ['beginner-butt-plug-solo', 'prostate-massage'],
+  'beginner-butt-plug-solo':      ['beginner-butt-plug-partner', 'anal-stretching'],
+  'anal-stretching':              ['anal-during-other-activity'],
+
+  // Orgasm control
+  'edging':                       ['teasing-and-denial'],
+  'teasing-and-denial':           ['orgasm-control'],
+  'orgasm-control':               ['orgasm-on-command', 'ruined-orgasm'],
+
+  // Female anatomy
+  'vulva-self-exploration':       ['clitoral-range'],
+  'clitoral-range':               ['g-spot-exploration'],
+  'g-spot-exploration':           ['cervical-stimulation'],
+
+  // CBT / male anatomy
+  'cock-ball-self-exploration':   ['cbt-light-solo', 'cock-ball-binding-light'],
+  'cbt-light-solo':               ['partner-cbt-light'],
+
+  // Recording / exhibitionism
+  'being-recorded':               ['watching-yourself-back'],
+  'being-watched':                ['exhibitionism'],
+  'sharing-photos-partner':       ['sharing-photos-anonymous'],
+  'anonymous-live-streaming':     ['identifiable-live-streaming'],
+
+  // Group sex
+  'threesome':                    ['group-sex'],
+  'group-sex':                    ['sex-parties-clubs'],
+
+  // Power exchange
+  'power-dynamics':               ['collars', 'restraint'],
+  'restraint':                    ['consensual-non-consent-light'],
+  'consensual-non-consent-light': ['somnophilia-consensual'],
+
+  // Oral
+  'oral-fixation':                ['deep-throat'],
+  'deep-throat':                  ['swallowing'],
+};
+
+// Topological sort: prerequisites before dependents, alphabetical tiebreaker.
+function topoSort(experiences, leadsTo) {
+  const map = Object.fromEntries(experiences.map(e => [e.id, e]));
+  const inDeg = Object.fromEntries(experiences.map(e => [e.id, 0]));
+  const adj = {};
+
+  for (const [from, tos] of Object.entries(leadsTo)) {
+    if (!(from in inDeg)) continue;
+    for (const to of tos) {
+      if (!(to in inDeg)) continue;
+      (adj[from] ??= []).push(to);
+      inDeg[to]++;
+    }
+  }
+
+  const queue = experiences
+    .filter(e => inDeg[e.id] === 0)
+    .sort((a, b) => a.title.localeCompare(b.title))
+    .map(e => e.id);
+
+  const result = [];
+  while (queue.length) {
+    const id = queue.shift();
+    result.push(map[id]);
+    for (const to of (adj[id] ?? [])) {
+      if (--inDeg[to] === 0) {
+        const title = map[to].title;
+        const idx = queue.findIndex(q => map[q].title.localeCompare(title) > 0);
+        queue.splice(idx === -1 ? queue.length : idx, 0, to);
+      }
+    }
+  }
+
+  return result;
+}
+
+export const EXPERIENCES_ORDERED = topoSort(EXPERIENCES, LEADS_TO);

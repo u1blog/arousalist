@@ -1,6 +1,6 @@
 <script>
   import { base } from '$app/paths';
-  import { EXPERIENCES } from '$lib/data.js';
+  import { EXPERIENCES_ORDERED } from '$lib/data.js';
   import ExperienceCard from '$lib/components/ExperienceCard.svelte';
   import { guidedPrefs } from '$lib/stores.js';
 
@@ -32,15 +32,13 @@
   let suggestions = $derived.by(() => {
     if (!context || !anatomy) return [];
     const tiers = context === 'solo' ? SOLO_TIERS : PARTNER_TIERS;
-    return EXPERIENCES
-      .filter(exp => {
-        if (!tiers.has(exp.tier)) return false;
-        const tags = exp.tags ?? [];
-        if (anatomy === 'penis' && tags.includes('female anatomy')) return false;
-        if (anatomy === 'vulva' && tags.includes('male anatomy')) return false;
-        return true;
-      })
-      .sort((a, b) => a.title.localeCompare(b.title));
+    return EXPERIENCES_ORDERED.filter(exp => {
+      if (!tiers.has(exp.tier)) return false;
+      const tags = exp.tags ?? [];
+      if (anatomy === 'penis' && tags.includes('female anatomy')) return false;
+      if (anatomy === 'vulva' && tags.includes('male anatomy')) return false;
+      return true;
+    });
   });
 
   const CONTEXT_LABELS = {
