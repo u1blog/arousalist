@@ -1,7 +1,7 @@
 {
   "id": "sex-parties-clubs",
   "title": "Sex Parties and Clubs",
-  "tier": "partner-only",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "Attending a consensual adult venue changes the context for what intimacy means. The effect of ambient sexuality — of being in a space where it is openly present and normalised — is worth examining on its own, before any direct participation.",
   "ratingTypes": [
@@ -12,7 +12,12 @@
   "safetyNote": "Reputable venues have clear codes of conduct and staff to enforce them. Find out the rules before attending. Consent from each person for each specific contact applies here as anywhere — presence at the venue is not general permission.",
   "instructions": [
     {
-      "type": "single",
+      "type": "solo",
+      "label": "Solo",
+      "content": "Attend without a partner. The significant difference from attending as a couple is that you're not co-managing a shared experience — you can stay or leave, observe or engage, entirely on your own terms without also tracking someone else's response. Notice what the ambient sexuality produces when you're not simultaneously processing how another person is experiencing it. Notice also how you navigate a social space organised around sexuality when you're the only reference point for yourself. Commit to observation rather than participation on a first visit — understanding the environment is its own useful piece of information."
+    },
+    {
+      "type": "partner",
       "label": "With a partner",
       "content": "Agree before attending that you're going to observe rather than participate on the first visit — not as a firm limit, but as a way to understand the environment before making choices in it. Notice what the context alone produces: the effect of being in a space where sexuality is ambient and visible, how your body and attention respond to it, and whether the normalisation reduces or amplifies the charge. Notice also how you relate to your partner in this context compared to ordinary ones. After the visit, compare notes before deciding whether and how to engage on a future visit."
     }

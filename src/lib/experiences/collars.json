@@ -1,7 +1,7 @@
 {
   "id": "collars",
   "title": "Collars",
-  "tier": "partner-only",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "The collar carries one of the most concentrated symbolic loads of any object in this space — and that cultural weight does work before anything else happens.",
   "ratingTypes": [
@@ -12,7 +12,12 @@
   "safetyNote": "Nothing tight around the neck. The collar should sit loosely — the point is the gesture and symbolic weight, not any pressure.",
   "instructions": [
     {
-      "type": "single",
+      "type": "solo",
+      "label": "Solo",
+      "content": "Place the collar or band on yourself and wear it for a set period — fifteen to thirty minutes. The gesture of placing it yourself is different from having it placed by someone else; so is the absence of anyone watching it or responding to it. Notice what the physical presence of the object produces on its own: whether the symbolic weight it carries is self-sufficient, or whether it depends on the act of being placed by and witnessed by another person. The answer tells you something specific about whether your interest is in the object itself, the dynamic, or both."
+    },
+    {
+      "type": "partner",
       "label": "With a partner",
       "content": "One partner places the collar or fabric band on the other — not tightly, just present. The receiver wears it for an agreed period (fifteen to thirty minutes). The giver doesn't ignore it: they touch it occasionally, are aware of it, let their attention acknowledge it. The receiver's job is to notice what wearing it produces — the physical weight of the object, the gesture of having it placed, the symbolic dimension, or none of these. When the time is up, the giver removes it. Then switch, if both want to — this is one of the experiences where one side may be enough, and that preference is its own information."
     }

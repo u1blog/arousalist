@@ -1,7 +1,7 @@
 {
   "id": "group-sex",
   "title": "Group Sex",
-  "tier": "partner-only",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "More than three people changes the arithmetic of attention in a specific way: individual focus becomes structurally impossible, anonymity within the group becomes possible, and the quality of abundance — multiple bodies, multiple responses — is its own distinct experience.",
   "ratingTypes": [
@@ -12,7 +12,12 @@
   "safetyNote": "Consent to each new contact should be confirmed — presence in the group is not general permission. Have a signal with your partner that means you want to stop or leave.",
   "instructions": [
     {
-      "type": "single",
+      "type": "solo",
+      "label": "As a solo participant",
+      "content": "Go in as a single person joining an existing arrangement rather than arriving as part of a unit. Your structural position is different: you're a single node in a network, not one half of a couple managing a shared experience. Notice how you navigate contact and choices without a partner's presence as a reference point, and what the absence of that shared anchor changes about how you move through the encounter. Notice also what the scale itself produces — whether the number of people changes how you make choices, and whether the abundance or the ambient quality of the group context carries its own charge independent of individual contact."
+    },
+    {
+      "type": "partner",
       "label": "With a partner",
       "content": "Go in with your partner and with the question genuinely open rather than a predetermined expectation. Notice what a group context produces differently from one-on-one or three-person encounters: whether the multiplicity of options changes how you make choices, whether the reduced ability to focus fully on any one person changes the quality of each contact, and whether the ambient sexuality of multiple people in shared space produces something independent of direct contact. Debrief with your partner afterward as specifically as possible — what did each experience, and what did the scale of it produce that smaller arrangements hadn't?"
     }

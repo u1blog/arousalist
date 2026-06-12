@@ -1,7 +1,7 @@
 {
   "id": "threesome",
   "title": "Threesome",
-  "tier": "partner-only",
+  "tier": "solo-or-partnered",
   "category": "dynamic",
   "description": "Adding a third person changes the arithmetic of intimacy in ways that are hard to anticipate: attention divides, comparison becomes possible, jealousy and arousal often arrive simultaneously, and the dynamic between the original couple changes in ways that persist past the experience.",
   "ratingTypes": [
@@ -12,7 +12,12 @@
   "safetyNote": "Agree on the specific shape of the encounter before it begins — who engages with whom, in what ways, with what limits. Agree on a word that ends the experience immediately for any person, no explanation required. Plan a debrief with your partner afterward, ideally the same day.",
   "instructions": [
     {
-      "type": "single",
+      "type": "solo",
+      "label": "As the third",
+      "content": "Enter as the invited third into an established couple's or pair's arrangement. Your structural position is distinct from being one of the original two: you're not simultaneously managing an existing relationship while engaging with someone new. Agree on the shape of the encounter in advance — what's been agreed, with whom, in what ways — so that you're not navigating terms in real time. Once you're in it, notice what your particular role produces: what it's like to be the person whose presence changes the dynamic for two others, and whether that position generates something you didn't anticipate. The debrief is your own afterward: what did the experience tell you about how you respond to this specific role?"
+    },
+    {
+      "type": "partner",
       "label": "With a partner (and a third)",
       "content": "Do most of the structural conversation before the encounter — the clearer everyone is about what's been agreed, the more likely the experience can be what it is rather than something people are negotiating in real time. Once you're in it, pay attention to what actually happens in your attention: whether it's drawn toward the new person or toward your partner, whether comparison arrives, whether jealousy and arousal coexist or take turns. Afterward, debrief with your partner separately and without rushing: what did each of you actually experience — and what did the real version tell you that the imagined version couldn't?"
     }

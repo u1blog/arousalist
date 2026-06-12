@@ -424,3 +424,124 @@ function topoSort(experiences, leadsTo) {
 }
 
 export const EXPERIENCES_ORDERED = topoSort(EXPERIENCES, LEADS_TO);
+
+export const JOURNEYS = [
+  {
+    id: 'anal-exploration',
+    title: 'Anal Exploration',
+    description: 'A sequential path from external attention to fuller internal experience. Each step makes the next easier.',
+    anatomyTag: null,
+    steps: ['external-anal-massage', 'internal-anal-solo', 'beginner-butt-plug-solo', 'beginner-butt-plug-partner', 'anal-stretching', 'anal-during-other-activity'],
+  },
+  {
+    id: 'orgasm-control',
+    title: 'Orgasm Control',
+    description: 'From understanding your own arousal arc to surrendering control of it entirely.',
+    anatomyTag: null,
+    steps: ['edging', 'teasing-and-denial', 'orgasm-control', 'orgasm-on-command', 'ruined-orgasm'],
+  },
+  {
+    id: 'female-anatomy',
+    title: 'Female Anatomy',
+    description: 'Building an accurate map of vulvar and internal sensation — from neutral attention to fuller experience.',
+    anatomyTag: 'female anatomy',
+    steps: ['vulva-self-exploration', 'clitoral-range', 'g-spot-exploration', 'cervical-stimulation'],
+  },
+  {
+    id: 'male-anatomy',
+    title: 'Male Anatomy & Sensation',
+    description: 'Systematic exploration from neutral attention through deliberate, intense sensation.',
+    anatomyTag: 'male anatomy',
+    steps: ['cock-ball-self-exploration', 'cbt-light-solo', 'cock-ball-binding-light', 'partner-cbt-light'],
+  },
+  {
+    id: 'power-exchange',
+    title: 'Power Exchange',
+    description: 'From simple instruction and compliance to more structured and committed dynamics.',
+    anatomyTag: null,
+    steps: ['power-dynamics', 'collars', 'restraint', 'consensual-non-consent-light', 'somnophilia-consensual'],
+  },
+  {
+    id: 'exhibitionism',
+    title: 'Exhibitionism & Exposure',
+    description: "Being seen — a gradual progression from a partner's gaze to wider, more permanent visibility.",
+    anatomyTag: null,
+    steps: ['being-watched', 'being-recorded', 'sharing-photos-partner', 'sharing-photos-anonymous', 'anonymous-live-streaming', 'identifiable-live-streaming'],
+  },
+  {
+    id: 'group',
+    title: 'Group & Multi-Partner',
+    description: 'From a first threesome to larger social contexts — each step adds more people and more complexity.',
+    anatomyTag: null,
+    steps: ['threesome', 'group-sex', 'swinging', 'sex-parties-clubs'],
+  },
+  {
+    id: 'oral',
+    title: 'Oral',
+    description: 'From the fundamentals of oral attention to deeper technique and cumulative experience.',
+    anatomyTag: null,
+    steps: ['oral-fixation', 'deep-throat', 'swallowing'],
+  },
+];
+
+export const THEMES = [
+  {
+    id: 'sensation',
+    title: 'Sensation & Touch',
+    description: 'Deliberate attention to how the body responds — texture, temperature, pressure, and pleasure.',
+    experienceIds: ['body-sensitivity-mapping', 'massage', 'massage-with-oil', 'silk-and-satin', 'temperature-play', 'texture-sensation-play', 'vibration', 'nipple-play', 'ear-play', 'scalp-massage', 'smell-and-scent', 'sweat', 'skin-writing', 'full-body-skin-contact', 'pressure-and-weight', 'tickling', 'saliva'],
+  },
+  {
+    id: 'intimacy',
+    title: 'Intimacy & Connection',
+    description: 'Slowing down, attending closely, and letting another person in — experiences built on presence.',
+    experienceIds: ['slow-kissing', 'eye-contact', 'heartbeat-listening', 'full-body-skin-contact', 'neck-kissing', 'kissing-without-hands', 'showering-together', 'confessing-fantasies', 'talking-about-it', 'silence', 'scheduled-sex', 'long-distance-intimacy', 'aftercare', 'body-worship', 'praise', 'extended-sessions'],
+  },
+  {
+    id: 'power',
+    title: 'Power & Control',
+    description: 'Instruction, compliance, and the deliberate distribution of control between people.',
+    experienceIds: ['power-dynamics', 'restraint', 'collars', 'orgasm-control', 'teasing-and-denial', 'edging', 'begging', 'degradation-light', 'humiliation-light', 'consensual-non-consent-light', 'somnophilia-consensual', 'objectification', 'breath-control-light', 'orgasm-on-command', 'ruined-orgasm', 'degradation-of-space'],
+  },
+  {
+    id: 'exhibitionism',
+    title: 'Exhibitionism & Visibility',
+    description: "Being seen — from a partner's gaze to a wider audience, from private to permanent.",
+    experienceIds: ['being-watched', 'being-recorded', 'watching-yourself-back', 'exhibitionism', 'sharing-photos-partner', 'sharing-photos-anonymous', 'sharing-partner-anonymous', 'anonymous-live-streaming', 'one-on-one-video-strangers', 'identifiable-live-streaming', 'receiving-ratings-comments', 'public-semi-public', 'social-nudity', 'voyeurism', 'mirror', 'nudity-asymmetry'],
+  },
+  {
+    id: 'anatomy',
+    title: 'Body & Anatomy',
+    description: 'Systematic, deliberate exploration of specific parts of the body — building accurate knowledge of your own responses.',
+    experienceIds: ['body-sensitivity-mapping', 'vulva-self-exploration', 'clitoral-range', 'g-spot-exploration', 'cervical-stimulation', 'cock-ball-self-exploration', 'external-anal-massage', 'internal-anal-solo', 'beginner-butt-plug-solo', 'prostate-massage', 'genital-massage', 'anal-stretching', 'shaving', 'body-modification-aesthetics'],
+  },
+  {
+    id: 'roleplay',
+    title: 'Roleplay & Identity',
+    description: 'Trying on different roles, personas, and presentations — from costumes to characters.',
+    experienceIds: ['role-play-basic', 'scripted-scenes', 'uniforms-costumes', 'masks', 'cross-dressing', 'high-heels', 'online-persona', 'age-play-adult', 'dirty-talk', 'nudity-asymmetry', 'body-painting'],
+  },
+  {
+    id: 'group',
+    title: 'Group & Multi-Partner',
+    description: 'Adding people — from a third person to a crowd, from intimate to social.',
+    experienceIds: ['threesome', 'group-sex', 'swinging', 'sex-parties-clubs', 'cuckolding-compersion', 'same-sex-experience', 'mutual-masturbation', 'frotting', 'sharing-partner-anonymous'],
+  },
+  {
+    id: 'edge',
+    title: 'Pain & Edge Play',
+    description: 'Deliberately introducing discomfort or intensity — from a light bite to structured impact.',
+    experienceIds: ['biting', 'scratching', 'pinching', 'hair-pulling', 'impact-play', 'candle-wax', 'cupping', 'cbt-light-solo', 'partner-cbt-light', 'cock-ball-binding-light', 'trampling', 'breath-control-light', 'watersports-light'],
+  },
+];
+
+// Chain entry points + curated entry points for areas not covered by chains
+const _toTargets = new Set(Object.values(LEADS_TO).flat());
+export const STARTING_POINT_IDS = [
+  ...Object.keys(LEADS_TO).filter(id => !_toTargets.has(id)),
+  'body-sensitivity-mapping',
+  'slow-kissing',
+  'confessing-fantasies',
+  'massage',
+  'dirty-talk',
+];
