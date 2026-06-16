@@ -28,6 +28,13 @@
         Browse
       </a>
       <a
+        href="{base}/journal"
+        class="nav-link"
+        class:nav-link--active={$page.url.pathname === base + '/journal'}
+      >
+        Journal
+      </a>
+      <a
         href="{base}/wishlist"
         class="nav-link"
         class:nav-link--active={$page.url.pathname === base + '/wishlist'}
