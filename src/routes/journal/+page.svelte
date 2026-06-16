@@ -109,6 +109,7 @@
         class="dot-map"
         aria-hidden="true"
       >
+        <rect x="0" y="0" width={SVG_W} height={SVG_H} rx="4" class="map-bg" />
         {#each gridDots as dot}
           {@const tried_entry = $progress[dot.id]?.tried}
           {@const best = bestRating(dot.id)}
@@ -212,9 +213,11 @@
     display: block;
   }
 
+  .map-bg { fill: var(--bg-dim); }
+
   .dot { pointer-events: none; }
-  .dot--untried  { fill: var(--border); opacity: 0.25; }
-  .dot--unrated  { fill: var(--text-muted); opacity: 0.5; }
+  .dot--untried  { fill: var(--text-muted); opacity: 0.35; }
+  .dot--unrated  { fill: var(--text-muted); opacity: 0.7; }
   .dot--no       { fill: #d95f3b; }
   .dot--curious  { fill: #d4900a; }
   .dot--yes      { fill: #3d9e70; }
