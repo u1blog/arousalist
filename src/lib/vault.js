@@ -129,7 +129,7 @@ export function clearVaultStorage() {
 }
 
 // Collect all data as plain objects and return an export bundle
-export async function exportBundle() {
+export async function exportBundle(passphrase = null) {
   const plain = {};
   if (isVaultEnabled()) {
     if (!_key) throw new Error('Vault is locked');
@@ -148,6 +148,12 @@ export async function exportBundle() {
     const meta = JSON.parse(localStorage.getItem(META_KEY));
     const blob = await encrypt(JSON.stringify(plain), _key);
     return { version: 1, encrypted: true, salt: meta.salt, data: blob };
+  }
+  if (passphrase) {
+    const salt = generateSalt();
+    const key = await deriveKey(passphrase, salt);
+    const blob = await encrypt(JSON.stringify(plain), key);
+    return { version: 1, encrypted: true, salt, data: blob };
   }
   return { version: 1, encrypted: false, data: plain };
 }

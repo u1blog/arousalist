@@ -87,14 +87,46 @@
   }
 
   // ── Export ───────────────────────────────────────────────────
+  let exportStep = $state('idle'); // 'idle' | 'form'
+  let exportPassword = $state('');
+  let exportConfirm = $state('');
+  let exportPasswordError = $state('');
   let exportLoading = $state(false);
   let exportError = $state('');
 
-  async function doExport() {
+  function startExport() {
+    if ($vaultState.enabled && !$vaultState.locked) {
+      runExport(null);
+    } else {
+      exportStep = 'form';
+      exportPassword = '';
+      exportConfirm = '';
+      exportPasswordError = '';
+      exportError = '';
+    }
+  }
+
+  function cancelExport() {
+    exportStep = 'idle';
+    exportPassword = '';
+    exportConfirm = '';
+    exportPasswordError = '';
+  }
+
+  async function submitExport() {
+    if (exportPassword && exportPassword !== exportConfirm) {
+      exportPasswordError = 'Passwords do not match.';
+      return;
+    }
+    await runExport(exportPassword || null);
+  }
+
+  async function runExport(passphrase) {
     exportLoading = true;
     exportError = '';
+    exportPasswordError = '';
     try {
-      const bundle = await exportBundle();
+      const bundle = await exportBundle(passphrase);
       const blob = new Blob([JSON.stringify(bundle)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
@@ -102,6 +134,7 @@
       a.download = 'arousalist-backup.json';
       a.click();
       URL.revokeObjectURL(url);
+      cancelExport();
     } catch {
       exportError = 'Export failed. Please try again.';
     } finally {
@@ -331,16 +364,51 @@
           Download a backup of your ratings, notes, and wishlist.
           {#if $vaultState.enabled && !$vaultState.locked}
             Encrypted with your password.
-          {:else if !$vaultState.enabled}
-            Your backup will not be encrypted. Set a password under Privacy to protect it.
+          {:else if $vaultState.enabled && $vaultState.locked}
+            Unlock the app to export.
+          {:else}
+            You can optionally encrypt your backup with a password.
           {/if}
         </span>
       </div>
-      <button onclick={doExport} class="btn-reset" disabled={exportLoading}>
-        {exportLoading ? 'Exporting…' : 'Export'}
-      </button>
+      {#if exportStep === 'idle'}
+        <button onclick={startExport} class="btn-reset" disabled={exportLoading || ($vaultState.enabled && $vaultState.locked)}>
+          Export
+        </button>
+      {/if}
     </div>
     {#if exportError}<p class="inline-error">{exportError}</p>{/if}
+
+    {#if exportStep === 'form'}
+      <div class="passphrase-form">
+        <input
+          class="pp-input"
+          type="password"
+          bind:value={exportPassword}
+          placeholder="Password (optional)"
+          autocomplete="new-password"
+          disabled={exportLoading}
+        />
+        {#if exportPassword}
+          <input
+            class="pp-input"
+            type="password"
+            bind:value={exportConfirm}
+            placeholder="Confirm password"
+            autocomplete="new-password"
+            disabled={exportLoading}
+          />
+        {/if}
+        <p class="pp-hint">Leave blank to export without encryption.</p>
+        {#if exportPasswordError}<p class="pp-error">{exportPasswordError}</p>{/if}
+        <div class="pp-actions">
+          <button onclick={cancelExport} class="btn-cancel" disabled={exportLoading}>Cancel</button>
+          <button onclick={submitExport} class="btn-confirm" disabled={exportLoading}>
+            {exportLoading ? 'Exporting…' : 'Export'}
+          </button>
+        </div>
+      </div>
+    {/if}
 
     <div class="setting-row">
       <div class="setting-info">
