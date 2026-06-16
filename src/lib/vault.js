@@ -127,3 +127,67 @@ export function clearVaultStorage() {
   _key = null;
   vaultState.set({ enabled: false, locked: false });
 }
+
+// Collect all data as plain objects and return an export bundle
+export async function exportBundle() {
+  const plain = {};
+  if (isVaultEnabled()) {
+    if (!_key) throw new Error('Vault is locked');
+    const dec = await decryptAll(_key);
+    for (const k of SENSITIVE_KEYS) {
+      plain[k] = dec[k] !== null ? JSON.parse(dec[k]) : null;
+    }
+  } else {
+    for (const k of SENSITIVE_KEYS) {
+      const raw = localStorage.getItem(k);
+      plain[k] = raw !== null ? JSON.parse(raw) : null;
+    }
+  }
+
+  if (isVaultEnabled() && _key) {
+    const meta = JSON.parse(localStorage.getItem(META_KEY));
+    const blob = await encrypt(JSON.stringify(plain), _key);
+    return { version: 1, encrypted: true, salt: meta.salt, data: blob };
+  }
+  return { version: 1, encrypted: false, data: plain };
+}
+
+// Apply a parsed export bundle to storage; returns the plain data object for store reloading
+export async function importBundle(bundle, passphrase) {
+  if (bundle.version !== 1) throw new Error('Unsupported format');
+
+  let plain;
+  if (bundle.encrypted) {
+    if (!passphrase) throw new Error('Password required');
+    const key = await deriveKey(passphrase, bundle.salt);
+    try {
+      plain = JSON.parse(await decrypt(bundle.data, key));
+    } catch {
+      throw new Error('Wrong passphrase');
+    }
+  } else {
+    plain = bundle.data;
+  }
+
+  if (isVaultEnabled() && _key) {
+    for (const k of SENSITIVE_KEYS) {
+      if (plain[k] != null) {
+        await encryptAndSave(k, JSON.stringify(plain[k]), _key);
+      } else {
+        localStorage.removeItem(k + '_enc');
+        localStorage.removeItem(k);
+      }
+    }
+  } else {
+    for (const k of SENSITIVE_KEYS) {
+      if (plain[k] != null) {
+        localStorage.setItem(k, JSON.stringify(plain[k]));
+      } else {
+        localStorage.removeItem(k);
+        localStorage.removeItem(k + '_enc');
+      }
+    }
+  }
+
+  return plain;
+}

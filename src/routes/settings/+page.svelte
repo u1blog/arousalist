@@ -1,6 +1,6 @@
 <script>
   import { theme, progress, wishlist, guidedPrefs } from '$lib/stores.js';
-  import { vaultState, setupVault, removeVault, changePassphrase, clearVaultStorage } from '$lib/vault.js';
+  import { vaultState, setupVault, removeVault, changePassphrase, clearVaultStorage, exportBundle, importBundle } from '$lib/vault.js';
 
   // ── Data reset ───────────────────────────────────────────────
   let showConfirm = $state(false);
@@ -83,6 +83,85 @@
       changeError = 'Something went wrong. Please try again.';
     } finally {
       changeLoading = false;
+    }
+  }
+
+  // ── Export ───────────────────────────────────────────────────
+  let exportLoading = $state(false);
+  let exportError = $state('');
+
+  async function doExport() {
+    exportLoading = true;
+    exportError = '';
+    try {
+      const bundle = await exportBundle();
+      const blob = new Blob([JSON.stringify(bundle)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'arousalist-backup.json';
+      a.click();
+      URL.revokeObjectURL(url);
+    } catch {
+      exportError = 'Export failed. Please try again.';
+    } finally {
+      exportLoading = false;
+    }
+  }
+
+  // ── Import ───────────────────────────────────────────────────
+  let fileInputEl = $state(null);
+  let importStep = $state('idle'); // 'idle' | 'confirm'
+  let importParsed = $state(null);
+  let importNeedsPassword = $state(false);
+  let importPassword = $state('');
+  let importError = $state('');
+  let importLoading = $state(false);
+
+  function handleFileSelect(e) {
+    const file = e.target.files[0];
+    e.target.value = '';
+    if (!file) return;
+    importError = '';
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+      try {
+        const parsed = JSON.parse(ev.target.result);
+        if (parsed.version !== 1 || !('data' in parsed)) {
+          importError = 'Unrecognized file format.';
+          return;
+        }
+        importParsed = parsed;
+        importNeedsPassword = !!parsed.encrypted;
+        importPassword = '';
+        importStep = 'confirm';
+      } catch {
+        importError = 'Could not read file.';
+      }
+    };
+    reader.readAsText(file);
+  }
+
+  function cancelImport() {
+    importStep = 'idle';
+    importParsed = null;
+    importPassword = '';
+    importError = '';
+  }
+
+  async function doImport() {
+    importLoading = true;
+    importError = '';
+    try {
+      const data = await importBundle(importParsed, importNeedsPassword ? importPassword : undefined);
+      progress.load(data['kdg_progress'] ?? {});
+      wishlist.load(new Set(data['kdg_wishlist'] ?? []));
+      guidedPrefs.load(data['kdg_guided'] ?? null);
+      cancelImport();
+    } catch (e) {
+      importError = e.message === 'Wrong passphrase' ? 'Incorrect password.' : 'Could not import data.';
+    } finally {
+      importLoading = false;
     }
   }
 </script>
@@ -247,6 +326,66 @@
 
     <div class="setting-row">
       <div class="setting-info">
+        <span class="setting-label">Export data</span>
+        <span class="setting-desc">
+          Download a backup of your ratings, notes, and wishlist.
+          {#if $vaultState.enabled && !$vaultState.locked}
+            Encrypted with your password.
+          {:else if !$vaultState.enabled}
+            Your backup will not be encrypted. Set a password under Privacy to protect it.
+          {/if}
+        </span>
+      </div>
+      <button onclick={doExport} class="btn-reset" disabled={exportLoading}>
+        {exportLoading ? 'Exporting…' : 'Export'}
+      </button>
+    </div>
+    {#if exportError}<p class="inline-error">{exportError}</p>{/if}
+
+    <div class="setting-row">
+      <div class="setting-info">
+        <span class="setting-label">Import data</span>
+        <span class="setting-desc">Restore from a backup file. Replaces all current data.</span>
+      </div>
+      {#if importStep === 'idle'}
+        <button onclick={() => fileInputEl.click()} class="btn-reset">Import</button>
+      {/if}
+      <input bind:this={fileInputEl} type="file" accept=".json" style="display:none" onchange={handleFileSelect} />
+    </div>
+    {#if importError && importStep === 'idle'}<p class="inline-error">{importError}</p>{/if}
+
+    {#if importStep === 'confirm'}
+      <div class="passphrase-form">
+        {#if importNeedsPassword}
+          <input
+            class="pp-input"
+            type="password"
+            bind:value={importPassword}
+            placeholder="Password used when exporting"
+            autocomplete="current-password"
+            disabled={importLoading}
+          />
+        {/if}
+        {#if !importNeedsPassword}
+          <p class="pp-hint pp-hint--warn">This backup file is not encrypted.</p>
+        {/if}
+        <p class="pp-hint">This will replace all your current ratings, notes, and wishlist. This cannot be undone.</p>
+        {#if importError}<p class="pp-error">{importError}</p>{/if}
+        <div class="pp-actions">
+          <button onclick={cancelImport} class="btn-cancel" disabled={importLoading}>Cancel</button>
+          <button
+            onclick={doImport}
+            class="btn-confirm"
+            disabled={importLoading || (importNeedsPassword && !importPassword)}
+          >
+            {importLoading ? 'Importing…' : 'Replace data'}
+          </button>
+        </div>
+      </div>
+    {/if}
+
+    <div class="setting-row">
+      <div class="setting-info">
         <span class="setting-label">Clear all data</span>
         <span class="setting-desc">Permanently delete all ratings, notes, and progress. This cannot be undone.</span>
       </div>
@@ -375,6 +514,17 @@
     margin-top: 1.5rem;
   }
 
+  .settings-section .setting-row + .setting-row {
+    border-top: 1px solid var(--border);
+  }
+
+  .inline-error {
+    font-size: 0.825rem;
+    color: var(--accent);
+    margin: 0;
+    padding: 0 1.25rem 0.75rem;
+  }
+
   .reset-area {
     display: flex;
     align-items: center;
@@ -438,6 +588,10 @@
     color: var(--text-muted);
     margin: 0;
     line-height: 1.5;
+  }
+
+  .pp-hint--warn {
+    color: var(--accent);
   }
 
   /* ── Shared buttons ───────────────────────────────────── */
